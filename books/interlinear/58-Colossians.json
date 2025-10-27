@@ -1,0 +1,504 @@
+{
+  "name": "Colossians",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Paulus Apostolus Jesu Christi per voluntatem Dei, et Timotheus frater,",
+          "english": "Paul, sent on a mission by the will of God, along with our brother Timothy,"
+        },
+        {
+          "number": 2,
+          "latin": "sanctis et fidelibus fratribus in Christo qui sunt Colossis: gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.",
+          "english": "to the faithful brothers and sisters in Christ living in Colossae. May grace and peace come to you from God our Father and from our Lord Jesus Christ."
+        },
+        {
+          "number": 3,
+          "latin": "Gratias agimus Deo et Patri Domini nostri Jesu Christi, semper pro vobis orantes,",
+          "english": "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,"
+        },
+        {
+          "number": 4,
+          "latin": "audientes fidem vestram in Christo Jesu, et dilectionem quam habetis in omnibus sanctis,",
+          "english": "because we have heard of your faith in Christ Jesus and your love for all the saints,"
+        },
+        {
+          "number": 5,
+          "latin": "propter spem, quae reposita est vobis in caelis: de qua audistis in verbo veritatis Evangelii,",
+          "english": "which is founded on the hope you have in the universe. You learned about this hope through the message of the Gospel, which is the truth,"
+        },
+        {
+          "number": 6,
+          "latin": "quod pervenit ad vos, sicut et in universo mundo est, et fructificat et crescit sicut in vobis, ex die qua audistis et cognovistis gratiam Dei in veritate:",
+          "english": "the same Gospel that has come to you and is bearing fruit and growing throughout the whole world, just as it has been doing among you since the day you heard it and understood God’s grace in all its truth."
+        },
+        {
+          "number": 7,
+          "latin": "sicut didicistis ab Epaphra carissimo conservo nostro, qui est fidelis minister Christi pro vobis,",
+          "english": "You learned this from Epaphras, our dear fellow servant, who is a faithful minister of Christ on your behalf,"
+        },
+        {
+          "number": 8,
+          "latin": "qui et indicavit nobis vestram dilectionem in spiritu.",
+          "english": "and who also told us about your love in the Spirit."
+        },
+        {
+          "number": 9,
+          "latin": "Ideo et nos ex die qua audivimus, non cessamus pro vobis orantes, et petentes ut impleamini cognitione voluntatis ejus in omni sapientia et intellectu spiritali:",
+          "english": "For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God that you may be filled with the knowledge of His will through all the wisdom and understanding that the Spirit gives,"
+        },
+        {
+          "number": 10,
+          "latin": "ut ambuletis digne Deo per omnia placentes: in omni opere bono fructificantes, et crescentes in scientia Dei:",
+          "english": "so that you may live a life worthy of the Lord and please Him in every way, bearing fruit in every good work, growing in the knowledge of God,"
+        },
+        {
+          "number": 11,
+          "latin": "in omni virtute confortati secundum potentiam gloriae ejus, in omni patientia et longanimitate cum gaudio:",
+          "english": "being strengthened with all power according to His glorious might so that you may have great endurance and patience,"
+        },
+        {
+          "number": 12,
+          "latin": "gratias agentes Deo Patri, qui dignos nos fecit in partem sortis sanctorum in lumine:",
+          "english": "and giving joyful thanks to the Father, who has qualified you to share in the inheritance of the saints in the light."
+        },
+        {
+          "number": 13,
+          "latin": "qui eripuit nos de potestate tenebrarum, et transtulit in regnum filii dilectionis suae:",
+          "english": "For He has rescued us from the dominion of darkness and brought us into the kingdom of the Son He loves,"
+        },
+        {
+          "number": 14,
+          "latin": "in quo habemus redemptionem per sanguinem ejus, remissionem peccatorum:",
+          "english": "in whom we have redemption, the forgiveness of sins."
+        },
+        {
+          "number": 15,
+          "latin": "qui est imago Dei invisibilis, primogenitus omnis creaturae:",
+          "english": "The Son is the image of the invisible God, the firstborn over all creation,"
+        },
+        {
+          "number": 16,
+          "latin": "quia in ipso condita sunt universa in caelis et in terra, visibilia et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates: omnia per ipsum et in ipso creata sunt:",
+          "english": "For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him."
+        },
+        {
+          "number": 17,
+          "latin": "et ipse est ante omnes, et omnia in ipso constant:",
+          "english": "He is before all things, and in him all things hold together."
+        },
+        {
+          "number": 18,
+          "latin": "et ipse est caput corporis, Ecclesiae, qui est principium, primogenitus ex mortuis: ut sit in omnibus ipse primatum tenens:",
+          "english": "And he is the head of the body, the Church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy."
+        },
+        {
+          "number": 19,
+          "latin": "quia in ipso placuit omnem plenitudinem inhabitare:",
+          "english": "For God was pleased to have all his fullness dwell in him,"
+        },
+        {
+          "number": 20,
+          "latin": "et per eum reconciliare omnia in ipsum, pacificans per sanguinem crucis ejus, sive quae in terris, sive quae in caelis sunt.",
+          "english": "and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross."
+        },
+        {
+          "number": 21,
+          "latin": "Et vos cum essetis mortui peccatis, et praeputiio carnis vestrae, vivificavit vos cum illo: donans vobis omnia peccata,",
+          "english": "Once you were alienated from God and were enemies in your minds because of your evil behavior."
+        },
+        {
+          "number": 22,
+          "latin": "delens quod adversus nos erat chirographum decreti, quod erat contrarium nobis: et ipsum tulit de medio, affigens illud cruci:",
+          "english": "But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation."
+        },
+        {
+          "number": 23,
+          "latin": "exspolians principatus et potestates, traduxit confidenter in publicum, triumphans illos in semetipso.",
+          "english": "If you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant."
+        },
+        {
+          "number": 24,
+          "latin": "Qui nunc gaudeo in passionibus pro vobis, et adimpleo ea quae restant passionum Christi in carne mea, pro corpore ejus, quod est Ecclesia:",
+          "english": "Now I rejoice in what I am suffering for you, and I fill up in my flesh what is still lacking in regard to Christ’s afflictions, for the sake of his body, which is the church,"
+        },
+        {
+          "number": 25,
+          "latin": "cujus factus sum minister secundum dispensationem Dei, quae data est mihi in vobis: ut impleam verbum Dei:",
+          "english": "I have become its servant, according to God’s commission that was given to me for you, to present to you the word of God in its fullness."
+        },
+        {
+          "number": 26,
+          "latin": "mysterium quod absconditum fuit a saeculis et generationibus, nunc autem manifestatum est sanctis ejus:",
+          "english": "This mystery, which has been kept hidden for ages and generations, but is now disclosed to the Lord’s holy people."
+        },
+        {
+          "number": 27,
+          "latin": "quibus voluit Deus notas facere divitias gloriae sacramenti hujus in gentibus: quod est Christus in vobis spes gloriae:",
+          "english": "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory."
+        },
+        {
+          "number": 28,
+          "latin": "quem nos annuntiamus, admonitorantes omnem hominem, et docentes omnem hominem in omni sapientia, ut exhibeamus perfectum omnem hominem in Christo Jesu.",
+          "english": "We proclaim him, warning and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ."
+        },
+        {
+          "number": 29,
+          "latin": "In quo et laboro, certando secundum operationem ejus, quam operatur in me in virtute.",
+          "english": "To this end I strenuously contend with all the energy Christ so powerfully works in me."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Volens enim vos scire qualem sollicitudinem habeam pro vobis, et pro his qui sunt Laodiciae, et quicumque non viderunt faciem meam in carne:",
+          "english": "I want you to know how much I struggle for you, for those in Laodicea, and for everyone who has never seen my face in person."
+        },
+        {
+          "number": 2,
+          "latin": "ut consolentur corda eorum, instructi in caritate, et in omnes divitias plenitudinis intellectus, in agnitionem mysterii Dei Patris, et Christi:",
+          "english": "I want them to be encouraged and united by love, enriched with a full understanding, and with the knowledge of the mystery of God the Father, and of Christ."
+        },
+        {
+          "number": 3,
+          "latin": "in quo sunt omnes thesauri sapientiae et scientiae, absconditi.",
+          "english": "In Christ are hidden all the treasures of wisdom and knowledge."
+        },
+        {
+          "number": 4,
+          "latin": "Hoc autem dico, ut nemo vos decipiat in persuasionis lenitatem.",
+          "english": "I say this so that no one will deceive you with smooth words."
+        },
+        {
+          "number": 5,
+          "latin": "Nam etsi corpore absens sum, sed spiritu vobiscum sum, gaudens et videns ordinem vestrum, et firmamentum ejus, quae in Christo est, fidei vestrae.",
+          "english": "Though I am absent in body, I am with you in spirit. I am glad to see your order and the strength of your faith in Christ."
+        },
+        {
+          "number": 6,
+          "latin": "Sicut ergo accepistis Jesum Christum Dominum, in ipso ambulate:",
+          "english": "Therefore, since you have received Christ Jesus the Lord, walk in him."
+        },
+        {
+          "number": 7,
+          "latin": "radicati, et superædificati in ipso, et confirmati in fide, sicut et didicistis, abundantes in illo in gratiarum actione.",
+          "english": "Be rooted and built up in him, and strengthened in the faith as you were taught, overflowing with thankfulness."
+        },
+        {
+          "number": 8,
+          "latin": "Videte ne quis vos decipiat per philosophiam, et inanem fallaciam, secundum traditionem hominum, secundum elementa mundi, et non secundum Christum:",
+          "english": "Be careful that no one deceives you with philosophy, empty deceit, the tradition of men, the elemental spirits of the world, and not according to Christ."
+        },
+        {
+          "number": 9,
+          "latin": "quia in ipso inhabitat omnis plenitudo divinitatis corporaliter:",
+          "english": "For in Christ lives all the fullness of the Godhead bodily."
+        },
+        {
+          "number": 10,
+          "latin": "et estis in ipso repleti, qui est caput omnis principatus et potestatis:",
+          "english": "And you have been filled in him, who is the head of all principality and power."
+        },
+        {
+          "number": 11,
+          "latin": "in quo et circumcisi estis circumcisione non manu facta, in exspoliatione corporis peccatorum carnis, in circumcisione Christi:",
+          "english": "In him you were also circumcised, but not with a circumcision done by human hands; you were set free from the sinful nature of the body, by the circumcision of Christ."
+        },
+        {
+          "number": 12,
+          "latin": "sepulti ei in baptismate, in quo et resurrexistis per fidem operationis Dei, qui suscitavit illum a mortuis.",
+          "english": "You were buried with him in baptism, in which you were also raised with him through faith in the power of God, who raised him from the dead."
+        },
+        {
+          "number": 13,
+          "latin": "Et vos, cum mortui essetis in delictis, et præputio carnis vestræ, convivificavit vos cum illo, donans vobis omnia delicta:",
+          "english": "And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses,"
+        },
+        {
+          "number": 14,
+          "latin": "delens quod adversus nos erat chirographum decreti, quod erat contrarium nobis: et ipsum tulit de medio, affigens illud cruci:",
+          "english": "blotting out the written code of the decrees that was against us, which was contrary to us; he took it out of the way, nailing it to the cross."
+        },
+        {
+          "number": 15,
+          "latin": "exspolians principatus et potestates, traduxit confidenter in publicum, triumphans illos in semetipso.",
+          "english": "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him."
+        },
+        {
+          "number": 16,
+          "latin": "Nemo itaque vos judicet in cibo, aut in potu, aut in parte diei festi, aut in sabbatis:",
+          "english": "Therefore, do not let anyone judge you in respect to food or drink or in respect to a festival, a new moon, or a Sabbath."
+        },
+        {
+          "number": 17,
+          "latin": "quæ sunt umbra futurorum: corpus autem Christi.",
+          "english": "These are a shadow of the things to come, but the substance belongs to Christ."
+        },
+        {
+          "number": 18,
+          "latin": "Nemo vos seducat, volens in humilitate, et religione angelorum, quæ non vidit, ambulans, frustra inflatus sensu carnis suæ,",
+          "english": "Do not let anyone defraud you of your prize by insisting on self-abasement and the worship of angels, dwelling on things that he has not seen, puffed up without cause by his sensuous mind,"
+        },
+        {
+          "number": 19,
+          "latin": "et non tenens caput, ex quo totum corpus per nexus, et conjunctiones subministratum, et compactum crescit in augmentum Dei.",
+          "english": "and not holding fast to the head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God."
+        },
+        {
+          "number": 20,
+          "latin": "Si ergo mortui estis cum Christo ab elementis hujus mundi: quid adhuc tamquam viventes in mundo, decreta facitis?",
+          "english": "If with Christ you died to the elemental spirits of the world, why, as though you were still living in the world, do you submit to regulations—"
+        },
+        {
+          "number": 21,
+          "latin": "Noli tangere, gustare, ne contigeris:",
+          "english": "“Do not handle,” “Do not taste,” “Do not touch”"
+        },
+        {
+          "number": 22,
+          "latin": "(quæ omnia in interitu sunt ipso usu), secundum mandata et doctrinas hominum?",
+          "english": "(which all are destined to perish with use)—according to human precepts and teachings?"
+        },
+        {
+          "number": 23,
+          "latin": "Quæ sunt rationem quidem habentia sapientiæ in super re et religione, et humilitate, et non ad parcendum corpori, sed in satietatem carnis.",
+          "english": "These have indeed an appearance of wisdom in promoting self-imposed piety, humility, and severity to the body, but they are of no value in checking the indulgence of the flesh."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Si ergo resuscitati estis cum Christo, quae sursum sunt quaerite, ubi Christus est sedens ad dexteram Dei:",
+          "english": "Since you are resurrected with Christ, you should seek the things that are above, where Christ is seated at the right hand of God:"
+        },
+        {
+          "number": 2,
+          "latin": "quae sursum sunt sapite, non quae super terram.",
+          "english": "You should focus on the things above, not the things of the earth."
+        },
+        {
+          "number": 3,
+          "latin": "Mortui enim estis: et vita vestra abscondita est cum Christo in Deo.",
+          "english": "For you have died, and your life is hidden with Christ in God."
+        },
+        {
+          "number": 4,
+          "latin": "Cum Christus apparuerit vita vestra, tunc et vos apparebitis cum ipso in gloria.",
+          "english": "When Christ, who is your life, appears, then you also will appear with Him in glory."
+        },
+        {
+          "number": 5,
+          "latin": "Mortificate ergo membra vestra quae sunt super terram: fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quae est simulacrorum servitus:",
+          "english": "Therefore, you must put to death the members of your body that are on the earth: sexual immorality, impurity, lust, evil desire, and greed, which is the worship of idols."
+        },
+        {
+          "number": 6,
+          "latin": "propter quae venit ira Dei in filios diffidentiae.",
+          "english": "Because of these things, the wrath of God is coming upon those who do not believe."
+        },
+        {
+          "number": 7,
+          "latin": "in quibus et vos ambulastis aliquando, cum illis vivebatis.",
+          "english": "In these things, you too once walked, when you lived among them."
+        },
+        {
+          "number": 8,
+          "latin": "Nunc autem deponite et vos omnia: iram, indignationem, malitiam, blasphemiam, turpem sermonem de ore vestro.",
+          "english": "But now, you must rid yourselves of all these things: anger, wrath, malice, blasphemy, and foul language from your mouth."
+        },
+        {
+          "number": 9,
+          "latin": "Nolite mentiri invicem: expoliantes vos veterem hominem cum actibus suis,",
+          "english": "Do not lie to each other, stripping off the old self with its practices,"
+        },
+        {
+          "number": 10,
+          "latin": "et induentes novum, eum qui renovatur in agnitionem secundum imaginem ejus qui creavit eum:",
+          "english": "and putting on the new self, which is being renewed in knowledge according to the image of its Creator,"
+        },
+        {
+          "number": 11,
+          "latin": "ubi non est gentilis et Judaeus, circumcisio et praeputium, barbarus et Scytha, servus et liber: sed omnia et in omnibus Christus.",
+          "english": "where there is no Gentile or Jew, circumcision or uncircumcision, barbarian or Scythian, slave or free, but Christ is all and in all."
+        },
+        {
+          "number": 12,
+          "latin": "Induite vos ergo, sicut electi Dei, sancti et dilecti, viscera misericordiae, benignitatem, humilitatem, modestiam, patientiam:",
+          "english": "Therefore, as the chosen ones of God, holy and beloved, clothe yourselves with compassion, kindness, humility, gentleness, and patience,"
+        },
+        {
+          "number": 13,
+          "latin": "supportantes invicem, et donantes vobis invicem, si quis adversus alterum habet querelam: sicut et Dominus donavit vobis, ita et vos.",
+          "english": "bearing with one another and forgiving one another, if anyone has a complaint against another; as the Lord has forgiven you, so also you must forgive."
+        },
+        {
+          "number": 14,
+          "latin": "Super omnia autem haec, caritatem habete, quod est vinculum perfectionis.",
+          "english": "Above all these things, have love, which binds everything together in perfect harmony."
+        },
+        {
+          "number": 15,
+          "latin": "Et pax Christi exultet in cordibus vestris, in qua et vocati estis in unum corpus: et grati estote.",
+          "english": "And let the peace of Christ rule in your hearts, to which also you were called in one body; and be thankful."
+        },
+        {
+          "number": 16,
+          "latin": "Verbum Christi habitet in vobis abundanter: in omni sapientia docentes et commonentes vosmetipsos in psalmis, hymnis, et canticis spiritualibus, in gratia cantantes in cordibus vestris Deo.",
+          "english": "Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms, hymns, and spiritual songs, with thankfulness in your hearts to God."
+        },
+        {
+          "number": 17,
+          "latin": "Omne, quodcumque facitis in verbo aut in opere, omnia in nomine Domini Jesu facite, gratias agentes Deo et Patri per ipsum.",
+          "english": "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through Him."
+        },
+        {
+          "number": 18,
+          "latin": "Uxores, subditae estote viris, sicut oportet in Domino.",
+          "english": "Wives, be subject to your husbands, as is fitting in the Lord."
+        },
+        {
+          "number": 19,
+          "latin": "Viri, diligite uxores vestras, et nolite amari esse ad illas.",
+          "english": "Husbands, love your wives and do not be harsh with them."
+        },
+        {
+          "number": 20,
+          "latin": "Filii, obedite parentibus per omnia: hoc enim placitum est in Domino.",
+          "english": "Children, obey your parents in everything, for this is pleasing to the Lord."
+        },
+        {
+          "number": 21,
+          "latin": "Patres, nolite ad iracundiam provocare filios vestros, ut non fiant pusillanimes.",
+          "english": "Fathers, do not provoke your children to anger, so they do not become discouraged."
+        },
+        {
+          "number": 22,
+          "latin": "Servi, obedite per omnia dominis carnalibus, non ad oculum servientes, quasi hominibus placentes, sed in simplicitate cordis, timentes Deum.",
+          "english": "Slaves, obey your earthly masters in everything, not only while they are watching, as people-pleasers, but with sincerity of heart, fearing the Lord."
+        },
+        {
+          "number": 23,
+          "latin": "Quodcumque facitis, ex animo operamini, sicut Domino, et non hominibus:",
+          "english": "Whatever you do, do it with all your heart, as working for the Lord, not for men,"
+        },
+        {
+          "number": 24,
+          "latin": "scientas quod a Domino recipietis retributionem hereditatis. Domino Christo servite.",
+          "english": "knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ."
+        },
+        {
+          "number": 25,
+          "latin": "Qui enim facit injuriam, recipiet id quod inique gessit: et non est personarum acceptio.",
+          "english": "For the wrongdoer will be paid back for his wrongs, and there is no partiality."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Domini, quod justum est et aequum, servis praestate, scientes quod et vos Dominum habetis in caelo.",
+          "english": "Masters, give to your servants what is just and fair, knowing that you also have a Master in the universe."
+        },
+        {
+          "number": 2,
+          "latin": "Orationi instate, vigilantes in ea in gratiarum actione:",
+          "english": "Be persistent in prayer, being watchful in it with thanksgiving."
+        },
+        {
+          "number": 3,
+          "latin": "orantes simul et pro nobis: ut Deus aperiat nobis ostium sermonis ad loquendum mysterium Christi (propter quod etiam vinctus sum),",
+          "english": "Pray also for us, that God may open to us a door for the word, to speak the mystery of Christ (for which also I am bound),"
+        },
+        {
+          "number": 4,
+          "latin": "ut manifestem illud, ita ut oportet me loqui.",
+          "english": "that I may make it manifest, as I ought to speak."
+        },
+        {
+          "number": 5,
+          "latin": "In sapientia ambulate ad eos qui foris sunt: tempus redimentes.",
+          "english": "Walk with wisdom toward those who are outside, redeeming the time."
+        },
+        {
+          "number": 6,
+          "latin": "Sermo vester semper in gratia in sale sit conditus: ut sciatis quomodo oporteat vos unicuique respondere.",
+          "english": "Let your speech always be in grace, seasoned with salt: so that you may know how you ought to answer each person."
+        },
+        {
+          "number": 7,
+          "latin": "Quae circa me sunt, et quae mea sunt, omnia vobis nota faciet Tychicus, frater carissimus, et fidelis minister, et conservus in Domino:",
+          "english": "All that concerns me, and what I do, Tychicus, the most dear brother, and faithful minister, and fellow servant in the Lord, will make known to you:"
+        },
+        {
+          "number": 8,
+          "latin": "quem misi ad vos ad hoc ipsum, ut cognoscatis quae circa nos sunt, et consolatur corda vestra,",
+          "english": "whom I have sent to you for this very thing, that you may know the things concerning us, and that he may comfort your hearts,"
+        },
+        {
+          "number": 9,
+          "latin": "cum Onesimo fratre fideli et carissimo, qui est ex vobis. Omnia quae hic aguntur, nota facient vobis.",
+          "english": "with Onesimus, a faithful and most dear brother, who is one of you. They will make known to you all things that are done here."
+        },
+        {
+          "number": 10,
+          "latin": "Salutat vos Aristarchus concaptivus meus, et Marcus, consobrinus Barnabae, de quo accepistis mandata: si venerit ad vos, suscipite illum:",
+          "english": "Aristarchus, my fellow prisoner, salutes you; and Mark, the cousin of Barnabas, about whom you have received commands: if he comes to you, receive him:"
+        },
+        {
+          "number": 11,
+          "latin": "et Jesus, qui dicitur Justus: qui sunt ex circumcisione. Hi soli sunt cooperatores in regno Dei, qui mihi solatio fuerunt.",
+          "english": "and Jesus, who is called Justus: who are of the circumcision. These alone are fellow workers for the kingdom of God, who have been a comfort to me."
+        },
+        {
+          "number": 12,
+          "latin": "Salutat vos Epaphras, qui ex vobis est, servus Christi Jesu, semper sollicitus pro vobis in orationibus, ut stetis perfecti et pleni in omni voluntate Dei.",
+          "english": "Epaphras, who is one of you, the servant of Christ Jesus, salutes you, always solicitous for you in prayers, that you may stand perfect and full in all the will of God."
+        },
+        {
+          "number": 13,
+          "latin": "Testimonium enim illi perhibeo, quod habet multum laborem pro vobis, et pro his qui sunt Laodiciae, et pro his qui sunt Hierapoli.",
+          "english": "For I bear him witness that he has much labor for you, and for those who are at Laodicea, and for those who are at Hierapolis."
+        },
+        {
+          "number": 14,
+          "latin": "Salutat vos Lucas medicus carissimus, et Demas.",
+          "english": "Luke, the most dear physician, salutes you, and Demas."
+        },
+        {
+          "number": 15,
+          "latin": "Salutate fratres, qui sunt Laodiciae, et Nympham, et quae in domo ejus est ecclesiam.",
+          "english": "Salute the brothers who are at Laodicea, and Nymphas, and the church that is in his house."
+        },
+        {
+          "number": 16,
+          "latin": "Et cum lecta fuerit vobis epistola haec, facite ut et in Laodicensium ecclesia legatur: et eam, quae est Laodiciae, vos quoque legatis.",
+          "english": "And when this letter has been read among you, cause that it be read also in the church of the Laodiceans: and that which is [sent] from Laodicea, read that also among yourselves."
+        },
+        {
+          "number": 17,
+          "latin": "Et dicite Archippo: Vide ministerium, quod accepisti in Domino, ut illud impleas.",
+          "english": "And say to Archippus, “Take heed to the ministry which you have received in the Lord, that you fulfill it.”"
+        },
+        {
+          "number": 18,
+          "latin": "Salutatio mea manu Pauli. Memores estote vinculorum meorum. Gratia vobiscum. Amen.",
+          "english": "The greeting by the hand of Paul. Be mindful of my bonds. Grace be with you. Amen."
+        }
+      ]
+    }
+  ]
+}

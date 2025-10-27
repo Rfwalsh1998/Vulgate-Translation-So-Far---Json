@@ -1,0 +1,805 @@
+{
+  "name": "Lamentations",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quomodo sedet sola civitas plena populo! Facta est quasi vidua domina gentium; princeps provinciarum facta est sub tributo.",
+          "english": "How lonely she now sits, the city that was once full of so many people!\nShe has become like a widow, she who was the sovereign lady over many nations.\nShe who ruled among the provinces is now forced to pay tribute."
+        },
+        {
+          "number": 2,
+          "latin": "Plorans ploravit in nocte, et lacrimae ejus in maxillis ejus: non est qui consoletur eam ex omnibus caris ejus: omnes amici ejus spreverunt eam, et facti sunt ei inimici.",
+          "english": "She weeps bitterly throughout the night, and her tears stream down her cheeks.\nAmong all those who once loved her, there is no one to comfort her.\nAll her former friends have scorned her and have now become her enemies."
+        },
+        {
+          "number": 3,
+          "latin": "Migravit Judas propter afflictionem, et multitudinem servitutis; habitavit inter gentes, nec invenit requiem: omnes persecutores ejus apprehenderunt eam inter angustias.",
+          "english": "Judah has been forced to go into exile because of her great affliction and her overwhelming servitude.\nShe now lives among foreign nations, but she finds no rest there.\nAll of her persecutors have overtaken her in these times of great distress."
+        },
+        {
+          "number": 4,
+          "latin": "Viae Sion lugent, eo quod non sint qui veniant ad solemnitatem: omnes portae ejus destructae, sacerdotes ejus gementes: virgines ejus squalidae, et ipsa oppressa amaritudine.",
+          "english": "The roads leading to Sion are in mourning because there is no one coming to her solemn feasts anymore.\nAll of her city gates are destroyed, and her priests are groaning.\nHer young women are in squalor, and Sion herself is oppressed with utter bitterness."
+        },
+        {
+          "number": 5,
+          "latin": "Facti sunt hostes ejus in capite, et inimici ejus locupletati sunt: quia Dominus locutus est super eam propter multitudinem iniquitatum ejus: parvuli ejus ducti sunt in captivitatem ante faciem tribulantis.",
+          "english": "Her enemies have become her masters, and her foes have become rich.\nThis has happened because the Lord Himself has brought judgment upon her due to the multitude of her sins.\nHer little children have been led away into captivity before the very eyes of their tormentors."
+        },
+        {
+          "number": 6,
+          "latin": "Et egressus est a filia Sion omnis decor ejus: facti sunt principes ejus velut arietes non invenientes pascua: et abierunt absque fortitudine ante faciem subsequentis.",
+          "english": "From the Daughter of Sion, all her beauty has now departed.\nHer princes have become like rams who cannot find any pasture.\nThey have gone away, utterly without strength, before the face of their pursuers."
+        },
+        {
+          "number": 7,
+          "latin": "Recordata est Jerusalem dierum afflictionis suae, et praevaricationis, omnium desiderabilium suorum quae habuit a diebus antiquis, cum caderet populus ejus in manu hostili, et non esset auxiliator: viderunt eam hostes, et deriserunt sabbata ejus.",
+          "english": "Jerusalem now remembers the days of her affliction and her transgressions against God.\nShe remembers all the precious things she had from ancient times.\nShe remembers when her people fell into the hand of the enemy, and there was no one to help them.\nHer enemies saw her and openly mocked her Sabbaths, which she could no longer keep."
+        },
+        {
+          "number": 8,
+          "latin": "Peccatum peccavit Jerusalem, propterea facta est instabilis: omnes qui glorificabant eam spreverunt illam, quia viderunt ignominiam ejus: ipsa gemens, et conversa retrorsum.",
+          "english": "Jerusalem has sinned terribly, which is why she has become unstable and wandering.\nAll those who used to glorify her now scorn her, because they have seen her disgrace.\nShe herself is groaning and has turned away in shame."
+        },
+        {
+          "number": 9,
+          "latin": "Sordes ejus in pedibus ejus, nec recordata est finis sui: deposita est vehementer, non habens consolatorem: vide Domine afflictionem meam, quoniam erectus est inimicus.",
+          "english": "Her defilement is on her very feet, and she did not remember what her end would be.\nShe has been violently cast down, having no one to comfort her.\nO Lord, look upon my affliction, for the enemy has risen up against me."
+        },
+        {
+          "number": 10,
+          "latin": "Manum suam misit hostis ad omnia desiderabilia ejus: quia vidit gentes ingressas sanctuarium suum, de quibus praeceperas ne intrarent in ecclesiam tuam.",
+          "english": "The enemy has stretched out his hand to seize all of her most precious things.\nFor she has seen the Gentiles enter her sanctuary,\n—those very nations whom You had commanded should never enter into Your holy assembly."
+        },
+        {
+          "number": 11,
+          "latin": "Omnis populus ejus gemens, et quaerens panem: dederunt pretiosa quaeque pro cibo ad refocillandam animam: vide Domine, et considera quoniam facta sum vilis.",
+          "english": "All of her people are now groaning as they search for bread.\nThey have given up all their precious possessions in exchange for food, just to keep themselves alive.\nO Lord, look and consider this, for I have become worthless."
+        },
+        {
+          "number": 12,
+          "latin": "O vos omnes qui transitis per viam, attendite, et videte si est dolor similis dolori meo: quoniam vindemiavit me ut locutus est Dominus in die irae furoris sui.",
+          "english": "O, all you who pass by on this road, pay attention and see if there is any sorrow like my sorrow!\nFor the Lord has afflicted me, as He promised, on the very day of His fierce and burning anger."
+        },
+        {
+          "number": 13,
+          "latin": "De excelso misit ignem in ossibus meis, et erudivit me: expandit rete pedibus meis, subvertit me retrorsum: posuit me desolatam, tota die moerore confectam.",
+          "english": "From His exalted dwelling, God sent fire down into my very bones, and He chastised me.\nHe spread a net for my feet and made me stumble backward.\nHe has made me desolate, utterly consumed with sorrow all the day long."
+        },
+        {
+          "number": 14,
+          "latin": "Vigilavit jugum iniquitatum mearum; in manu ejus convolutae sunt, et impositae collo meo: infirmata est virtus mea: tradidit me Dominus in manu de qua non potero surgere.",
+          "english": "The heavy yoke of my sins has been fastened upon me; they have been intertwined by His hand and placed upon my neck.\nMy strength has completely failed.\nThe Lord has delivered me into a hand from which I will never be able to rise."
+        },
+        {
+          "number": 15,
+          "latin": "Abstulit omnes magnificos meos Dominus de medio mei: vocavit adversum me tempus ut contereret magnanimitate meos: torcular calcavit Dominus virginem filiam Juda.",
+          "english": "The Lord has taken away all my mighty men from among me.\nHe has called for a specific time to come against me, so that He might crush my valiant men.\nThe Lord has trodden the winepress upon the virgin daughter of Judah, crushing her utterly."
+        },
+        {
+          "number": 16,
+          "latin": "Idcirco ego plorans, et oculi mei deducunt aquas: quia longe factus est a me consolator, convertens animam meam: facti sunt filii mei desolati, quoniam invaluit inimicus.",
+          "english": "Therefore, I weep continuously, and my eyes pour out tears.\nFor the Comforter, who could restore my soul, has gone far from me.\nMy children have become desolate because the enemy has utterly prevailed."
+        },
+        {
+          "number": 17,
+          "latin": "Expandit Sion manus suas; non est qui consoletur eam: mandavit Dominus adversum Jacob in circuitu ejus hostes ejus: facta est Jerusalem quasi menstruata inter eos.",
+          "english": "Sion stretches out her hands for help, but there is no one to comfort her.\nThe Lord has commanded her enemies to surround Jacob, so they are all around her.\nJerusalem has become like an unclean woman among them, utterly despised."
+        },
+        {
+          "number": 18,
+          "latin": "Justus est Dominus, quia os ejus ad iracundiam provocavi: audite, obsecro, universi populi, et videte dolorem meum: virgines meae et juvenes mei abierunt in captivitatem.",
+          "english": "The Lord is truly just in His judgment, for I have provoked His divine will to anger.\nListen, I beg you, all peoples, and see my great sorrow!\nMy young women and my young men have been led away into captivity."
+        },
+        {
+          "number": 19,
+          "latin": "Vocavi amicos meos, et ipsi deceperunt me: sacerdotes mei et senes mei in urbe consumpti sunt: quia quaesierunt sibi cibum ut refocillarent animam suam.",
+          "english": "I called upon my friends, but they themselves deceived me.\nMy priests and my elders perished within the city,\nbecause they were desperately searching for food to keep themselves alive."
+        },
+        {
+          "number": 20,
+          "latin": "Vide Domine quoniam tribulor: conturbatus est venter meus; subversus est cor meum in me, quoniam amaritudine plena sum: foris interfecit gladius, et domi mors similis est.",
+          "english": "O Lord, look upon me, for I am in severe distress.\nMy innermost being is in turmoil; my heart is utterly overturned within me, for I am filled with overwhelming bitterness.\nOutside the city, the sword has brought death, and inside my home, it feels just like death."
+        },
+        {
+          "number": 21,
+          "latin": "Audierunt quia ingemisco ego, et non est qui consoletur me: omnes inimici mei audierunt malum meum, laetati sunt quoniam tu fecisti: adduxisti diem consolationis, et fient similes mei.",
+          "english": "They have heard that I am groaning, and there is no one to comfort me.\nAll my enemies have heard of my misfortune, and they rejoiced that You, O God, have done this.\nYou have brought their day of reckoning, and they will become just like me in their suffering."
+        },
+        {
+          "number": 22,
+          "latin": "Ingrediatur omnis malitia eorum coram te: et vindemia eos sicut vindemiasti me propter omnes iniquitates meas: quoniam multi gemitus mei, et cor meum moerens.",
+          "english": "Let all their wickedness come before Your sight, O God.\nAnd punish them just as You have punished me, because of all my many sins.\nFor my groans are many, and my heart is filled with sorrow."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quomodo obtexit caligine in furore suo Dominus filiam Sion; projecit de caelo in terram inclytam Israël, et non est recordatus scabelli pedum suorum in die furoris sui!",
+          "english": "How the Lord, in His fury, has covered the Daughter of Zion with darkness, casting down from its exalted position to the ground the renown of Israel! In the day of His anger, He did not even remember His holy footstool, the Temple."
+        },
+        {
+          "number": 2,
+          "latin": "Præcipitavit Dominus, et non pepercit omnes speciosa Jacob; destruxit in furore suo munitiones virginis Juda, et subvertit in terram: polluit regnum et principes ejus.",
+          "english": "The Lord has cast down and shown no mercy to all the glorious places of Jacob. In His fury, He destroyed the strongholds of the Daughter of Judah, leveling them to the ground. He has defiled both the kingdom and its leaders."
+        },
+        {
+          "number": 3,
+          "latin": "Confregit in ira furoris sui omne cornu Israël; avertit retrorsum dexteram suam a facie inimici, et succendit in Jacob quasi ignem flammæ devorantis in circuitu.",
+          "english": "In the blazing anger of His fury, He broke every source of Israel's strength. He withdrew His powerful right hand from the sight of the enemy, and He set Jacob ablaze like a devouring fire that consumed everything around it."
+        },
+        {
+          "number": 4,
+          "latin": "Tetendit arcum suum quasi inimicus; firmavit dexteram suam quasi hostis, et occidit omne quod pulchrum erat visu in tabernaculis Sion: effudit quasi ignem indignationem suam.",
+          "english": "Like an enemy, He drew His bow. He stood firm with His right hand like an adversary, and He killed everything beautiful to behold in the dwellings of Zion. He poured out His indignation like a raging fire."
+        },
+        {
+          "number": 5,
+          "latin": "Factus est Dominus velut inimicus, præcipitavit Israël; præcipitavit omnes muros ejus, dissipavit munitiones ejus, et inluxit in Sion lugentibus simul muro et antemuralibus.",
+          "english": "The Lord acted like an enemy; He utterly destroyed Israel. He destroyed all its walls and demolished its strongholds. And in Zion, He brought a time of mourning for both its outer walls and its inner ramparts."
+        },
+        {
+          "number": 6,
+          "latin": "Et dissipavit quasi hortum sepem suam, demolitus est tabernaculum suum: interire fecit Dominus in Sion dies festos et sabbata, et in irritationem execrationis suæ regem et sacerdotem.",
+          "english": "He has torn down His protective hedge as one would a garden wall. He has demolished His own dwelling place, the Temple. The Lord has made all the feast days and Sabbaths in Zion to cease. And in His fierce indignation, He has rejected both king and priest."
+        },
+        {
+          "number": 7,
+          "latin": "Repulit Dominus altare suum, maledixit sanctificationi suæ; tradidit in manu inimici muros turrium ejus: vocem dederunt in domo Domini quasi in die festo.",
+          "english": "The Lord has rejected His own altar. He has cursed His sanctuary, delivering the walls of its towers into the hands of the enemy. The enemies now shout in the House of the Lord, as if it were a feast day of their own celebration."
+        },
+        {
+          "number": 8,
+          "latin": "Cogitavit Dominus dissipare murum filiæ Sion; tetendit funiculum suum, non avertit manum suam a perditione, et luxit antemurale et murus pariter dissipatus est.",
+          "english": "The Lord planned to tear down the wall of the Daughter of Zion. He stretched out His measuring line for destruction and did not withdraw His hand from the task until it was complete. The outer wall mourned, and the city wall was utterly destroyed with it."
+        },
+        {
+          "number": 9,
+          "latin": "Defixæ sunt in terram portæ ejus; contrivit et confregit vectes ejus: regem ejus et principes ejus in gentibus: lex non est, prophetæ quoque ejus non invenerunt visionem a Domino.",
+          "english": "Its gates are buried deep in the ground. He broke and shattered all its defensive bars. Its king and its princes are now exiled among the foreign nations. There is no Law of God observed, and its prophets no longer receive a vision from the Lord."
+        },
+        {
+          "number": 10,
+          "latin": "Sederunt in terra, silentes senes filiæ Sion; consperserunt cinere capita sua, accincti sunt ciliciis: abjecerunt in terram caput suum virgines Jerusalem.",
+          "english": "The elders of the Daughter of Zion sit silently on the ground. They have sprinkled ashes on their heads and clothed themselves in sackcloth. The virgins of Jerusalem have bowed their heads to the ground in despair."
+        },
+        {
+          "number": 11,
+          "latin": "Defecerunt oculi mei præ fletu, conturbata sunt viscera mea; effusum est in terra jecur meum super contritione filiæ populi mei, eo quod nescio ubi contineatur parvulus et lactens in plateis civitatis.",
+          "english": "My eyes are consumed with weeping, and my inner being is deeply troubled. My life essence feels poured out onto the ground because of the utter destruction of the Daughter of my people, as I see little children and infants fainting in the streets of the city."
+        },
+        {
+          "number": 12,
+          "latin": "Matribus suis dixerunt: Ubi est triticum et vinum? cum deficerent quasi vulnerati in plateis civitatis, cum exhalarent animas suas in sinu matrum suarum.",
+          "english": "The children cried to their mothers, 'Where is bread and wine?' as they fainted like wounded soldiers in the city streets, and breathed their last breath in their mothers' arms."
+        },
+        {
+          "number": 13,
+          "latin": "Cui comparabo te, vel cui assimilabo te, filia Jerusalem? cui exæquabo te, et consolabor te, virgo filia Sion? Magna est enim velut mare contritio tua: quis medebitur tui?",
+          "english": "To what can I compare you, O Daughter of Jerusalem? To what can I liken you, or how can I comfort you, O Virgin Daughter of Zion? For your destruction is as vast as the sea; who can possibly heal you?"
+        },
+        {
+          "number": 14,
+          "latin": "Prophetæ tui viderunt tibi falsa et stulta; et non aperiebant iniquitatem tuam, ut te ad pœnitentiam provocarent: viderunt tibi assumptiones falsas, et ejectamenta.",
+          "english": "Your prophets saw for you false and foolish visions. They did not expose your iniquity to provoke you to repentance. Instead, they saw for you false burdens and misleading delusions."
+        },
+        {
+          "number": 15,
+          "latin": "Plausuerunt super te manibus omnes transeuntes per viam; sibilaverunt, et moverunt capita sua super filiam Jerusalem: Hæccine est urbs, dicentes, perfecti decoris, gaudium universæ terræ?",
+          "english": "All who pass by the way clap their hands in scorn over you. They hiss and shake their heads at the Daughter of Jerusalem, saying, 'Is this the city that was called the perfection of beauty, the joy of the whole earth?'"
+        },
+        {
+          "number": 16,
+          "latin": "Aperuerunt super te os suum omnes inimici tui; sibilaverunt, et fremuerunt dentibus, et dixerunt: Devoravimus: en ista est dies quam exspectavimus; invenimus, vidimus.",
+          "english": "All your enemies open their mouths wide against you. They hiss and gnash their teeth, saying, 'We have utterly devoured her! Behold, this is the day we have waited for; we have found it, we have seen it with our own eyes!'"
+        },
+        {
+          "number": 17,
+          "latin": "Fecit Dominus quæ cogitavit, complevit sermonem suum quem locutus est a diebus antiquis: destruxit, et non pepercit, et lætificavit super te inimicum, et exaltavit cornu hostium tuorum.",
+          "english": "The Lord has done what He purposed; He has fulfilled the word He spoke from ancient days. He has destroyed without sparing, and He has made your enemy rejoice over you. He has exalted the strength of your adversaries."
+        },
+        {
+          "number": 18,
+          "latin": "Clamavit cor eorum ad Dominum super muros filiæ Sion: Deduc quasi torrentem lacrimas per diem et noctem; non des requiem tibi, neque taceat pupilla oculi tui.",
+          "english": "Their hearts cry out to the Lord over the walls of the Daughter of Zion: 'Let your tears flow like a torrent day and night. Do not give yourself any rest, and let the stream of your tears never cease!'"
+        },
+        {
+          "number": 19,
+          "latin": "Consurge, lauda in nocte, in principio vigiliarum: effunde sicut aquam cor tuum ante conspectum Domini; leva ad eum manus tuas pro anima parvulorum tuorum, qui defecerunt in fame in capite omnium platearum.",
+          "english": "Arise! Cry out in the night, at the beginning of the night watches. Pour out your heart like water before the presence of the Lord. Lift up your hands to Him for the lives of your little children, who are fainting from hunger at every street corner."
+        },
+        {
+          "number": 20,
+          "latin": "Vide, Domine, et considera quemadmodum vindemiaveris. Ergone comedent mulieres fructum suum, parvulos interfectionis suæ? Ergone occident in sanctuario Domini sacerdotem et prophetam?",
+          "english": "Look, O Lord, and consider how You have utterly ravaged us. Shall women really eat their own children, the fruit of their own bodies? Shall priest and prophet be put to death in the very sanctuary of the Lord?"
+        },
+        {
+          "number": 21,
+          "latin": "Jacuit in terra sine inlommate parvulus et senex; virgines meæ et juvenes mei ceciderunt in gladio: interfecisti in die furoris tui, percussisti, et non misertus es.",
+          "english": "The young child and the old man lie on the ground, lifeless. My virgins and my young men have fallen by the sword. You have killed them in the day of Your fury; You struck them down without any mercy."
+        },
+        {
+          "number": 22,
+          "latin": "Quasi ad diem solemnem vocasti de circuitu meos terrores, et non fuit in die furoris Domini qui effugeret et relinqueretur: quos educavi et nutrii, inimicus meus consumpsit eos.",
+          "english": "As if for a solemn feast day, You called forth my terrors from every side. In the day of the Lord's fury, no one escaped or was left alive. Those children whom I had lovingly raised and nourished, my enemy has utterly consumed them all."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "EGO vir videns paupertatem meam in virga indignationis ejus.",
+          "english": "I am the man who has seen my own utter misery, inflicted by the rod of God's righteous anger."
+        },
+        {
+          "number": 2,
+          "latin": "Me minavit, et adduxit in tenebras, et non in lucem.",
+          "english": "God has led me and brought me into spiritual darkness, and not into His light."
+        },
+        {
+          "number": 3,
+          "latin": "Tantum in me vertit, et convertit manum suam totadie.",
+          "english": "God has continually turned His hand against me, all day long."
+        },
+        {
+          "number": 4,
+          "latin": "Detraxit pellem meam, et carnem meam, contrivit ossa mea.",
+          "english": "He has stripped away my skin and my flesh, and broken my bones, leaving me utterly vulnerable."
+        },
+        {
+          "number": 5,
+          "latin": "Ædificavit in gyro meo, et circumdedit me felle, et labore.",
+          "english": "He has built a wall around me, and surrounded me with bitter affliction and great suffering."
+        },
+        {
+          "number": 6,
+          "latin": "In tenebrosis collocavit me, quasi mortuos sempiternos.",
+          "english": "He has placed me in the deepest darkness, like those who have been dead for a long time."
+        },
+        {
+          "number": 7,
+          "latin": "Sepivit circa me, ut non egrediar: aggravavit compedes meas.",
+          "english": "He has walled me in completely so that I cannot escape; He has made my chains heavy and unbreakable."
+        },
+        {
+          "number": 8,
+          "latin": "Sed et cum clamavero, et rogavero, exclusit orationem meam.",
+          "english": "And even when I cry out and pray for help, God has shut out my prayers."
+        },
+        {
+          "number": 9,
+          "latin": "Conclusit vias meas lapidibus quadris, subvertit semitas meas.",
+          "english": "He has blocked my paths with massive, squared stones, and made my ways impossible to navigate."
+        },
+        {
+          "number": 10,
+          "latin": "Factus est mihi ursus insidians, leo in absconditis.",
+          "english": "God has become to me like a bear lying in ambush, or a lion hidden in wait."
+        },
+        {
+          "number": 11,
+          "latin": "Vias meas subvertit, et confregit me: posuit me desolatam.",
+          "english": "He has completely overturned my life's paths and broken me; He has left me utterly desolate and alone."
+        },
+        {
+          "number": 12,
+          "latin": "Tetendit arcum suum, et posuit me quasi signum ad sagittam.",
+          "english": "He has drawn His bow and set me up as a target for His arrow."
+        },
+        {
+          "number": 13,
+          "latin": "Misit in renibus meis filias pharetræ suæ.",
+          "english": "He has shot the arrows from His quiver deep into my vital organs."
+        },
+        {
+          "number": 14,
+          "latin": "Factus sum in derisum omni populo meo, in canticum eorum tota die.",
+          "english": "I have become the object of mockery for all my own people, and their song of scorn all day long."
+        },
+        {
+          "number": 15,
+          "latin": "Replevit me amaritudinibus, inebriavit me absinthio.",
+          "english": "God has filled me with bitter experiences; He has made me drunk with the bitter poison of suffering."
+        },
+        {
+          "number": 16,
+          "latin": "Et fregit ad silicem dentes meos: cibavit me cinere.",
+          "english": "He has broken my teeth on gravel; He has made me eat ashes."
+        },
+        {
+          "number": 17,
+          "latin": "Et repulsa est a pace anima mea, oblitus sum bonorum.",
+          "english": "My soul has been driven far away from any peace, and I have forgotten what good things feel like."
+        },
+        {
+          "number": 18,
+          "latin": "Et dixi: Periit finis meus, et spes mea a Domino.",
+          "english": "And I said to myself, \"My strength is completely gone, and all my hope from the Lord has vanished.\""
+        },
+        {
+          "number": 19,
+          "latin": "Recordare paupertatis meæ, et transgressionis meæ, absinthii et fellis.",
+          "english": "Remember my profound suffering and my homeless wandering, the bitter poison and the gall of it all."
+        },
+        {
+          "number": 20,
+          "latin": "Memoria memor ero, et tabescet in me anima mea.",
+          "english": "I will always remember these things, and my soul will waste away within me because of it."
+        },
+        {
+          "number": 21,
+          "latin": "Hæc recolens in corde meo, propterea confortatus sum.",
+          "english": "But when I bring this to my mind, I then find strength."
+        },
+        {
+          "number": 22,
+          "latin": "Misericordiæ Domini quia non sumus consumpti: quia non defecerunt miserationes ejus.",
+          "english": "It is because of the Lord’s mercies that we are not completely destroyed; His compassions never fail."
+        },
+        {
+          "number": 23,
+          "latin": "Novi diluculo, magna est fides tua.",
+          "english": "They are new every morning, constantly renewed; indeed, Your faithfulness is great."
+        },
+        {
+          "number": 24,
+          "latin": "Pars mea Dominus, dixit anima mea: propter hoc exspectabo eum.",
+          "english": "My soul proclaims, \"The Lord is my portion and inheritance, therefore I will wait in hope for Him.\""
+        },
+        {
+          "number": 25,
+          "latin": "Bonus est Dominus animæ exspectanti illum, in animam quærentem illum.",
+          "english": "The Lord is truly good to those who wait for Him, to the soul that earnestly seeks Him."
+        },
+        {
+          "number": 26,
+          "latin": "Bonum est præstolari cum silentio salutare Dei.",
+          "english": "It is good to quietly wait and hope for the saving help of God."
+        },
+        {
+          "number": 27,
+          "latin": "Bonum est viro cum portaverit jugum ab adolescentia sua.",
+          "english": "It is good for a person to bear the burden of suffering from their youth."
+        },
+        {
+          "number": 28,
+          "latin": "Sedebit solitarius, et tacebit: quia levavit se super se.",
+          "english": "The one who bears suffering will sit alone and remain silent, because he has accepted this burden upon himself."
+        },
+        {
+          "number": 29,
+          "latin": "Ponet in pulvere os suum, si forte sit spes.",
+          "english": "He will put his mouth in the dust, prostrating himself in utter humility, if by chance there is still hope."
+        },
+        {
+          "number": 30,
+          "latin": "Dabitur percutienti maxillam suam: saturabitur opprobriis.",
+          "english": "He will offer his cheek to the one who strikes him; he will allow himself to be filled with insults and shame."
+        },
+        {
+          "number": 31,
+          "latin": "Quia non in perpetuum ejiciet Dominus.",
+          "english": "For the Lord will not cast off His people forever."
+        },
+        {
+          "number": 32,
+          "latin": "Quia si abjecit, et miserebitur secundum multitudinem misericordiarum suarum.",
+          "english": "For even if He has cast them away, He will show mercy according to the abundance of His compassion."
+        },
+        {
+          "number": 33,
+          "latin": "Non enim humiliavit ex corde suo, et abjecit filios hominum.",
+          "english": "For God does not willingly humble or cast away the children of mankind from His heart."
+        },
+        {
+          "number": 34,
+          "latin": "Ut contereret sub pedibus suis omnes vinctos terræ.",
+          "english": "He takes no pleasure in seeing those bound on earth crushed underfoot by oppressors."
+        },
+        {
+          "number": 35,
+          "latin": "Ut subverteret judicium viri coram facie Altissimi.",
+          "english": "Nor does He approve when a person's justice is subverted in the presence of the Most High God."
+        },
+        {
+          "number": 36,
+          "latin": "Ut supplanteret hominem in judicio suo: Dominus non vult.",
+          "english": "Nor does the Lord approve when a man is defrauded in his legal judgment."
+        },
+        {
+          "number": 37,
+          "latin": "Quis est iste qui dixit ut fieret, et Dominus non jussit?",
+          "english": "Who is it that has spoken a command and it came to be, when the Lord Himself had not commanded it?"
+        },
+        {
+          "number": 38,
+          "latin": "Ex ore Altissimi non egredientur mala et bona?",
+          "english": "Does not both evil and good proceed from the mouth of the Most High God?"
+        },
+        {
+          "number": 39,
+          "latin": "Quid murmuravit homo vivens, vir pro peccatis suis?",
+          "english": "Why then should any living person murmur or complain, especially a man who suffers for his own sins?"
+        },
+        {
+          "number": 40,
+          "latin": "Scrutemur vias nostras, et quæramus, et revertamur ad Dominum.",
+          "english": "Let us carefully examine our ways, and search our consciences, and then turn back to the Lord."
+        },
+        {
+          "number": 41,
+          "latin": "Levemus corda nostra cum manibus ad Dominum in cælos.",
+          "english": "Let us lift up our hearts, not just our hands, in prayer to the Lord who dwells in the spiritual heavens."
+        },
+        {
+          "number": 42,
+          "latin": "Nos inique egimus, et ad iracundiam provocavimus: tu autem non pepercisti.",
+          "english": "We have acted wickedly and defiantly, and provoked You to anger; because of this, You have not spared us."
+        },
+        {
+          "number": 43,
+          "latin": "Operuisti in furore, et persecutus es nos: occidisti, nec pepercisti.",
+          "english": "You have covered Yourself with fury and pursued us; You have slain us without mercy."
+        },
+        {
+          "number": 44,
+          "latin": "Operuisti te nube, ne transeat oratio.",
+          "english": "You have covered Yourself with a thick cloud so that no prayer can pass through to You."
+        },
+        {
+          "number": 45,
+          "latin": "Opprobrium, et abjectio posuisti nos in medio populorum.",
+          "english": "You have made us an object of scorn and contempt in the midst of the nations."
+        },
+        {
+          "number": 46,
+          "latin": "Aperuerunt super nos os suum omnes inimici nostri.",
+          "english": "All of our enemies have opened their mouths against us in derision."
+        },
+        {
+          "number": 47,
+          "latin": "Prophesia et interitus facta est nobis, calamitas et contritio.",
+          "english": "A terrifying report and destruction have come upon us; calamity and utter ruin."
+        },
+        {
+          "number": 48,
+          "latin": "Suffusio aquarum deduxit oculos meos, pro contritone filiæ populi mei.",
+          "english": "My eyes pour out rivers of tears because of the utter destruction of the daughter of my people."
+        },
+        {
+          "number": 49,
+          "latin": "Oculus meus effundetur, et non cessabit, eo quod non sit requies.",
+          "english": "My eyes will continue to pour out tears and will not stop, because there is no rest or relief from this suffering."
+        },
+        {
+          "number": 50,
+          "latin": "Donec respiciat, et videat Dominus de cælis.",
+          "english": "Until the Lord looks down and sees from His dwelling in the spiritual heavens."
+        },
+        {
+          "number": 51,
+          "latin": "Oculus meus depopulatus est animam meam, propter omnes filias urbis meæ.",
+          "english": "The sight of my city's suffering has deeply grieved my soul, because of all the people, the daughters of my city."
+        },
+        {
+          "number": 52,
+          "latin": "Venatione ceperunt me quasi avem, inimici mei gratis.",
+          "english": "My enemies have hunted me down like a bird, without any cause or reason."
+        },
+        {
+          "number": 53,
+          "latin": "Obstruxerunt in lacu vitam meam, posuerunt lapidem super me.",
+          "english": "They trapped me alive in a pit, and placed a large stone over me."
+        },
+        {
+          "number": 54,
+          "latin": "Inundaverunt aquæ super caput meum: dixi, Periimus.",
+          "english": "The waters closed over my head, and I said, \"We are utterly lost and destroyed!\""
+        },
+        {
+          "number": 55,
+          "latin": "Invocavi nomen tuum, Domine, de lacu novissimo.",
+          "english": "I called upon Your Holy Name, O Lord, from the lowest, most desperate pit."
+        },
+        {
+          "number": 56,
+          "latin": "Vocem meam audisti: ne avertas aurem tuam a singultu meo, et clamoribus meis.",
+          "english": "You heard my voice calling out; do not turn away Your ear from my groaning and my cries."
+        },
+        {
+          "number": 57,
+          "latin": "Juxta fuisti in die quando invocavi te: dixisti, Ne timeas.",
+          "english": "You came near to me on the very day I called upon You; You said, \"Do not be afraid.\""
+        },
+        {
+          "number": 58,
+          "latin": "Judicasti, Domine, causam animæ meæ, redemisti vitam meam.",
+          "english": "You have defended the cause of my soul, O Lord; You have redeemed my very life."
+        },
+        {
+          "number": 59,
+          "latin": "Vidisti, Domine, iniquitatem meam: judica judicium meum.",
+          "english": "You have seen, O Lord, the injustice done to me; now, give judgment on my behalf."
+        },
+        {
+          "number": 60,
+          "latin": "Vidisti omnem ultionem eorum, omnes cogitationes eorum adversum me.",
+          "english": "You have seen all their acts of vengeance, and all their evil thoughts against me."
+        },
+        {
+          "number": 61,
+          "latin": "Audisti opprobrium eorum, Domine, omnes cogitationes eorum adversum me.",
+          "english": "You have heard their insults, O Lord, and all their malicious plots against me."
+        },
+        {
+          "number": 62,
+          "latin": "Labia insurgentium mihi, et cogitationes eorum adversum me tota die.",
+          "english": "You know the hostile words of those who rise up against me, and their wicked thoughts against me all day long."
+        },
+        {
+          "number": 63,
+          "latin": "Sessionem eorum, et resurrectionem eorum vide: ego sum canticum eorum.",
+          "english": "Observe their every action, whether they are sitting or rising; I am the constant subject of their mocking songs."
+        },
+        {
+          "number": 64,
+          "latin": "Reddes eis retributionem, Domine, juxta opera manuum suarum.",
+          "english": "You will repay them, O Lord, according to the evil works of their own hands."
+        },
+        {
+          "number": 65,
+          "latin": "Dabis eis scutum cordis, laborem tuum.",
+          "english": "You will give them hardness of heart as a punishment, and Your curse will be upon them."
+        },
+        {
+          "number": 66,
+          "latin": "Persequeris in furore, et conteres eos sub cælis tuis, Domine.",
+          "english": "You will pursue them in Your wrath and utterly destroy them under Your created universe, O Lord."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quomodo obscuratum est aurum, mutatus est color optimus! disparsi sunt lapides sanctuarii in capite omnium platearum.",
+          "english": "How the gold has grown dim! How the finest color has changed! The precious stones of the sanctuary are scattered at the head of every street, desecrated and lost."
+        },
+        {
+          "number": 2,
+          "latin": "Filii Sion inclyti, et amicti auro primo: quomodo reputati sunt in vasa testea, opus manuum figuli!",
+          "english": "The glorious sons of Sion, once adorned in the finest gold, how they are now esteemed as mere earthen vessels, like common pottery made by a potter's hands!"
+        },
+        {
+          "number": 3,
+          "latin": "Sed et lamiae nudaverunt mammas suas, lactaverunt catulos suos: filia populi mei crudelis quasi struthio in deserto.",
+          "english": "Even the wild animals, like jackals, bare their breasts and nurse their young. But the daughter of my people, out of desperation, has become cruel, like an ostrich in the desert that abandons its eggs."
+        },
+        {
+          "number": 4,
+          "latin": "Adhaesit lingua lactentis ad palatum ejus in siti: parvuli petierunt panem, et non erat qui frangeret eis.",
+          "english": "The tongue of the nursing child clings to the roof of its mouth from unbearable thirst. Little children beg for bread, but there is no one to break it and give it to them."
+        },
+        {
+          "number": 5,
+          "latin": "Qui vescebantur voluptuose, interierunt in viis: qui nutriebantur in croceis, amplexati sunt stercora.",
+          "english": "Those who used to eat luxuriously have perished in the streets from hunger. Those who were brought up in scarlet robes now embrace dung heaps out of sheer starvation."
+        },
+        {
+          "number": 6,
+          "latin": "Et major effecta est iniquitas filiae populi mei peccato Sodomorum, quae subversa est in momento, et non ceperunt in ea manus.",
+          "english": "The punishment for the iniquity of the daughter of my people has become greater and more prolonged than the sin of Sodom. Sodom was overthrown in a moment, its destruction was swift and complete, with no human hands laying hold of it for further torment."
+        },
+        {
+          "number": 7,
+          "latin": "Nazaraei ejus candidiores nive, nitidiores lacte, rubicundiores ebore antiquo, sapphiris pulchriores.",
+          "english": "Her Nazirites, who once were purer than snow and whiter than milk, more ruddy than ancient ivory, and more beautiful than sapphires,"
+        },
+        {
+          "number": 8,
+          "latin": "Obscurati sunt super carbones vultus eorum: et non sunt cogniti in plateis suis: adhaesit cutis eorum ossibus, arefacta est, et facta est quasi lignum.",
+          "english": "now have faces darker than charcoal. They are not recognized in their own streets. Their skin clings to their bones, shriveled and become dry like wood."
+        },
+        {
+          "number": 9,
+          "latin": "Meliores fuerunt occisi gladio, quam interfecti fame: quoniam isti extabuerunt consumpti a sterilitate terræ.",
+          "english": "Those killed by the sword were better off than those killed by famine, for the latter wasted away, consumed by the utter barrenness of the land."
+        },
+        {
+          "number": 10,
+          "latin": "Manus mulierum piarum coxerunt filios suos: facti sunt cibus earum in contritione filiæ populi mei.",
+          "english": "The hands of even compassionate women have cooked their own children. These children became their food during the destruction and heartbreak of the daughter of my people."
+        },
+        {
+          "number": 11,
+          "latin": "Complesset Dominus furorem suum, effudit iram indignationis suae: et succendit ignem in Sion, et devoravit fundamenta ejus.",
+          "english": "The Lord has fully accomplished His fury; He has poured out the wrath of His indignation. He kindled a devastating fire in Zion, and it devoured even her very foundations."
+        },
+        {
+          "number": 12,
+          "latin": "Non crediderunt reges terræ, et universi habitatores orbis, quoniam ingrederetur hostis et inimicus per portas Jerusalem.",
+          "english": "The kings of the earth and all the inhabitants of the world could not believe that an enemy and an adversary would ever enter through the gates of Jerusalem, a city thought to be impregnable."
+        },
+        {
+          "number": 13,
+          "latin": "Propter peccata prophetarum ejus, et iniquitates sacerdotum ejus, qui effuderunt in medio ejus sanguinem justorum.",
+          "english": "This disaster came because of the sins of her prophets and the iniquities of her priests, who shed the blood of the righteous in her midst."
+        },
+        {
+          "number": 14,
+          "latin": "Ambulaverunt caeci in plateis, polluti sunt in sanguine: cumque non possent, tetigerunt vestimentis suis.",
+          "english": "They, the defiled priests and prophets, wandered like blind men in the streets, so stained with blood that they became ritually impure. And when they could not avoid it, they defiled others even by touching them with their garments."
+        },
+        {
+          "number": 15,
+          "latin": "Recedite, polluti, clamaverunt eis: recedite, recedite, nolite tangere: siquidem succensi sunt, et tabuerunt: dixerunt inter gentes: non addet ultra ut commoretur in eis.",
+          "english": "'Depart, you who are defiled!' people cried out to them. 'Depart, depart, do not touch!' Indeed, they were consumed by wrath and wasted away. The nations said among themselves: 'They, the people of God, will no longer dwell among them here.'"
+        },
+        {
+          "number": 16,
+          "latin": "Vultus Domini divisit eos, non addet ut respiciat eos: facies sacerdotum non erubuit, nec senum misertus est.",
+          "english": "The very presence of the Lord has scattered them; He will no longer look upon them with favor. He showed no regard for the priests, nor did He pity the elders, no matter their former status."
+        },
+        {
+          "number": 17,
+          "latin": "Cum adhuc superesset nobis parum, consummati sunt oculi nostri ad auxilium nostrum vanum: cum respiceremus attenti ad gentem, quæ salvare non poterat.",
+          "english": "While we still had a little life left, our eyes failed, constantly looking for our vain help. We watched intently for a foreign nation that could not possibly save us."
+        },
+        {
+          "number": 18,
+          "latin": "Straverunt gressus nostros ne iremus in plateis nostris: appropinquavit finis noster, completi sunt dies nostri, quia venit finis noster.",
+          "english": "Our enemies hunted our steps so that we could not walk in our own streets. Our end drew near, our days were fulfilled, for our ultimate destruction had come."
+        },
+        {
+          "number": 19,
+          "latin": "Velociores fuerunt persecutores nostri aquilis cæli: super montes persecuti sunt nos, in deserto insidiati sunt nobis.",
+          "english": "Our persecutors were swifter than the eagles of the sky. They pursued us relentlessly over the mountains, and they lay in wait for us in the barren desert."
+        },
+        {
+          "number": 20,
+          "latin": "Spiritus oris nostri, Christus Dominus, captus est in peccatis nostris: cui diximus: Sub umbra tua vivemus in gentibus.",
+          "english": "Our very breath of life, the Lord's Anointed King, was captured because of our sins. He, in whom we had placed our hope, to whom we had said: 'Under your shadow, we shall live safely among the nations.'"
+        },
+        {
+          "number": 21,
+          "latin": "Gaude et lætare, filia Edom, quæ habitas in terra Hus: ad te quoque perveniet calix, inebriaberis, et nudaberis.",
+          "english": "Rejoice and be glad for now, O daughter of Edom, you who dwell in the land of Uz. But beware, to you also the cup of God's wrath shall pass; you shall be made drunk with judgment and stripped bare in humiliation."
+        },
+        {
+          "number": 22,
+          "latin": "Complessa est iniquitas tua, filia Sion, non addet ultra ut transmigret te: visitabit iniquitatem tuam, filia Edom, denudabit peccata tua.",
+          "english": "Your punishment is now complete, O daughter of Zion; the Lord will no longer cause you to go into exile. But He will visit your iniquity, O daughter of Edom, and He will fully uncover your sins."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Recordare Domine quid acciderit nobis: intuere et respice opprobrium nostrum.",
+          "english": "Remember, Lord, what has happened to us. Look upon us and truly see our deep disgrace."
+        },
+        {
+          "number": 2,
+          "latin": "Hereditas nostra versa est ad alienos: domus nostrae ad extraneos.",
+          "english": "Our inheritance, the land God gave us, has been given to strangers. Our homes have been taken by foreigners."
+        },
+        {
+          "number": 3,
+          "latin": "Pupilli facti sumus absque patre: matres nostrae quasi viduae.",
+          "english": "We have become like orphans, completely abandoned by our father. Our mothers are like widows, left alone and unprotected."
+        },
+        {
+          "number": 4,
+          "latin": "Aquam nostram pecunia bibimus: ligna nostra pretio comparavimus.",
+          "english": "We have to buy even our own water to drink. We must pay a high price for our own wood to burn."
+        },
+        {
+          "number": 5,
+          "latin": "Cervicibus nostris minabamur, lassis non dabatur requies.",
+          "english": "We are constantly under threat, with the enemy's yoke on our necks. Even when we are exhausted, there is no rest for us."
+        },
+        {
+          "number": 6,
+          "latin": "Aegypto dedimus manum, et Assyriis, ut satiemur pane.",
+          "english": "We were forced to seek help and make alliances with Egypt and Assyria, just so we could get enough bread to eat."
+        },
+        {
+          "number": 7,
+          "latin": "Patres nostri peccaverunt, et non sunt: et nos iniquitates eorum portavimus.",
+          "english": "Our fathers sinned greatly, and now they are gone from this earth. But we, their children, are left to carry the heavy burden of their wickedness."
+        },
+        {
+          "number": 8,
+          "latin": "Servi dominati sunt nostri: non fuit qui redimeret de manu eorum.",
+          "english": "We are ruled by mere servants, who have no right to govern us. There was no one who could rescue us from their cruel grasp."
+        },
+        {
+          "number": 9,
+          "latin": "In animabus nostris afferebamus panem nobis, a facie gladii in deserto.",
+          "english": "We had to go out into the desolate wilderness, risking our very lives to find bread, facing the constant threat of the enemy's sword."
+        },
+        {
+          "number": 10,
+          "latin": "Pellis nostra quasi clibanus exusta est a facie tempestatum famis.",
+          "english": "Our skin has become as dark and cracked as a baking oven, scorched by the ravaging heat of famine and disease."
+        },
+        {
+          "number": 11,
+          "latin": "Mulieres in Sion humiliaverunt, et virgines in civitatibus Juda.",
+          "english": "They violated the women in Jerusalem, the holy city. They violently dishonored the virgins in the towns throughout the land of Judah."
+        },
+        {
+          "number": 12,
+          "latin": "Principes manu suspensi sunt: facies seniorum non erubuerunt.",
+          "english": "Our respected leaders were brutally hanged, left to die by their hands. The faces of our elders were shown no reverence or mercy; they were not ashamed to dishonor them."
+        },
+        {
+          "number": 13,
+          "latin": "Adolescentium ad molam detraxerunt: et pueri sub ligno corruerunt.",
+          "english": "They forced our young men to do the heavy labor of grinding grain. Even young boys collapsed under the burden of carrying heavy loads of wood."
+        },
+        {
+          "number": 14,
+          "latin": "Senes defecerunt de portis: juvenes de choro psallentium.",
+          "english": "The wise elders no longer sit at the city gates to offer counsel. Our young men are gone from the joyful choirs of praise."
+        },
+        {
+          "number": 15,
+          "latin": "Defecit gaudium cordis nostri: versus est in luctum chorus noster.",
+          "english": "The joy in our hearts has utterly vanished. Our festive dances have turned into bitter mourning."
+        },
+        {
+          "number": 16,
+          "latin": "Cecidit corona capitis nostri: vae nobis, quia peccavimus.",
+          "english": "The crown of our glory has fallen from our heads—our honor and our rule are gone. Woe to us! All this has happened because we have sinned against God."
+        },
+        {
+          "number": 17,
+          "latin": "Propter hoc moerens factum est cor nostrum: ideo contenebrati sunt oculi nostri.",
+          "english": "Because of this profound loss, our hearts are filled with sorrow. Our eyes are now dimmed, darkened by endless tears and despair."
+        },
+        {
+          "number": 18,
+          "latin": "Propter montem Sion qui exustus est: vulpes ambulaverunt in eo.",
+          "english": "All this suffering has come upon us because of Mount Zion, which lies desolate and burned. Wild foxes now roam freely where our holy Temple once stood."
+        },
+        {
+          "number": 19,
+          "latin": "Tu autem Domine in aeternum manebis: solium tuum in generationem et generationem.",
+          "english": "But You, O Lord, remain on Your throne forever. Your sovereign rule endures through every single generation."
+        },
+        {
+          "number": 20,
+          "latin": "Quare in perpetuum oblivisceris nostri? derelinques nos in longitudinem dierum?",
+          "english": "Why would You forget us forever, O Lord? Will You abandon us for the rest of our days, leaving us in this endless sorrow?"
+        },
+        {
+          "number": 21,
+          "latin": "Converte nos Domine ad te, et convertemur: innova dies nostros, sicut a principio.",
+          "english": "Turn us back to You, O Lord, and we will truly turn. Make our lives new again, restoring our days as they were in the beginning of our history."
+        },
+        {
+          "number": 22,
+          "latin": "Nisi forte rejiciens rejecisti nos: iratus es contra nos vehementer.",
+          "english": "It cannot be that You have completely rejected us, can it? Or is Your anger against us simply too great to ever relent?"
+        }
+      ]
+    }
+  ]
+}

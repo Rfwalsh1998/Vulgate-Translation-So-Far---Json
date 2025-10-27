@@ -1,0 +1,1222 @@
+{
+  "name": "Ecclesiastes",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Verba Ecclesiastae, filii David, regis Ierusalem.",
+          "english": "These are the words of the Preacher, the son of David, the king of Jerusalem."
+        },
+        {
+          "number": 2,
+          "latin": "Vanitas vanitatum, dixit Ecclesiastes; vanitas vanitatum, et omnia vanitas.",
+          "english": "“Meaningless, meaningless,” says the Preacher; “all things are meaningless.”"
+        },
+        {
+          "number": 3,
+          "latin": "Quid prodest homini de universo labore suo, quo laborat sub sole?",
+          "english": "What is the benefit to any person for all his labor—labor that he does under the sun?"
+        },
+        {
+          "number": 4,
+          "latin": "Generatio praeterit, et generatio advenit; terra autem in aeternum stat.",
+          "english": "One generation passes, and another generation comes; but the earth remains the same throughout time."
+        },
+        {
+          "number": 5,
+          "latin": "Oritur sol, et occidit, et ad locum suum revertitur; ibique renascens,",
+          "english": "The sun rises and sets, returning to its place, and then, rising again,"
+        },
+        {
+          "number": 6,
+          "latin": "gyrat per meridiem, et flectitur ad aquilonem: lustrans universa in circuitu, pergit spiritus, et in circulos suos revertitur.",
+          "english": "it travels south, then turns north, always circling, always going back to its own circuits."
+        },
+        {
+          "number": 7,
+          "latin": "Omnia flumina intrant in mare, et mare non redundat; ad locum unde exierant flumina revertuntur, ut iterum fluant.",
+          "english": "All rivers run into the sea, yet the sea does not become full. The rivers flow where they came from, so they can continue to flow."
+        },
+        {
+          "number": 8,
+          "latin": "Cunctae res difficiles; non potest eas homo explicare sermone.",
+          "english": "All things are hard; no person can explain them with words."
+        },
+        {
+          "number": 9,
+          "latin": "Non saturatur oculus visu, nec auris auditu impletur.",
+          "english": "The eye is not satisfied with seeing, nor is the ear filled with hearing."
+        },
+        {
+          "number": 10,
+          "latin": "Quid est quod fuit? Ipsum quod futurum est. Quid est quod factum est? Ipsum quod faciendum est. Nihil sub sole novum.",
+          "english": "What has happened already? The same things that are going to happen again. What has been done before? The same things that will have to be done again. There is nothing new under the sun."
+        },
+        {
+          "number": 11,
+          "latin": "Si quis dixerit: Ecce hoc novum est, jam antea factum est in saeculis, quae fuerunt ante nos.",
+          "english": "If someone says, “Look, this is new!” it has already happened long ago in the ages before us."
+        },
+        {
+          "number": 12,
+          "latin": "Non est priorum memoria, sed nec eorum quidem quae postea futura sunt, erit recordatio apud eos qui futuri sunt in novissimo.",
+          "english": "There is no memory of what came before. Nor will those who come after remember what the first ones did, even in the very last generation."
+        },
+        {
+          "number": 13,
+          "latin": "Ego Ecclesiastes fui rex Israel in Ierusalem,",
+          "english": "I, the Preacher, was king over Israel in Jerusalem."
+        },
+        {
+          "number": 14,
+          "latin": "et proposui in animo meo, quaerere et investigare sapienter de omnibus, quae fiunt sub sole.",
+          "english": "And I set my heart to seek and examine wisely all the things that are done under the sun."
+        },
+        {
+          "number": 15,
+          "latin": "Hanc occupationem pessimam dedit Deus filiis hominum, ut occuparentur in ea.",
+          "english": "God gave this bad occupation to the sons of men, so that they should be occupied with it."
+        },
+        {
+          "number": 16,
+          "latin": "Vidi cuncta quae fiunt sub sole, et ecce, universa vanitas et afflictio spiritus.",
+          "english": "I saw all the things that are done under the sun, and behold, all things are meaningless and a chasing after wind."
+        },
+        {
+          "number": 17,
+          "latin": "Perversi corrigi non valent; et stultorum infinitus est numerus.",
+          "english": "What is crooked cannot be made straight, and the number of fools is infinite."
+        },
+        {
+          "number": 18,
+          "latin": "Locutus sum in corde meo, dicens: Ego factus sum magnus, et crevi sapientia super omnes, qui fuerunt ante me in Ierusalem: et mens mea contemplata est multa sapientiam et doctrinam.",
+          "english": "I said in my heart, “I have become great, and I have increased in wisdom more than all who were before me in Jerusalem.” And my mind has contemplated much wisdom and knowledge."
+        },
+        {
+          "number": 19,
+          "latin": "Dedique cor meum ad sciendum prudentiam et insipientiam, stultitiamque: et agnovi quod hoc quoque afflictio spiritus esset,",
+          "english": "I set my heart to know prudence, and also foolishness and folly: and I knew that this too was a chasing after wind,"
+        },
+        {
+          "number": 20,
+          "latin": "quia in multa sapientia multae irae, et qui addit scientiam, addit et dolorem.",
+          "english": "because in much wisdom there is much anger, and he who increases knowledge, increases sorrow."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Dixi ego in corde meo: Vadam, et erui voluptatibus, et fruar bonis. Et vidi quod hoc quoque vanitas esset.",
+          "english": "I told myself: “I will go and experience pleasure, and enjoy good things.” And I saw that this, too, was futility."
+        },
+        {
+          "number": 2,
+          "latin": "Risu dixi: Deliramentum est; et gaudio: Quid hoc frustra facis?",
+          "english": "I said of laughter: “It is madness!” and I said of joy: “What use is this?”"
+        },
+        {
+          "number": 3,
+          "latin": "Cogitavi in corde meo, de transferendo in vinum carnem meam, (ut animus meus gauderet in bonis), et hoc meum esset fructus laboris mei: et vidi quod et hoc vanitas esset.",
+          "english": "I pondered in my heart the way to cheer my body with wine, and how to sustain my mind with wisdom. I wanted to see what I should do under heaven during the few days of my life. I wanted to see what was good for humanity. I saw that this, too, was futility."
+        },
+        {
+          "number": 4,
+          "latin": "Risu dixi: Deliramentum est; et gaudio: Quid hoc frustra facis?",
+          "english": "I did great things: I built houses and planted vineyards for myself."
+        },
+        {
+          "number": 5,
+          "latin": "Feci mihi opera magna, aedificavi mihi domos, et plantavi vineas.",
+          "english": "I made gardens and parks, and planted every kind of fruit tree in them."
+        },
+        {
+          "number": 6,
+          "latin": "Feci mihi hortos et pomaria, et plantavi in eis omne lignum pomiferum.",
+          "english": "I created pools of water to irrigate the groves of young trees."
+        },
+        {
+          "number": 7,
+          "latin": "Feci mihi aquarum piscinas, ad irrigandum silvam lignorum nascentium.",
+          "english": "I had many servants and maids, and more possessions than anyone before me in Jerusalem."
+        },
+        {
+          "number": 8,
+          "latin": "Possedi servos et ancillas, et multos vernaculos: et oves et armenta prae omnibus qui fuerunt ante me in Jerusalem.",
+          "english": "I gathered for myself silver and gold, and the treasure of kings and provinces. I provided for myself singers and musicians, and the delights of the sons of men: many of them."
+        },
+        {
+          "number": 9,
+          "latin": "Congregavi mihi argentum et aurum, et substantias regum ac provinciarum: feci mihi cantores et cantatrices, et delicias filiorum hominum, scilicet vasos vini.",
+          "english": "So I became great, more so than anyone before me in Jerusalem. I always kept my wisdom."
+        },
+        {
+          "number": 10,
+          "latin": "Et factus sum grandis, et praecessi omnes, qui fuerunt ante me in Jerusalem: insuper et sapientia mea permansit me.",
+          "english": "And I did not deny my eyes anything they desired. I refused to restrain my heart from any pleasure. I was glad in all my labor. This was my reward."
+        },
+        {
+          "number": 11,
+          "latin": "Et nihil denegavi oculis meis, quod petissent, nec prohibui cor meum, quin omni voluptate frueretur, et oblectaret se in his, quos paraveram: et hanc existimavi esse partem meam, ut uterer labore meo.",
+          "english": "I turned to consider all the works that my hands had accomplished, and the labor which I had toiled at. And behold, all was vanity and affliction of mind, and no profit under the sun."
+        },
+        {
+          "number": 12,
+          "latin": "Cumque me convertissem ad opera, quae fecit manus meae, et ad labores quos operatus sum in eis, vidi in omnibus vanitatem et afflictionem animi, et nihil permanere sub sole.",
+          "english": "I then turned to consider wisdom, and madness, and folly. For what can a man do who comes after the king? What has he done already?"
+        },
+        {
+          "number": 13,
+          "latin": "Et transivi ad considerandum sapientiam, et stultitiam, et errorem: quis est enim homo, qui potest sequi regem, et facere aliud quam iam fecit?",
+          "english": "I saw that wisdom is better than folly, as light is better than darkness."
+        },
+        {
+          "number": 14,
+          "latin": "Et vidi quod plus praecederet sapientia stultitiam, sicut lux praecedit tenebras.",
+          "english": "The wise man has eyes in his head, but the fool walks in darkness. But I understood that one fate comes to both of them."
+        },
+        {
+          "number": 15,
+          "latin": "Sapientis oculi in capite eius, stultus in tenebris graditur: et didici quod unus inter utrosque casus esset.",
+          "english": "Then I said in my heart, “As the fool is, so am I.” Why then have I been so very wise? I then realized this was also futility."
+        },
+        {
+          "number": 16,
+          "latin": "Et dixi in corde meo: Si et ego pervenio ad eundem casum, qui est stultus, quid mihi prodest quod fui doctior? Et locutus sum in corde meo, et ipse quoque vanitas est.",
+          "english": "There is no permanent memory of the wise, and no lasting memory of the fool. In the coming days, all will be forgotten."
+        },
+        {
+          "number": 17,
+          "latin": "Non enim erit memoria sapientis pariter cum stulto in perpetuum: quia futura omnia oblivione absorpta sunt. Heu, moritur sapiens, simul et stultus!",
+          "english": "So I hated life, because all things done under the sun were grievous to me. For everything is vanity and an affliction of mind."
+        },
+        {
+          "number": 18,
+          "latin": "Et odisse coepi vitam, quia malum est mihi omne quod fit sub sole: vanitas et afflictio spiritus.",
+          "english": "I hated all the fruit of my labor, which I had gained under the sun. I must leave it for the man who comes after me."
+        },
+        {
+          "number": 19,
+          "latin": "Et detestatus sum omnem laborem meum, quo ego laboravi sub sole, quem relicturus sum homini, qui post me nascetur.",
+          "english": "Who knows whether he will be wise or foolish? Yet he will have control over all my labor in which I have toiled under the sun. This also is vanity."
+        },
+        {
+          "number": 20,
+          "latin": "Et quis scit, utrum sapiens an stultus nasciturus sit? Et tamen dominabitur in laboribus meis, quibus desudavi et sollicitus fui. Et hoc quoque vanitas est.",
+          "english": "So I began to despair of all my labor at which I had toiled under the sun."
+        },
+        {
+          "number": 21,
+          "latin": "Coepi ergo vertere cor meum, ut desperarem de omni labore meo, quo ego laboravi sub sole.",
+          "english": "For there is a man who has labored with wisdom, and knowledge, and skill, but who must then give his portion to a man who did not labor for it. This also is vanity and great evil."
+        },
+        {
+          "number": 22,
+          "latin": "Nam est homo, qui laboravit in sapientia, et scientia, et sollicitudine: et alter possessor accipiet, qui non laboravit in eo. Et hoc vanitas est, et magnum malum.",
+          "english": "For what does a man get from all his labor and toil at which he toils under the sun?"
+        },
+        {
+          "number": 23,
+          "latin": "Quid enim prodest homini de universo labore suo, et de sollicitudine cordis sui, qua laborat sub sole?",
+          "english": "For all his days are full of grief, and his task is a source of sorrow. Even at night, his heart is not at rest. This also is vanity."
+        },
+        {
+          "number": 24,
+          "latin": "Cuncti enim dies eius dolores, et curae eius, non sunt in nocte requiescens cor eius: et hoc vanitas est.",
+          "english": "There is no good for a man but to eat, drink, and allow his soul to be happy in his labor. Then I saw that this also is from the hand of God."
+        },
+        {
+          "number": 25,
+          "latin": "Non est melius pro homine, quam ut comedat et bibat, et ostendat animam suam in bonis suis. Vidi quod et hoc de manu Dei est.",
+          "english": "Who indeed can eat, or who can rejoice, without Him?"
+        },
+        {
+          "number": 26,
+          "latin": "Quis enim comedet, et quis, vel quis impinguabit sine eo?",
+          "english": "To the man who pleases Him, God gives wisdom, and knowledge, and joy. But to the sinner, God gives the task of gathering and collecting so that it can then be given to him who pleases God. This also is vanity and an affliction of the mind."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Omnia tempus habent, et tempus universae rei sub caelo.",
+          "english": "Everything happens at the right time, in its season, and there is a specific time for everything that happens under the sky."
+        },
+        {
+          "number": 2,
+          "latin": "Tempus nasci, et tempus mori; tempus plantare, et tempus vellere quod plantatum est;",
+          "english": "There is a time to be born, and a time to die; a time to plant, and a time to uproot what has been planted."
+        },
+        {
+          "number": 3,
+          "latin": "Tempus occidere, et tempus sanare; tempus destruere, et tempus aedificare;",
+          "english": "A time to kill, and a time to heal; a time to destroy, and a time to build up."
+        },
+        {
+          "number": 4,
+          "latin": "Tempus flere, et tempus ridere; tempus plangere, et tempus saltare;",
+          "english": "A time to weep, and a time to laugh; a time to mourn, and a time to dance."
+        },
+        {
+          "number": 5,
+          "latin": "Tempus spargere lapides, et tempus colligere; tempus amplexari, et tempus longe facere amplexus;",
+          "english": "A time to scatter stones, and a time to gather stones; a time to embrace, and a time to refrain from embracing."
+        },
+        {
+          "number": 6,
+          "latin": "Tempus acquirere, et tempus perdere; tempus custodire, et tempus proiicere;",
+          "english": "A time to gain, and a time to lose; a time to keep, and a time to cast away."
+        },
+        {
+          "number": 7,
+          "latin": "Tempus scindere, et tempus consuere; tempus tacere, et tempus loqui;",
+          "english": "A time to tear, and a time to sew; a time to be silent, and a time to speak."
+        },
+        {
+          "number": 8,
+          "latin": "Tempus diligere, et tempus odi; tempus belli, et tempus pacis.",
+          "english": "A time to love, and a time to hate; a time for war, and a time for peace."
+        },
+        {
+          "number": 9,
+          "latin": "Quid habet amplius qui laborat, in eo in quo laborat?",
+          "english": "What does the worker gain from his toil?"
+        },
+        {
+          "number": 10,
+          "latin": "Vidi afflictionem quam dedit Deus filiis hominum ut affligantur in ea.",
+          "english": "I have seen the burden that God has given the children of men to be afflicted in it."
+        },
+        {
+          "number": 11,
+          "latin": "Cuncta fecit speciosa in tempore suo, et mundum tradidit cordi eorum, ut non inveniat homo opus quod operatus est Deus ab initio usque ad finem.",
+          "english": "He has made everything beautiful in its time, and He has put eternity into their hearts, so that no man can find out the work that God has done from the beginning to the end."
+        },
+        {
+          "number": 12,
+          "latin": "Cognovi quod non esset melius eis, nisi laetari, et facere bene in vita sua;",
+          "english": "I have known that there is no better thing for them than to rejoice, and to do good in their life."
+        },
+        {
+          "number": 13,
+          "latin": "sed et ut omnis homo, qui comedit et bibit, et videt bonum de labore suo, hoc donum Dei est.",
+          "english": "Also, that every man should eat and drink and enjoy the good of all his labor—this is the gift of God."
+        },
+        {
+          "number": 14,
+          "latin": "Cognovi quod omnia opera quae facit Deus, perseverant in perpetuum; non possumus eis addere, nec auferre; et hoc egit Deus ut timeatur.",
+          "english": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it. And this God does, so that men should fear Him."
+        },
+        {
+          "number": 15,
+          "latin": "Quod fuit, iam est; et quod futurum est, iam fuit: et Deus instaurat quod abiit.",
+          "english": "That which has been is already, and that which is to be has already been. And God restores what has passed."
+        },
+        {
+          "number": 16,
+          "latin": "Vidi praeterea sub sole locum iudicii, et ibi iniquitatem; et locum iustitiae, et ibi iniquitatem.",
+          "english": "And moreover, I have seen under the sun the place of judgment, where wickedness was, and the place of righteousness, where wickedness was."
+        },
+        {
+          "number": 17,
+          "latin": "Et dixi in corde meo: Justum et impium iudicabit Deus, et tempus omnis rei.",
+          "english": "And I said in my heart, “God will judge both the righteous and the wicked.” For there is a time for every matter, and for every work."
+        },
+        {
+          "number": 18,
+          "latin": "Dixi in corde meo de filiis hominum, quod probaret eos Deus, et ostenderet similes bestiis ipsos.",
+          "english": "I said in my heart concerning the sons of men, that God would test them, and that they might see that they themselves are beasts."
+        },
+        {
+          "number": 19,
+          "latin": "Quia quod pertinet ad filios hominum, et quod ad iumenta, unum est: quomodo moritur unus, sic et moritur alter: sed omnia in spiritu pari, et nihil habet homo plus quam iumentum: cuncta vanitas.",
+          "english": "For the fate of the sons of men and the fate of beasts is the same: As one dies, so dies the other; and all have the same breath. Man has no advantage over the beast, for all is vanity."
+        },
+        {
+          "number": 20,
+          "latin": "Et idcirco non diligit homo animam suam, et quia vanitas est.",
+          "english": "All go to one place; all came from the dust, and all return to the dust."
+        },
+        {
+          "number": 21,
+          "latin": "Quis novit si spiritus filiorum hominum ascendat sursum, et si spiritus iumentorum descendat deorsum in terram?",
+          "english": "Who knows whether the spirit of the sons of men ascends upward, and the spirit of the beasts descends downward to the earth?"
+        },
+        {
+          "number": 22,
+          "latin": "Et vidi quod nihil est melius quam laetari homo in opere suo; et hanc esse partem eius: quis enim adducet eum ut videat quae futura sunt?",
+          "english": "So I saw that there is nothing better than that a man should rejoice in his works; for that is his portion. For who shall bring him back to see what will be after him?"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Reversus ego sum, et vidi omnes calumnias, quæ sub sole geruntur, et ecce, lacrymæ innocentium, et consolator eis nullus: et a violentia sustinentes, et non habentes qui consolaretur.",
+          "english": "I then returned and saw all the oppression going on in the world. I observed the tears of the innocent, and there was no one to comfort them. They were being violently attacked by those in power, but there was no one to help them."
+        },
+        {
+          "number": 2,
+          "latin": "Et laudavi mortuos, qui jam defuncti sunt, magis quam viventes adhuc.",
+          "english": "I consider those who have died to be more blessed than those who are still alive."
+        },
+        {
+          "number": 3,
+          "latin": "Et melior utroque existimavi, qui necdum natus est, nec vidit mala quæ sub sole fiunt.",
+          "english": "I even felt that it would be better not to have been born at all, so that one wouldn't see the evil that goes on in the world."
+        },
+        {
+          "number": 4,
+          "latin": "Rursum consideravi omnem laborem hominis, et industriam spiritus, quod invidia proximi hoc est.",
+          "english": "I noticed that all the hard work done by humans is fueled by envy of others."
+        },
+        {
+          "number": 5,
+          "latin": "Et hoc vanitas est, et afflictio animi, cum quis prætendit saturare animam suam.",
+          "english": "This is vanity, a chasing after the wind, as the envious person tries to satisfy his own greed."
+        },
+        {
+          "number": 6,
+          "latin": "Melior est plénior una manu, quam duæ manus cum labore et sollicitudine spiritus.",
+          "english": "It is better to be satisfied with one handful of possessions than two handfuls, if you are working to gain those things with anxieties of the spirit."
+        },
+        {
+          "number": 7,
+          "latin": "Vanitas etiam hic, et frustratio animi.",
+          "english": "This, too, is vanity and a striving after the wind."
+        },
+        {
+          "number": 8,
+          "latin": "Est et alius solitarius, et non habet secundum: absque filio et fratre, et tamen laborare non cessat, nec oculos ejus saturant divitiæ: nec cogitat, dicens: Cui laboro, et fraudo animam meam bonis?",
+          "english": "There is also the case of the solitary man, who has no companion, no son or brother, and yet his work never ends, and his eyes are never satisfied with riches. He never thinks, \"For whom am I working, and depriving myself of pleasure?\""
+        },
+        {
+          "number": 9,
+          "latin": "Et in hoc quoque vanitas est, et magnum hoc malum.",
+          "english": "This, too, is vanity, and a miserable business."
+        },
+        {
+          "number": 10,
+          "latin": "Melior est enim societas duorum, quam unius: habent enim emolumentum societatis suæ.",
+          "english": "Two are better than one, because they have a good return for their labor."
+        },
+        {
+          "number": 11,
+          "latin": "Si unus ceciderit, ab altero fulcietur: væ soli, quia cum ceciderit, non habet sublevantem.",
+          "english": "If either of them falls, the one will lift up his companion. But pity the person who falls and has no one to help him up."
+        },
+        {
+          "number": 12,
+          "latin": "Et si dormierint duo, fovebuntur mutuo: unus quomodo potest calefieri?",
+          "english": "Also, if two lie down, they will keep each other warm. But how can one person be warm alone?"
+        },
+        {
+          "number": 13,
+          "latin": "Et si prævaluerit contra unum, duo resistent ei: funiculus triplex difficile rumpitur.",
+          "english": "Though one is overpowered, two can defend themselves. A three-ply cord is not easily broken."
+        },
+        {
+          "number": 14,
+          "latin": "Melior est puer pauper et sapiens, quam rex senex et stultus, qui nescit prævideri ultra.",
+          "english": "Better is a poor but wise youth than an old and foolish king who no longer knows how to heed warnings."
+        },
+        {
+          "number": 15,
+          "latin": "Quia de carcere exivit ad regnum: et alius pauper natus est in regno.",
+          "english": "For even when the king was formerly imprisoned, he could come to power, and then another poor person could be born into the kingdom."
+        },
+        {
+          "number": 16,
+          "latin": "Vidi cunctos viventes, qui ambulant sub sole, cum puero adolescente, qui consors futurus est illorum.",
+          "english": "I considered all the living who are walking under the sun, and I was struck by the fact that the next young man will soon take over the kingdom."
+        },
+        {
+          "number": 17,
+          "latin": "Nec est finis infinitus omni populo, quem præcessit: et qui sequuntur, non lætabuntur in eo. Sed et hoc vanitas est, et afflictio animi.",
+          "english": "There is no end to all those who preceded him, and those who come after will not rejoice in him. This, too, is vanity and striving after the wind."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Custodi pedem tuum, cum ingressus fueris domum Dei: et magis audire. Multus est enim sensus, et stultorum culpa, quasi sacrificium. ",
+          "english": "Be careful when you go to the house of God. Give more heed to the Word of God than to the words of foolish men, lest you make a sacrifice to the folly of men."
+        },
+        {
+          "number": 2,
+          "latin": "Ne proferas verbum temere, et cor tuum non emittat velociter sermonem coram Deo. Deus enim in caelo, et tu super terram: ideo pauca sint verba tua.",
+          "english": "Don’t speak rashly. Don’t let your heart be too quick to utter a word before God. God is in the universe, and you are upon the earth, so let your words be few."
+        },
+        {
+          "number": 3,
+          "latin": "Sopor enim venit per multas occupationes: et stultus in multiloquio, agnoscetur.",
+          "english": "For sleep comes with many activities, and the fool is recognized in much speech."
+        },
+        {
+          "number": 4,
+          "latin": "Cum voveris votum Deo, ne moreris reddere: displicet enim ei infidelis et stulta promissio. Quodcumque voveris, redde.",
+          "english": "When you vow a vow to God, don’t delay to pay it, for God hates a foolish and unreliable promise. Whatever you vow, pay it."
+        },
+        {
+          "number": 5,
+          "latin": "Melius est non vovere, quam votum, quod promiseras, non reddere.",
+          "english": "It is better not to vow than to make a vow and not fulfill it."
+        },
+        {
+          "number": 6,
+          "latin": "Ne permittas os tuum, ut te peccare faciat: nec dicas coram angelo, quod imprudentia est. Ne forte iratus Deus contra sermonem tuum, demoliat opere manuum tuarum.",
+          "english": "Don’t let your mouth cause you to sin, and don’t say before an angel, “It was a mistake.” Don't let God, angry at your words, destroy the works of your hands."
+        },
+        {
+          "number": 7,
+          "latin": "Ubi multa somnia, multa et vanitates, et verba plurima: tu vero Deum time.",
+          "english": "When there are many dreams, there are many vanities, and many words. But you, fear God."
+        },
+        {
+          "number": 8,
+          "latin": "Si videris opprimi pauperem, et rapinam violenter auferri judicio, et justitia, ne mireris super hoc negotio: quia excelsus aliis excelsior est: et altiores sunt super illos, et adhuc altiores super illos.",
+          "english": "If you see the poor oppressed and justice and righteousness violently taken away in a judgment, don’t be surprised at this situation, because the highest is greater than the others, and there are higher ones than them, and still others higher than those."
+        },
+        {
+          "number": 9,
+          "latin": "Et utilitas terrae in omnibus: rex ipse a colono cultus est.",
+          "english": "Moreover, the advantage of the land is for all. Even a king depends on the harvest."
+        },
+        {
+          "number": 10,
+          "latin": "Qui diligit pecuniam, non satiabitur pecunia: et qui amat divitias, fructum non capiet ex eis. Et hoc quoque vanitas.",
+          "english": "The one who loves money will not be satisfied with money. Whoever loves riches will get no fruit from them, and this too is vanity."
+        },
+        {
+          "number": 11,
+          "latin": "Ubi creverint bona, et qui eos comedunt, multiplicati sunt: quid ergo prodest possessori, nisi quod cernit oculis suis?",
+          "english": "When goods increase, so do those who consume them. So what advantage is there to the possessor except to see them with his eyes?"
+        },
+        {
+          "number": 12,
+          "latin": "Dulcis est somnus operanti, sive parum, sive multum comederit: saturitas autem divitis non sinit eum dormire.",
+          "english": "Sweet is the sleep of the worker, whether he eats little or much, but the abundance of the rich does not allow him to sleep."
+        },
+        {
+          "number": 13,
+          "latin": "Est et aliud incommodum pessimum, quod vidi sub sole: divitiae conservatae in malum domini sui.",
+          "english": "There is also another most grievous evil that I have seen under the sun: riches preserved for the harm of their owners."
+        },
+        {
+          "number": 14,
+          "latin": "Pereunt enim in afflictione pessima: et genuerunt filium, qui in nihilum redigitur.",
+          "english": "For riches are destroyed in evil circumstances, and when they beget a son, he comes to nothing."
+        },
+        {
+          "number": 15,
+          "latin": "Sicut egressus est nudus de utero matris suae, et revertetur nudus, et non auferet quidquam de labore suo, quod portare possit in manu.",
+          "english": "As he came naked from his mother’s womb, so will he return naked, and will take nothing for his labor that he can carry in his hand."
+        },
+        {
+          "number": 16,
+          "latin": "Et hoc quoque malum est pessimum: quod eodem modo quo venit, abibit. Quid ergo prodest ei quod laboravit in ventum?",
+          "english": "This is also a most grievous evil: that he departs in the same way that he came. What advantage then is it to him that he has labored for the wind?"
+        },
+        {
+          "number": 17,
+          "latin": "Cunctis diebus suis comedit in tenebris, et in multis erumnis, et in indignatione, et in dolore.",
+          "english": "All his days he eats in darkness, with much sorrow, and indignation, and grief."
+        },
+        {
+          "number": 18,
+          "latin": "Ecce quod vidi bonum, et pulchrum, comedere et bibere, et frui bonis ex labore suo, quo laborat homo sub sole, numero dierum vitae suae, quos dedit ei Deus: hoc est enim pars illius.",
+          "english": "Behold, what I have seen to be good and beautiful is to eat and drink and enjoy the good of one’s labor under the sun during the number of days of his life that God has given him, for this is his portion."
+        },
+        {
+          "number": 19,
+          "latin": "Cui dedit Deus divitias, et substantiam, et tribuit ei potestatem ut comedat ex eis, et suscipiat partem suam, et laetetur de labore suo: hoc est donum Dei.",
+          "english": "For everyone to whom God gives riches and possessions and grants the power to eat of them, to receive his portion, and to rejoice in his labor, this is a gift of God."
+        },
+        {
+          "number": 20,
+          "latin": "Non enim frequenter recordabitur dierum vitae suae: quibus Deus occupat in laetitia cordis ejus.",
+          "english": "For he will not often remember the days of his life, because God occupies him with the joy of his heart."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Est et aliud malum, quod vidi sub sole, et quidem frequens inter homines:",
+          "english": "Here's another problem I see happening among mankind:"
+        },
+        {
+          "number": 2,
+          "latin": "viri cui dederit Deus divitias, et substantiam, et honorem, et nihil deficiat animæ suæ ex omnibus quæ desiderat, nec tribuat ei Deus potestatem ut vescatur ex eis, sed homo alienus comedat illa: hoc vanitas est et magna miseria.",
+          "english": "A man to whom God gives wealth, property, and honor, and who lacks nothing of all he desires, but God doesn't let him enjoy any of it. Instead, a stranger consumes it. This is vanity and great suffering."
+        },
+        {
+          "number": 3,
+          "latin": "Si generaverit quispiam centum liberos, et vixerit multos annos, et plures dies ætatis habuerit, et animam ejus bonis non satiaverit, sepulturaque careat: de hoc ego pronuntio quod melior illo sit abortivus.",
+          "english": "If a man fathers a hundred children, and lives many years, and accumulates many days of life, but his soul is not satisfied with good things, and he gets no proper burial, then I declare that an infant who died before birth is better off than he is."
+        },
+        {
+          "number": 4,
+          "latin": "Quoniam frustra venit, et in tenebris abibit, et in caligine nomen ejus operietur.",
+          "english": "The stillborn comes in vain, and goes into darkness, and his name is covered in shadows."
+        },
+        {
+          "number": 5,
+          "latin": "Neque vidit solem, neque cognovit distantiam boni et mali.",
+          "english": "He never saw the sun, nor knew the difference between good and evil."
+        },
+        {
+          "number": 6,
+          "latin": "Etsi duobus milibus annis vixerit, et bonorum non fuerit gavisus: nonne ad unum locum properant omnia?",
+          "english": "Even if he lived two thousand years, yet did not enjoy good things, wouldn't everything be heading to the same place?"
+        },
+        {
+          "number": 7,
+          "latin": "Omnis labor hominis pro ore ejus, sed anima ejus non impletur.",
+          "english": "All human labor is for his mouth, but his soul is never filled."
+        },
+        {
+          "number": 8,
+          "latin": "Quid habet amplius sapiens a stulto? Et quid pauper, nisi ut eat illuc?",
+          "english": "So, what does the wise man have more than the fool? And what does the poor man gain by living?"
+        },
+        {
+          "number": 9,
+          "latin": "Melius est visus oculorum quam ambitus animæ. Sed et hoc vanitas est.",
+          "english": "It is better to enjoy what you see than to give in to desire. But this too is vanity."
+        },
+        {
+          "number": 10,
+          "latin": "Quod enim est, jam vocatum est nomine suo: et scitur quod homo non possit contra fortiora contendere.",
+          "english": "Whatever exists has already been named, and it is known that man cannot fight against what is stronger than he is."
+        },
+        {
+          "number": 11,
+          "latin": "Multa sunt quæ multiplicant vanitatem: quid habet homo amplius?",
+          "english": "There are many things that multiply vanity; what does man have more than vanity?"
+        },
+        {
+          "number": 12,
+          "latin": "Quis enim scit quid in vita bonum sit homini in numero dierum vitæ vanitatis suæ, quos velut umbra transit? Quis enim annuntiabit homini quid post eum futurum sit sub sole?",
+          "english": "For who knows what is good for man during his lifetime of vanity, which he passes like a shadow? Who can tell a man what will happen after him under the sun?"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Melior est bonum unguentum, et dies mortis, die nativitatis.",
+          "english": "A good reputation is better than expensive perfume, and the day of death is better than the day of birth."
+        },
+        {
+          "number": 2,
+          "latin": "Melior est ire ad domum luctus, quam ad domum convivii: in illa enim finis cunctorum, et vivens cogitabit quid futurum sit.",
+          "english": "It is better to go to a house of mourning than to a house of feasting: because there we can contemplate the end of all things, and the living can remember what is to come."
+        },
+        {
+          "number": 3,
+          "latin": "Melior est tristitia risu: quia per tristitiam corrigitur animus.",
+          "english": "Sorrow is better than laughter, because through sorrow, the mind can be corrected."
+        },
+        {
+          "number": 4,
+          "latin": "Cor sapientium ubi tristitia est, et cor stultorum ubi laetitia.",
+          "english": "The wise have sorrow in their heart, but the fools have only the foolishness of laughter."
+        },
+        {
+          "number": 5,
+          "latin": "Melior est audire correptionem sapientis, quam virum canentem canticum stultorum.",
+          "english": "It is better to listen to the rebuke of the wise than to the song of fools."
+        },
+        {
+          "number": 6,
+          "latin": "Quia sicut sonitus spinarum sub olla, sic risus stulti: et hoc quoque vanitas.",
+          "english": "For as the sound of thorns under a pot, so is the laughter of a fool: and this also is vanity."
+        },
+        {
+          "number": 7,
+          "latin": "Calumnia conturbat sapientem, et perdet robur cordis ejus.",
+          "english": "Oppression makes the wise man foolish, and it destroys the strength of his heart."
+        },
+        {
+          "number": 8,
+          "latin": "Melior est finis sermonis quam initium. Melior est patiens superbum spiritu.",
+          "english": "The end of a matter is better than its beginning. It is better to be patient than to be proud."
+        },
+        {
+          "number": 9,
+          "latin": "Ne sis velox ad irascendum, quia ira in sinu stulti requiescit.",
+          "english": "Do not be quick to anger, for anger rests in the bosom of a fool."
+        },
+        {
+          "number": 10,
+          "latin": "Noli dicere: Quid putas quod prioris temporis vita melior fuit quam ista? quia stulta est ista quæris.",
+          "english": "Do not say: “Why do you think that the life of the past was better than this?” because that is a foolish question."
+        },
+        {
+          "number": 11,
+          "latin": "Bonus est sapientia cum divitiis, et prodest viventibus lux.",
+          "english": "Wisdom is good with riches, and those who live under the light find benefit."
+        },
+        {
+          "number": 12,
+          "latin": "In umbra enim sapientiæ, et in umbra pecuniæ, erit protectio: sed et eruditio sapientiæ, proteget possessorem suum.",
+          "english": "For under the shadow of wisdom and under the shadow of wealth, there is protection: but the knowledge of wisdom protects its owner."
+        },
+        {
+          "number": 13,
+          "latin": "Considera opera Dei, quod nemo possit corrigere quem ille despexerit.",
+          "english": "Consider the works of God, for no one can correct what He has rejected."
+        },
+        {
+          "number": 14,
+          "latin": "In die bona fruere bonis, et malorum die cogita, et hunc contra illum Deus fecit, ut non inveniat homo contra se quicquam.",
+          "english": "On a good day, enjoy good things, and in the day of evil, consider: God made one against the other, so that man may not find anything against himself."
+        },
+        {
+          "number": 15,
+          "latin": "Cuncta vidi in diebus vanitatis meæ: est justus qui perit in justitia sua, et est impius qui multo vivit tempore in impietate sua.",
+          "english": "I have seen everything in the days of my vanity: there is a just man who perishes in his justice, and there is a wicked man who lives a long time in his wickedness."
+        },
+        {
+          "number": 16,
+          "latin": "Noli esse justus nimis, neque plus sapias quam necesse est, ne exteraris.",
+          "english": "Do not be overly just, nor become wiser than necessary, lest you be astonished."
+        },
+        {
+          "number": 17,
+          "latin": "Noli esse impius nimis, et stultus ne fias. Quare morieris in tempore non tuo?",
+          "english": "Do not be excessively wicked, nor become foolish. Why will you die before your time?"
+        },
+        {
+          "number": 18,
+          "latin": "Bonum est ut te contineas in istis, et ab illis manum non auferas: timens enim Deum, custodit omnia.",
+          "english": "It is good to restrain yourself in these things and not withdraw your hand from them: for he who fears God keeps all the commandments."
+        },
+        {
+          "number": 19,
+          "latin": "Sapientia fortior est septem potentibus qui dominantur in civitate.",
+          "english": "Wisdom is stronger than seven powerful men who rule a city."
+        },
+        {
+          "number": 20,
+          "latin": "Vix est enim ullus justus in terra, qui faciat bonum et non peccet.",
+          "english": "For there is scarcely any just man on earth, who does good and does not sin."
+        },
+        {
+          "number": 21,
+          "latin": "Sed et cunctis verbis quæ dicuntur, ne accipias cor tuum, ne forte audias servum tuum maledicentem tibi.",
+          "english": "Do not take to heart all the words that are spoken, lest you hear your servant cursing you."
+        },
+        {
+          "number": 22,
+          "latin": "Sæpe enim etiam cor tuum novit multos alios maledicentes tibi.",
+          "english": "For your heart often knows that many others have cursed you."
+        },
+        {
+          "number": 23,
+          "latin": "Cuncta probavi in sapientia: dixi: Sapiens ero: et ipsa longius recessit a me.",
+          "english": "All these things I have tested in wisdom: I said, “I will be wise,” but it went far from me."
+        },
+        {
+          "number": 24,
+          "latin": "Longius erat quam fuit, et profundius. Quis inveniet eam?",
+          "english": "It was further away than it had been, and more profound. Who can find it?"
+        },
+        {
+          "number": 25,
+          "latin": "Circuivi universa in corde meo, ut scirem et considerarem et quærerem sapientiam et rationem, et ut cognoscerem impietatem stulti, et errorem imprudentium:",
+          "english": "I went around everything in my heart, so that I might know and consider and seek wisdom and reason, and so that I might know the wickedness of the fool, and the error of the imprudent:"
+        },
+        {
+          "number": 26,
+          "latin": "et inveni amariorem morte mulierem, quæ est plaga cordis, et laqueus venatorum: qui placet Deo, effugiet eam: qui autem peccator est, capietur ab illa.",
+          "english": "And I found a woman more bitter than death, who is the snare of the heart, and a snare of the hunters: he who pleases God will escape her: but he who is a sinner will be caught by her."
+        },
+        {
+          "number": 27,
+          "latin": "Ecce hoc inveni, dicit Ecclesiastes, unum post unum ut invenirem rationem.",
+          "english": "Behold, this I have found, says Ecclesiastes, one after another to find reason."
+        },
+        {
+          "number": 28,
+          "latin": "Quam adhuc quærit anima mea, et non inveni: virum ex mille unum repperi: mulierem ex omnibus non inveni.",
+          "english": "Which my soul still seeks, and has not found: among a thousand men I found one, but among all women I did not find one."
+        },
+        {
+          "number": 29,
+          "latin": "Tantummodo hoc inveni, quod fecit Deus hominem rectum, quem ipse implicuit infinitis quæstionibus.",
+          "english": "This only have I found, that God made man upright, but he himself entangled himself in endless questions."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quis est ut sapiens, et quis est qui novit solutionem verbi ? Sapientia hominis illuminat faciem ejus, et vultus illius immutatur.",
+          "english": "Who is like the wise man, and who understands the meaning of a word? A man's wisdom illuminates his face, and his face is changed."
+        },
+        {
+          "number": 2,
+          "latin": "Ego os regis observo, et praecepta juramenti Dei.",
+          "english": "I am instructed by the king and I obey the rules that God created."
+        },
+        {
+          "number": 3,
+          "latin": "Ne festines recedere a facie ejus, et ne permaneas in opere malo.",
+          "english": "Do not be in a hurry to leave his presence, and do not persist in evil."
+        },
+        {
+          "number": 4,
+          "latin": "Omnia enim quae voluerit, faciet: ubi verbum regis est, potestas.",
+          "english": "Because he will do whatever he wants, and where the king's word is, there is power."
+        },
+        {
+          "number": 5,
+          "latin": "Qui custodit praeceptum, non sentiet quicquam mali: cor sapiens novit tempus et modum.",
+          "english": "Anyone who obeys a command will not feel anything bad. The wise heart knows the proper timing."
+        },
+        {
+          "number": 6,
+          "latin": "Omnis enim res habet tempus et modum, et multa nequitia hominis opprimit eum.",
+          "english": "Every matter has its own time and mode, and a lot of evil oppresses a man."
+        },
+        {
+          "number": 7,
+          "latin": "Quia ignorat quid venturum sit: et futurum quis indicabit ei ?",
+          "english": "Because he does not know what will happen: and who will tell him the future?"
+        },
+        {
+          "number": 8,
+          "latin": "Homo non habet potestatem in spiritu, ut coerceat spiritum: neque potestatem in die mortis, nec in proelio valere nequitia, nec salvare impietatem qui habet eam.",
+          "english": "A man does not have power over the spirit to restrain the spirit, nor power on the day of his death. He cannot win an evil conflict, nor can he save the one who is impious."
+        },
+        {
+          "number": 9,
+          "latin": "Omnia haec observavi, et dedi cor meum in omnia opera quae fiunt sub sole: quando dominatur homo homini in malum ejus.",
+          "english": "All of these things I have observed, and I have given my heart to all the works which are done under the sun, when a man rules over another man to his evil."
+        },
+        {
+          "number": 10,
+          "latin": "Et ita vidi impios sepultos, qui erant et qui operati sunt in sancto loco: et laudati sunt in civitate, quod fecerant. Et hoc vanitas.",
+          "english": "Then I saw the wicked buried, and those who worked in the holy place: and they were praised in the city for what they had done. And this is vanity."
+        },
+        {
+          "number": 11,
+          "latin": "Ideo quia non profertur cito contra malos sententia, ideo pleni sunt filii hominum cordibus malis.",
+          "english": "Because the sentence against the wicked is not quickly pronounced, therefore the children of men are full of evil hearts."
+        },
+        {
+          "number": 12,
+          "latin": "Sed etsi centies peccaverit impius, et quasi prolongavit Deus ei, scio quod erit bonum timentibus Deum, qui verentur faciem ejus.",
+          "english": "Even if the impious sins a hundred times, and God seems to have prolonged his life, I know that it will be good for those who fear God, who revere His face."
+        },
+        {
+          "number": 13,
+          "latin": "Impio autem bene non erit, nec prolongabit umbram suam, sicut umbra.",
+          "english": "But it will not be good for the wicked man, nor will he prolong his shadow, as the shadow of a tree."
+        },
+        {
+          "number": 14,
+          "latin": "Est et vanitas quae fit super terram: sunt justi quibus mala proveniunt, quasi opera impiorum, et sunt impii quibus bona eveniunt, quasi opera justorum. Et hoc quoque vanitas.",
+          "english": "There is a vanity which occurs on the earth: there are just men to whom evils happen, as if they were the works of the wicked, and there are wicked men to whom good things happen, as if they were the works of the just. This also is vanity."
+        },
+        {
+          "number": 15,
+          "latin": "Laudavi igitur gaudium, quod non est melius homini sub sole, quam manducare et bibere, atque laetari, et hoc comitari eum in labore suo, per dies vitae suae, quos dedit Deus ei sub sole.",
+          "english": "I therefore praised joy, because there is nothing better for a man under the sun than to eat and drink, and to be joyful, and that this should accompany him in his labor, during the days of his life, which God has given him under the sun."
+        },
+        {
+          "number": 16,
+          "latin": "Dedi proposui cor meum ut scirem sapientiam, et viderem conversationem quae versatur in terra: quia die ac nocte vigilans somnum non capit oculus meus.",
+          "english": "I set my heart to know wisdom, and to see the activity which is carried on in the earth: because my eyes do not take sleep, day or night."
+        },
+        {
+          "number": 17,
+          "latin": "Et intellexi quod universa opera Dei sunt, nec possit homo invenire opus quod factum est sub sole: et quanto plus laboraverit homo ad quaerendum, tanto minus inveniet.",
+          "english": "And I understood that all the works of God are, and a man cannot find the work that is done under the sun, and the more a man labors to seek, the less he will find."
+        },
+        {
+          "number": 18,
+          "latin": "Rursum ego contuli cor meum ut scirem sapientiam, et stultitiam atque imprudentiam. Et cognovi quod et hoc inania essent:",
+          "english": "Again I applied my heart to know wisdom, and foolishness and imprudence. And I knew that this was vanity too:"
+        },
+        {
+          "number": 19,
+          "latin": "Quia in multa sapientia multus est dolor: et qui addit scientiam, addit et dolorem.",
+          "english": "Because in much wisdom there is much sorrow, and whoever increases knowledge increases pain."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Hæc omnia consideravi in corde meo, ut perscrutarer ista, et viderem quod justi, et sapientes, et opera eorum in manu Dei sunt : et tamen nescit homo utrum amore an odio dignus sit.",
+          "english": "I considered all these things within my heart, so that I could investigate them, and see that the righteous, the wise, and their works are in God's hand. Yet, humanity doesn’t know if they are worthy of love or hate."
+        },
+        {
+          "number": 2,
+          "latin": "Sed hoc incertum est, quod omnia in paritatem veniunt : quia una est sors justi et impii, boni et mali, mundi et immundi, immolantis victimas et aspernatoris sacrificii.",
+          "english": "But one thing is certain, that all things come to the same end, because one fate befalls the righteous and the wicked, the good and the evil, the clean and the unclean, the one who sacrifices and the one who rejects sacrifice."
+        },
+        {
+          "number": 3,
+          "latin": "Ideo absurde puto hoc esse quod una eademque mors justum et impium sequitur : bonus et malus simul morientur.",
+          "english": "Because of this, I think it is absurd that the same death awaits the just and the unjust; the good and the bad both die."
+        },
+        {
+          "number": 4,
+          "latin": "Unde melius est homini ut laetetur in opere suo : quia hæc est pars illius. Nam quis eum adducet ut post se sciat quæ futura sunt ?",
+          "english": "Therefore, it is better for people to rejoice in their work, for this is their portion. Who can bring them back to know what is yet to come?"
+        },
+        {
+          "number": 5,
+          "latin": "Omnia quæ in vita agere potes, fac : quia nec opera, nec ratio, nec scientia, nec sapientia erunt apud inferos, quo tu properas.",
+          "english": "Do everything that you can do in life, because neither work, nor reason, nor knowledge, nor wisdom will be in the grave, where you are hastening."
+        },
+        {
+          "number": 6,
+          "latin": "Converti me, et vidi sub sole, non esse velocium cursum, nec fortium bellum, nec sapientium panem, nec doctorum gratiam, nec artificum divitias : sed tempus et casus in omnibus.",
+          "english": "I turned and saw under the sun that the race is not to the swift, nor the war to the strong, nor bread to the wise, nor grace to the educated, nor riches to the skilled; but time and chance happen to them all."
+        },
+        {
+          "number": 7,
+          "latin": "Nescit homo finem suum : sed sicut pisces capiuntur hamo, et sicut aves conprehenduntur laqueo, ita capiuntur homines in tempore malo, cum illis extemplo supervenerit.",
+          "english": "Humanity doesn’t know its end; but as fish are caught with a hook, and as birds are caught in a snare, so humans are trapped in evil times when it suddenly comes upon them."
+        },
+        {
+          "number": 8,
+          "latin": "Hoc quoque vidi sapientiam : et est coram sole magnum.",
+          "english": "This, too, I have seen is wisdom, and is a great thing under the sun."
+        },
+        {
+          "number": 9,
+          "latin": "Civitas parva et pauci in ea viri : venit contra eam rex magnus, et circuivit eam, et construxit in gyro munitiones, et oppugnabat eam.",
+          "english": "There was a small city with few men in it; a great king came against it and surrounded it and built fortifications around it to attack it."
+        },
+        {
+          "number": 10,
+          "latin": "Inventus est in ea vir pauper et sapiens, et liberavit civitatem per sapientiam suam : et nullus deinceps recordatus est hominis illius pauperis.",
+          "english": "A poor and wise man was found in it, and he delivered the city through his wisdom, but no one remembered that poor man afterwards."
+        },
+        {
+          "number": 11,
+          "latin": "Et dicebam ego melior est sapientia quam fortitudo : et quomodo sapientia pauperis contemnitur, et verba ejus non audiuntur.",
+          "english": "And I said wisdom is better than strength; and how the wisdom of the poor is despised, and his words are not heard."
+        },
+        {
+          "number": 12,
+          "latin": "Verba sapientium audiuntur in silentio, plus quam clamor principis inter stultos.",
+          "english": "The words of the wise are heard in silence, more than the clamor of a prince among fools."
+        },
+        {
+          "number": 13,
+          "latin": "Melior est sapientia quam arma bellica : et qui in uno peccaverit, multa bona perdet.",
+          "english": "Wisdom is better than weapons of war, but one who sins destroys many good things."
+        },
+        {
+          "number": 14,
+          "latin": "Mortua musca perdit suavitatem unguenti. Et gloria et sapientia contemnitur, parva et brevis fames : plus quam fatuitas et stultitia.",
+          "english": "A dead fly spoils the sweet scent of the ointment. Glory and wisdom are despised, and a little brief hunger is more than foolishness and stupidity."
+        },
+        {
+          "number": 15,
+          "latin": "Verba sapientis, gratia ; labia stulti, vorago ejus.",
+          "english": "The words of the wise are gracious; the lips of a fool are his own destruction."
+        },
+        {
+          "number": 16,
+          "latin": "Beatus es terra, cujus rex puer est, et cujus principes mane comedunt.",
+          "english": "Blessed are you, land, whose king is a boy, and whose princes eat in the morning."
+        },
+        {
+          "number": 17,
+          "latin": "Beatus es terra, cujus rex nobilis est, et cujus principes vescuntur tempore suo, in cibo et non in luxuria.",
+          "english": "Blessed are you, land, whose king is noble and whose princes eat in due time, for food and not in luxury."
+        },
+        {
+          "number": 18,
+          "latin": "In pigritia humiliabitur contignatio, et in manu ignavi stillabit domus.",
+          "english": "Through laziness, the building decays; through the idleness of hands, the house drips."
+        },
+        {
+          "number": 19,
+          "latin": "In risu fabricat panem : et vinum laetificat viventes ; pecunia, respondet omnibus.",
+          "english": "Men make a feast for laughter, and wine makes the living happy; and money answers everything."
+        },
+        {
+          "number": 20,
+          "latin": "Ne maledicas regi, nec in corde tuo diviti, nec maledicas avibus caeli : quia et volucris caeli portabit verbum, et qui habet pennas, nuntiabit sententiam.",
+          "english": "Do not curse the king, nor in your heart curse the rich; do not curse the birds of the sky, because even the birds of the sky will carry the word, and the one who has wings will announce the judgment."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Musca moriens perdit suavitatem ungenti, et plus honoris sapientia et gloria, quam stultitia modico tempore.",
+          "english": "A dead fly ruins the value of perfumed oil, and wisdom and glory are more honorable than the foolishness of a little while."
+        },
+        {
+          "number": 2,
+          "latin": "Cor sapientis in dextera ejus, et cor stulti in sinistra.",
+          "english": "The heart of the wise man is on the right, and the heart of the fool is on the left."
+        },
+        {
+          "number": 3,
+          "latin": "Sed et in via, stultus ambulans, cum ipse insipiens est, putat omnes stultos.",
+          "english": "Even when the fool walks on the road, he thinks everyone else is a fool."
+        },
+        {
+          "number": 4,
+          "latin": "Si spiritus potestatis surrexerit super te, locum tuum ne dimiseris: quia curatio faciet cessare peccata.",
+          "english": "If the authority of a ruler rises up against you, don't leave your place; because submission makes even great sins stop."
+        },
+        {
+          "number": 5,
+          "latin": "Est et malum quod vidi sub sole, quasi per errorem egrediens a facie principis:",
+          "english": "There is an evil that I have seen under the sun, something that seems to come by accident from the presence of the ruler:"
+        },
+        {
+          "number": 6,
+          "latin": "positus stultus in dignitate sublimi, et divites sedentes deorsum.",
+          "english": "A fool is placed in high office, while rich men are seated below."
+        },
+        {
+          "number": 7,
+          "latin": "Vidi servos in equis, et principes ambulantes quasi servos super terram.",
+          "english": "I have seen servants riding on horses, and princes walking like servants on the ground."
+        },
+        {
+          "number": 8,
+          "latin": "Qui fodit foveam, incidit in eam: et qui destruit sepem, mordebit eum serpens.",
+          "english": "The one who digs a pit will fall into it, and the one who breaks through a wall will be bitten by a serpent."
+        },
+        {
+          "number": 9,
+          "latin": "Qui transfert lapides, contristabitur ex eis: et qui scindit ligna, offendetur in eis.",
+          "english": "The one who moves stones will be hurt by them, and the one who splits wood will be in danger from it."
+        },
+        {
+          "number": 10,
+          "latin": "Si obtusa fuerit ferrum, et hoc minime acutum, sed hebetatur, multum laborandum est: et post industriam dabit adjutorium sapientia.",
+          "english": "If the iron is blunt, and this is not sharp, but blunted, great effort is needed: and after hard work, wisdom will offer aid."
+        },
+        {
+          "number": 11,
+          "latin": "Si momorderit serpens in silentio, nihilominus non est majoris momenti qui occulte detrahens, perdet animam suam.",
+          "english": "If a serpent bites in silence, the whisperer is no less dangerous; he who secretly slanders, destroys his own soul."
+        },
+        {
+          "number": 12,
+          "latin": "Verba oris sapientis gratia, et labia stulti deglutiunt eum.",
+          "english": "The words of the wise man’s mouth are gracious, but the lips of the fool swallow him."
+        },
+        {
+          "number": 13,
+          "latin": "Initium verborum oris ejus stultitia, et principium oris ejus insania pessima.",
+          "english": "The beginning of his mouth’s words is foolishness, and the beginning of his mouth is the worst madness."
+        },
+        {
+          "number": 14,
+          "latin": "Stultus multiplicat verba.",
+          "english": "The fool multiplies words."
+        },
+        {
+          "number": 15,
+          "latin": "Homo ignorans nescit quid futurum sit: et quid post eum futurum sit, quis ei indicabit?",
+          "english": "The ignorant man doesn't know what will happen, and who will tell him what will be after him?"
+        },
+        {
+          "number": 16,
+          "latin": "Vae tibi terrae, cujus rex est puer, et cujus principes mane comedunt.",
+          "english": "Woe to you, O land, whose king is a child, and whose leaders eat in the morning."
+        },
+        {
+          "number": 17,
+          "latin": "Beata terra cujus rex est nobilis, et cujus principes vescuntur tempore suo, ad reficiendum, et non ad luxuriam.",
+          "english": "Blessed is the land whose king is noble, and whose leaders eat at the right time, for strength, and not for excess."
+        },
+        {
+          "number": 18,
+          "latin": "In pigritia humiliabitur contignatio, et in ignavia domus conrumpetur.",
+          "english": "Through laziness the roof will fall in, and through idleness the house will decay."
+        },
+        {
+          "number": 19,
+          "latin": "In risu fabricat panem: et vinum laetificat vivos: pecunia obediens est omnibus.",
+          "english": "Feasting provides bread, and wine cheers the living, but money answers all things."
+        },
+        {
+          "number": 20,
+          "latin": "Ipsum quoque in cogitatione tua ne maledixeris regi, et in secreto cubiculi tui ne maledixeris diviti: quia et aves caeli portabunt vocem tuam, et qui habet pennas, nuntiabit verbum.",
+          "english": "Also, do not curse the king even in your thought, and do not curse the rich in your private chamber: for the birds of the sky will carry your voice, and the one with wings will report the word."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Jacta panem tuum super flumina, quia in longo tempore invenies illud.",
+          "english": "Cast your bread upon the water, for in time you will find it."
+        },
+        {
+          "number": 2,
+          "latin": "Da partem septem, et etiam octo: quia ignoras quid futurum sit mali super terram.",
+          "english": "Give a portion to seven, and also to eight: for you do not know what evil will come upon the earth."
+        },
+        {
+          "number": 3,
+          "latin": "Si repleta fuerint nubes, imbrem super terram effundent. Sive in lignum ceciderit, ad austrum, sive ad aquilonem, in quo loco ceciderit, ibi erit.",
+          "english": "If the clouds are filled, they will pour rain upon the earth. If a tree falls towards the south or the north, it will stay where it fell."
+        },
+        {
+          "number": 4,
+          "latin": "Qui observat ventum, non seminat, et qui considerat nubes, numquam metet.",
+          "english": "Whoever watches the wind will not sow, and whoever observes the clouds will never reap."
+        },
+        {
+          "number": 5,
+          "latin": "Quomodo ignoras quae sit via spiritus, et ossium in utero mulieris praegnantis: sic nescis opera Dei, qui operatur omnia.",
+          "english": "Just as you do not know the way of the spirit, or how bones are formed in the womb of a pregnant woman: so you do not know the work of God, who works everything."
+        },
+        {
+          "number": 6,
+          "latin": "Mitte panem tuum super faciem aquarum: quia in diebus multis invenies illum.",
+          "english": "Cast your bread upon the surface of the waters: for after many days you will find it."
+        },
+        {
+          "number": 7,
+          "latin": "In partem da septem, et etiam octo: quia nescis quid futurum sit mali super terram.",
+          "english": "Give a portion to seven, and even to eight: for you do not know what evil will be upon the earth."
+        },
+        {
+          "number": 8,
+          "latin": "Si impletae fuerint nubes, imbrem super terram fundent: et si ceciderit lignum ad aquilonem, aut ad meridiem, in quo loco ceciderit, ibi erit.",
+          "english": "If the clouds are filled, they will pour rain upon the earth: and if a tree falls towards the north or the south, it will remain where it fell."
+        },
+        {
+          "number": 9,
+          "latin": "Juvenes in juventute tua laetare, et in diebus juventutis tuae ambulans in viis cordis tui, et in intuitu oculorum tuorum: et scito quod pro omnibus his adducet te Deus in judicium.",
+          "english": "Rejoice, young man, in your youth, and let your heart be glad in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes: and know that for all these things God will bring you to judgment."
+        },
+        {
+          "number": 10,
+          "latin": "Aufer iram a corde tuo, et amove malitiam a carne tua. Juventas et voluptas vana sunt.",
+          "english": "Remove anger from your heart, and put away evil from your flesh. For youth and pleasure are vain."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Memento creatoris tui in diebus juventutis tuæ, antequam veniant dies mali, et appropinquent anni, de quibus dicas: Non sunt mihi voluntas in eis:",
+          "english": "Remember your Creator in your youth, before the days of trial come, and the years draw near of which you will say, \"I have no pleasure in them.\""
+        },
+        {
+          "number": 2,
+          "latin": "antequam obtenebrescant sol, et lux, et luna, et stellæ, nec revertantur nubila post pluviam:",
+          "english": "Before the sun and the light, and the moon, and the stars are darkened, and the clouds return after the rain:"
+        },
+        {
+          "number": 3,
+          "latin": "quando moverint custodes domus, et claudentur fores in platea, et obmutescent qui molunt in mola, et obtenebrabuntur qui vident per fenestras,",
+          "english": "When the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders in the mill shall be idle, and the grinders in the mill shall be idle, and the grinders be dark in the windows,"
+        },
+        {
+          "number": 4,
+          "latin": "et claudetur ostium in platea, in sono molentis exiguetur vox, et consurgent ad vocem passeris, et attonitabuntur omnes filiæ cantici.",
+          "english": "And the door shall be shut in the street, when the voice of the grinder is low, and they shall rise up at the voice of the bird, and all the daughters of music shall be brought low."
+        },
+        {
+          "number": 5,
+          "latin": "Etenim timebunt altitudinem, et pavebunt in via: et florebit amygdalus, impinguabitur locusta, et dissipabitur capparis: quoniam vadit homo in domum æternitatis, et circumibunt in platea plangentes.",
+          "english": "And they shall be afraid of the high places, and they shall be afraid in the way, and the almond tree shall flourish, the locust shall be made fat, and the caper fruit shall be scattered: because man goeth into the house of his eternity, and the mourners shall go about in the street."
+        },
+        {
+          "number": 6,
+          "latin": "Antequam conteratur funiculus, et contorqueatur circulus aureus, et confringatur hydria super fontem, et dissipetur situla super cisternam,",
+          "english": "Before the silver cord be broken, and the golden fillet be broken, and the pitcher be broken over the fountain, and the wheel be broken over the cistern,"
+        },
+        {
+          "number": 7,
+          "latin": "et revertatur pulvis in terram suam, unde erat, et spiritus redeat ad Deum qui dedit illum.",
+          "english": "And the dust return into its earth, from whence it was, and the spirit return to God who gave it."
+        },
+        {
+          "number": 8,
+          "latin": "Vanitas vanitatum, dixit Ecclesiastes, et omnia vanitas.",
+          "english": "Vanity of vanities, said the Preacher, and all things are vanity."
+        },
+        {
+          "number": 9,
+          "latin": "Sed et cum sapientior fuisset Ecclesiastes, docuit populum, et narravit quod didicisset, et composuit parabolas multas.",
+          "english": "And whereas the Preacher was wise, he taught the people, and declared what he had done, and composed many parables."
+        },
+        {
+          "number": 10,
+          "latin": "Quæsivit pariter invenire verba optima, et conscribere veritatem sermonum.",
+          "english": "He sought to find profitable words, and to write truth, and to write truth of words."
+        },
+        {
+          "number": 11,
+          "latin": "Verba sapientium quasi stimuli, et quasi clavi in profundis infixi, quæ per magistrorum consilium data sunt a pastore.",
+          "english": "The words of the wise are as goads, and as nails driven into the depths, which by the counsel of masters are given from one shepherd."
+        },
+        {
+          "number": 12,
+          "latin": "Hæc super omnia, fili mi, cave: faciendi plures libros non est finis, et multam meditatio, lassitudo carnis.",
+          "english": "And more than these, my son, be thou warned: of making many books there is no end; and much study is a weariness of the flesh."
+        },
+        {
+          "number": 13,
+          "latin": "Finis verbi, universa audivimus: timete Deum, et mandata ejus custodite: hoc est enim omnis homo.",
+          "english": "Let us all hear together the end of the discourse: Fear God, and keep his commandments: for this is all man."
+        },
+        {
+          "number": 14,
+          "latin": "Omnia enim quæ fiunt, Deus adducet in judicium, pro cunctis in quibus operati sunt, sive bonum sive malum.",
+          "english": "For God will bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."
+        }
+      ]
+    }
+  ]
+}

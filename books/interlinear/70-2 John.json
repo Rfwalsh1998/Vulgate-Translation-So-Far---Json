@@ -1,0 +1,76 @@
+{
+  "name": "2 John",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Senior Electæ dominæ, et filiis ejus, quos ego diligo in veritate, et non ego solus, sed et omnes qui cognoverunt veritatem,",
+          "english": "The Elder writes this letter to the chosen Lady and her children, whom I love in truth—and not only I, but also all those who have come to know the truth of Christ."
+        },
+        {
+          "number": "2",
+          "latin": "Propter veritatem, quæ manet in nobis, et nobiscum erit in æternum.",
+          "english": "This is because the truth of Christ dwells in us, and will be with us eternally."
+        },
+        {
+          "number": "3",
+          "latin": "Sit vobiscum gratia, misericordia, et pax a Deo Patre, et a Christo Jesu Filio Patris in veritate, et caritate.",
+          "english": "May grace, mercy, and peace be with you from God the Father, and from Jesus Christ, the Son of the Father, in truth and in love."
+        },
+        {
+          "number": "4",
+          "latin": "Gavisus sum valde, quoniam inveni de filiis tuis ambulantes in veritate, sicut mandatum accepimus a Patre.",
+          "english": "I rejoiced greatly when I found some of your children living according to the truth, just as we received a commandment to do from God the Father."
+        },
+        {
+          "number": "5",
+          "latin": "Et nunc rogo te domina, non quasi mandatum novum scribens tibi, sed quod habuimus ab initio, ut diligamus alterutrum.",
+          "english": "And now I ask you, Lady, not as though I am writing a new commandment for you, but that which we have had from the very beginning: that we love one another."
+        },
+        {
+          "number": "6",
+          "latin": "Et hæc est caritas, ut ambulemus secundum mandata ejus. Hoc est mandatum, ut quemadmodum audistis ab initio, in ipso ambuletis.",
+          "english": "And this is true love: that we live according to His commandments. This is the commandment that you have heard from the beginning of your faith: that you should live by it."
+        },
+        {
+          "number": "7",
+          "latin": "Quoniam multi seductores exierunt in mundum, qui non confitentur Jesum Christum venisse in carnem: hic est seductor et antichristus.",
+          "english": "Because many deceivers have gone out into the world, who do not confess that Jesus Christ has truly come in human flesh. Such a person is a deceiver and an antichrist, denying the reality of the Incarnation."
+        },
+        {
+          "number": "8",
+          "latin": "Videte vosmetipsos, ne perdatis quæ operati estis: sed ut mercedem plenam accipiatis.",
+          "english": "Watch yourselves carefully, so that you do not lose the spiritual fruits you have worked for. Instead, remain faithful, so that you may receive a full and complete reward."
+        },
+        {
+          "number": "9",
+          "latin": "Omnis qui recedit, et non permanet in doctrina Christi, Deum non habet: qui permanet in doctrina, hic et Patrem et Filium habet.",
+          "english": "Everyone who goes astray and does not remain in the true teaching of Christ does not have God with them. But whoever remains in the true doctrine of Christ, that person has both God the Father and God the Son."
+        },
+        {
+          "number": "10",
+          "latin": "Si quis venit ad vos, et hanc doctrinam non affert, nolite illum recipere in domum, nec Ave ei dixeritis.",
+          "english": "If anyone comes to you and does not bring this true doctrine of Christ, do not receive him into your house, nor offer him any greeting of welcome, for that would be to share in his evil work."
+        },
+        {
+          "number": "11",
+          "latin": "Qui enim dixerit illi Ave, communicat operibus ejus malignis.",
+          "english": "For anyone who offers him a greeting of welcome, thereby shares in his evil works and aids his mission."
+        },
+        {
+          "number": "12",
+          "latin": "Plura habens vobis scribere, nolui per chartam et atramentum: spero enim me futurum apud vos, et os ad os loqui, ut gaudium nostrum plenum sit.",
+          "english": "Although I have many more things to write to you, I did not wish to communicate them through paper and ink. For I hope to be with you soon, and to speak to you face to face, so that our joy may be full."
+        },
+        {
+          "number": "13",
+          "latin": "Salutant te filii sororis tuæ Electæ. Amen.",
+          "english": "The children of your chosen sister send their greetings. Amen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "name": "Song of Solomon",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Osculetur me osculo oris sui: quia meliora sunt ubera tua vino,",
+          "english": "Let him kiss me with the kiss of his mouth: Because your affections are better than wine,"
+        },
+        {
+          "number": 2,
+          "latin": "odoribusque unguentorum tuorum. Bonum nomen tuum, oleum effusum: ideo adolescentulae dilexerunt te.",
+          "english": "And the fragrance of your perfumes. Your name is good, like oil poured out, therefore the young girls love you."
+        },
+        {
+          "number": 3,
+          "latin": "Trahe me: post te curremus in odorem unguentorum tuorum. Introduxit me rex in cellaria sua: exultabimus et laetabimur in te, memoriam uberum tuorum super vinum.",
+          "english": "Draw me to you, and we will follow you. You will guide us by your affection. The king brought me into his wine cellar. We will be glad and rejoice in you, remembering your affections better than wine."
+        },
+        {
+          "number": 4,
+          "latin": "Recte diligunt te.",
+          "english": "You will find great favor and love in them."
+        },
+        {
+          "number": 5,
+          "latin": "Nigra sum, sed formosa, filiae Jerusalem, sicut tabernacula Cedar, sicut pelles Salomonis.",
+          "english": "I am dark, but beautiful, daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon."
+        },
+        {
+          "number": 6,
+          "latin": "Nolite me considerare quod fusca sim, quia decoloravit me sol. Filii matris meae pugnaverunt contra me: posuerunt me custodem in vineis: vineam meam non custodivi.",
+          "english": "Don't look down on me because I am dark, because the sun has darkened my skin. My mother's sons were angry with me, and forced me to be a keeper of the vineyards, but I did not watch over my own vineyard."
+        },
+        {
+          "number": 7,
+          "latin": "Indica mihi, quem diligit anima mea, ubi pascas, ubi cubes in meridie, ne vagari incipiam post greges sodalium tuorum.",
+          "english": "Tell me, you whom my soul loves, where you feed your flock, where you rest at noon, lest I begin to wander after the flocks of your companions."
+        },
+        {
+          "number": 8,
+          "latin": "Si ignoras te, o pulcherrima inter mulieres, egredere et vade in vestigiis gregum, et pasce haedos tuos juxta tabernacula pastorum.",
+          "english": "If you do not know, fairest among women, go forth, and follow the footsteps of the flock, and feed your kids near the tents of the shepherds."
+        },
+        {
+          "number": 9,
+          "latin": "Equitati meae in curribus Pharaonis, adduxi te, amica mea.",
+          "english": "To my team of horses in Pharaoh's chariots, I have brought you, my love."
+        },
+        {
+          "number": 10,
+          "latin": "Pulchrae sunt genae tuae sicut turturis, collum tuum sicut monilia.",
+          "english": "Your cheeks are as beautiful as a dove, your neck like jewels."
+        },
+        {
+          "number": 11,
+          "latin": "Fibulas aureas faciemus tibi, vermiculatas argento.",
+          "english": "We will make you gold ornaments, and decorate them with silver."
+        },
+        {
+          "number": 12,
+          "latin": "Dum esset rex in accubitu suo, nardus mea dedit odorem suum.",
+          "english": "While the king was reclining, my nard gave its fragrance."
+        },
+        {
+          "number": 13,
+          "latin": "Fasciculus myrrhae dilectus meus mihi: inter ubera mea commorabitur.",
+          "english": "My beloved is a bundle of myrrh to me: it shall lie between my breasts."
+        },
+        {
+          "number": 14,
+          "latin": "Botrus cypri dilectus meus mihi in vineis Engaddi.",
+          "english": "My beloved is a cluster of cypress to me in the vineyards of Engaddi."
+        },
+        {
+          "number": 15,
+          "latin": "Ecce tu pulchra es, amica mea, ecce tu pulchra es: oculi tui columbarum.",
+          "english": "Behold, you are beautiful, my love, behold, you are beautiful: your eyes are like doves."
+        },
+        {
+          "number": 16,
+          "latin": "Ecce tu pulcher es, dilecte mi, et decorus: lectulus noster floridus.",
+          "english": "Behold, you are beautiful, my beloved, and delightful: our bed is blooming."
+        },
+        {
+          "number": 17,
+          "latin": "Tegumentum domorum nostrarum cedrus, laquearia nostra cupressus.",
+          "english": "The covering of our houses is cedar, and our ceilings are cypress."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Ego flos campi, et lilium convallium.",
+          "english": "I am like a flower in the field, and a lily of the valleys."
+        },
+        {
+          "number": 2,
+          "latin": "Quomodo lilium inter spinas, sic amica mea inter filias.",
+          "english": "As the lily is among the thorns, so is my beloved among the daughters."
+        },
+        {
+          "number": 3,
+          "latin": "Sicut malus fructifera in silvis, sic dilectus meus inter filios.",
+          "english": "As the apple tree among the trees of the woods, so is my beloved among the sons."
+        },
+        {
+          "number": 4,
+          "latin": "Sub umbra illius quem desideraveram, sedi, et fructus ejus dulcis gutturi meo.",
+          "english": "I have desired to sit under His shadow, and His fruit is sweet to my throat."
+        },
+        {
+          "number": 5,
+          "latin": "Introduxit me in cellam vinariam, ordinavit in me charitatem.",
+          "english": "He brought me into the wine cellar, and He established charity in me."
+        },
+        {
+          "number": 6,
+          "latin": "Fulcite me floribus, stipate me malis, quia amore langueo.",
+          "english": "Strengthen me with flowers, surround me with apples, because I languish with love."
+        },
+        {
+          "number": 7,
+          "latin": "Laeva ejus sub capite meo, et dextera illius amplexabitur me.",
+          "english": "His left hand is under my head, and His right hand will embrace me."
+        },
+        {
+          "number": 8,
+          "latin": "Adjuro vos, filiæ Jerusalem, per capreas cervosque camporum, ne suscitetis, neque evigilare faciatis dilectam, quoadusque ipsa velit.",
+          "english": "I adjure you, daughters of Jerusalem, by the gazelles and the hinds of the fields, that you do not rouse, nor awaken my beloved, until she herself wishes."
+        },
+        {
+          "number": 9,
+          "latin": "Vox dilecti mei! ecce iste venit, saliens in montibus, transiliens colles.",
+          "english": "The voice of my beloved! Behold, this one comes, leaping upon the mountains, skipping over the hills."
+        },
+        {
+          "number": 10,
+          "latin": "Similis est dilectus meus capreæ, hinnuloque cervorum. Ecce iste stat post parietem nostrum, prospiciens per fenestras, prospiciens per cancellos.",
+          "english": "My beloved is like a gazelle, or a young hart. Behold, He stands behind our wall, looking through the windows, looking through the lattices."
+        },
+        {
+          "number": 11,
+          "latin": "En dilectus meus loquitur mihi: Surge, propera, amica mea, columba mea, formosa mea, et veni.",
+          "english": "Behold my beloved speaks to me: “Arise, make haste, my love, my dove, my beautiful one, and come.”"
+        },
+        {
+          "number": 12,
+          "latin": "Jam enim hiems transiit, imber abiit et recessit.",
+          "english": "For now the winter is past, the rain is gone and departed."
+        },
+        {
+          "number": 13,
+          "latin": "Flores apparuerunt in terra, tempus putationis advenit.",
+          "english": "The flowers have appeared in the land, the time of pruning has come."
+        },
+        {
+          "number": 14,
+          "latin": "Vox turturis audita est in terra nostra.",
+          "english": "The voice of the turtledove is heard in our land."
+        },
+        {
+          "number": 15,
+          "latin": "Ficus protulit grossos suos: vineæ florentes dederunt odorem suum. Surge, amica mea, speciosa mea, et veni.",
+          "english": "The fig tree has produced its green figs: the vines in bloom have given their fragrance. Arise, my love, my beautiful one, and come."
+        },
+        {
+          "number": 16,
+          "latin": "Columba mea in foraminibus petræ, in caverna maceriæ, ostende mihi faciem tuam, sonet vox tua in auribus meis: vox enim tua dulcis, et facies tua decora.",
+          "english": "My dove in the clefts of the rock, in the hollow places of the wall, show me your face, let your voice sound in my ears: for your voice is sweet, and your face is beautiful."
+        },
+        {
+          "number": 17,
+          "latin": "Cape nobis vulpes parvulas, quæ demoliuntur vineas: nam vineæ nostræ floruerunt.",
+          "english": "Catch the little foxes that spoil the vines: for our vines have flourished."
+        },
+        {
+          "number": 18,
+          "latin": "Dilectus meus mihi, et ego illi, qui pascitur inter lilia.",
+          "english": "My beloved is for me, and I am for Him, who feeds among the lilies."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "In lectulo meo per noctes quaesivi quem diligit anima mea: quaesivi illum, et non inveni eum.",
+          "english": "I went to my bed in the night, seeking the one whom my soul loves: I sought him, and I did not find him."
+        },
+        {
+          "number": 2,
+          "latin": "Surgeam, et circuibo civitatem: per vicos et plateas quaeram quem diligit anima mea. Quaesivi illum, et non inveni eum.",
+          "english": "I will get up, and I will go around the city: through the streets and the squares, I will seek the one whom my soul loves. I sought him, and I did not find him."
+        },
+        {
+          "number": 3,
+          "latin": "Invenerunt me vigiles qui custodiunt civitatem: Num quem diligit anima mea, vidistis?",
+          "english": "The watchmen found me, those who guard the city: “Have you seen the one whom my soul loves?”"
+        },
+        {
+          "number": 4,
+          "latin": "Paululum cum pertransissem eos, inveni quem diligit anima mea: tenui eum, nec dimittam eum, donec introducam eum in domum matris meae, et in cubiculum genetricis meae.",
+          "english": "A little further on, I found the one whom my soul loves: I held him, and I will not let him go until I bring him into my mother's house, and into the chamber of her who bore me."
+        },
+        {
+          "number": 5,
+          "latin": "Adjuro vos, filiae Jerusalem, per capreas, et cervas camporum, ne suscitetis, neque evigiletis dilectam, donec ipsa velit.",
+          "english": "I adjure you, daughters of Jerusalem, by the gazelles, and the hinds of the fields, that you not stir up, nor awake the beloved, until she desires it."
+        },
+        {
+          "number": 6,
+          "latin": "Quæ est ista quæ ascendit per desertum sicut virgula fumi ex aromatibus myrrhæ, et turis, et universi pulveris pigmentarii?",
+          "english": "Who is this, ascending through the desert like a column of smoke from the perfumes of myrrh, and frankincense, and every powder of the perfumer?"
+        },
+        {
+          "number": 7,
+          "latin": "Ecce lectulus Salomonis, sexaginta fortium ambiunt eum de fortissimis Israël.",
+          "english": "Behold, the bed of Solomon: sixty strong men surround it, of the strongest of Israel."
+        },
+        {
+          "number": 8,
+          "latin": "Omnes tenentes gladios, et bellatores, singuli gladium super femur suum, propter timorem noctis.",
+          "english": "All holding swords, and warriors, each man has his sword upon his thigh, because of the fear of the night."
+        },
+        {
+          "number": 9,
+          "latin": "Lectulum fecit sibi rex Salomon de lignis Libani.",
+          "english": "King Solomon made himself a bed, from the wood of Lebanon."
+        },
+        {
+          "number": 10,
+          "latin": "Columnas ejus fecit argenteas: fulcrum aureum, ascensum purpureum, media caritate constravit propter filias Jerusalem.",
+          "english": "He made its columns of silver: the support of gold, the ascent of purple; he paved the middle with charity, on account of the daughters of Jerusalem."
+        },
+        {
+          "number": 11,
+          "latin": "Egredimini, et videte filias Sion, in lectulo ubi consolabatur mater ejus, ubi genuit eum.",
+          "english": "Go out, and see the daughters of Zion, in the bed where his mother comforted him, where she bore him."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quam pulchra es, amica mea! quam pulchra es! oculi tui columbarum, absque eo quod intrinsecus latitant.",
+          "english": "How beautiful you are, my love! How beautiful you are! Your eyes are like doves, hidden from those who would do you harm."
+        },
+        {
+          "number": 2,
+          "latin": "Capilli tui sicut greges caprarum, quae ascenderunt de monte Galaad.",
+          "english": "Your hair is like a flock of goats that descends from Mount Gilead."
+        },
+        {
+          "number": 3,
+          "latin": "Dentes tui sicut greges tonsarum, quae ascenderunt de lavacro, omnes gemelli, et sterilis non est in eis.",
+          "english": "Your teeth are like a flock of sheep that has come up from washing, all of which are twin, and there is no barren one among them."
+        },
+        {
+          "number": 4,
+          "latin": "Sicut vitta coccinea labia tua, et os tuum venustum. Sicut fragmen mali punici, ita et genae tuae, absque eo quod intrinsecus latitant.",
+          "english": "Your lips are like a scarlet thread, and your mouth is lovely. Your cheeks are like a piece of pomegranate, hidden from those who would do you harm."
+        },
+        {
+          "number": 5,
+          "latin": "Sicut turris David collum tuum, quae aedificata est cum propugnaculis: mille clypei pendent ex ea, omnis armatura fortium.",
+          "english": "Your neck is like the tower of David, built with ramparts: a thousand shields hang from it, all the armor of the strong."
+        },
+        {
+          "number": 6,
+          "latin": "Duo ubera tua sicut duo hinnuli, gemelli capreae, qui pascuntur in liliis.",
+          "english": "Your two breasts are like two fawns, twins of a gazelle, which graze among the lilies."
+        },
+        {
+          "number": 7,
+          "latin": "Donec aspiret dies, et inclinentur umbrae, vadam ad montem myrrhae, et ad collem turis.",
+          "english": "Until the day breathes, and the shadows decline, I will go to the mountain of myrrh, and to the hill of incense."
+        },
+        {
+          "number": 8,
+          "latin": "Tota pulchra es, amica mea, et macula non est in te.",
+          "english": "You are entirely beautiful, my love; there is no stain in you."
+        },
+        {
+          "number": 9,
+          "latin": "Veni de Libano, sponsa mea, veni de Libano, veni, et descendes: coronaberis de capite Amana, de vertice Sanir et Hermon, de cubilibus leonum, de montibus pardorum.",
+          "english": "Come from Lebanon, my spouse, come from Lebanon, come and descend; you will be crowned from the head of Amana, from the top of Sanir and Hermon, from the dens of lions, from the mountains of leopards."
+        },
+        {
+          "number": 10,
+          "latin": "Cor tuum vulnerasti, soror mea, sponsa, cor tuum vulnerasti in uno oculorum tuorum, et in uno crine colli tui.",
+          "english": "You have wounded my heart, my sister, my spouse; you have wounded my heart with one look of your eyes, and with one strand of hair on your neck."
+        },
+        {
+          "number": 11,
+          "latin": "Quam pulchra sunt ubera tua, soror mea sponsa! pulchriora sunt ubera tua vino, et odor unguentorum tuorum super omnia aromata.",
+          "english": "How beautiful are your breasts, my sister, my spouse! Your breasts are more beautiful than wine, and the fragrance of your perfumes is above all spices."
+        },
+        {
+          "number": 12,
+          "latin": "Favus distillans labia tua, sponsa; mel et lac sub lingua tua: et odor vestimentorum tuorum sicut odor turis.",
+          "english": "Your lips, my spouse, drip like honey; milk and honey are under your tongue: and the fragrance of your garments is like the fragrance of incense."
+        },
+        {
+          "number": 13,
+          "latin": "Hortus conclusus soror mea, sponsa, hortus conclusus, fons signatus.",
+          "english": "A garden enclosed is my sister, my spouse; a garden enclosed, a fountain sealed."
+        },
+        {
+          "number": 14,
+          "latin": "Emissiones tuae paradisus malorum punicorum cum pomorum fructibus: cyprus cum nardo.",
+          "english": "Your plants are a paradise of pomegranates with fruit; the cypress is with spikenard."
+        },
+        {
+          "number": 15,
+          "latin": "Nardus et crocus, cinnamomum et caryophyllata, cum universis lignis Libani: myrrha et aloe, cum omnibus primis unguentis.",
+          "english": "Spikenard and saffron, cinnamon and calamus, with all the trees of Lebanon; myrrh and aloes, with all the chief perfumes."
+        },
+        {
+          "number": 16,
+          "latin": "Surge, aquilo, et veni, auster: spira hortum meum, et fluant aromata illius. Veni, dilecte mi, in hortum tuum, et comede fructus pomorum tuorum.",
+          "english": "Awake, north wind, and come, south wind; blow upon my garden, and let its spices flow. Let my beloved come into his garden, and eat the fruit of his choice fruits."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Veni in hortum meum, soror mea, sponsa: messui myrrham meam cum aromatibus meis: comedi favum cum melle meo, bibi vinum meum cum lacte meo. Comedite, amici, et bibite, et inebriamini, charissimi.",
+          "english": "I came to my garden, my sister, my bride: I have gathered my myrrh with my spices: I have eaten the honeycomb with my honey, I have drunk my wine with my milk. Eat, friends, and drink; and be inebriated, dearest ones."
+        },
+        {
+          "number": 2,
+          "latin": "Ego dormio, et cor meum vigilat. Vox dilecti mei pulsantis: Aperi mihi, soror mea, amica mea, columba mea, immaculata mea: quia caput meum plenum est rore, et cincinni mei guttis noctium.",
+          "english": "I sleep, but my heart stays awake. Listen! The voice of my beloved, knocking! Open to me, my sister, my friend, my dove, my spotless one: for my head is full of dew, and my locks with the drops of the night."
+        },
+        {
+          "number": 3,
+          "latin": "Expoliavi tunicam meam: quomodo induar illam? Lavi pedes meos: quomodo inquinabo illos?",
+          "english": "I have taken off my tunic; how shall I put it on again? I have washed my feet; how shall I defile them?"
+        },
+        {
+          "number": 4,
+          "latin": "Dilectus meus misit manum suam per foramen, et venter meus intremuit ad tactum ejus.",
+          "english": "My beloved put his hand in at the hole, and my bowels trembled at his touch."
+        },
+        {
+          "number": 5,
+          "latin": "Surrexi, ut aperirem dilecto meo: manus meae stillabant myrrham, et digiti mei pleni myrrha optima.",
+          "english": "I arose to open to my beloved: my hands dropped myrrh, and my fingers were full of the best myrrh."
+        },
+        {
+          "number": 6,
+          "latin": "Pessulum ostii mei aperui dilecto meo: sed ille declinaverat, et praeterierat. Anima mea liquefacta est, dum locutus est: quaesivi, et non inveni illum: vocavi, et non respondit mihi.",
+          "english": "I opened the door of my house to my beloved: but he had turned aside, and was gone. My soul melted when he spoke. I sought him, and did not find him: I called him, and he did not answer me."
+        },
+        {
+          "number": 7,
+          "latin": "Invenerunt me custodes, qui circumeunt civitatem: verberaverunt me, et vulneraverunt me: tulerunt pallium meum mihi custodes murorum.",
+          "english": "The watchmen that go about the city found me: they struck me and wounded me: the keepers of the walls took away my cloak."
+        },
+        {
+          "number": 8,
+          "latin": "Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo.",
+          "english": "I charge you, O daughters of Jerusalem, if you find my beloved, that you tell him that I languish with love."
+        },
+        {
+          "number": 9,
+          "latin": "Quis est dilectus tuus ex dilectis, o pulcherrima mulierum? Quis est dilectus tuus ex dilectis, quia sic adjurasti nos?",
+          "english": "What is your beloved more than another beloved, O most beautiful among women? What is your beloved more than another beloved, that you have so charged us?"
+        },
+        {
+          "number": 10,
+          "latin": "Dilectus meus candidus et rubicundus: electus ex millibus.",
+          "english": "My beloved is white and ruddy: chosen out of thousands."
+        },
+        {
+          "number": 11,
+          "latin": "Caput ejus aurum optimum: crines ejus sicut palmarum racheis, nigri quasi corvus.",
+          "english": "His head is like the finest gold: his locks are as the branches of palm trees, black as a raven."
+        },
+        {
+          "number": 12,
+          "latin": "Oculi ejus sicut columbæ super rivulos aquarum, quæ lavantur in lacte, et resident juxta fluenta plenissima.",
+          "english": "His eyes are like doves upon the brooks of waters, which are washed in milk, and sit near the fullest streams."
+        },
+        {
+          "number": 13,
+          "latin": "Genae illius sicut parterre aromatum, ubi fragrantia olera sunt. Labia ejus lilia, stillantia myrrham primam.",
+          "english": "His cheeks are as a bed of spices, where the fragrant herbs are. His lips are lilies, dropping the finest myrrh."
+        },
+        {
+          "number": 14,
+          "latin": "Manus illius, annuli aurei, pleni hyacinthis. Venter ejus ebur, distinctus sapphiris.",
+          "english": "His hands are rings of gold, filled with hyacinths. His belly is ivory, distinguished by sapphires."
+        },
+        {
+          "number": 15,
+          "latin": "Crura illius, columnæ marmoreæ, quæ fundantur super bases aureas. Species ejus sicut Libani.",
+          "english": "His legs are marble pillars, which are set upon golden bases. His appearance is like that of Lebanon."
+        },
+        {
+          "number": 16,
+          "latin": "Guttur ejus dulcissimum, et totus desiderabilis. Talis est dilectus meus, et ipse est amicus meus, filiæ Jerusalem.",
+          "english": "His throat is most sweet, and altogether desirable. Such is my beloved, and he is my friend, O daughters of Jerusalem."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quo abiit dilectus tuus, o pulcherrima inter mulieres? quo declinavit dilectus tuus, et quaesemus eum tecum?",
+          "english": "Where has your beloved gone, O most beautiful among women? Where has your beloved turned aside, and we will seek him with you?"
+        },
+        {
+          "number": 2,
+          "latin": "Dilectus meus descendit in hortum suum ad areolas aromatum, ut pascatur in hortis, et lilia colligat.",
+          "english": "My beloved has gone down to his garden, to the beds of spices, to graze in the gardens, and to gather lilies."
+        },
+        {
+          "number": 3,
+          "latin": "Ego dilecto meo, et dilectus meus mihi, qui pascitur inter lilia.",
+          "english": "I am for my beloved, and my beloved is for me, who grazes among the lilies."
+        },
+        {
+          "number": 4,
+          "latin": "Pulchra es, amica mea, sicut Thersa, formosa sicut Jerusalem, terribilis ut castrorum acies ordinata.",
+          "english": "You are beautiful, my friend, as Thersa, beautiful as Jerusalem, fearsome as an army set in array."
+        },
+        {
+          "number": 5,
+          "latin": "Averte oculos tuos a me, quia ipsi me avolare fecerunt.",
+          "english": "Turn away your eyes from me, for they have made me fly away."
+        },
+        {
+          "number": 6,
+          "latin": "Dentes tui, grex ovium quae ascenderunt de lavacro, omnes gemelli, et sterilis non est in eis.",
+          "english": "Your teeth are like a flock of sheep which have come up from the washing, all twins, and there is not one barren among them."
+        },
+        {
+          "number": 7,
+          "latin": "Sicut fragmen mali punici, ita genae tuae, intus praeter velamen tuum.",
+          "english": "Like a piece of pomegranate are your cheeks, within your veil."
+        },
+        {
+          "number": 8,
+          "latin": "Sexaginta sunt reginae, et octoginta concubinae, et adolescentulae sine numero:",
+          "english": "There are sixty queens, and eighty concubines, and young women without number:"
+        },
+        {
+          "number": 9,
+          "latin": "una est columba mea, perfecta mea est, una est matri suae, electa genetrici suae. Viderunt eam filiae, et beatissimam praedicaverunt; reginae et concubinae, et laudaverunt eam.",
+          "english": "My dove is one, my perfect one is one, she is the only one of her mother, chosen by her who bore her. The daughters saw her, and called her blessed; the queens and concubines, and they praised her."
+        },
+        {
+          "number": 10,
+          "latin": "Quae est ista quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?",
+          "english": "Who is she that comes forth like the dawn rising, beautiful as the moon, chosen as the sun, fearsome as an army set in array?"
+        },
+        {
+          "number": 11,
+          "latin": "Descendi in hortum nucum, ut viderem fructus convallis, et explorarem si floruisset vinea, et germinassent mala punica.",
+          "english": "I went down to the garden of nuts, to see the fruits of the valley, and to examine if the vine had flourished, and if the pomegranates had sprouted."
+        },
+        {
+          "number": 12,
+          "latin": "Nescivi; anima mea conturbavit me. Posui animam meam, ut audirem;",
+          "english": "I knew not; my soul disturbed me. I set my soul, that I might hear;"
+        },
+        {
+          "number": 13,
+          "latin": "Revertere, revertere Sulamitis; revertere, revertere ut intueamur te.",
+          "english": "Return, return, O Shulamite; return, return, that we may look upon you."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quam pulchra es, et quam decora, carissima, in deliciis! ",
+          "english": "How beautiful you are! How lovely, dearest, in your delights!"
+        },
+        {
+          "number": 2,
+          "latin": "Statura tua assimilata est palmæ, et ubera tua botris.",
+          "english": "Your stature is like a palm tree, and your breasts, like clusters of dates."
+        },
+        {
+          "number": 3,
+          "latin": "Dixi: Ascendam in palmam, et adprehendam fructus ejus.",
+          "english": "I said: “I will go up into the palm tree, and seize its fruits.”"
+        },
+        {
+          "number": 4,
+          "latin": "Et sint ubera tua sicut botri vineæ, et odor oris tui sicut malorum.",
+          "english": "And let your breasts be like clusters of the vine, and the fragrance of your breath like apples."
+        },
+        {
+          "number": 5,
+          "latin": "Guttur tuum sicut vinum optimum, quod currit in dilecti mei, faciens labia dormientium et dentium.",
+          "english": "Your throat is like the best wine, which flows for my beloved, bringing the lips of those asleep and their teeth to life."
+        },
+        {
+          "number": 6,
+          "latin": "Ego dilecto meo: Illius desiderium in me.",
+          "english": "I am for my beloved, and his desire is for me."
+        },
+        {
+          "number": 7,
+          "latin": "Veni, dilecte mi, egrediamur in agrum, commoremur in villis.",
+          "english": "Come, my beloved, let us go forth into the fields, and stay in the villages."
+        },
+        {
+          "number": 8,
+          "latin": "Mane surgamus ad vineas: videamus si floruit vinea, si aperuerunt flores, protulerunt mala punica: ibi dabo tibi ubera mea.",
+          "english": "In the morning, let us arise to the vineyards. Let us see if the vine has flowered, if the flowers have opened, if the pomegranates have borne fruit. There I will give you my breasts."
+        },
+        {
+          "number": 9,
+          "latin": "Mandragoras dederunt odorem. In foribus nostris omnia, nova et vetera, dilecte mi, servavi tibi.",
+          "english": "The mandrakes give off their fragrance. At our gates are all kinds of fruits, both new and old; my beloved, I have kept them for you."
+        },
+        {
+          "number": 10,
+          "latin": "Novos et veteres fructus, dilecte mi, servavi tibi.",
+          "english": "I have stored up new and old fruits for you, my beloved."
+        },
+        {
+          "number": 11,
+          "latin": "Veni, dilecte mi, egrediamur in agrum, commoremur in villis.",
+          "english": "Come, my beloved, let us go forth into the fields, and stay in the villages."
+        },
+        {
+          "number": 12,
+          "latin": "Mane surgamus ad vineas: videamus si floruit vinea, si aperuerunt flores, protulerunt mala punica: ibi dabo tibi ubera mea.",
+          "english": "In the morning, let us arise to the vineyards. Let us see if the vine has flowered, if the flowers have opened, if the pomegranates have borne fruit. There I will give you my breasts."
+        },
+        {
+          "number": 13,
+          "latin": "Mandragoras dederunt odorem in foribus nostris: omnia nova et vetera, dilecte mi, servavi tibi.",
+          "english": "The mandrakes give off their fragrance at our gates: all kinds of fruits, both new and old, my beloved, I have stored up for you."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quis mihi det te fratrem meum, sugentem ubera matris meae, ut inveniam te foris, et osculer te, et jam me nemo despiciat?",
+          "english": "Oh, that you were like a brother to me, nourished at my mother’s breast! Then I could find you outside, and kiss you, and no one would despise me anymore!"
+        },
+        {
+          "number": 2,
+          "latin": "Adducam te et introducam in domum matris meae: ibi me docebis, et dabo tibi poculum aromatum, et vini conditi mustum.",
+          "english": "I would lead you, and bring you into my mother's house: there you would teach me. I would give you spiced wine, and the sweetest new wine."
+        },
+        {
+          "number": 3,
+          "latin": "Laeva ejus sub capite meo, et dextera illius amplexabitur me.",
+          "english": "His left hand is under my head, and his right hand embraces me."
+        },
+        {
+          "number": 4,
+          "latin": "Adjuro vos, filiæ Jerusalem, quid suscitetis, nec evigilare faciatis dilectam, donec ipsa velit.",
+          "english": "I charge you, daughters of Jerusalem, do not stir, or awaken my love, until she wants to."
+        },
+        {
+          "number": 5,
+          "latin": "Quæ est ista quæ ascendit de solitudine, delitiis affluens, innixa super dilectum suum? Sub arbore malis suscitavi te: ibi corrupta est mater tua, ibi violata est genitrix tua.",
+          "english": "Who is this coming up from the wilderness, overflowing with delights, leaning on her beloved? Under the apple tree I awakened you. There your mother was corrupted, there she who bore you was defiled."
+        },
+        {
+          "number": 6,
+          "latin": "Pone me ut signaculum super cor tuum, ut signaculum super brachium tuum: quia fortis est ut mors dilectio: dura sicut infernus aemulatio: lampades ejus, lampades ignis atque flamma.",
+          "english": "Put me like a seal on your heart, like a seal on your arm. For love is as strong as death, jealousy is as hard as hell. Its lamps are lamps of fire and flame."
+        },
+        {
+          "number": 7,
+          "latin": "Aquae multae non potuerunt extinguere caritatem, nec flumina opprimere illam: si dederit homo omnem substantiam domus suæ pro dilectione, quasi nihil despiciet eam.",
+          "english": "Many waters cannot extinguish love, nor can the floods overwhelm it. If a man would give all the wealth of his house for love, he would be utterly despised."
+        },
+        {
+          "number": 8,
+          "latin": "Soror nostra parva, et ubera ei nondum habemus: quid faciemus sorori nostræ in die quando fuerit dicenda?",
+          "english": "We have a little sister, and she has no breasts. What shall we do for our sister on the day she is spoken for?"
+        },
+        {
+          "number": 9,
+          "latin": "Si murus est, ædificemus super eum propugnacula argentea: si ostium est, compingamus illud tabulis cedrinis.",
+          "english": "If she is a wall, let us build on her battlements of silver. If she is a door, let us enclose her with boards of cedar."
+        },
+        {
+          "number": 10,
+          "latin": "Ego murus, et ubera mea quasi turris: ex quo facta sum coram eo, quasi pacem requirens.",
+          "english": "I am a wall, and my breasts are like towers. Therefore, I am in his eyes as one who has found peace."
+        },
+        {
+          "number": 11,
+          "latin": "Vinea fuit pacificans Salomonis in Baalhamon: tradidit vineam custodibus: unusquisque afferet pro fructu ejus mille argenteos.",
+          "english": "Solomon had a vineyard in Baalhamon. He entrusted the vineyard to keepers; each was to bring for its fruit a thousand pieces of silver."
+        },
+        {
+          "number": 12,
+          "latin": "Vinea mea coram me est. Mille tui, Salomon, et ducenti his qui custodiunt fructum ejus.",
+          "english": "My own vineyard is before me. The thousand are yours, Solomon, and two hundred for those who guard its fruit."
+        },
+        {
+          "number": 13,
+          "latin": "Quæ habitas in hortis, amici auscultant: fac me audire vocem tuam.",
+          "english": "You who dwell in the gardens, my companions are listening; let me hear your voice."
+        },
+        {
+          "number": 14,
+          "latin": "Fuge, dilecte mi, et similis esto capreæ, hinnuloque cervorum super montes aromatum.",
+          "english": "Hasten, my beloved, and be like a gazelle, or a young stag on the mountains of spices."
+        }
+      ]
+    }
+  ]
+}

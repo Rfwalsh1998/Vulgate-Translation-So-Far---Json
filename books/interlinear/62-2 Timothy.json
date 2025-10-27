@@ -1,0 +1,444 @@
+{
+  "name": "2 Timothy",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Paulus, Apostolus Iesu Christi per voluntatem Dei, secundum promissionem vitae, quae est in Christo Iesu,",
+          "english": "Paul, an Apostle of Jesus Christ by the will of God, according to the promise of eternal life, which is in Christ Jesus,"
+        },
+        {
+          "number": 2,
+          "latin": "Timotheo charissimo filio: gratia, misericordia, et pax a Deo Patre, et Christo Iesu Domino nostro.",
+          "english": "To Timothy, my dearest son: grace, mercy, and peace from God the Father, and Christ Jesus our Lord."
+        },
+        {
+          "number": 3,
+          "latin": "Gratias ago Deo, cui servio a progenitoribus in conscientia pura, quod sine intermissione memoriam tui facio in orationibus meis nocte ac die,",
+          "english": "I give thanks to God, whom I serve with a clear conscience, as my ancestors did. I remember you constantly in my prayers night and day,"
+        },
+        {
+          "number": 4,
+          "latin": "desiderans te videre, memor lacrimarum tuarum, ut gaudio implear,",
+          "english": "longing to see you, remembering your tears, so that I may be filled with joy,"
+        },
+        {
+          "number": 5,
+          "latin": "memoriam accipiens ejus fidei, quae est in te non ficta, quae et habitavit primum in avia tua Loide, et matre tua Eunice, certo autem et in te.",
+          "english": "I am reminded of your sincere faith, which first lived in your grandmother Lois and your mother Eunice, and I am sure that it lives in you as well."
+        },
+        {
+          "number": 6,
+          "latin": "Propter quam causam admoneo te, ut resuscites gratiam Dei, quae est in te per impositionem manuum mearum.",
+          "english": "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands."
+        },
+        {
+          "number": 7,
+          "latin": "Non enim dedit nobis Deus spiritum timoris, sed virtutis, et dilectionis, et sobrietatis.",
+          "english": "For God gave us not a spirit of fear, but of power and of love and of self-control."
+        },
+        {
+          "number": 8,
+          "latin": "Noli itaque erubescere testimonium Domini nostri, neque me vinctum ejus: sed collabora Evangelio secundum virtutem Dei,",
+          "english": "So do not be ashamed of the testimony about our Lord, nor of me His prisoner, but share in suffering for the Gospel according to the power of God,"
+        },
+        {
+          "number": 9,
+          "latin": "qui nos liberavit, et vocavit vocatione sua sancta: non secundum opera nostra, sed secundum propositum suum, et gratiam, quae data est nobis in Christo Iesu ante tempora saecularia,",
+          "english": "who saved us and called us to a holy calling, not because of our works but because of His own purpose and grace, which He gave us in Christ Jesus before the ages began,"
+        },
+        {
+          "number": 10,
+          "latin": "manifestata nunc autem per illuminationem Salvatoris nostri Iesu Christi, qui destruxit mortem, illuminavit autem vitam, et incorruptionem per Evangelium:",
+          "english": "and which now has been revealed through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the Gospel,"
+        },
+        {
+          "number": 11,
+          "latin": "in quo positus sum ego praedicator, et Apostolus, et doctor gentium.",
+          "english": "for which I was appointed a preacher and an apostle and a teacher of the Gentiles."
+        },
+        {
+          "number": 12,
+          "latin": "Propter quod etiam haec patior, sed non confundor: scio enim cui credidi, et certus sum quia potens est depositum meum servare in illum diem.",
+          "english": "That is why I suffer as I do. But I am not ashamed, for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him until that day."
+        },
+        {
+          "number": 13,
+          "latin": "Formam habe sanorum verborum, quae a me audisti in fide, et in dilectione in Christo Iesu.",
+          "english": "Hold fast to the pattern of sound words which you have heard from me, in the faith and love that are in Christ Jesus."
+        },
+        {
+          "number": 14,
+          "latin": "Bonum depositum custodi per Spiritum Sanctum, qui habitat in nobis.",
+          "english": "Guard the good deposit through the Holy Spirit who dwells within us."
+        },
+        {
+          "number": 15,
+          "latin": "Scis hoc, quod averterunt se a me omnes, qui in Asia sunt, ex quibus est Phygellus, et Hermogenes.",
+          "english": "You are aware that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes."
+        },
+        {
+          "number": 16,
+          "latin": "Det Dominus misericordiam Onesiphori domui: quia saepe me refrigeravit, et vinculum meum non erubuit,",
+          "english": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me and was not ashamed of my chains,"
+        },
+        {
+          "number": 17,
+          "latin": "sed cum Romam venisset, sollicitius me quaesivit, et invenit.",
+          "english": "but when he arrived in Rome, he searched for me even more eagerly until he found me."
+        },
+        {
+          "number": 18,
+          "latin": "det illi Dominus invenire misericordiam a Domino in illa die. Et quanta mihi Ephesi ministravit, melius nosti.",
+          "english": "May the Lord grant him to find mercy from the Lord on that day! And you know very well how many ways he served me in Ephesus."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "2 Timothy 2:1",
+          "latin": "Tu ergo, fili mi, confortare in gratia, quæ est in Christo Iesu:",
+          "english": "Therefore, my son, strengthen yourself by relying on the grace that is only found in Jesus Christ."
+        },
+        {
+          "number": "2 Timothy 2:2",
+          "latin": "et quæ audisti a me per multos testes, hæc commenda fidelibus hominibus, qui idonei erunt et alios docere.",
+          "english": "The truths you have heard from me, which were confirmed by many witnesses, entrust these teachings to faithful and trustworthy men who will also be capable of teaching these same truths to others."
+        },
+        {
+          "number": "2 Timothy 2:3",
+          "latin": "Labora sicut bonus miles Christi Iesu.",
+          "english": "Work hard and endure difficulty, just like a good soldier of Christ Jesus must."
+        },
+        {
+          "number": "2 Timothy 2:4",
+          "latin": "Nemo militans implicat se negotiis sæcularibus: ut ei placeat, cui se probavit.",
+          "english": "No one who is serving as a soldier allows himself to be entangled in worldly affairs, because his main goal is to please the one who enlisted him."
+        },
+        {
+          "number": "2 Timothy 2:5",
+          "latin": "Nam et qui certat in agone, non coronatur nisi legitime certaverit.",
+          "english": "Similarly, if someone competes in an athletic contest, he does not receive the victor's crown unless he competes according to the established rules."
+        },
+        {
+          "number": "2 Timothy 2:6",
+          "latin": "Laborantem agricolam oportet primum de fructibus percipere.",
+          "english": "The hardworking farmer is the one who should be the first to receive a share of the harvest."
+        },
+        {
+          "number": "2 Timothy 2:7",
+          "latin": "Intellige quæ dico: dabit enim tibi Dominus in omnibus intellectum.",
+          "english": "Consider carefully what I am saying, because the Lord will grant you understanding in all these matters."
+        },
+        {
+          "number": "2 Timothy 2:8",
+          "latin": "Memor esto Dominum Iesum Christum resurrexisse a mortuis, ex semine David, secundum Evangelium meum.",
+          "english": "Always remember that Jesus Christ Our Lord, a descendant of David, was raised from the dead. This is the central truth of the Gospel I preach."
+        },
+        {
+          "number": "2 Timothy 2:9",
+          "latin": "In quo laboro usque ad vincula, quasi male operans: sed Verbum Dei non est alligatum.",
+          "english": "Because of this Gospel, I suffer hardship and am even imprisoned, as if I were a criminal. But the Word of God, which is Jesus Christ and His teachings, cannot be imprisoned."
+        },
+        {
+          "number": "2 Timothy 2:10",
+          "latin": "Ideo omnia sustineo propter electos, ut et ipsi salutem consequantur, quæ est in Christo Iesu, cum gloria cælestis.",
+          "english": "Because of this, I endure all these things for the sake of God's elect, so that they, too, may obtain the eternal salvation that is found in Jesus Christ, along with the glory of heaven."
+        },
+        {
+          "number": "2 Timothy 2:11",
+          "latin": "Fidelis sermo: Nam si commortui sumus, et convivemus:",
+          "english": "This is a trustworthy saying: If we have died with Him through baptism and penance, we will also live with Him in eternal life."
+        },
+        {
+          "number": "2 Timothy 2:12",
+          "latin": "si sustinemus, et conregnabimus: si negaverimus, et ille negabit nos:",
+          "english": "If we persevere in suffering for Him, we will also reign with Him. But if we deny Him, He will also deny us on the day of judgment."
+        },
+        {
+          "number": "2 Timothy 2:13",
+          "latin": "si increduli fuerimus, ille fidelis permanet, negare seipsum non potest.",
+          "english": "Even if we are faithless, He remains faithful to His promises, for He cannot deny His own divine nature."
+        },
+        {
+          "number": "2 Timothy 2:14",
+          "latin": "Hæc commone, testificans coram Domino. Noli verbis contendere: in nihil enim utile est, nisi ad subversionem audientium.",
+          "english": "Remind everyone of these truths, solemnly testifying before the Lord. Warn them not to engage in useless arguments about words, for such debates are good for nothing except leading those who listen to spiritual ruin."
+        },
+        {
+          "number": "2 Timothy 2:15",
+          "latin": "Sollicite cura teipsum probabilem exhibere Deo, operarium inconfusibilem, recte tractantem verbum veritatis.",
+          "english": "Strive diligently to present yourself to God as a worker who is approved and has no need to be ashamed, because you are accurately handling the Word of Truth."
+        },
+        {
+          "number": "2 Timothy 2:16",
+          "latin": "Profana autem et inanibus vocum novitates devita: multum enim proficiunt ad impietatem.",
+          "english": "However, avoid profane and empty talk and innovative theories, for these only lead people further into ungodliness."
+        },
+        {
+          "number": "2 Timothy 2:17",
+          "latin": "Et sermo eorum ut cancer serpit: ex quibus est Hymenæus et Philetus,",
+          "english": "Their teachings will spread like gangrene, and among these false teachers are Hymenæus and Philetus."
+        },
+        {
+          "number": "2 Timothy 2:18",
+          "latin": "qui a veritate exciderunt, dicentes resurrectionem præteritam esse: et subverterunt quorumdam fidem.",
+          "english": "These men have deviated from the truth by claiming that the resurrection has already taken place, and in doing so, they have undermined the faith of certain individuals."
+        },
+        {
+          "number": "2 Timothy 2:19",
+          "latin": "Sed firmum fundamentum Dei stat, habens signaculum hoc: Cognovit Dominus qui sunt eius, et discedat ab iniquitate omnis qui nominat nomen Domini.",
+          "english": "Nevertheless, the unshakeable foundation of God stands firm, sealed with this double inscription: 'The Lord knows those who are His,' and 'Everyone who invokes the name of the Lord must turn away from wickedness.'"
+        },
+        {
+          "number": "2 Timothy 2:20",
+          "latin": "In magna autem domo non solum sunt vasa aurea et argentea, sed et lignea et fictilia: et quædam quidem in honorem, quædam autem in contumeliam.",
+          "english": "In a large household, there are not only vessels made of gold and silver, but also those made of wood and clay. Some of these are used for honorable purposes, while others are for common or dishonorable use."
+        },
+        {
+          "number": "2 Timothy 2:21",
+          "latin": "Si quis ergo emundaverit se ab his, erit vas in honorem sanctificatum, et utile Domino, ad omne opus bonum paratum.",
+          "english": "Therefore, if anyone cleanses himself from such false teachings and corrupt practices, he will become a vessel set apart for honorable use, sanctified, useful to the Lord, and ready for every good work."
+        },
+        {
+          "number": "2 Timothy 2:22",
+          "latin": "Iuvenilia desideria fuge: sectare vero iustitiam, fidem, caritatem, pacem cum his qui invocant Dominum de corde puro.",
+          "english": "Flee from youthful desires, and instead, earnestly pursue righteousness, faith, love, and peace, doing so with all those who call upon the Lord from a pure heart."
+        },
+        {
+          "number": "2 Timothy 2:23",
+          "latin": "Stultas autem et sine disciplina quæstiones devita: sciens quia generant lites.",
+          "english": "But avoid foolish and ignorant disputes, knowing full well that they only lead to quarrels."
+        },
+        {
+          "number": "2 Timothy 2:24",
+          "latin": "Servi autem Domini non oportet litigare: sed mansuetum esse ad omnes, aptum docere, patientem,",
+          "english": "A servant of the Lord must not quarrel; instead, he must be gentle towards everyone, capable of teaching, and patient when wronged."
+        },
+        {
+          "number": "2 Timothy 2:25",
+          "latin": "cum modestia corripientem eos qui resistunt veritati: ne quando det illis Deus pœnitentiam ad cognoscendam veritatem,",
+          "english": "He must humbly correct those who oppose the truth, in the hope that God may perhaps grant them repentance leading to an accurate knowledge of the truth."
+        },
+        {
+          "number": "2 Timothy 2:26",
+          "latin": "et resipiscant a diaboli laqueis, a quo captivi tenentur ad ipsius voluntatem.",
+          "english": "In this way, they might escape from the devil’s snare, having been captured by him to do his will."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Hoc autem scito, quod in novissimis diebus instabunt tempora periculosa:",
+          "english": "But understand this truth: in the final days of history, perilous times will be upon us."
+        },
+        {
+          "number": 2,
+          "latin": "erunt enim homines seipsos amantes, cupidi, elati, superbi, blasphemi, parentibus non obedientes, ingrati, scelesti,",
+          "english": "For at that time, people will be consumed with love for themselves, obsessed with money, filled with pride and arrogance, blasphemers, disobedient to their parents, ungrateful for blessings, and entirely unholy."
+        },
+        {
+          "number": 3,
+          "latin": "sine affectione, implacabiles, criminatores, incontinentes, immites, sine benignitate,",
+          "english": "They will lack natural affection, be unforgiving, eager to accuse falsely, without self-control, brutal, and without any love for what is good."
+        },
+        {
+          "number": 4,
+          "latin": "proditores, protervi, tumidi, voluptatum amatores magis quam Dei,",
+          "english": "They will be betrayers, recklessly defiant, puffed up with self-importance, and will love worldly pleasures more than they love God."
+        },
+        {
+          "number": 5,
+          "latin": "habentes speciem quidem pietatis, virtutem autem ejus abnegantes. Et hos devita.",
+          "english": "They will maintain an outward appearance of piety, but they will deny the true power and virtue of it in their lives. You must turn away from such people."
+        },
+        {
+          "number": 6,
+          "latin": "Ex his enim sunt qui penetrant domos, et captivas ducunt mulierculas oneratas peccatis, quæ ducuntur variis desideriis:",
+          "english": "For among these sorts of people are those who slyly infiltrate private homes, leading astray impressionable women who are burdened by their sins and easily swayed by various worldly desires."
+        },
+        {
+          "number": 7,
+          "latin": "semper discientes, et nunquam ad scientiam veritatis pervenientes.",
+          "english": "These women are always learning, yet they never come to a full and certain knowledge of the truth."
+        },
+        {
+          "number": 8,
+          "latin": "Quemadmodum autem Iannes et Mambres restiterunt Moysi: ita et hi resistunt veritati, homines corrupti mente, reprobi circa fidem.",
+          "english": "Just as Jannes and Jambres resisted Moses with their magic, so do these false teachers resist the divine truth. They are men with corrupted minds, whose faith has been rejected and found wanting."
+        },
+        {
+          "number": 9,
+          "latin": "Sed ultra non proficient: insipientia enim eorum manifesta erit omnibus, sicut et illorum fuit.",
+          "english": "But they will not make any further progress, because their foolishness will become obvious to everyone, just as the foolishness of Jannes and Jambres was made manifest."
+        },
+        {
+          "number": 10,
+          "latin": "Tu autem assequutus es meam doctrinam, institutionem, propositum, fidem, longanimitatem, dilectionem, patientiam,",
+          "english": "But you, Timothy, have thoroughly observed and followed my teaching, my manner of life, my true purpose, my faith, my patience with others, my love for all, and my perseverance through suffering."
+        },
+        {
+          "number": 11,
+          "latin": "persecutiones, passiones: qualia mihi facta sunt Antiochiæ, Iconii, et Lystris: quales persecutiones sustinui, et ex omnibus me liberavit Dominus.",
+          "english": "You have also seen my persecutions and sufferings—what I went through in Antioch, Iconium, and Lystra. You know what intense persecutions I endured, yet out of all of them, the Lord truly delivered me."
+        },
+        {
+          "number": 12,
+          "latin": "Et omnes qui volunt pie vivere in Christo Jesu, persecutionem patientur.",
+          "english": "In fact, everyone who truly desires to live a life of piety united with Christ Jesus will suffer persecution."
+        },
+        {
+          "number": 13,
+          "latin": "Mali autem homines et seductores proficient in pejus, errantes, et in errorem mittentes.",
+          "english": "But wicked people and deceivers will only continue to grow worse, always going astray themselves and leading others into error."
+        },
+        {
+          "number": 14,
+          "latin": "Tu vero permane in his quæ didicisti, et creditæ sunt tibi: sciens a quo didiceris.",
+          "english": "But you, Timothy, must continue steadfastly in the truths you have learned and which have been entrusted to you, knowing the trustworthy teachers from whom you received them."
+        },
+        {
+          "number": 15,
+          "latin": "Et quia ab infantia sacras litteras nosti, quæ te possunt instruere ad salutem, per fidem quæ est in Christo Jesu.",
+          "english": "And know that from your very childhood, you have been familiar with the sacred Scriptures, which possess the power to instruct you unto salvation, through the active faith that you have in Christ Jesus."
+        },
+        {
+          "number": 16,
+          "latin": "Omnis scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corrigendum, et ad erudiendum in justitia:",
+          "english": "All of Sacred Scripture is inspired by God's own breath; therefore, it is profitable for teaching sound doctrine, for convicting the conscience, for correcting sinful behavior, and for training in all righteousness."
+        },
+        {
+          "number": 17,
+          "latin": "ut perfectus sit homo Dei, ad omne opus bonum instructus.",
+          "english": "This is so that the man consecrated to God may be fully complete and perfectly equipped for every good work."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Testificor coram Deo, et Christo Jesu, qui judicaturus est vivos et mortuos, per adventum ipsius et regnum ejus:",
+          "english": "I solemnly charge you before God the Father, and Christ Jesus, who will judge both the living and the dead by His Second Coming and His Eternal Reign."
+        },
+        {
+          "number": "2",
+          "latin": "prædica verbum, insta opportune, importune: argue, obsecra, increpa in omni patientia et doctrina.",
+          "english": "Preach the true word of God. Be ready and urgent in season and out of season. Correct those who err, entreat the wavering, and rebuke the obstinate, doing all of this with great patience and careful teaching."
+        },
+        {
+          "number": "3",
+          "latin": "Erit enim tempus cum sanam doctrinam non sustinebunt, sed ad sua desideria coacervabunt sibi magistros, prurientes auribus,",
+          "english": "For there will come a time when people will no longer tolerate sound doctrine. Instead, they will gather teachers for themselves who cater to their own desires, because they have itching ears, desiring only what they want to hear."
+        },
+        {
+          "number": "4",
+          "latin": "et a veritate quidem auditum avertent, ad fabulas autem convertentur.",
+          "english": "They will turn away from truly hearing the truth, and will instead turn to fables and myths."
+        },
+        {
+          "number": "5",
+          "latin": "Tu vero vigila in omnibus, labora, opus fac evangelistæ, ministerium tuum imple.",
+          "english": "But you, for your part, stay watchful in all things. Endure hardships. Perform the work of an evangelist, and fulfill your ministry completely."
+        },
+        {
+          "number": "6",
+          "latin": "Ego enim jam delibor, et tempus resolutionis meæ instat.",
+          "english": "For I am already being poured out like a libation in sacrifice, and the time for my departure from this life is at hand."
+        },
+        {
+          "number": "7",
+          "latin": "Bonum certamen certavi, cursum consummavi, fidem servavi.",
+          "english": "I have fought the good fight. I have finished the race. I have kept the Catholic Faith."
+        },
+        {
+          "number": "8",
+          "latin": "In reliquo reposita est mihi corona justitiæ, quam reddet mihi Dominus in illa die justus judex: non solum autem mihi, sed et his qui diligunt adventum ejus.",
+          "english": "From now on, the crown of justice is reserved for me, which the Lord, the just Judge, will give to me on that Day of Judgment. This crown is not for me alone, but also for all those who love His coming."
+        },
+        {
+          "number": "9",
+          "latin": "Festina ad me venire cito.",
+          "english": "Make every effort to come to me quickly."
+        },
+        {
+          "number": "10",
+          "latin": "Demas enim me dereliquit, diligens hoc sæculum, et abiit Thessalonicam: Crescens in Galatiam, Titus in Dalmatiam.",
+          "english": "For Demas has abandoned me because he loved this present world, and he has gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia."
+        },
+        {
+          "number": "11",
+          "latin": "Lucas est mecum solus. Marcum assume, et adduc tecum: est enim mihi utilis in ministerium.",
+          "english": "Luke is the only one with me now. Take Mark with you and bring him along, for he is very useful to me in ministry."
+        },
+        {
+          "number": "12",
+          "latin": "Tychicum autem misi Ephesum.",
+          "english": "However, I have sent Tychicus to Ephesus."
+        },
+        {
+          "number": "13",
+          "latin": "Penulam, quam reliqui apud Carpum Troadæ, veniens affer tecum, et libros, maxime autem membranas.",
+          "english": "When you come, bring the cloak I left with Carpus in Troas. Also bring the books, and especially the parchments."
+        },
+        {
+          "number": "14",
+          "latin": "Alexander ærarius multum mala mihi ostendit: reddat illi Dominus secundum opera ejus:",
+          "english": "Alexander, the coppersmith, has done me great harm. May the Lord repay him according to his deeds."
+        },
+        {
+          "number": "15",
+          "latin": "quem et tu devita: valde enim restitit verbis nostris.",
+          "english": "You also must avoid him, for he strongly opposed our message."
+        },
+        {
+          "number": "16",
+          "latin": "In prima mea defensione nemo mihi affuit, sed omnes me dereliquerunt: non illis imputetur.",
+          "english": "At my first defense in court, no one stood with me, but everyone abandoned me. May it not be counted against them."
+        },
+        {
+          "number": "17",
+          "latin": "Dominus autem mihi affuit, et confortavit me, ut per me prædicatio impleatur, et audiant omnes Gentes: et liberatus sum de ore leonis.",
+          "english": "But the Lord stood by me and strengthened me, so that through me the preaching of the Gospel might be fully accomplished, and all the Gentiles might hear it. And I was delivered from the mouth of the lion."
+        },
+        {
+          "number": "18",
+          "latin": "Et liberabit me Dominus ab omni opere malo: et salvum faciet in regnum suum cæleste, cui sit gloria in sæcula sæculorum. Amen.",
+          "english": "And the Lord will deliver me from every evil work and will bring me safely into His heavenly Kingdom. To Him be glory for ever and ever. Amen."
+        },
+        {
+          "number": "19",
+          "latin": "Saluta Priscam et Aquilam, et Onesiphori domum.",
+          "english": "Give my greetings to Priscilla and Aquila, and to the household of Onesiphorus."
+        },
+        {
+          "number": "20",
+          "latin": "Erastus remansit Corinthi: Trophimum autem reliqui infirmum Mileti.",
+          "english": "Erastus remained in Corinth, but I left Trophimus sick at Miletus."
+        },
+        {
+          "number": "21",
+          "latin": "Festina ante hiemem venire. Salutant te Eubulus, et Pudens, et Linus, et Claudia, et fratres omnes.",
+          "english": "Make every effort to come before winter. Eubulus greets you, as do Pudens, Linus, Claudia, and all the brethren."
+        },
+        {
+          "number": "22",
+          "latin": "Dominus Jesus Christus sit cum spiritu tuo. Gratia vobiscum. Amen.",
+          "english": "May the Lord Jesus Christ be with your spirit. May grace be with you all. Amen."
+        }
+      ]
+    }
+  ]
+}

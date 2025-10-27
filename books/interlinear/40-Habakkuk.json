@@ -1,0 +1,403 @@
+{
+  "name": "Habakkuk",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Onus quod vidit Habacuc propheta.",
+          "english": "This is the burden of prophecy that Habakkuk saw."
+        },
+        {
+          "number": 2,
+          "latin": "Usquequo Domine clamabo, et non exaudies? usquequo clamabo ad te de iniquitate, et non salvabis?",
+          "english": "How much longer, Lord, will I cry out to you, and will you not hear? How much longer will I complain of violence to you, and will you not save?"
+        },
+        {
+          "number": 3,
+          "latin": "Quare ostendisti mihi iniquitatem et laborem, videre praedationem et iniustitiam contra me? et est judicium, et contradictio obtinuit.",
+          "english": "Why do you show me wickedness and toil, that I may see injustice and the destruction of those who do wrong to me? Because of this, judgment will come, and strife will come upon all."
+        },
+        {
+          "number": 4,
+          "latin": "Propter hoc contristatus est lex, et non pervenit usque ad finem judicium: quia impius praevalet adversus justum, propterea egreditur judicium perversum.",
+          "english": "Because of this, the law is weakened, and the judgment never succeeds: because the wicked are stronger than the righteous. Therefore, perverse judgment comes forth."
+        },
+        {
+          "number": 5,
+          "latin": "Prospicite in nationes, et videte, et miramini, et obstupescite: quia opus facietis in diebus vestris, quod nemo credetis cum narrabitur.",
+          "english": "Look among the nations and see, and be astonished, and be astounded: because you will do a work in your days that you will not believe when it is told."
+        },
+        {
+          "number": 6,
+          "latin": "Quia ecce ego suscitabo Chaldaeos gentem amaram et velocem, ambulantem super latitudinem terrae, ut possideat tabernacula non sua.",
+          "english": "Because behold, I will raise up the Chaldeans, a bitter and swift nation that marches across the breadth of the earth to take possession of dwelling places that are not their own."
+        },
+        {
+          "number": 7,
+          "latin": "Horribilis et terribilis est: ex se judicium et onus ejus egredietur.",
+          "english": "They are terrifying and fearsome; their judgment and their power will come forth from themselves."
+        },
+        {
+          "number": 8,
+          "latin": "Velocior leopardis equus ejus, et fortior lupis vespertinis: et erunt equites ejus superbi.",
+          "english": "Their horses are swifter than leopards, and they are more fierce than wolves at evening; their horsemen are proud."
+        },
+        {
+          "number": 9,
+          "latin": "Venient omnes ad praedam, facies eorum ventus urens: et congregabunt quasi arena captivitatem.",
+          "english": "They will all come to plunder; their faces will be as a burning wind, and they will gather captives like sand."
+        },
+        {
+          "number": 10,
+          "latin": "Et ipse de regibus triumphabit, et de principibus irridebit: ipse risum faciet de omni munitione, et conportabit aggerem, et capiet eam.",
+          "english": "They themselves will mock kings, and they will scoff at princes; they will laugh at every fortress and they will build a ramp to capture it."
+        },
+        {
+          "number": 11,
+          "latin": "Tunc mutabitur spiritus ejus, et transibit, et impietatem suam hanc potentiam suam reputabit.",
+          "english": "Then his spirit will change, and he will pass through; and he will consider this power to be his own wickedness."
+        },
+        {
+          "number": 12,
+          "latin": "Numquid non tu es a principio, Domine Deus meus, Sanctus meus? et non moriemur: Domine, in judicium posuisti eum, et fortitudinem, ut corripas eum.",
+          "english": "Are you not from the beginning, Lord my God, my Holy One? We will not die. Lord, you have appointed him for judgment, and you have set him as a rebuke."
+        },
+        {
+          "number": 13,
+          "latin": "Cujus oculi mundi sunt, et non potest videre malum, et respicere non potest super iniquitatem: quare respicis super inique agentes, et taces cum impius devorat justiorem se?",
+          "english": "You whose eyes are pure and cannot look upon evil, who cannot look upon wickedness, why do you look on those who act unjustly, and are silent when the wicked devour one more just than themselves?"
+        },
+        {
+          "number": 14,
+          "latin": "Et facies homines quasi pisces maris, et quasi reptile non habens principem.",
+          "english": "You make humans like the fish of the sea, and like the creeping things that have no ruler."
+        },
+        {
+          "number": 15,
+          "latin": "Omnes in hamo tollit, et trahit eos in sagena sua, et congregat in rete suo: super hoc laetabitur et exultabit.",
+          "english": "He takes them all up with a hook and drags them into his net and gathers them into his dragnet; over this, he rejoices and exults."
+        },
+        {
+          "number": 16,
+          "latin": "Propterea immolabit sagenae suae, et sacrificabit reti suo: quia propter hoc incrassata est pars ejus, et cibus ejus pinguis.",
+          "english": "For this reason, he will sacrifice to his net, and he will offer sacrifices to his dragnet: because for this reason, his portion is fattened, and his food is rich."
+        },
+        {
+          "number": 17,
+          "latin": "Ideo ergo gladio suo evaginabitur, et gentibus frustrabitur absque misericordia?",
+          "english": "Therefore, will he empty his sword, and will he not have mercy on the nations?"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "In custodiam meam stabo, et insuper adgrediar, et stare super custodiam meam, et contemplabor ut videam quid dicat in me, et quid respondeat ad monitionem meam.",
+          "english": "I will stand guard over my watch. I will go on. I will stand on my watchtower to see what He might say to me in response to my prayers."
+        },
+        {
+          "number": 2,
+          "latin": "Et respondebit mihi Dominus, et dicet: Scribe visionem, et explana eam super tabulas, ut currat qui legerit eam.",
+          "english": "The Lord will answer me. He will say, “Write down the vision. Make it clear on tablets, so that everyone who reads it can run with it.”"
+        },
+        {
+          "number": 3,
+          "latin": "Quia adhuc visio pro tempore, et respiciet in finem, et non mentietur: si moram fecerit, exspecta eum, quia veniens veniet, et non tardabit.",
+          "english": "For the vision is not of immediate fulfillment. It looks ahead to the end, and it will not lie. If it seems to tarry, wait for it. It will surely come; it will not delay."
+        },
+        {
+          "number": 4,
+          "latin": "Ecce qui incredulus est, non dirigetur anima ejus in semetipso: justus autem in fide sua vivet.",
+          "english": "Behold, the arrogant one is not upright within himself. But the just man will live by his faith."
+        },
+        {
+          "number": 5,
+          "latin": "Et praeterea, quia vinum potui, vir superbus et vinolentus vir, et non quiescet, qui dilataverat quasi infernus animam suam, et congregabit ad se quasi mors, et arripuit quasi mors.",
+          "english": "Truly, because of wine, the proud man is arrogant and restless; he does not remain at peace. His soul is as vast as Sheol, like death, and he gathers all nations to himself, like death."
+        },
+        {
+          "number": 6,
+          "latin": "Nonne omnes isti parabolam adversum eum sumpserint, et aenigma ejus, et dicta fuerint: Vae qui multiplicas, quod non est tibi? Usquequo aggravas contra te densum lutum?",
+          "english": "Will not all of these take up a parable against him? Will they not utter a riddle concerning him and say, “Woe to him who amasses what is not his own! How long will he keep gathering debts against himself?”"
+        },
+        {
+          "number": 7,
+          "latin": "Nonne subito consurgent qui morderint te? et suscitabuntur qui atrociter te moverint, et eris in rapinam eis?",
+          "english": "Will they not suddenly arise who will bite you, those who will agitate you so fiercely? And you will become their plunder."
+        },
+        {
+          "number": 8,
+          "latin": "Quia tu spoliasti gentes multas, spoliabunt te reliquiae populorum, propter sanguinem humani, et iniquitatem terrae, et urbis, et omnium habitantium in ea.",
+          "english": "Because you have plundered many nations, the remnant of the peoples will plunder you for the blood of man and the iniquity of the land, of the city, and of all who live in it."
+        },
+        {
+          "number": 9,
+          "latin": "Vae qui congregat lucrum malum domui suae, ut ponat in excelso nidum suum, et liberetur de manu mali!",
+          "english": "Woe to him who gathers evil gain for his house, setting his nest on high to be delivered from the reach of evil!"
+        },
+        {
+          "number": 10,
+          "latin": "Cogitasti confusionem domui tuae, excidisti populos multos, et peccavit anima tua.",
+          "english": "You have devised shame for your house by cutting off many peoples, and you have sinned against your own soul."
+        },
+        {
+          "number": 11,
+          "latin": "Nam lapis de pariete clamabit, et lignum de tigno respondebit.",
+          "english": "For the stone will cry out from the wall, and the beam from the woodwork will answer."
+        },
+        {
+          "number": 12,
+          "latin": "Vae qui aedificat civitatem in sanguinem, et parat urbem iniquitatibus!",
+          "english": "Woe to him who builds a city with blood, and prepares a town with iniquity!"
+        },
+        {
+          "number": 13,
+          "latin": "Nonne hoc est a Domino exercituum? Populi ergo laborant in igne, et gentes in vanum fatiscunt.",
+          "english": "Is this not from the Lord of hosts? The peoples labor only for fire, and the nations weary themselves only for nothing."
+        },
+        {
+          "number": 14,
+          "latin": "Quia replebitur terra, cum sciet gloriam Domini, sicut aquae multae implent mare.",
+          "english": "For the earth will be filled with the knowledge of the glory of the Lord, as the waters cover the sea."
+        },
+        {
+          "number": 15,
+          "latin": "Vae qui potum dat proximo suo, et infundens venenum, ad inebriandum, ut videat nuditates ejus!",
+          "english": "Woe to him who gives drink to his neighbor, pouring out his venom to make him drunk, so that he may look on his nakedness!"
+        },
+        {
+          "number": 16,
+          "latin": "Replere potus ignominiam pro gloria; bibe tu quoque, et dormi incircumcisus: transibit ad te calix dexterae Domini, et vomitus ignominiae super gloriam tuam.",
+          "english": "You will be filled with disgrace instead of glory. Drink yourself and be uncircumcised! The cup in the Lord’s right hand will come around to you, and utter shame will come upon your glory."
+        },
+        {
+          "number": 17,
+          "latin": "Quia iniquitas Libani operiet te, et vastitas animalium impavidas, propter sanguinem humani, et iniquitatem terrae, et urbis, et omnium habitantium in ea.",
+          "english": "For the violence done to Lebanon will overwhelm you, and the destruction of the beasts will terrify you because of the blood of man and the iniquity of the land, of the city, and of all who live in it."
+        },
+        {
+          "number": 18,
+          "latin": "Quid prodest sculptile, quod finxit eum qui fabricatus est illud? Conflatile, et imaginem falsam, ut confideret in opere suo, quod fabricatus est?",
+          "english": "Of what use is an idol, since its maker has crafted it? It is an image, a teacher of lies! For the maker trusts in his own work, though he has produced mute idols."
+        },
+        {
+          "number": 19,
+          "latin": "Vae qui dicit ligno: Expergiscere! Surge lapidi muto! Ergone iste docebit? Ecce hic jacet, et non respondebit. Ecce hic jacet, et non audiet.",
+          "english": "Woe to him who says to wood, “Awake!” and to a mute stone, “Arise!” Can it teach? Behold, it is covered with gold and silver, and there is no breath at all in it."
+        },
+        {
+          "number": 20,
+          "latin": "Dominus autem in templo sancto suo: sileat a facie ejus omnis terra.",
+          "english": "But the Lord is in His holy temple; let all the earth keep silence before Him."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Oratio Habacuc prophetae pro ignorantia.",
+          "english": "This is the prayer of the prophet Habakkuk, who had difficulty understanding God."
+        },
+        {
+          "number": 2,
+          "latin": "Domine, audivi auditionem tuam, et timui.",
+          "english": "Lord, I heard Your fame, and I was afraid."
+        },
+        {
+          "number": 3,
+          "latin": "Consideravi opera tua, et expavi.",
+          "english": "I considered Your works, and I was filled with awe."
+        },
+        {
+          "number": 4,
+          "latin": "Domine, opus tuum, in medio annorum vivifica illud:",
+          "english": "Lord, revive Your work as the years pass."
+        },
+        {
+          "number": 5,
+          "latin": "in medio annorum notum facies;",
+          "english": "As the years pass, make Your power known."
+        },
+        {
+          "number": 6,
+          "latin": "cum conturbata fuerit anima mea, in ira misericordiæ memoraberis.",
+          "english": "Even when my soul is troubled, remember Your mercy."
+        },
+        {
+          "number": 7,
+          "latin": "Deus, ab austro veniet, et sanctus de monte Pharan:",
+          "english": "God will come from the south, and the Holy One from Mount Pharan."
+        },
+        {
+          "number": 8,
+          "latin": "operuit cælos gloria ejus, et laudis ejus plena est terra.",
+          "english": "His glory covered the skies, and the earth is filled with praise of Him."
+        },
+        {
+          "number": 9,
+          "latin": "Splendor ejus quasi lux erit: cornua in manibus ejus:",
+          "english": "His splendor will be like light: He has all power in His hands."
+        },
+        {
+          "number": 10,
+          "latin": "ibi abscondita est fortitudo ejus.",
+          "english": "In Him is all strength hidden."
+        },
+        {
+          "number": 11,
+          "latin": "Ante faciem ejus ibit pestilentia, et gradietur diabolus ante pedes ejus.",
+          "english": "Before Him will go pestilence, and the devil will walk before His feet."
+        },
+        {
+          "number": 12,
+          "latin": "Stetit, et mensus est terram:",
+          "english": "He stood, and measured the land."
+        },
+        {
+          "number": 13,
+          "latin": "respicit, et conturbati sunt gentes.",
+          "english": "He looked, and the nations were terrified."
+        },
+        {
+          "number": 14,
+          "latin": "Et contriti sunt montes antiqui, incurvati sunt colles mundi, a viis ejus æterni.",
+          "english": "The ancient mountains were crushed, the hills of the world were bowed down, from His eternal paths."
+        },
+        {
+          "number": 15,
+          "latin": "Pro iniquitate vidi tentoria Æthiopiæ, conturbabuntur pelles terræ Madian.",
+          "english": "Because of iniquity, I saw the tents of Ethiopia; the coverings of the land of Midian were troubled."
+        },
+        {
+          "number": 16,
+          "latin": "Numquid in fluminibus iratus es, Domine?",
+          "english": "Were You angry with the rivers, Lord?"
+        },
+        {
+          "number": 17,
+          "latin": "numquid in mari furor tuus?",
+          "english": "Was Your fury against the sea?"
+        },
+        {
+          "number": 18,
+          "latin": "Qui ascendes super equos tuos, et quadrigæ tuæ salvatio.",
+          "english": "You rode on Your horses, and Your chariots brought salvation."
+        },
+        {
+          "number": 19,
+          "latin": "Suscitans suscitabis arcum tuum:",
+          "english": "You roused Your bow, and prepared it for battle."
+        },
+        {
+          "number": 20,
+          "latin": "juramenta quæ locutus es tribubus.",
+          "english": "You spoke oaths to the tribes."
+        },
+        {
+          "number": 21,
+          "latin": "Divisisti flumina terræ.",
+          "english": "You divided the rivers of the land."
+        },
+        {
+          "number": 22,
+          "latin": "Viderunt te, et doluerunt montes: transitus aquarum præterierunt.",
+          "english": "The mountains saw You, and were in pain: the torrents of waters passed by."
+        },
+        {
+          "number": 23,
+          "latin": "Dedit sonitum abyssus: altitudo vocem suam misit.",
+          "english": "The deep gave forth a sound; the depths sent out their voice."
+        },
+        {
+          "number": 24,
+          "latin": "Levavit in altum manus suas.",
+          "english": "He lifted up His hands to the heights."
+        },
+        {
+          "number": 25,
+          "latin": "Sol et luna steterunt in habitaculo suo, in luce sagittarum tuarum, ibunt, in splendore fulgurantis hastæ tuæ.",
+          "english": "The sun and moon stood still in their dwelling, at the light of Your arrows they shall go, in the splendor of Your flashing spear."
+        },
+        {
+          "number": 26,
+          "latin": "In ira conteres terram, in furore contero gentes.",
+          "english": "In anger, You trampled the earth; in fury, You destroyed the nations."
+        },
+        {
+          "number": 27,
+          "latin": "Existi in salvum populum tuum, salvum populum tuum cum christis tuis.",
+          "english": "You went out to save Your people, to save Your people with Your anointed ones."
+        },
+        {
+          "number": 28,
+          "latin": "Percussisti caput de domo impii: denudasti fundamentum usque ad collum.",
+          "english": "You struck the head from the house of the wicked; You laid bare the foundation even to the neck."
+        },
+        {
+          "number": 29,
+          "latin": "Maledixisti sceptris ejus, capita bellatorum ejus.",
+          "english": "You cursed their scepters, the heads of their warriors."
+        },
+        {
+          "number": 30,
+          "latin": "Invasisti mare in equis tuis, in tumultu aquarum multarum.",
+          "english": "You invaded the sea with Your horses, in the tumult of many waters."
+        },
+        {
+          "number": 31,
+          "latin": "Audivi, et conturbatus est venter meus:",
+          "english": "I heard, and my belly was troubled."
+        },
+        {
+          "number": 32,
+          "latin": "a voce labiorum meorum ingressus est tremor in ossibus meis, et contremesco.",
+          "english": "At the voice of my lips, trembling entered into my bones, and I trembled."
+        },
+        {
+          "number": 33,
+          "latin": "Ut requiescam in die tribulationis, ut ascendam ad populum accinctum de eo.",
+          "english": "I waited for the day of tribulation, that I may ascend to the people who are girded for battle."
+        },
+        {
+          "number": 34,
+          "latin": "Nam et ficus non florebit, et non erit fructus in vineis:",
+          "english": "For the fig tree will not blossom, and there will be no fruit on the vines."
+        },
+        {
+          "number": 35,
+          "latin": "labor olivarum mentietur, et vineæ non dabunt fructum.",
+          "english": "The labor of the olive trees will be in vain, and the vineyards will not give fruit."
+        },
+        {
+          "number": 36,
+          "latin": "Deficiet omne pabulum in agro, et non erit pecus in præsepibus.",
+          "english": "All the food in the field will fail, and there will be no cattle in the stalls."
+        },
+        {
+          "number": 37,
+          "latin": "Ego autem in Domino gaudebo, et exsultabo in Deo Jesu meo.",
+          "english": "Yet I will rejoice in the Lord, and I will be joyful in God, my Savior."
+        },
+        {
+          "number": 38,
+          "latin": "Dominus Deus fortitudo mea, et ponet pedes meos quasi cervorum:",
+          "english": "The Lord God is my strength, and He will make my feet like those of the hinds."
+        },
+        {
+          "number": 39,
+          "latin": "et super excelsa mea deducet me victoriam canentem.",
+          "english": "He will bring me to the heights, where I can sing a song of victory."
+        }
+      ]
+    }
+  ]
+}

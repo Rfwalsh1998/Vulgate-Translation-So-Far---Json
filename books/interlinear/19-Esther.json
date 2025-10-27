@@ -1,0 +1,1285 @@
+{
+  "name": "Esther",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "In diebus Assueri, qui regnavit ab India usque ad Aethiopiam, super centum viginti septem provincias:",
+          "english": "In the days of King Ahasuerus, who reigned from the lands of India even to the regions of Ethiopia, over one hundred and twenty-seven provinces."
+        },
+        {
+          "number": 2,
+          "latin": "Quando sedit in solio regni sui, in Susis civitate regia:",
+          "english": "When he took his royal seat on the throne of his kingdom, in Susa, the royal capital city."
+        },
+        {
+          "number": 3,
+          "latin": "Tertio anno imperii sui, fecit grande convivium cunctis principibus, et pueris suis, fortissimis Persarum et Medorum, et præfectis provinciarum, coram se:",
+          "english": "In the third year of his reign, he held a grand feast for all his nobles and his royal officials—the most powerful leaders of the Persian and Median peoples—and for the governors of his provinces, all gathered before him."
+        },
+        {
+          "number": 4,
+          "latin": "Ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, per multos dies, centum videlicet et octoginta.",
+          "english": "His purpose was to display the vast riches and glory of his kingdom, and the immense grandeur and impressive splendor of his power. This feast lasted for many days—specifically, one hundred and eighty days."
+        },
+        {
+          "number": 5,
+          "latin": "Et cum implerentur dies convivii, fecit cuncto populo, qui repertus est in Susis civitate regia, a maximo usque ad minimum, convivium septem dierum in vestibulo horti, et nemoris quod regio cultu præparatum erat.",
+          "english": "After those many days of feasting were completed, the king then hosted a feast for all the people—everyone who lived in the royal capital city of Susa, from the most important to the least. This feast lasted for seven days, and it was held in the courtyard of the royal palace garden, a beautiful area carefully designed for royal events."
+        },
+        {
+          "number": 6,
+          "latin": "Et pendebant ex omni parte tentoria aerii coloris, et carbasini, et hyacinthini, sustentata funibus byssinis, atque purpureis, et anulis eburneis, et columnis marmoreis. Lecta quoque aurea et argentea, super pavimentum smaragdino et pario fulgebant, ac de diversis coloribus strato.",
+          "english": "From every side hung magnificent canopies woven from fine linen in sky-blue, white, and violet colors. These were held up by cords of fine linen and royal purple, attached to ivory rings and magnificent marble columns. Golden and silver couches were arranged, resting on a pavement made of precious green marble and white Parian stone, which was covered with colorful, intricately woven rugs."
+        },
+        {
+          "number": 7,
+          "latin": "Bibebant autem qui invitati erant, aureis poculis, et alternis paritabantur scyphi, vinum quoque regium abundans, et ut dignum erat regia majestate.",
+          "english": "Those who were invited drank from splendid golden cups, and each cup was unique, differing in design from the others. The royal wine flowed freely, an abundant supply fit for a king's majesty."
+        },
+        {
+          "number": 8,
+          "latin": "Nec erat qui cogeret ad bibendum, sed sicut rex statuerat, et præponerat mensis singulorum de principibus suis, ut facerent voluntatem ejus.",
+          "english": "No one was forced to drink beyond their desire. Instead, the king had given specific instructions, assigning certain noble officials to oversee each table, ensuring that every guest could drink as much or as little as they pleased, according to their own will."
+        },
+        {
+          "number": 9,
+          "latin": "Vasthi quoque regina, fecit convivium feminarum in palatio regis Assueri.",
+          "english": "Queen Vashti, for her part, also hosted a feast specifically for the women, held within the royal palace of King Ahasuerus."
+        },
+        {
+          "number": 10,
+          "latin": "Die septimo, cum rex esset hilarior, et ultra modum incaluisset a vino, præcepit Mauman, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis, qui in conspectu ejus ministrabant,",
+          "english": "On the seventh day of the feast, when King Ahasuerus was feeling merry and his spirits had been excessively elevated by the wine, he issued a command to Mauman, Bazatha, Harbona, Bagatha, Abgatha, Zethar, and Charchas—the seven eunuchs who served directly in his royal presence."
+        },
+        {
+          "number": 11,
+          "latin": "Ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem ejus: erat enim pulchra valde.",
+          "english": "His command was to bring Queen Vashti into the king's presence. She was to wear her royal crown, as his intention was to display her beauty to all the assembled peoples and nobles, for indeed, she was exceedingly beautiful."
+        },
+        {
+          "number": 12,
+          "latin": "Quæ renuit et ad regis imperium, quod per eunuchos mandaverat, venire contempsit. Iratusque rex, et nimio furore succensus,",
+          "english": "But Queen Vashti refused. She scorned the king's command, which had been delivered by his eunuchs, and would not come. The king became furious, inflamed with intense anger."
+        },
+        {
+          "number": 13,
+          "latin": "Interrogavit sapientes, qui ex more regio semper illum comitabantur, et illorum sententia cuncta faciebant, scientes tempora,",
+          "english": "He then consulted his wise men. These were the men who, by royal custom, always attended him, and all royal matters were decided according to their experienced judgment, for they were experts in the customs and laws of the age."
+        },
+        {
+          "number": 14,
+          "latin": "Et qui erant ei proximi, Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum atque Medorum, qui videbant faciem regis, et primi post regem sedebant.",
+          "english": "These were his closest and most trusted advisors: Carshena, Sethar, Admatha, Tarshish, Meres, Marsena, and Memucan—the seven chief princes of Persia and Media. They had privileged access to the king and held the highest positions in the kingdom, ranking just below him."
+        },
+        {
+          "number": 15,
+          "latin": "Cui sententiæ regiæ juxta legem, Regina Vasthi non obedierit?",
+          "english": "What legal royal judgment should be pronounced against Queen Vashti for her failure to obey the king's command, which was delivered through the eunuchs?"
+        },
+        {
+          "number": 16,
+          "latin": "Responditque Mamuchan audiente rege atque principibus: Non solum regem læsit regina Vasthi, sed omnes principes, et populos, qui sunt in cunctis provinciis regis Assueri.",
+          "english": "Then Memucan spoke before the king and the assembled princes: 'Queen Vashti’s offense is not against the king alone, but also against all the princes and indeed all the peoples throughout all the provinces of King Ahasuerus.'"
+        },
+        {
+          "number": 17,
+          "latin": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus jussit ut regina Vasthi intraret ad se, et illa noluit.",
+          "english": "'For news of the queen’s actions will spread to all women. This will lead them to despise their own husbands and say, “King Ahasuerus commanded Queen Vashti to appear before him, and she refused!”'"
+        },
+        {
+          "number": 18,
+          "latin": "Et hoc ipso exemplo, omnes principum conjuges, parvipendent mandata maritorum. Et satis hoc est ad contumeliam et iram.",
+          "english": "'Through this one example, all the wives of the nobles will begin to disregard their husbands' commands. Such behavior will bring sufficient contempt and anger.'"
+        },
+        {
+          "number": 19,
+          "latin": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, quod non liceat Vasthi ultra ingredi ad regem, sed et regnum illius alteri, quæ illa melior est, tribuas.",
+          "english": "'If it pleases the king, let a royal decree be issued in your presence, and let it be formally written into the laws of Persia and Media. This decree should state that Queen Vashti is never again permitted to enter the king’s presence. Furthermore, her royal position and honor should be given to another woman who proves herself more worthy than she.'"
+        },
+        {
+          "number": 20,
+          "latin": "Et hoc edictum, quod exierit de regalibus et audietur in universo imperio tuo, quod est latissimum, omnes uxores, sive nobilium, sive humilium, suscipiant maritos suos.",
+          "english": "'When this royal decree goes forth from your palace and is proclaimed throughout your entire, vast empire, all wives, both noblewomen and commoners, will then respect their husbands.'"
+        },
+        {
+          "number": 21,
+          "latin": "Placuitque sermo ejus regi, et principibus: fecitque rex juxta consilium Mamuchan.",
+          "english": "Memucan's words pleased both the king and his princes. So the king acted in accordance with Memucan's counsel."
+        },
+        {
+          "number": 22,
+          "latin": "Et misit epistolas ad universas provincias regni sui, ut quæque provincia diversis loquebatur idiomatis et litteris, ut vir esset princeps et major in domo sua: et hoc omnibus populis manifestum foret.",
+          "english": "The king then sent official letters to all the provinces of his kingdom, written in the local script and language of each province. Their message was that every husband should be the undisputed master and authority in his own household, and this directive was to be made clear to all the peoples."
+        },
+        {
+          "number": 1,
+          "latin": "In diebus Assueri, qui regnavit ab India usque Aethiopiam super centum viginti septem provincias:",
+          "english": "In the days of Ahasuerus—this King Ahasuerus was the ruler who reigned from India all the way to Ethiopia, over one hundred and twenty-seven provinces."
+        },
+        {
+          "number": 2,
+          "latin": "Quando sedit in solio regni sui, Susa civitas regni ejus.",
+          "english": "At the time when he was seated upon the throne of his kingdom, the capital city of his reign was Susa."
+        },
+        {
+          "number": 3,
+          "latin": "Tertio igitur anno imperii sui fecit grande convivium cunctis principibus, et pueris suis, fortissimis Persarum et Medorum, et præfectis provinciarum in conspectu suo:",
+          "english": "Therefore, in the third year of his reign, he prepared a grand feast for all his princes and his highest officials—including the most powerful among the Persians and Medes, and all the governors of the provinces—all gathered in his royal presence."
+        },
+        {
+          "number": 4,
+          "latin": "Ut ostenderet divitias gloriæ regni sui, ac magnitudinem atque jactantiam potentiæ suæ, per multos dies, centum videlicet et octoginta.",
+          "english": "This was so he could display the great wealth and glory of his kingdom, and the magnificence and boastful power of his rule, over the course of many days—specifically, for one hundred and eighty days."
+        },
+        {
+          "number": 5,
+          "latin": "Completis diebus convivii, præcepit cuncto populo, qui inventus fuerat in Susa civitate, a maximo usque ad minimum, septem dierum convivium: et jussit præparari in vestibulo domus regiæ, et in viridiario quod regio cultu et opere mirabili pollebat:",
+          "english": "When those days of the grand feast were completed, he then commanded that all the people who were present in the city of Susa, from the most prominent to the least, should have a seven-day feast prepared. He ordered this to be arranged in the courtyard of the royal palace, and in the garden that was renowned for its royal design and marvelous craftsmanship."
+        },
+        {
+          "number": 6,
+          "latin": "Et palliis succynthi et aerei coloris, et byssini, et carbasini, quæ tentoria suspendebantur, columnæ quoque marmoreæ, et aurea fulcra, argentea et aurea strata, et solum stratum lapide smaragdino, et pario, et marmore, quæ miro opere diversificabantur:",
+          "english": "And there were hangings of purple, blue, fine white linen, and green fabrics, which served as luxurious curtains. There were also marble columns and gold pedestals, with couches of silver and gold for reclining. The floor itself was paved with precious stones: emerald, mother-of-pearl, and marble, all arranged in a wondrously diverse pattern."
+        },
+        {
+          "number": 7,
+          "latin": "Bibebant autem qui invitati erant, aureis poculis, et aliis atque aliis vasculis, et in altero et altero ministerio, ad magnitudinem et copiam regiam.",
+          "english": "Those who had been invited drank from golden cups and various other vessels, each different from the last. They served drinks in an alternating and abundant fashion, in a manner befitting the king's great wealth and generosity."
+        },
+        {
+          "number": 8,
+          "latin": "Nec quisquam cogebatur ebibere, sed sicut placuerat regi, sic proposuerat ministris, ut unicuique, id quod vellet, præberetur.",
+          "english": "No one was forced to drink beyond their desire; instead, the king had instructed his servants that each person should be offered whatever they wished to drink, exactly as it pleased them."
+        },
+        {
+          "number": 9,
+          "latin": "Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat.",
+          "english": "Queen Vasthi also prepared a separate feast for the women within the royal palace, in the very place where King Ahasuerus was accustomed to reside."
+        },
+        {
+          "number": 10,
+          "latin": "Die septimo, cum rex esset hilarior, et exultans præ nimia voluptate vini, præcepit Mauman, et Bazatha, et Harbona, et Bagatha, et Abgatha, et Zethar, et Charchas, septem eunuchis, qui ante faciem ejus ministrabant:",
+          "english": "On the seventh day, when the king was feeling particularly joyful and exuberant from the excessive pleasure of the wine, he commanded Mauman, Bazatha, Harbona, Bagatha, Abgatha, Zethar, and Charchas—these were the seven eunuchs who served in his royal presence."
+        },
+        {
+          "number": 11,
+          "latin": "Ut introducerent reginam Vasthi coram rege, posito super caput ejus diademate, ut ostenderet cunctis populis et principibus pulchritudinem ejus: erat enim pulchra valde.",
+          "english": "He commanded them to bring Queen Vasthi before the king, with her royal crown placed upon her head, so that he could display her beauty to all the people and princes, for she was exceptionally beautiful."
+        },
+        {
+          "number": 12,
+          "latin": "At illa renuit, et venire contempsit, juxta regis imperium, quod per eunuchos mandaverat. Iratusque rex, et nimio furore succensus:",
+          "english": "But she refused, and disdained to come, contrary to the king's command which he had sent through his eunuchs. The king became enraged, burning with intense fury."
+        },
+        {
+          "number": 13,
+          "latin": "Interrogavit sapientes, qui ex more regio semper illum comitabantur, et illorum sententia universa negotia disponebat, et per eos consilium regebat, scientium leges et jura majorum:",
+          "english": "He then consulted the wise men who, according to royal custom, always accompanied him, and through whose counsel he managed all his affairs and ruled his kingdom. These men were experts in the laws and ancient customs."
+        },
+        {
+          "number": 14,
+          "latin": "Erant autem proximo illi Charsena, et Sethar, et Admatha, et Tharsis, et Mares, et Marsana, et Mamuchan, septem duces Persarum atque Medorum, qui illi primi erant, et primi sedebant in regno:",
+          "english": "Close to him were Charsena, Sethar, Admatha, Tharsis, Mares, Marsana, and Mamuchan—these seven princes of Persia and Media were his closest advisors, and they held the foremost positions in the kingdom."
+        },
+        {
+          "number": 15,
+          "latin": "Quid legibus mereretur regina Vasthi, quæ regis Assueri imperium, quod per eunuchos mandaverat, facere noluisset?",
+          "english": "He asked them, 'What penalty does Queen Vasthi deserve by law, because she refused to obey the command of King Ahasuerus, which he sent through his eunuchs?'"
+        },
+        {
+          "number": 16,
+          "latin": "Responditque Mamuchan audiente rege atque principibus: Non solum regem læsit regina Vasthi, sed omnes principes, et populos, qui sunt in cunctis provinciis regis Assueri.",
+          "english": "Then Mamuchan answered in the presence of the king and the other princes, 'Queen Vasthi has not only wronged the king, but also all the princes and all the peoples who live in all the provinces of King Ahasuerus.'"
+        },
+        {
+          "number": 17,
+          "latin": "Egredietur enim sermo reginæ ad omnes mulieres, ut contemnant viros suos, et dicant: Rex Assuerus jussit ut regina Vasthi intraret ad eum, et illa noluit.",
+          "english": "For the queen's action will become known among all women, leading them to disrespect their own husbands, by saying: 'King Ahasuerus commanded Queen Vasthi to come to him, and she refused.'"
+        },
+        {
+          "number": 18,
+          "latin": "Atque hoc exemplo omnes principum conjuges Persarum atque Medorum, pariter contemnentes imperia virorum, pari audacia et indignatione respondebunt. Et ex hoc regis justissima indignatio.",
+          "english": "And by this example, all the wives of the princes of Persia and Media will likewise disdain the commands of their husbands, responding with equal boldness and indignation. From this will stem the king's most righteous indignation."
+        },
+        {
+          "number": 19,
+          "latin": "Si tibi placet, egrediatur edictum a facie tua, et scribatur juxta legem Persarum atque Medorum, nec liceat immutari, ut nequaquam ultra Vasthi ingrediatur ad regem, sed regina altera melior illa, imperet pro ea.",
+          "english": "If it pleases you, let a royal decree go forth from your presence, and let it be written according to the law of the Persians and Medes, which cannot be changed, that Vasthi shall never again enter the presence of the king. Let another queen, who is better than she, reign in her place."
+        },
+        {
+          "number": 20,
+          "latin": "Et hoc regis imperium, quod ex toto ejus imperio promulgatum est, audierit universa cognatio: et omnes uxores, tam majorum quam minorum, deferent maritis suis honorem.",
+          "english": "And when this decree of the king, which will be promulgated throughout his entire empire, is heard by all the people—all wives, both of the great and the humble, will then show honor to their husbands."
+        },
+        {
+          "number": 21,
+          "latin": "Placuitque sermo ejus regi et principibus: et fecit rex juxta consilium Mamuchan.",
+          "english": "His proposal pleased the king and the princes, and the king acted according to Mamuchan's counsel."
+        },
+        {
+          "number": 22,
+          "latin": "Et misit epistolas ad universas provincias regni sui, ut quæque gens audire et legere poterat, diversis linguis et litteris, ut vir esset princeps et major in domo sua: et hoc publicaretur per populos singulos.",
+          "english": "And he sent letters to all the provinces of his kingdom, written in the various languages and scripts that each people could hear and read, decreeing that every man should be the ruler and master in his own household. This decree was to be publicly proclaimed to every single people."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Post haec vero, cum regis Assueri ira requievit, recordatus est Vasthi, et quae fecisset, vel quae passa esset:",
+          "english": "After these events, when King Ahasuerus’s anger subsided, he remembered Vashti, what she had done, and what she had endured as a result."
+        },
+        {
+          "number": 2,
+          "latin": "Dixeruntque pueri regis et ministri ejus: Quaerantur regi puellae virgines speciosissimae:",
+          "english": "Then the king's young attendants and his ministers said: 'Let the most beautiful virgin girls be sought out for the king.'"
+        },
+        {
+          "number": 3,
+          "latin": "et mittantur qui considerent per omnes provincias imperii tui puellas speciosas et virgines, et adducant eas ad urbem Susan, et tradant eas Egaeo eunucho praeposito et custodi feminarum regiarum, et dentur eis munditiae muliebres et cetera ad cultum necessaria:",
+          "english": "'Let officials be sent to search throughout all the provinces of your empire for beautiful young virgins and bring them to the city of Susa. There, they should be entrusted to Hegai, the king's eunuch and supervisor of the royal women. They should also be provided with special women's beauty treatments and all other necessities for their adornment.'"
+        },
+        {
+          "number": 4,
+          "latin": "Et quaecumque placuerit regi, regnet pro Vasthi. Placuit sermo regi, et jussit ut fieret.",
+          "english": "'And whichever one of them pleases the king should then reign as queen instead of Vashti.' This suggestion pleased the king, and he commanded that it be done exactly as proposed."
+        },
+        {
+          "number": 5,
+          "latin": "Erat vir Judaeus in Susan civitate, nomine Mardochæus, filius Jair, filii Semei, filii Cis, de stirpe Jemini,",
+          "english": "There was a Jewish man named Mordecai living in the city of Susa. He was the son of Jair, who was the son of Shimei, who was the son of Kish, and he was of the Benjaminite lineage."
+        },
+        {
+          "number": 6,
+          "latin": "qui fuerat translatus de Jerusalem, eo tempore quo Jechonias rex Juda fuerat asportatus, quem transtulerat Nabuchodonosor rex Babylonis.",
+          "english": "Mordecai had been taken captive and carried away from Jerusalem at the same time King Jeconiah of Judah was exiled—when Nebuchadnezzar, the king of Babylon, had forcibly removed the Jewish people from their land."
+        },
+        {
+          "number": 7,
+          "latin": "Is erat nutricius filiae fratris sui Edissae, quae altero nomine vocabatur Esther: puella pulchra nimis, et decora, defunctis patre ejus et matre, quasi filiam sibi adoptaverat.",
+          "english": "Mordecai was the guardian of his uncle’s daughter, Hadassah, who was also known by her Persian name, Esther. She was an exceptionally beautiful and charming girl. After her father and mother had died, Mordecai had adopted her as his own daughter."
+        },
+        {
+          "number": 8,
+          "latin": "Et cum audita essent regis jussa juxta imperium ejus, multae puellae pulchrae adducuntur in Susan, et traduntur Egaeo: Esther quoque cum ceteris puellis decorae speciei tradita est Egaeo, ut servaretur in numero feminarum.",
+          "english": "So when the king's orders and decree were proclaimed, many beautiful girls were brought to Susa and entrusted to Hegai. Esther, along with the other lovely girls, was also given to Hegai, so she could be cared for among the royal women."
+        },
+        {
+          "number": 9,
+          "latin": "Quae cum placeret ei, et fiduciam invenisset in sermone ejus, praecepit illi ut acceleraret mundum muliebrem, et cibos suos, et optimas de famulis daret ei: et quinquaginta puellis virginibus ordinatis, tradidit eam et puellas ejus, atque ornavit tam eam quam cubiculum ejus.",
+          "english": "Esther pleased Hegai and gained his confidence by her demeanor. He immediately commanded that her beauty treatments be hastened, and he provided her with a special diet. He also assigned her the best of the king's maidservants. Along with fifty other selected virgin attendants, Hegai entrusted Esther and her maidservants to a prepared living arrangement and personally saw to the adornment of both Esther and her chamber."
+        },
+        {
+          "number": 10,
+          "latin": "Et non indicaverat Esther populum suum, neque patriam: hoc enim praeceperat ei Mardochæus, ut de hac re nulli taceret.",
+          "english": "Esther had not disclosed her nationality or her heritage, because Mordecai had strictly commanded her not to speak of it to anyone."
+        },
+        {
+          "number": 11,
+          "latin": "Et cum de die in diem deambularet Mardochæus ante vestibulum domus, in qua puellae pulchrae custodiebantur, curam agens salutis Esther, et scire cupiens quid ei accideret.",
+          "english": "Daily, Mordecai walked back and forth in front of the courtyard of the house where the beautiful girls were being kept. He was constantly concerned for Esther’s well-being and eager to know what would happen to her."
+        },
+        {
+          "number": 12,
+          "latin": "Porro cum tempus suum explesset singula puella ut introiret ad regem, postquam factum fuerat ei omne quod ad cultum muliebrem pertinebat, mensibus duodecim: ita videlicet ut sex mensibus oleo et myrrha ungeretur, et aliis sex mensibus pigmentis et his quae ad ornatum pertinent.",
+          "english": "Now, each girl had to complete her full preparation before going in to the king. This entire regimen of beauty treatments lasted twelve months: for six months, she would be anointed with oil and myrrh, and for the remaining six months, with perfumes and other substances necessary for adornment."
+        },
+        {
+          "number": 13,
+          "latin": "Et his adhibitis quibuscumque voluerat, introibat ad regem: et quaecumque imperasset, ad ornatum pertinens, de triclinio puellarum, ad regis cubiculum secum ferebat.",
+          "english": "When it was her turn to enter the king’s presence, she was allowed to take with her from the women’s quarters any items she desired for her personal adornment and bring them to the king's chamber."
+        },
+        {
+          "number": 14,
+          "latin": "Et quae intraverat vespere, mane egrediebatur ad secundas aedes feminarum, quae sub manu Susagazi eunuchi erant, qui et praeerat concubinis regis: nec poterat ultra adire regem, nisi si voluisset rex, et vocari eam jussisset ex nomine.",
+          "english": "The girl who went in to the king in the evening would leave in the morning and go to a second palace for the royal women. This residence was under the charge of Shaashgaz, another eunuch, who supervised the king’s concubines. After this, she could no longer return to the king's presence unless the king specifically desired her and personally summoned her by name."
+        },
+        {
+          "number": 15,
+          "latin": "Cum autem venisset dies, quo et Esther filia Abihail fratris Mardochæi, quam sibi adoptaverat in filiam, deberet intrare ad regem: nil elegit sibi, nisi quod placuit Egaeo eunucho custodi feminarum. Erat enim formosa nimis, et incredibili pulchritudine. Et omnes mirabantur speciem ejus.",
+          "english": "When the time came for Esther, the daughter of Abihail (Mordecai’s brother) whom Mordecai had adopted as his daughter, to enter the king’s presence, she chose nothing for herself beyond what Hegai, the eunuch in charge of the women, advised. Esther was, in fact, exceedingly beautiful and possessed an incredible charm; everyone who saw her was captivated by her appearance."
+        },
+        {
+          "number": 16,
+          "latin": "Introivit itaque Esther ad regem Assuerum in domum regni sui mense decimo, qui vocatur Tebeth, anno septimo regni ejus.",
+          "english": "So Esther entered King Ahasuerus’s royal palace in the tenth month, which is called Tebeth, in the seventh year of his reign."
+        },
+        {
+          "number": 17,
+          "latin": "Amavitque eam rex super omnes mulieres, et habuit gratiam et misericordiam coram eo super omnes virgines: posuitque diadema regni in capite ejus, et fecit eam regnare pro Vasthi.",
+          "english": "The king loved Esther more than all the other women, and she found more favor and kindness in his sight than all the other virgins. So he placed the royal crown on her head and made her queen in Vashti’s place."
+        },
+        {
+          "number": 18,
+          "latin": "Et jussit convivium praepari magnum universo principum et servorum suorum, pro conjugio et nuptiis Esther: et requiem dedit provinciis, atque dona distribuit juxta regiam magnificentiam.",
+          "english": "The king then commanded a great banquet to be prepared for all his princes and servants, in celebration of Esther’s marriage and coronation. He also declared a special holiday for the provinces, and distributed gifts with royal generosity, in keeping with his magnificent status."
+        },
+        {
+          "number": 19,
+          "latin": "Et cum secundum tempus, et juxta morem, congregarentur rursum virgines, Mardochæus apud regiam portas morabatur.",
+          "english": "Later, when virgins were again gathered according to custom for subsequent preparations—though Esther was now queen—Mordecai remained stationed at the royal gates."
+        },
+        {
+          "number": 20,
+          "latin": "Esther enim non indicaverat populum suum, et patriam, sicut ei praeceperat Mardochæus. Cuncta enim quae ille mandaverat, observabat, et faciebat, quasi adhuc illius jussionibus imperaret.",
+          "english": "Esther continued to conceal her nationality and heritage, just as Mordecai had commanded her. Indeed, she observed and carried out all his instructions as if she were still under his direct authority."
+        },
+        {
+          "number": 21,
+          "latin": "Eo igitur tempore, quo Mardochæus juxta regiam portas morabatur, indignati sunt Bagatha et Thara, duo eunuchi regis, qui janitores erant, et in primo palatii introitu praesidebant: volueruntque invadere regem Assuerum, et occidere.",
+          "english": "At that very time, while Mordecai was stationed at the royal gates, two of the king’s eunuchs, Bagathan and Teresh, became indignant. These men were doorkeepers who guarded the first entrance to the palace. They conspired to attack and assassinate King Ahasuerus."
+        },
+        {
+          "number": 22,
+          "latin": "Quod celari a Mardochæo non potuit, qui statim nuntiavit reginae Esther: et illa regem super hoc in nomine Mardochæi.",
+          "english": "Mordecai soon discovered this plot. He immediately reported it to Queen Esther, and she, in turn, informed the king about the matter, crediting Mordecai by name."
+        },
+        {
+          "number": 23,
+          "latin": "Quo percunctante, et de utroque repperiente, jussit ambos duci ad supplicium. Et statim de utriusque scelere, in annalibus regum, tam vetustorum quam modernorum, scriptum est.",
+          "english": "The king investigated the matter and confirmed the plot by both men. He then commanded that both of them be executed. Immediately, a detailed account of their crime was recorded in the royal annals, among the records of both ancient and recent kings."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Post haec rex Asuerus exaltavit Aman filium Amadathi, qui de stirpe Agag processerat, et posuit solium ejus super omnes principes quos habebat.",
+          "english": "After these events, King Ahasuerus elevated Haman, the son of Hammedatha, who was a descendant of Agag, and established his authority above all the other officials and leaders in his kingdom."
+        },
+        {
+          "number": 2,
+          "latin": "Cunctique regis servi, qui in foribus palatii versabantur, flectebant genua, et adorabant Aman: sic enim eis præceperat rex. Mardochæus autem non flectebat genu, neque adorabat eum.",
+          "english": "And all the servants of the king, who were at the palace gates, would kneel and pay homage to Haman, because the king had ordered them to do so. But Mordecai would not kneel, nor would he pay him homage."
+        },
+        {
+          "number": 3,
+          "latin": "Cui dixerunt regis pueri, qui ad fores palatii stabant: Cur præter morem regis non observas?",
+          "english": "The king's pages, who were standing at the palace gates, asked Mordecai, \"Why do you not obey the king's custom?\""
+        },
+        {
+          "number": 4,
+          "latin": "Cumque hoc sæpe dixisset, et ille nollet audire, nuntiaverunt Aman, scire cupientes utrum perseveraret in sententia: dixerat enim eis Mardochæus se esse Judæum.",
+          "english": "When they had repeatedly told him this, and he refused to listen, they reported it to Haman, wanting to see if Mordecai would persist in his refusal, for Mordecai had told them that he was a Jew."
+        },
+        {
+          "number": 5,
+          "latin": "Quod cum audisset Aman, et experimento probasset quod Mardochæus non flecteret sibi genu, nec se adoraret, iratus est nimis.",
+          "english": "When Haman heard this and confirmed through observation that Mordecai would not kneel or pay him homage, he became extremely angry."
+        },
+        {
+          "number": 6,
+          "latin": "Et pro nihilo duxit in unum Mardochæum mittere manus suas: audierat enim genus ejus. Magisque voluit omnes Judæos, qui erant in toto regno Asueri, interficere, genus videlicet Mardochæi.",
+          "english": "Haman considered it a small thing to lay hands only on Mordecai, for he had heard about Mordecai’s lineage. Instead, Haman decided to destroy all the Jews who were throughout the entire kingdom of Ahasuerus—that is, Mordecai's people."
+        },
+        {
+          "number": 7,
+          "latin": "Mense primo, cujus vocabulum est Nisan, anno duodecimo regni Asueri, missa est sors in urnam, quæ hebraice dicitur phur, id est, sortitio, coram Aman, ut sciretur qua die et quo mense gens Judæorum deberet interfici. Et exiit dies tertia decima mensis duodecimi, qui vocatur Adar.",
+          "english": "In the first month, called Nisan, in the twelfth year of King Ahasuerus's reign, lots were cast into an urn in Haman's presence, to determine by which day and month the Jewish people should be destroyed. This method of casting lots is called Pur in Hebrew. The lot fell on the thirteenth day of the twelfth month, which is called Adar."
+        },
+        {
+          "number": 8,
+          "latin": "Dixitque Aman regi Asuero: Est populus per omnes provincias regni tui dispersus, et separatus inter gentes, novis utens legibus, et cæterorum ritus ignorans: regis quoque jussa despiciens: et non expedit regem talem habere populum.",
+          "english": "Then Haman said to King Ahasuerus, \"There is a certain people dispersed among the nations in all the provinces of your kingdom. They are separate from other peoples, using their own new laws and customs, and they disregard the traditions of others. They also refuse to obey the king's commands. It is not beneficial for the king to tolerate such a people.\""
+        },
+        {
+          "number": 9,
+          "latin": "Si tibi placet, decerne ut pereat: et decem millia talentorum argenti appendam arcariis gazæ tuæ.",
+          "english": "\"If it pleases you, issue a decree that they should perish. I will weigh out ten thousand talents of silver into the royal treasury for your officials.\""
+        },
+        {
+          "number": 10,
+          "latin": "Tulit ergo rex annulum de manu sua, quem dederat Aman, et tradidit Aman filio Amadathi, de stirpe Agag, inimico Judæorum.",
+          "english": "So the king took his signet ring from his hand, which he had given to Haman, and handed it to Haman, the son of Hammedatha, of the lineage of Agag—the enemy of the Jews."
+        },
+        {
+          "number": 11,
+          "latin": "Dixitque ad eum: Argentum quod polliceris, tuum sit: et de populo fac quod tibi placet.",
+          "english": "And the king said to him, \"The silver you promised is yours. As for the people, do with them whatever you please.\""
+        },
+        {
+          "number": 12,
+          "latin": "Adductique sunt scribæ regis mense primo, id est, Nisan, tertia decima die ejusdem mensis: et scriptum est, ut Aman mandaverat, ad omnes satrapas regis, et judices provinciarum, et principes regionum, a filio Asueri usque ad Æthiopiam, centum viginti septem provinciarum: ut quæque gens diversis uteretur linguis, et juxta ritum patriæ verba fierent, ex nomine regis Asueri, et signatum est annulo ejus.",
+          "english": "The king's scribes were summoned in the first month, Nisan, on the thirteenth day of that month. A decree was written, exactly as Haman had commanded, addressed to all the king's satraps, the governors of the provinces, and the princes of the regions, from India to Ethiopia—one hundred twenty-seven provinces in all. The decree was written for each people in their own language and script, according to their own national customs, under the authority of King Ahasuerus, and sealed with his signet ring."
+        },
+        {
+          "number": 13,
+          "latin": "Missæque sunt epistolæ per cursores regis ad omnes provincias, ut interficerent omnes Judæos, a puero usque ad senem, parvulos et mulieres, uno die, hoc est, tertio decimo mensis duodecimi, qui vocatur Adar: et bona eorum diriperent.",
+          "english": "Letters were sent by royal couriers to all the provinces, ordering them to destroy all the Jews—from young children to old men, including infants and women—on a single day, which was the thirteenth day of the twelfth month, called Adar. Their possessions were also to be plundered."
+        },
+        {
+          "number": 14,
+          "latin": "Exemplar epistolæ, hoc erat: ut in omnibus terris daretur mandatum, nosse omnes populos ac paratos esse ad prædictam diem.",
+          "english": "The text of the letter stated that this command was to be issued in all lands, so that all peoples would know and be prepared for the appointed day."
+        },
+        {
+          "number": 15,
+          "latin": "Festinabant cursores, qui missi erant, regis imperium peragere. Statimque in Susan propositum est edictum, rege et Aman celebrante convivium, et cunctis Judæis flentibus.",
+          "english": "The couriers who had been sent quickly departed to carry out the king's command. Immediately, the edict was displayed in Susa, the capital city. While the king and Haman celebrated with a feast, all the Jews wept and mourned."
+        },
+        {
+          "number": 1,
+          "latin": "Post haec rex Assuerus exaltavit Aman filium Amadathi, qui de stirpe Agag processerat: et posuit solium ejus super omnes principes quos habebat.",
+          "english": "After these events, King Ahasuerus promoted Haman, the son of Hammedatha, who was a descendant of Agag, and placed his seat of authority above all the other officials under him."
+        },
+        {
+          "number": 2,
+          "latin": "Et omnes regis servi, qui in foribus palatii versabantur, flectebant genua, et adorabant Aman: sic enim eis præceperat rex. Solus autem Mardochaeus non flectebat genu, neque adorabat.",
+          "english": "And all the king’s servants who were at the palace gate would bend their knees and prostrate themselves before Haman, because the king had commanded them to do so. However, Mordecai alone would not bend his knee, nor would he prostrate himself."
+        },
+        {
+          "number": 3,
+          "latin": "Cui dixerunt regis pueri, qui in foribus palatii quotidie præsto erant: Cur præter morem regis, non observas mandata?",
+          "english": "To him, the king’s attendants who were daily present at the palace gate spoke: “Why do you not obey the king’s commands, acting against his custom?”"
+        },
+        {
+          "number": 4,
+          "latin": "Cumque illis nollet audire, et obstinatius persisteret in sententia sua, nunciaverunt Aman, scire cupientes utrum sese ejus facta servarent: dixerat enim eis Mardochaeus se esse Judæum.",
+          "english": "But when he refused to listen to them and stubbornly persisted in his resolve, they informed Haman, desiring to know if Mordecai’s actions would be tolerated. For Mordecai had told them that he was a Jew, which prevented him from bowing to Haman."
+        },
+        {
+          "number": 5,
+          "latin": "Quod cum audisset Aman, et experimento probasset quod Mardochaeus non flecteret sibi genu, nec adoraret, iratus est nimis.",
+          "english": "When Haman heard this, and verified for himself that Mordecai would not bend his knee nor prostrate himself before him, he became exceedingly furious."
+        },
+        {
+          "number": 6,
+          "latin": "Et pro nihilo duxit in unum Mardochaeum mittere manus suas: audierat enim genus ejus. Et voluit omnes Judæos, qui in regno Assueri erant, perdere cum illo: hoc est, omnem Judæorum nationem.",
+          "english": "He considered it a trivial matter to lay hands on Mordecai alone, as killing just him was not enough vengeance. For he had been informed of Mordecai’s Jewish lineage. And so, he wanted to destroy all the Jews who were in the kingdom of Ahasuerus along with Mordecai; that is to say, he wanted to destroy the entire Jewish nation."
+        },
+        {
+          "number": 7,
+          "latin": "Mense primo, cujus vocabulum est Nisan, anno duodecimo regni Assueri, missa est sors in urnam, quæ hebraice dicitur Phur, coram Aman, ut sciretur qua die et quo mense gens Judæorum deberet interfici. Et exiit sors in duodecimum mensem, qui vocatur Adar.",
+          "english": "In the first month, which is called Nisan, in the twelfth year of King Ahasuerus’s reign, a lot was cast into an urn—which in Hebrew is called Pur—in Haman’s presence, to determine the exact day and month when the Jewish people should be massacred. And the lot fell upon the twelfth month, which is called Adar, giving Haman nearly a year to execute his plan."
+        },
+        {
+          "number": 8,
+          "latin": "Dixitque Aman regi Assuero: Est populus per omnes provincias regni tui dispersus, et separatus ad invicem, novis utens legibus et cæremoniis, insuper et regis jura contemnens: et optime nosti quod non expediat regno tuo ut insolescat.",
+          "english": "Then Haman spoke to King Ahasuerus: “There is a certain people dispersed throughout all the provinces of your kingdom, and they are separated from one another, using novel laws and ceremonies. Moreover, they despise the king’s laws. And you know very well that it is not in your kingdom’s best interest for such a people to grow insolent and powerful.”"
+        },
+        {
+          "number": 9,
+          "latin": "Si tibi placet, decerne ut pereant: et decem millia talentorum argenti appendam arcariis regis.",
+          "english": "“If it pleases you, issue a decree that they perish. And I will weigh out ten thousand talents of silver to the king’s treasurers.”"
+        },
+        {
+          "number": 10,
+          "latin": "Tulit itaque rex annulum quo utebatur de manu sua, et dedit eum Aman filio Amadathi, de stirpe Agag, inimico Judæorum.",
+          "english": "Therefore, the king took his signet ring, which he used, from his hand, and gave it to Haman, the son of Hammedatha, of the lineage of Agag—the enemy of the Jews."
+        },
+        {
+          "number": 11,
+          "latin": "Dixitque ei: Argentum, quod pollicebaris, habe tibi: de populo age, ut libitum est tibi.",
+          "english": "And the king said to him: “Keep the silver you promised for yourself. As for this people, do with them as you please.”"
+        },
+        {
+          "number": 12,
+          "latin": "Vocatique sunt scribæ regis mense primo, quarta decima die ejusdem mensis: et scriptum est, ut jusserat Aman, ad omnes satrapas regis, et judices provinciarum, atque præfectos, a centum viginti septem provinciis, quæ a temporibus Indiæ usque ad Æthiopiam sub ditione regis Assueri erant: et ad singulas provincias, singulis linguis et litteris, ex nomine regis Assueri, et signatum annulo ipsius.",
+          "english": "So the king’s scribes were summoned in the first month, on the fourteenth day of that same month. And it was written, just as Haman had commanded, to all the king’s satraps, and to the governors of the provinces, and to the officials, from the one hundred and twenty-seven provinces, which were under the dominion of King Ahasuerus, from India all the way to Ethiopia. And to each province, in its own language and script, in the name of King Ahasuerus, and sealed with his own signet ring, making the decree official and binding."
+        },
+        {
+          "number": 13,
+          "latin": "Missæque sunt litteræ per cursores veloces in omnes provincias regis, ut protererent, et interficerent omnes Judæos, a puero usque ad senem, parvulos et mulieres uno die, hoc est, tertio decimo die duodecimi mensis, qui est Adar: et bona eorum diriperent.",
+          "english": "And letters were sent by swift couriers to all the king’s provinces, to crush and kill all the Jews—from young boy to old man, little children and women—on a single day. That day was the thirteenth day of the twelfth month, which is Adar. They were also commanded to plunder their possessions."
+        },
+        {
+          "number": 14,
+          "latin": "Utque in omnibus provinciis promulgaretur edictum, et omnibus populis notum fieret, ad diem interficiendi parati essent.",
+          "english": "So that the decree might be proclaimed in all the provinces and become known to all peoples, they should be ready for the day of killing."
+        },
+        {
+          "number": 15,
+          "latin": "Festinaverunt cursores, edictum regis perferentes: et in Susis statim affixa est lex. Rege et Aman comessantibus, et cunctis Judæis plangentibus.",
+          "english": "The couriers hastened, carrying the king’s decree. And immediately, the law was posted in Susa, the capital city. While the king and Haman celebrated at a banquet, all the Jews began to mourn and lament."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Ergo Mardochaeus, cum audisset omnia quae fiebant, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti suo: et in platea mediae civitatis, voce magna et amara vociferabatur, ostendens amaritudinem animi sui.",
+          "english": "When Mordecai heard all that was happening to the Jewish people, he tore his clothes—a common sign of great distress—put on sackcloth, and sprinkled ashes on his head. Then, in the middle of the city square, he cried out with a loud and bitter voice, making his intense grief and the great bitterness of his soul known to everyone."
+        },
+        {
+          "number": 2,
+          "latin": "Et venit usque ad fores regis: non enim licebat introire in vestibulum regium indutum sacco.",
+          "english": "He went as far as the king's gate, but no further. It was not permitted for anyone dressed in sackcloth, as a sign of mourning, to enter the royal courtyard."
+        },
+        {
+          "number": 3,
+          "latin": "In omnibus quoque provinciis, oppidis, et locis, ad quae regis jussum, et ejus dogma pervenerat, planctus ingens erat apud Judaeos, jejunium, ululatus, et fletus, sacco et cinere multis pro strato utentibus.",
+          "english": "In all the provinces, cities, and places where the king’s decree and his command for their destruction had arrived, there was great lamentation among the Jewish people. They engaged in fasting, wailing, and weeping, with many even using sackcloth and ashes as their bedding as a sign of their sorrow and repentance."
+        },
+        {
+          "number": 4,
+          "latin": "Ingressae sunt autem puellae Hester, et eunuchi, nuntiaveruntque ei. Quod audiens consternata est, et conturbata valde: et misit vestem ut indueret Mardochaeum, et auferret saccum: quam noluit accipere.",
+          "english": "Then Esther’s young women and eunuchs came and told her about Mordecai's public display of mourning. When she heard this, Queen Esther was greatly dismayed and deeply troubled, so she sent him a change of clothes so he could put off the sackcloth. But he refused to accept them."
+        },
+        {
+          "number": 5,
+          "latin": "Statimque accersivit Athach eunuchum, qui praeficiebatur cubili ejus: et praecepit ei ut iret ad Mardochaeum, et disceret ab eo cur hoc faceret.",
+          "english": "Immediately, Esther summoned Hathach, a eunuch who was assigned to attend her in her personal chambers. She commanded him to go to Mordecai and find out from him why he was doing this public display of grief."
+        },
+        {
+          "number": 6,
+          "latin": "Egressusque Athach ivit ad Mardochaeum, qui erat in platea civitatis, juxta portam regiam.",
+          "english": "So Hathach went out to Mordecai, who was still in the city square near the king’s gate."
+        },
+        {
+          "number": 7,
+          "latin": "Qui indicavit ei omnia quae acciderant, quomodo Aman promisisset ut inferret thesauro regis pecuniam pro Judaeorum internecione.",
+          "english": "Mordecai told Hathach everything that had happened, including how Haman had promised to put a vast sum of money into the royal treasury in exchange for the destruction and massacre of the Jewish people."
+        },
+        {
+          "number": 8,
+          "latin": "Exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginae ostenderet, et moneret eam ut intraret ad regem, et oraret pro populo suo.",
+          "english": "Mordecai also gave Hathach a copy of the written decree concerning their annihilation, which was posted publicly in Susa. He instructed Hathach to show it to the queen and to urge her to go in to the king and plead for her people, the Jews."
+        },
+        {
+          "number": 9,
+          "latin": "Regressus Athach nuntiavit Hester omnia quae sibi Mardochaeus dixerat.",
+          "english": "Hathach returned to the palace and reported to Esther everything Mordecai had said to him."
+        },
+        {
+          "number": 10,
+          "latin": "Quae respondit ei, et jussit ut diceret Mardochaeo:",
+          "english": "Esther then replied to Hathach, giving him a message to deliver to Mordecai, saying:"
+        },
+        {
+          "number": 11,
+          "latin": "Omnes servi regis, et omnes provinciae quae sub ejus ditione sunt, sciunt quod cujuscumque sexus et aetatis, non vocatus intraverit ad regem in atrium interius, una sententia sit, ut interficiatur: excepto si rex auream virgam porrexerit ei, et sic vivere possit. Ego autem jam triginta diebus non sum vocata ad regem.",
+          "english": "\"All the king’s servants and all the provinces under his dominion know that for anyone, regardless of gender or age, who enters the king's inner court without being summoned, there is only one fixed sentence: that person shall be put to death. The sole exception is if the king extends his golden scepter to them, allowing them to live. As for me, I have not been summoned to the king for thirty days now, which puts my life in danger if I approach him unbidden.\""
+        },
+        {
+          "number": 12,
+          "latin": "Quod cum audisset Mardochaeus, jussit rursum nuntiari Hester:",
+          "english": "When Mordecai heard this message from Esther, he ordered that she be told in return:"
+        },
+        {
+          "number": 13,
+          "latin": "Ne existimes quod animam tuam tantum liberes, quia in domo regis es, prae cunctis Judaeis.",
+          "english": "\"Do not think that because you are in the king’s palace, you alone among all the Jewish people will escape this fate and save your own life.\""
+        },
+        {
+          "number": 14,
+          "latin": "Si enim nunc silueris, per aliam manum et viam liberabuntur Judaei: et tu, et domus patris tui peribitis. Et quis scit utrum idcirco ad regnum veneris, ut in tali tempore subvenias?",
+          "english": "\"For if you remain silent at this critical moment—failing to intercede for your people—relief and deliverance for the Jewish people will certainly arise from another source and by another means. However, you and your father’s household will perish for your inaction. And who knows if you have come to your royal position for precisely such a time as this, so that you might help your people and save them from destruction?\""
+        },
+        {
+          "number": 15,
+          "latin": "Rursumque Hester mandavit Mardochaeo, dicens:",
+          "english": "Then Esther sent this reply back to Mordecai, saying:"
+        },
+        {
+          "number": 16,
+          "latin": "Vade, et congrega omnes Judaeos quos in Susan repereris, et orate pro me. Non comedatis, et non bibatis tribus diebus et tribus noctibus: et ego cum ancillis meis similiter jejunabo, et tunc ingrediar ad regem, non juxta legem, et si pereo, pereo.",
+          "english": "\"Go, gather all the Jewish people whom you find in Susa, and pray for me. Do not eat or drink for three days and three nights, beginning now. My young women and I will also fast in the same way. After this period of prayer and fasting, I will go in to the king, even though it is strictly against the royal law to do so without being summoned. And if I must perish by breaking this law, then I shall perish.\""
+        },
+        {
+          "number": 17,
+          "latin": "Ivit itaque Mardochaeus, et fecit omnia quae ei Hester praeceperat.",
+          "english": "So Mordecai went away and did everything that Queen Esther had commanded him, gathering the Jews for prayer and fasting."
+        },
+        {
+          "number": 1,
+          "latin": "Igitur Mardochaeus cum audisset omnia quae acciderant, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti: et in platea civitatis usque ad introitum regium, clamore magno et ululatu, furens discurrebat.",
+          "english": "Mordecai, having heard all that had happened to the Jewish people, tore his garments. He put on sackcloth, a sign of deep mourning, and sprinkled ashes on his head. He then ran through the city square, up to the king's gate, crying out loudly and wailing in great distress."
+        },
+        {
+          "number": 2,
+          "latin": "Et intravit usque ad atrium regis: non enim licebat indutum sacco, regias fores ingredi.",
+          "english": "He went as far as the king's courtyard. He could not enter the royal gate, for no one clothed in sackcloth was permitted to do so."
+        },
+        {
+          "number": 3,
+          "latin": "In omnibus quoque provinciis, civitatibus et locis, ad quae regis jussum, et prolatum fuerat edictum, planctus et luctus et ululatus magnus erat apud Judæos: saccus et cinis multis pro strato.",
+          "english": "In all the provinces, cities, and places where the king's command and the decree had been proclaimed, there was great weeping, mourning, and wailing among the Jews. Many used sackcloth and ashes as their bed, a sign of extreme sorrow."
+        },
+        {
+          "number": 4,
+          "latin": "Ingressæ sunt autem puellæ Esther, et eunuchi, nuntiaveruntque ei. Quod audiens ilico turbata est: et misit vestem ut indueretur, et abjiceret saccus: quam accipere noluit.",
+          "english": "Esther's maidservants and eunuchs came and told her about Mordecai. When she heard this, she was immediately greatly troubled. She sent clothes for him to wear, so he could take off the sackcloth, but he refused to accept them."
+        },
+        {
+          "number": 5,
+          "latin": "At illis vocatis Achathæo eunucho, quem rex ad ministrandum sibi dederat, præcepit ut iret ad Mardochaeum, et sciret ab eo cur hoc ageret.",
+          "english": "So Esther summoned Hathach, one of the eunuchs the king had assigned to attend her. She commanded him to go to Mordecai and find out why he was acting this way."
+        },
+        {
+          "number": 6,
+          "latin": "Egressusque Achathæus ivit ad Mardochaeum stantem in platea civitatis, ante ostium regium:",
+          "english": "Hathach went out to Mordecai, who was standing in the city square in front of the king's gate."
+        },
+        {
+          "number": 7,
+          "latin": "Qui indicavit ei omnia quæ acciderant, quomodo Haman promisisset pecuniam inferre thesauro regis pro Judæorum nece:",
+          "english": "Mordecai told him everything that had happened, including how Haman had promised to pay a large sum of money into the king's treasury for the extermination of the Jews."
+        },
+        {
+          "number": 8,
+          "latin": "Deditque ei exemplar edicti, quod affixum fuerat in Susan, ut et Reginæ ostenderet, et moneret ut intraret ad Regem, et deprecaretur eum pro populo suo.",
+          "english": "He also gave Hathach a copy of the decree that had been posted in Susa, the capital, so he could show it to the Queen. Mordecai urged her to go to the King and plead with him for her people."
+        },
+        {
+          "number": 9,
+          "latin": "Reversus Achathæus, narravit Esther omnia quæ Mardochaeus dixerat.",
+          "english": "When Hathach returned, he reported to Esther everything Mordecai had said."
+        },
+        {
+          "number": 10,
+          "latin": "Quæ respondit Achathæo, et jussit ei dicere Mardochaeo:",
+          "english": "Then Esther instructed Hathach to tell Mordecai in reply:"
+        },
+        {
+          "number": 11,
+          "latin": "Omnes servi regis, et cunctæ provinciæ quæ sub ejus imperio sunt, sciunt quod sive vir, sive mulier non vocatus, intraverit ad regem in atrium interius, absque ulla cunctatione statim interficiatur: excepto eo, cui rex auream virgam extenderit, et sic poterit vivere. Ego autem jam triginta diebus non sum vocata ad regem.",
+          "english": "All the king's servants and all the people in the provinces under his rule know this: if any man or woman approaches the king in the inner court without being summoned, there is only one law. They are immediately put to death, unless the king extends his golden scepter to them, allowing them to live. I, however, have not been summoned to the king for thirty days now."
+        },
+        {
+          "number": 12,
+          "latin": "Quod cum audisset Mardochaeus, et nuntiasset Esther:",
+          "english": "When Mordecai heard what Esther had said and reported back to her,"
+        },
+        {
+          "number": 13,
+          "latin": "Rursum mandavit ei, dicens: Ne existimes quod animam tuam tantum liberes, quia in domo regis es præ cunctis Judæis.",
+          "english": "He sent back this reply to her: 'Do not imagine that you alone, in the king's house, will escape the fate of all the other Jews.'"
+        },
+        {
+          "number": 14,
+          "latin": "Si enim nunc silueris, per aliam manum Judæis liberatio et salus apparebit: et tu, et domus patris tui peribitis. Et quis scit utrum idcirco ad regnum veneris, ut in tali tempore parareris?",
+          "english": "'For if you remain silent now, relief and deliverance for the Jews will arise from another source. But you and your father's family will perish. Who knows but that you have come to your royal position for such a time as this?'"
+        },
+        {
+          "number": 15,
+          "latin": "Rursumque Esther misit ad Mardochaeum, dicens:",
+          "english": "Esther then sent this message in reply to Mordecai:"
+        },
+        {
+          "number": 16,
+          "latin": "Vade, et congrega omnes Judæos quos in Susan repereris, et orate pro me. Non comedatis, et non bibatis tribus diebus, et tribus noctibus: et ego cum ancillis meis similiter jejunabo, et tunc ingrediar ad regem contra legem, faciens quod non licet: et si periero, periero.",
+          "english": "'Go and gather all the Jews who are in Susa and fast for me. Do not eat or drink for three days, night or day. I and my maidservants will fast in the same way. After that, I will go to the king, even though it is against the law — and if I perish, I perish.'"
+        },
+        {
+          "number": 17,
+          "latin": "Ivit itaque Mardochaeus, et fecit omnia quæ ei mandaverat Esther.",
+          "english": "So Mordecai went and did everything Esther had commanded him."
+        },
+        {
+          "number": 18,
+          "latin": "Et Mardochæus oravit ad Dominum, memor omnium operum Domini, et dixit:",
+          "english": "Then Mordecai prayed to the Lord, remembering all the works of the Lord, and said:"
+        },
+        {
+          "number": 19,
+          "latin": "Domine, Domine, Rex omnipotens, in ditione tua cuncta sunt posita, et non est qui tuæ possit resistere voluntati, si volueris salvare Israel.",
+          "english": "'O Lord, Lord, Almighty King, all things are in your power, and there is no one who can resist your will if you choose to save Israel.'"
+        },
+        {
+          "number": 20,
+          "latin": "Tu fecisti cælum et terram, et quidquid cæli ambitu continetur.",
+          "english": "'You made the universe and the earth, and whatever is contained within the expanse of the sky.'"
+        },
+        {
+          "number": 21,
+          "latin": "Dominus omnium, nec est qui resistat majestati tuæ.",
+          "english": "'You are the Lord of all, and there is no one who can resist your majesty.'"
+        },
+        {
+          "number": 22,
+          "latin": "Et nunc Domine Deus, Rex, fortis et potens, et totius potestatis: inclinantur omnia et formidant a facie tua.",
+          "english": "'And now, O Lord God, King, mighty and powerful, and having all authority and power, all things bow before you and fear your presence.'"
+        },
+        {
+          "number": 23,
+          "latin": "Et nunc deprecor te, Deus Israel, respice propitium in populum tuum, et in tribulationem Judæorum, quia volunt nos exterminare, et hereditatem tuam delere.",
+          "english": "'And now I implore you, God of Israel, look favorably upon your people and upon the tribulation of the Jews. For they desire to exterminate us and to destroy your heritage.'"
+        },
+        {
+          "number": 24,
+          "latin": "Ne despicias partem tuam, quam redemisti de Ægypto.",
+          "english": "'Do not despise your portion, the people whom you redeemed from Egypt.'"
+        },
+        {
+          "number": 25,
+          "latin": "Exaudi deprecationem meam, et propitius esto sorti et funiculo tuo, et converte luctum nostrum in gaudium, ut viventes laudemus nomen tuum Domine, et ne claudas ora eorum qui te canunt.",
+          "english": "'Hear my prayer, and be merciful to your chosen people and your inheritance. Turn our mourning into joy, so that we who live may praise your name, O Lord, and do not close the mouths of those who sing to you.'"
+        },
+        {
+          "number": 26,
+          "latin": "Omnis Israel clamavit ad Dominum cum omni desiderio suo, quia in imminentem illos vocaverat mortem.",
+          "english": "All Israel cried out to the Lord with all their heart's desire, for they had been called to imminent death."
+        },
+        {
+          "number": 27,
+          "latin": "Esther quoque Regina confugit ad Dominum, pavens periculum, quod imminebat.",
+          "english": "Queen Esther also took refuge in the Lord, fearing the danger that was hanging over them."
+        },
+        {
+          "number": 28,
+          "latin": "Et cum deposuisset vestimenta gloriae suae, assumpsit vestes doloris et luctum: et pro unguentis diversis, immundum cinem et stercus capiti superfudit: et corpus suum humiliavit jejuniis, et universos maculavit capillos suos, qui prius ornari consueverant: et deprecabatur Dominum Deum Israel, dicens:",
+          "english": "She took off her glorious royal garments. She put on clothes of sorrow and mourning. Instead of various perfumes, she poured unclean ashes and dung on her head. She humbled her body by fasting, and she defiled all her hair, which was accustomed to being adorned. She then prayed to the Lord God of Israel, saying:"
+        },
+        {
+          "number": 29,
+          "latin": "Domine mi, qui solus es Rex noster, adjuva me solam, et adjutorium præter te alterum non habeo: quoniam periculum in manibus meis est.",
+          "english": "'My Lord, who alone is our King, help me who am alone. I have no other helper but you, for danger is in my hands.'"
+        },
+        {
+          "number": 30,
+          "latin": "Ego audivi de patre meo, quia tu Domine elegisti Israel de cunctis Gentibus, et patres nostros ex omnibus antiquis eorum progenies, in possessionem sempiternam, et fecisti eis secundum voluntatem tuam.",
+          "english": "'I have heard from my father that you, O Lord, chose Israel from all the nations. You chose our fathers from among all their ancestors to be your eternal possession, and you did for them according to your will.'"
+        },
+        {
+          "number": 31,
+          "latin": "Et nunc peccavimus in conspectu tuo, et propter hoc tradidisti nos in manus inimicorum nostrorum:",
+          "english": "'And now we have sinned in your sight, and because of this, you have delivered us into the hands of our enemies.'"
+        },
+        {
+          "number": 32,
+          "latin": "Quia coluimus deos eorum. Justus es Domine.",
+          "english": "'Because we worshipped their gods, you are just, O Lord, in punishing us.'"
+        },
+        {
+          "number": 33,
+          "latin": "Et nunc non sufficit eis, quia durissima nos premunt servitute, sed et virtutem manuum suarum idolorum suorum potentiae deputantes, volunt transferre regnum tuum, et delere hereditatem tuam, et claudere ora laudantium te, atque extinguere gloriam templi tui et altaris,",
+          "english": "'And now it is not enough for them that they oppress us with the harshest servitude. Attributing the strength of their hands to the power of their idols, they wish to transfer your kingdom, destroy your inheritance, close the mouths of those who praise you, and extinguish the glory of your temple and your altar.'"
+        },
+        {
+          "number": 34,
+          "latin": "Ut aperiant ora Gentium, et laudent simulacrorum virtutem, et magnificent Regem carnalem in sempiternum.",
+          "english": "'They do this so that the mouths of the Gentiles may be opened, and they may praise the power of their idols and eternally magnify a fleshly king.'"
+        },
+        {
+          "number": 35,
+          "latin": "Ne tradas Domine sceptrum tuum, his qui non sunt, ne rideant de interitu nostro: sed converte consilium eorum super eos, et eum qui in nos coepit saevire, disperde.",
+          "english": "'Do not surrender your scepter, O Lord, to those who are nothing, so that they may not mock our destruction. Instead, turn their counsel back upon themselves and destroy the one who began to rage against us.'"
+        },
+        {
+          "number": 36,
+          "latin": "Memento Domine, et ostende te nobis in tempore tribulationis nostræ, et da mihi fiduciam, Domine, Rex deorum, et omnis potestatis.",
+          "english": "'Remember us, O Lord, and reveal yourself to us in the time of our tribulation. Give me courage, O Lord, King of gods and of all power.'"
+        },
+        {
+          "number": 37,
+          "latin": "Da sermonem compositum in ore meo in conspectu leonis, et converte cor ejus in odium oppugnantis nos, ut et ipse pereat, et hi qui ei consentiunt.",
+          "english": "'Put a fitting speech in my mouth when I am before the king, the lion, and turn his heart to hatred of the one who attacks us, so that he himself may perish, and those who agree with him.'"
+        },
+        {
+          "number": 38,
+          "latin": "Nos autem libera in manu tua, et adjuva me, quæ sola sum, et non habeo alium, nisi te Domine.",
+          "english": "'But deliver us by your hand, and help me, who am alone and have no other helper but you, O Lord.'"
+        },
+        {
+          "number": 39,
+          "latin": "Omnia nosti, et scis quia oderim gloriam iniquorum, et execrer abominationem incircumcisorum, et omnis alieni.",
+          "english": "'You know everything, and you know that I hate the glory of the wicked. I detest the abomination of the uncircumcised and of every foreigner.'"
+        },
+        {
+          "number": 40,
+          "latin": "Tu scis necessitatem meam, quoniam abominer signum superbiae et gloriae meae, hoc est, tiaram, quae est super caput meum, in diebus ostentationis meae: et execror illam quasi pannum menstruatae, et non fero in diebus silentii mei.",
+          "english": "'You know my necessity, that I abhor the symbol of my pride and glory, that is, the tiara which is on my head during my days of public display. I detest it like a defiled cloth, and I do not wear it during my days of quiet prayer and mourning.'"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Die autem tertio, induta est Esther regalibus vestimentis, et stetit in atrio domus regiae, quod erat ante vestibulum domus: Rex autem sedebat super solium suum in domo palatii, contra ostium domus.",
+          "english": "On the third day, Queen Esther put on her royal robes, and she went to stand in the inner courtyard of the king’s palace. This courtyard was in front of the palace’s entrance hall. The King was seated on his royal throne inside the palace, directly opposite the entrance."
+        },
+        {
+          "number": 2,
+          "latin": "Cumque vidisset rex Esther reginam stantem, placuit ei aspectus ejus: et extendit contra eam virgam auream, quam tenebat manu. Illa autem accedens, osculata est summitatem virgae.",
+          "english": "When the king saw Queen Esther standing there, her appearance pleased him. So he extended the golden scepter he held in his hand toward her. She then approached him and kissed the very tip of the scepter."
+        },
+        {
+          "number": 3,
+          "latin": "Dixitque ad eam Rex: Quid vis, Regina Esther? et quae est petitio tua? usque ad dimidiam partem regni mei, impetrabis.",
+          "english": "The King said to her: \"What do you want, Queen Esther? What is your request? Whatever it is, even if it’s half of my kingdom, you will receive it.\""
+        },
+        {
+          "number": 4,
+          "latin": "At illa respondit: Si Regi placet, veni, O Rex, et Aman hodie ad convivium, quod paravi.",
+          "english": "She replied: \"If it pleases the King, please come, O King, and bring Haman with you today to the banquet I have prepared.\""
+        },
+        {
+          "number": 5,
+          "latin": "Statimque praecepit Rex: Vocate velociter Aman, ut impleat voluntatem Reginae. Venerunt itaque Rex et Aman ad convivium, quod eis Esther paraverat.",
+          "english": "Immediately the King commanded: \"Quickly, call Haman, so that he may fulfill the Queen’s wish.\" So the King and Haman came to the banquet that Queen Esther had prepared for them."
+        },
+        {
+          "number": 6,
+          "latin": "Et dixit Rex Esther, postquam biberat jam vinum: Quid petis, ut detur tibi? et quid vis fieri? etiamsi dimidiam partem regni mei petieris, habebis.",
+          "english": "After the King had already drunk some wine, he said to Queen Esther: \"What do you request, so that it may be given to you? What do you wish to be done? Even if you ask for half of my kingdom, you shall have it.\""
+        },
+        {
+          "number": 7,
+          "latin": "Responditque Esther: Petitio mea et preces meae istae sunt:",
+          "english": "Queen Esther replied: \"My request and my plea are these:\""
+        },
+        {
+          "number": 8,
+          "latin": "Si inveni in oculis Regis gratiam, et si Regi placet, ut det mihi quod postulo, et meam impleat petitionem, veniat Rex et Aman ad convivium quod paravi eis, et cras faciam sicut hodie.",
+          "english": "\"If I have found favor in the King’s eyes, and if it pleases the King to grant what I ask and to fulfill my request, then let the King and Haman come to the banquet I have prepared for them. And tomorrow, I will do as I have done today—preparing another banquet and continuing to delay my true petition.\""
+        },
+        {
+          "number": 9,
+          "latin": "Egressus est itaque Aman lætus et jucundus in die illa. Cumque vidisset Mardochæum sedentem in foribus palatii, et non solum non assurrexisse sibi, sed nec motum quidem de loco sessionis suae, indignatus est valde:",
+          "english": "So Haman left that day joyful and in good spirits. But when he saw Mordecai sitting at the palace gate, and observed that Mordecai neither stood up for him nor even moved from his seat, Haman became extremely angry."
+        },
+        {
+          "number": 10,
+          "latin": "et reversus domum suam, convocavit ad se amicos suos, et Zares uxorem suam:",
+          "english": "So he returned to his home and immediately called together his friends and his wife, Zeresh."
+        },
+        {
+          "number": 11,
+          "latin": "et exposuit illis opes divitiarum suarum, et multitudinem filiorum, et quanta eum gloria Rex super omnes principes et servos suos elevasset.",
+          "english": "He boasted to them about the vast extent of his riches, the multitude of his sons, and how greatly the King had honored him, elevating him above all the other officials and servants."
+        },
+        {
+          "number": 12,
+          "latin": "Et post haec ait: Regina Esther nullum alium, praeter me, cum Rege ad convivium vocavit: et etiam cras parata sum cum ipso et mecum venire.",
+          "english": "And after all this, he added: \"Queen Esther invited no one else to the King’s banquet but me! And what’s more, for tomorrow, she is prepared to have the King and me come again for another banquet!\""
+        },
+        {
+          "number": 13,
+          "latin": "Sed his omnibus quasi nihil aestimo, quotiescumque eum videro Mardochæum Judaeum sedentem in foribus regiis.",
+          "english": "\"But all these honors mean nothing to me,\" he declared, \"as often as I see Mordecai the Jew sitting at the royal gate.\""
+        },
+        {
+          "number": 14,
+          "latin": "Responderuntque ei Zares uxor ejus, et ceteri amici: Jube parari excelsam trabem, habentem altitudinem quinquaginta cubitos, et loquere mane Regi, ut appendatur Mardochæus in ea: et sic ibis cum Rege lætus ad convivium. Placuit sententia Aman, et jussit excelsam parari crucem.",
+          "english": "His wife Zeresh and all his other friends replied to him: \"Order a very tall gallows, fifty cubits high, to be prepared. Then, in the morning, speak to the King so that Mordecai may be hanged upon it. After that, you can go joyfully with the King to the banquet.\" This advice pleased Haman, and he ordered a very tall gallows to be made."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Ea igitur nocte rex insomnem duxit, et jussit adferri historias et annales priorum temporum. Quae cum legerentur coram eo,",
+          "english": "That night, the king couldn't sleep. He ordered that the royal records, containing stories and chronicles from earlier times, be brought to him. As they were being read aloud in his presence,"
+        },
+        {
+          "number": 2,
+          "latin": "venit eo locus, in quo scriptum erat, qualiter nuntiasset Mardochaeus insidias Bagathanae et Thares, eunuchorum regis, qui eum occidere voluerant:",
+          "english": "they came to a place in the records where it was written how Mordecai had revealed the plot of Bagathan and Thares, two of the king's eunuchs who had wanted to kill the king."
+        },
+        {
+          "number": 3,
+          "latin": "et ait rex: Quid pro hac fide honoris ac praemii meruit Mardochaeus? Dixerunt ei servi illius ac ministri: Nihil omnino meruit.",
+          "english": "The king asked, \"What honor or reward has Mordecai received for this act of loyalty?\" His servants and ministers replied, \"He has received absolutely nothing.\""
+        },
+        {
+          "number": 4,
+          "latin": "Statimque rex: Quis est, inquit, in atrio? eo tempore Aman intraverat atrium domus regiae, ut suggereret regi, et juberet Mardochaium suspendere in patibulo, quod ei fuerat praeparatum.",
+          "english": "Immediately the king asked, \"Who is in the courtyard right now?\" At that very moment, Haman had entered the outer courtyard of the royal palace to suggest to the king that Mordecai be hanged on the gallows that Haman had prepared for him."
+        },
+        {
+          "number": 5,
+          "latin": "Respondebant pueri regis: Aman stat in atrio. Et ait rex: Ingrediatur.",
+          "english": "The king's servants answered, \"Haman is standing in the courtyard.\" And the king said, \"Let him come in.\""
+        },
+        {
+          "number": 6,
+          "latin": "Cumque esset ingressus, ait illi: Quid debet fieri viro, quem rex vult honorare? Cogitans autem Aman in animo suo, et non suspicans quemquam alium, nisi se, dignum honore:",
+          "english": "When Haman had come in, the king asked him, \"What should be done for a man whom the king wishes to honor?\" Haman, thinking to himself and not suspecting that anyone else but himself would be worthy of such honor,"
+        },
+        {
+          "number": 7,
+          "latin": "respondit: Homo, quem rex honorare vult,",
+          "english": "answered, \"For the man whom the king wishes to honor,"
+        },
+        {
+          "number": 8,
+          "latin": "debet indui veste regia, qua rex indutus est, et imponi super equum, qui de sella regis est, et accipere regium diadema capite suo:",
+          "english": "he should be dressed in the royal robe that the king himself has worn, and be mounted on the horse that the king himself rides, and have a royal diadem placed upon his head."
+        },
+        {
+          "number": 9,
+          "latin": "primoque de optimis regis principibus et optimatibus, teneat equum ejus, et per plateam civitatis incedens, praedicet et dicat: Sic honorabitur, quemcumque rex voluerit honorare.",
+          "english": "Then, one of the king's noblest princes and leading officials should hold his horse, and as he walks through the city square, he should proclaim and say: 'Thus shall the man be honored, whom the king desires to honor!'"
+        },
+        {
+          "number": 10,
+          "latin": "Dixitque rex Aman: Festina, et sumpta veste regia et equo, fac sicut locutus es Mardochaeo Judaeo, qui sedet in foribus palatii: cave ne quidquam ex his, quae locutus es, praetermittas.",
+          "english": "The king then said to Haman, \"Hurry! Take the royal robe and the horse, and do exactly as you have said for Mordecai the Jew, who sits at the palace gate. Be careful not to omit anything you have spoken.\""
+        },
+        {
+          "number": 11,
+          "latin": "Tulit itaque Aman vestem regalem, et equum: indutumque Mardochaeum super equum imposuit: et praecedens in platea civitatis, atque conclamans, ait: Hoc honore dignus est, quem rex voluit honorare.",
+          "english": "So Haman took the royal robe and the horse. He dressed Mordecai and placed him upon the horse. Then Haman went ahead of him through the city square, shouting, \"This is the honor fitting for the man whom the king desires to honor!\""
+        },
+        {
+          "number": 12,
+          "latin": "Et reversus est Mardochaeus ad januam palatii: et Aman festinavit domum suam, maerens et operto capite.",
+          "english": "Mordecai then returned to the palace gate. Haman hurried home, grieving and with his head covered in shame."
+        },
+        {
+          "number": 13,
+          "latin": "Et narravit Zares uxori suae, et amicis universa quae acciderant ei. Cui responderunt sapientes, quos habebat in consilio, et uxor ejus Zares: Si de genere Judaeorum est Mardochaeus, pro quo cadere coepisti, non poteris ei resistere, sed cades in conspectu ejus.",
+          "english": "He told Zeresh, his wife, and all his friends everything that had happened to him. The wise men he had for counsel, and his wife Zeresh, answered him, \"If Mordecai, before whom you have begun to fall, is of the Jewish people, you will not be able to stand against him; instead, you will surely fall before him.\""
+        },
+        {
+          "number": 14,
+          "latin": "Adhuc illis loquentibus, venerunt eunuchi regis, et cito compulerunt eum ad convivium, quod Hester paraverat.",
+          "english": "While they were still speaking with him, the king's eunuchs arrived and quickly compelled Haman to come to the banquet that Esther had prepared."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Itaque rex et Aman venerunt ut bibant cum regina Esther.",
+          "english": "So the king and Haman came to drink with Queen Esther."
+        },
+        {
+          "number": 2,
+          "latin": "Dixitque ei rex etiam in die secundo postquam vino incaluerat: Quid est, regina Esther, petitio tua ut detur tibi, et quaecumque volueris, fiat tibi?",
+          "english": "And on the second day, when the king was warm from the wine, he said to her: \"Queen Esther, what is your petition? It will be granted to you, and whatever you wish will be done for you.\""
+        },
+        {
+          "number": 3,
+          "latin": "Cui illa respondit: Si inveni gratiam in oculis tuis, o rex, et si tibi placet, dona mihi animam meam pro qua rogo, et populum meum pro quo obsecro.",
+          "english": "She answered him: \"If I have found favor in your eyes, O King, and if it pleases you, grant me my life, for which I ask, and spare my people, for whom I beg.\""
+        },
+        {
+          "number": 4,
+          "latin": "Traditi enim sumus, ego et populus meus, ut conteramur, et occidamur, et pereamus. Atque utinam in servos et ancillas venderemur, fuisset tolerable malum: et orationi regis possem resistere. Nunc vero hostis noster est is, cujus crudelitas redundat in regem.",
+          "english": "For my people and I have been delivered up to be utterly crushed, killed, and destroyed. If we had only been sold as slaves and handmaidens, the evil would have been tolerable, and I would not have troubled the king for such a small matter. But now our enemy is one whose cruelty will also harm the king."
+        },
+        {
+          "number": 5,
+          "latin": "Respondensque rex Assuerus ait: Quis est iste, et cujus potentiae, ut haec audeat facere?",
+          "english": "King Ahasuerus replied, saying: \"Who is this man, and by whose authority does he dare to do such things?\""
+        },
+        {
+          "number": 6,
+          "latin": "Dixitque Esther: Hostis et adversarius noster, Aman iste pessimus est. Quo audito, Aman conturbatus est, et funditus concidit vultu, de his quae locutus est rex et regina.",
+          "english": "And Esther said: \"Our enemy and adversary is this most wicked Haman!\" When Haman heard this, he was utterly disturbed, and his face fell completely at what the king and queen had spoken."
+        },
+        {
+          "number": 7,
+          "latin": "Iratusque rex surrexit, et de convivio intravit in hortum qui structus fuerat opere diversorum nemorum. Aman quoque surrexit ut rogaret reginam Esther pro anima sua, intellexit enim a rege sibi paratum malum.",
+          "english": "The king, enraged, rose from the banquet and went into the garden, which had been designed with many different kinds of trees and plantings. Haman also rose to beg Queen Esther for his life, for he understood that the king had already prepared evil for him."
+        },
+        {
+          "number": 8,
+          "latin": "Cumque revertisset rex de horto nemoroso, et intrasset convivii locum, Aman iacebat super lectulum in quo regina accumberebat. Et ait rex: Etiam reginam vult opprimere me praesente in domo mea? Necdum verbum de ore regis exierat, et statim operuerunt faciem ejus.",
+          "english": "When the king returned from the wooded garden and entered the banquet hall, Haman was lying on the couch where the queen was reclining. And the king said: \"Does he even intend to oppress the queen in my presence, in my own house?\" The words had barely left the king's mouth when they immediately covered Haman's face."
+        },
+        {
+          "number": 9,
+          "latin": "Dixitque Harbona, unus de eunuchis, qui stabant in conspectu regis: En lignum, quod paraverat Aman Mardochaeo, qui locutus est pro rege, stat in domo Aman, habens altitudinis quinquaginta cubitos. Cui ait rex: Appendite eum in ipso.",
+          "english": "Then Harbona, one of the eunuchs who attended the king, said: \"Look, the gallows that Haman prepared for Mordecai, who spoke up for the king, stands in Haman's house. It is fifty cubits high.\" To this, the king said: \"Hang Haman upon it!\""
+        },
+        {
+          "number": 10,
+          "latin": "Suspensus est itaque Aman in patibulo quod paraverat Mardochaeo: et regis ira quievit.",
+          "english": "So Haman was hanged on the gallows that he had prepared for Mordecai. And the king's anger was appeased."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Die illo rex Assuerus tradidit Esther reginæ domum Aman adversarii Judæorum : et Mardochæus ingressus est ante faciem regis. Confessa est enim Esther pro Mardochæo quid esset sibi.",
+          "english": "That day, King Ahasuerus gave Queen Esther the property of Haman, the enemy of the Jews. And Mordecai was brought before the king, because Esther had explained that Mordecai was her relative and guardian."
+        },
+        {
+          "number": 2,
+          "latin": "Tulitque rex annulum suum, quem ab Aman jussit auferri, et tradidit Mardochæo. Esther autem constituit Mardochæum super domum Aman.",
+          "english": "The king then took back his signet ring, which he had ordered to be taken from Haman, and he gave it to Mordecai, giving him authority. And Queen Esther appointed Mordecai to manage the entire estate of Haman."
+        },
+        {
+          "number": 3,
+          "latin": "Nec his contenta, procidit ad pedes regis, flevitque, et locuta ad eum oravit, ut malitiam Aman Agagitæ, et machinationes ejus pessimas, quas excogitaverat contra Judæos, juberet irritas fieri.",
+          "english": "But Esther was not content with only these things. She fell at the king’s feet, weeping, and she pleaded with him, asking that he would void Haman the Agagite’s wickedness and the very evil schemes he had devised against the Jewish people."
+        },
+        {
+          "number": 4,
+          "latin": "At ille extendit virgam auream, qua signum miserationis ostendebatur, contra Esther. Quæ statim surrexit, et stetit ante eum,",
+          "english": "So the king extended his golden scepter towards Esther, which was the sign that she was allowed to approach him and speak without fear of punishment. She immediately rose and stood before him."
+        },
+        {
+          "number": 5,
+          "latin": "et ait : Si placet regi, et si inveni gratiam ante oculos ejus, et recta mihi videtur hæc res, et accepta est regi, obsecro ut novis epistolis, prioris Aman litteræ, sceleratissimi subvertentis Judæos in cunctis provinciis regis, jubeantur emendari.",
+          "english": "And she said, \"If it pleases the king, and if I have found favor in his sight, and if this matter seems right to me, and if it is acceptable to the king, I beg that by new decrees, the former letters of Haman—that most wicked destroyer of the Jews in all the king's provinces—be ordered to be amended, or corrected.\""
+        },
+        {
+          "number": 6,
+          "latin": "Quomodo enim potero videre stragem populi mei, et interfectionem cognationis meæ ?",
+          "english": "\"For how can I endure to see the destruction of my people and the slaughter of my relatives?\""
+        },
+        {
+          "number": 7,
+          "latin": "Responditque rex Assuerus Esther reginæ, et Mardochæo Judæo : Domum Aman concessi Esther, et ipsum jussi appendi in patibulo, eo quod ausus sit manus injicere in Judæos.",
+          "english": "King Ahasuerus then responded to Queen Esther and Mordecai the Jew, saying, \"I have already granted Haman’s property to Esther, and I ordered Haman himself to be hanged on the gallows because he dared to attack the Jews.\""
+        },
+        {
+          "number": 8,
+          "latin": "Scribite ergo ad Judæos sicut vobis placet, regis nomine, signantes annulo meo. Hæc enim consuetudo erat, ut epistolis regis, quæ illius anulo signatæ erant, nemo auderet contradicere.",
+          "english": "\"Therefore, write new decrees to the Jews as you please, in my name, and seal them with my royal signet ring. For it was the custom that no one dared to contradict the king's official decrees once they were sealed with his ring, making them unchangeable.\""
+        },
+        {
+          "number": 9,
+          "latin": "Accitisque scribis et librariis regis (erat autem tempus tertii mensis, qui appellatur Sivan, vigesima et tertia die illius mensis), scriptæ sunt epistolæ, ut Mardochæus voluerat, ad Judæos, et ad satrapas, procuratores, atque judices, qui centum viginti septem provinciis ab India usque Æthiopiam præsidebant : provinciis atque provinciis, populis et populis juxta linguas et regiones suas, et Judæis, ut legere poterant, et audire.",
+          "english": "So the king's scribes and secretaries were called immediately. It was the twenty-third day of the third month, which is called Sivan. And letters were written exactly as Mordecai desired: to the Jewish people, and to the satraps, governors, and judges who ruled over the one hundred and twenty-seven provinces from India to Ethiopia. The letters were sent to each province and each people according to their languages and customs, and specifically to the Jews, so they could all read and understand the decree."
+        },
+        {
+          "number": 10,
+          "latin": "Ipse quoque Mardochæus regis nomine scripsit, et signavit annulo ejus, et misit epistolas per cursores veloces, et equites tabellarios, qui de more annulo regis pergebant.",
+          "english": "Mordecai himself also wrote the decrees in the king’s name and sealed them with the king’s signet ring. He then sent the letters by swift couriers and royal horsemen who were official messengers of the king."
+        },
+        {
+          "number": 11,
+          "latin": "Quibus dedit mandatum ut irent ad Judæos in cunctis provinciis, et permitterent eos simul congregari, et stare pro animabus suis, universosque inimicos suos cum uxoribus et liberis interficere, et usque ad internecionem universa delere, ac spolia eorum diripere.",
+          "english": "To these messengers, Mordecai gave the command that they should go to the Jewish people in all the provinces and permit them to gather together to stand up and defend their lives. They were also permitted to kill all their enemies—including their wives and children—and to utterly destroy everything that threatened them, even to the point of extermination, and to take their possessions as plunder. This decree allowed the Jews to defend themselves with the same power that Haman's decree had granted their enemies."
+        },
+        {
+          "number": 12,
+          "latin": "Et constituta est una dies per omnes provincias in totius regis Assueri imperium, decima tertia mensis duodecimi, qui est Adar.",
+          "english": "And one specific day was appointed throughout all the provinces in the entire empire of King Ahasuerus for this defense: the thirteenth day of the twelfth month, which is Adar. This was the same day that Haman had originally chosen for their destruction."
+        },
+        {
+          "number": 13,
+          "latin": "Igitur exemplum epistolæ, ut in cunctis provinciis publicaretur, jussum est ut omnibus populis notum fieret, paratos esse Judæos in diem ultionis hostibus suis.",
+          "english": "Therefore, a copy of the decree was to be published in all provinces and made known to all peoples, so that the Jews would be prepared for the day they could defend themselves against their enemies."
+        },
+        {
+          "number": 14,
+          "latin": "Egressique sunt cursores veloces, qui per præceptum regis mittebantur, et protinus edictum pependit in Susan.",
+          "english": "And the swift couriers, who were sent by the king's command, went out immediately. The decree was publicly posted without delay in the city of Susa."
+        },
+        {
+          "number": 15,
+          "latin": "Mardochæus autem de palatio regis et de conspectu ejus egressus, indutus est vestibus regiæ purpuræ et hyacinthi, portans coronam auream, et amictus palliis byssinis atque coccineis. Omnisque civitas Susan exultavit atque lætata est.",
+          "english": "But Mordecai, having left the king's palace and his immediate presence, was dressed in royal robes of purple and blue, wearing a golden crown, and clothed in cloaks of fine linen and scarlet. These were all symbols of his new, high honor and authority. And the entire city of Susa rejoiced and was glad at this change in fortune."
+        },
+        {
+          "number": 16,
+          "latin": "Judæis autem lux orta est, et lætitia, et exultatio, et honor.",
+          "english": "For the Jewish people, a new light of hope had dawned. There was joy, exultation, and great honor for them."
+        },
+        {
+          "number": 17,
+          "latin": "Et per cunctas provincias, et civitates, quocumque regis jussum et edictum venerat, erat Judæis epulum, et lætitia, et convivia, et dies festus : multique de populis terræ et secta illorum, et religione juncti sunt : formido enim nominis Judaici cunctos invaserat.",
+          "english": "And in all the provinces and cities where the king's command and decree had arrived, the Jewish people celebrated with feasts, joy, banquets, and a day of festival. Many of the peoples of the land, seeing this turn of events, converted and joined their sect and religion, for the fear and respect for the Jewish people had now fallen upon all."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Igitur tertiodecimo die duodecimi mensis, qui Adar mense vocitatur, quando cunctis Judaeis interfectio parabatur, et hostes eorum inhiabant sanguini, versa vice Judaei victores extiterunt, et de adversariis suis ulti sunt.",
+          "english": "On the thirteenth day of the twelfth month, called the month of Adar, when the extermination of all the Jews had been planned, and their enemies were eager for their blood, the Jews, instead, became the victors and took vengeance on their adversaries."
+        },
+        {
+          "number": 2,
+          "latin": "Congregati sunt per singulas civitates et oppida et vicos, ut se defenderent, et hostes suos atque persecutores interficerent: nullusque ausus est resistere, eo quod omnium terror invasisset animos.",
+          "english": "The Jews gathered in every city, town, and village to defend themselves and to kill their enemies and persecutors. No one dared to resist them, because terror had gripped the hearts of all people."
+        },
+        {
+          "number": 3,
+          "latin": "Nam et provinciarum judices, et satrapae, et praesides, et omnis dignitas, quae singulis locis et praeerat, honori Judaeorum detulerunt, eo quod timor Mardochaei eos invaserat.",
+          "english": "Indeed, the judges of the provinces, the satraps, the governors, and every dignitary who presided over individual places honored the Jews, because the fear of Mordechai had fallen upon them."
+        },
+        {
+          "number": 4,
+          "latin": "Erat enim Mardochai excelsus in palatio, et cunctis provinciis nominis ejus fama pervolarat: nuntiabant enim omnes Mardochaei pueros esse potentes.",
+          "english": "For Mordechai was powerful in the palace, and the fame of his name had spread throughout all the provinces; for everyone announced that Mordechai's people were mighty."
+        },
+        {
+          "number": 5,
+          "latin": "Itaque percusserunt Judaei omnes inimicos suos plaga magna, interficientes eos, et reddentes eis quod sibi paraverant.",
+          "english": "So the Jews struck all their enemies with a great slaughter, killing them and giving back to them what they had intended for the Jews."
+        },
+        {
+          "number": 6,
+          "latin": "In Susis quoque civitate interfecerunt Judaei quingentos viros:",
+          "english": "Also, in the city of Susa, the Jews killed five hundred men."
+        },
+        {
+          "number": 7,
+          "latin": "et Pharsandatha, et Dalphon, et Aspatha,",
+          "english": "And Pharsandatha, Dalphon, and Aspatha,"
+        },
+        {
+          "number": 8,
+          "latin": "et Poratha, et Adalia, et Aridatha,",
+          "english": "and Poratha, Adalia, and Aridatha,"
+        },
+        {
+          "number": 9,
+          "latin": "et Parmastha, et Arisai, et Aridai, et Vajezatha,",
+          "english": "and Parmastha, Arisai, Aridai, and Vajezatha—"
+        },
+        {
+          "number": 10,
+          "latin": "decem filios Aman filii Amadathi adversarii Judaeorum, interfecerunt: sed praedas eorum non diripuerunt.",
+          "english": "these were the ten sons of Haman, son of Hammedatha, the adversary of the Jews, whom they killed. But they did not take their plunder."
+        },
+        {
+          "number": 11,
+          "latin": "Statimque ad regem numerus eorum, qui fuerant interfecti in Susa, perlatus est.",
+          "english": "The number of those killed in Susa was immediately reported to the king."
+        },
+        {
+          "number": 12,
+          "latin": "Dixitque rex reginae Esther: In Susa civitate quingentos viros Judaei interfecerunt, et decem filios Aman: quantam putas eos exercuisse caedem in universis provinciis? Quid ultra postulas, et quid vis ut fieri jubeam?",
+          "english": "The king then said to Queen Esther, \"In the city of Susa, the Jews have killed five hundred men, including Haman's ten sons. How great a slaughter do you think they have carried out in all the other provinces? What more do you request, and what else do you want me to command to be done?\""
+        },
+        {
+          "number": 13,
+          "latin": "Respondit Esther: Si regi placet, detur et cras Judaeis, qui in Susa sunt, ut faciant sicut et hodie: et decem filii Aman in patibulis suspendantur.",
+          "english": "Esther replied, \"If it pleases the king, let it be granted to the Jews in Susa that they may act tomorrow just as they have acted today. And let Haman's ten sons be hanged on gallows.\""
+        },
+        {
+          "number": 14,
+          "latin": "Praecepitque rex ut ita fieret. Statimque in Susa edictum regis pependit, et decem filii Aman suspensi sunt.",
+          "english": "And the king commanded that it should be done. Immediately, the king's decree was proclaimed in Susa, and Haman's ten sons were hanged."
+        },
+        {
+          "number": 15,
+          "latin": "Addideruntque Judaei in Susa quintodecimo die mensis Adar, et interfecerunt trecentos viros: nec eorum praedas tulerunt.",
+          "english": "The Jews in Susa also continued on the fifteenth day of the month of Adar and killed three hundred more men, but they did not take their plunder."
+        },
+        {
+          "number": 16,
+          "latin": "Illi vero Judaei, qui in ceteris provinciis morabantur, congregati sunt, ut defenderent animas suas, et persequerentur inimicos suos: et interfecerunt de his qui eos oderant, septuaginta quinque millia, et nihil de facultatibus eorum attigerunt.",
+          "english": "But the Jews who lived in the other provinces gathered to defend their lives and to pursue their enemies. They killed seventy-five thousand of those who hated them, and they touched none of their possessions."
+        },
+        {
+          "number": 17,
+          "latin": "Et haec cuncta facta sunt tertiodecimo die mensis Adar: quartodecimo autem die ejusdem mensis, cessaverunt ab omni caede, et epulis ac laetitiae vacaverunt.",
+          "english": "All these things were done on the thirteenth day of the month of Adar. On the fourteenth day of the same month, they ceased all killing and dedicated themselves to feasting and rejoicing."
+        },
+        {
+          "number": 18,
+          "latin": "Illi vero, qui in Susa interfecerant, tam tertiodecimo quam quintodecimo die mensis Adar, in utroque pariter pugnaverunt, et in quintodecimo cessaverunt. Et propterea est observatum a Judaeis qui in oppidis morabantur, ut quartadecimam diei Adar diem laetitiae et conviviis statuerent,",
+          "english": "However, those who had carried out the killing in Susa fought both on the thirteenth and the fifteenth days of the month of Adar; they ceased on the fifteenth. Therefore, it has been observed by the Jews who lived in the walled towns that they should appoint the fourteenth day of Adar as a day of joy and feasting,"
+        },
+        {
+          "number": 19,
+          "latin": "et diem festum, in quo sibi invicem mittant ciborum portiones. Qui autem in urbibus non muratis, et in vicis positi sunt, quartumdecimum diem mensis Adar pro die laetitiae et epularum decernunt, et ut in conviviis laeti sint, sibique invicem mittant escas.",
+          "english": "and a festive day on which they send portions of food to one another. But those who are in unwalled cities and in villages decree the fourteenth day of the month of Adar as a day of joy and feasting, so that they may be joyful in their celebrations and send food to one another."
+        },
+        {
+          "number": 20,
+          "latin": "Scripsit itaque Mardochai omnia haec, et misit litteras ad omnes Judaeos, qui in cunctis regis Artaxerxis provinciis morabantur, tam prope quam procul,",
+          "english": "So Mordechai wrote down all these things and sent letters to all the Jews who lived in all the provinces of King Artaxerxes, both near and far,"
+        },
+        {
+          "number": 21,
+          "latin": "ut quartumdecimum et quintumdecimum diem mensis Adar statuerent sibi annuos dies festos,",
+          "english": "that they should establish the fourteenth and fifteenth days of the month of Adar as annual festive days for themselves."
+        },
+        {
+          "number": 22,
+          "latin": "eo quod in ipsis ulti sunt Judaei de inimicis suis, et luctus atque tristitia in laetitiam gaudiumque conversum est, ut facerent dies epularum et laetitiae, et sibi invicem ciborum portiones mitterent, et pauperum ac egenorum largirentur eleemosynas.",
+          "english": "This was because on those days, the Jews had been avenged on their enemies, and their sorrow and sadness had been turned into joy and gladness. They were to make them days of feasting and rejoicing, and to send portions of food to one another, and to give alms to the poor and needy."
+        },
+        {
+          "number": 23,
+          "latin": "Et susceperunt Judaei in consuetudinem omnia quae facere coeperant, et quae Mardochai eis scripserat:",
+          "english": "And the Jews took into custom all that they had begun to do and all that Mordechai had written to them."
+        },
+        {
+          "number": 24,
+          "latin": "eo quod Aman, filius Amadathi stirpis Agag, adversarius et hostis Judaeorum, cogitaverat contra illos malum, ut interficeret eos, et delevisset: et jecerat phur, quod interpretatur sortem.",
+          "english": "This was because Haman, son of Hammedatha, of the race of Agag, the adversary and enemy of the Jews, had plotted evil against them to kill and destroy them; and he had cast \"pur,\" which means \"the lot.\""
+        },
+        {
+          "number": 25,
+          "latin": "Et postea introierat ad regem, ut juberet Judaeos perire: et Esther intercesserat ad regem. Et jussit ex regis sententia epistolis quoque illius et malitiae, quae in Judaeos excogitaverat, impiissimum ejus consilium in caput ejus et filiorum ejus recidere, et in patibulis suspendi eum, et prolem ejus.",
+          "english": "And afterwards, when he had gone in to the king to order the Jews to perish, Esther interceded with the king. And by the king's decision, it was commanded that Haman's wicked scheme, which he had devised against the Jews through his letters and malice, should recoil upon his own head and the heads of his sons, and that he and his offspring should be hanged on gallows."
+        },
+        {
+          "number": 26,
+          "latin": "Et ex illo vocari dies isti Phurim, id est Sortium, ex eo quod Phur, id est sors, jacta est: et omnia quae gesta fuerant, et quae deinceps acciderant,",
+          "english": "And from that time, these days were called Purim, that is, \"of Lots,\" because \"pur,\" that is, \"the lot,\" had been cast. And all that had happened, and what then occurred,"
+        },
+        {
+          "number": 27,
+          "latin": "suscipere Judaei, super se, et semen suum, et super cunctos qui eis vellent adjungi, ut nulli liceat transgredi, et dies istos festos in obsequium sibi sempiternum tenerent de generatione in generationem:",
+          "english": "the Jews resolved for themselves, and for their descendants, and for all who wished to join them, that no one should be permitted to transgress, and that they should keep these festive days as an everlasting observance for themselves from generation to generation."
+        },
+        {
+          "number": 28,
+          "latin": "hos dies esse commemorabiles et sollemnes in universo mundo, per singulas familias, et civitates, et provincias: nec ullum obolescere diem festum, sed jugi celebritate revocari.",
+          "english": "These days were to be remembered and solemnized throughout the entire world, by individual families, and cities, and provinces. No festive day was to be allowed to fall into disuse, but rather to be continually renewed with celebration."
+        },
+        {
+          "number": 29,
+          "latin": "Scripseruntque Esther regina filia Abihaël, et Mardochai Judaeus, totum potestatis suae, ut firmaret hanc secundam epistolam Phurim.",
+          "english": "Queen Esther, daughter of Abihail, and Mordechai the Jew, then wrote with all their authority to confirm this second letter concerning Purim."
+        },
+        {
+          "number": 30,
+          "latin": "Et miserunt ad omnes Judaeos, qui in centum viginti septem provinciis regis Artaxerxis erant, verba pacis et veritatis:",
+          "english": "And they sent words of peace and truth to all the Jews who were in the one hundred twenty-seven provinces of King Artaxerxes,"
+        },
+        {
+          "number": 31,
+          "latin": "et jussit observari dies Sortium, et suo tempore celebrari, sicut constituerat Mardochai Judaeus, et Esther regina, et illi statuerant sibi et semini suo, jejunia atque clamores, et laetitiam.",
+          "english": "and commanded that the days of the Lots should be observed and celebrated at their appointed time, just as Mordechai the Jew and Queen Esther had established, and as they themselves had ordained for themselves and their descendants, with fasting, lamentation, and rejoicing."
+        },
+        {
+          "number": 32,
+          "latin": "Et omnia quae ad Phurim pertinent, in uno volumine continentur, et mandati illius probata est fides.",
+          "english": "And all things pertaining to Purim are contained in one volume, and the authenticity of that command has been proven."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Et scripsit Assuerus rex tributum in omni terra, et in insulis maris.",
+          "english": "King Ahasuerus then issued a decree for a tax throughout his entire kingdom and extending even to the farthest islands."
+        },
+        {
+          "number": 2,
+          "latin": "Omnia autem opera illius, et fortitudo, et dignitas, atque potentia, qua exaltavit Mardochaeum, scripta sunt in libris Medorum, atque Persarum:",
+          "english": "All the accomplishments of his reign, his mighty acts, his imperial glory, and the powerful position to which he elevated Mordecai, are recorded in the official chronicles of the kingdoms of Media and Persia."
+        },
+        {
+          "number": 3,
+          "latin": "Et quomodo Mardochaeus Iudaeus secundus a rege Assuero fuerit, et magnus apud Iudaeos, et acceptus plebi fratrum suorum, quaerens bona populi sui, et loquens ea quae ad utilitatem multorum pertinerent.",
+          "english": "And how Mordecai, a Jew, became the second highest authority after King Ahasuerus; he was greatly respected among his own people, the Jews, and was highly esteemed by all his kinsmen, always working for the welfare of his people and speaking words that served the benefit of many."
+        }
+      ]
+    }
+  ]
+}

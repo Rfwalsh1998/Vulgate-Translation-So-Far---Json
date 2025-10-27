@@ -1,0 +1,136 @@
+{
+  "name": "Philemon",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Paulus, vinctus Christi Iesu, et Timotheus frater, Philemoni dilecto, et adiutori nostro,",
+          "english": "Paul, a prisoner for Christ Jesus, and Timothy, our brother in faith, to Philemon, our beloved coworker,"
+        },
+        {
+          "number": 2,
+          "latin": "et Appiae sorori, et Archippo commilitoni nostro, et ecclesiae, quae in domo tua est.",
+          "english": "and to Apphia, our sister in faith, to Archippus, our fellow soldier for Christ, and to the Church that meets in your home."
+        },
+        {
+          "number": 3,
+          "latin": "Gratia vobis, et pax a Deo Patre nostro, et Domino Iesu Christo.",
+          "english": "Grace and peace be with you from God our Father, and from our Lord Jesus Christ."
+        },
+        {
+          "number": 4,
+          "latin": "Gratias ago Deo meo, semper memoriam tui faciens in orationibus meis,",
+          "english": "I always thank my God and remember you in my prayers,"
+        },
+        {
+          "number": 5,
+          "latin": "audiens caritatem tuam, et fidem, quam habes in Domino Iesu, et in omnes sanctos:",
+          "english": "because I hear about your love and the faith you have in the Lord Jesus Christ, and how you show it to all the holy people in the Church."
+        },
+        {
+          "number": 6,
+          "latin": "ut communicatio fidei tuae evidens fiat in agnitione omnis boni, quod est in vobis in Christo Iesu.",
+          "english": "I pray that the sharing of your faith may become effective through your recognition of every good thing that is in you in Christ Jesus."
+        },
+        {
+          "number": 7,
+          "latin": "Gaudium enim magnum habui, et consolationem in caritate tua, quia viscera sanctorum requieverunt per te, frater.",
+          "english": "For I have received great joy and comfort from your love, because you have refreshed the hearts and lives of the holy people, my brother."
+        },
+        {
+          "number": 8,
+          "latin": "Propter quod multam fiduciam habens in Christo Iesu, ut tibi praeciperem quod ad rem pertinet,",
+          "english": "Therefore, although I have much confidence in Christ to command you to do what is proper,"
+        },
+        {
+          "number": 9,
+          "latin": "propter caritatem magis obsecro: cum sis talis ut Paulus senex, et nunc vinctus Iesu Christi:",
+          "english": "I rather appeal to you because of love. I, Paul, am an old man now, and also a prisoner for Christ Jesus."
+        },
+        {
+          "number": 10,
+          "latin": "obsecro te de meo filio, quem genui in vinculis, Onesimo,",
+          "english": "I appeal to you for my son, Onesimus, whom I have fathered spiritually while I have been in prison."
+        },
+        {
+          "number": 11,
+          "latin": "qui tibi aliquando inutilis fuit, nunc autem et mihi et tibi utilis.",
+          "english": "He was once useless to you, but now he is useful to both you and me."
+        },
+        {
+          "number": 12,
+          "latin": "Quem remisi tibi. Tu autem illum, id est, mea viscera, suscipe.",
+          "english": "I am sending him back to you. Please receive him, that is to say, receive my very heart and soul."
+        },
+        {
+          "number": 13,
+          "latin": "Quem ego volueram mecum detinere, ut pro te mihi ministraret in vinculis Evangelii:",
+          "english": "I truly wanted to keep him with me, so that he could serve me on your behalf while I am in prison for the Gospel."
+        },
+        {
+          "number": 14,
+          "latin": "sine consilio autem tuo nihil volui facere: ut non quasi de necessitate bonum tuum esset, sed voluntarium.",
+          "english": "But I did not want to do anything without your consent, so that your good deed would not be forced but rather a voluntary act of your free will."
+        },
+        {
+          "number": 15,
+          "latin": "Forsitan enim ideo discessit ad horam a te, ut aeternam illum haberes:",
+          "english": "For perhaps he departed from you for a short time for this very reason: that you might have him back forever,"
+        },
+        {
+          "number": 16,
+          "latin": "jam non ut servum, sed pro servo carissimum fratrem, maxime autem et mihi, quanto magis tibi et in carne, et in Domino?",
+          "english": "no longer as a slave, but as a beloved brother—far more than a slave. He is especially beloved to me, and how much more so to you, both physically (in the flesh) and spiritually (in the Lord)?"
+        },
+        {
+          "number": 17,
+          "latin": "Si ergo habes me socium, suscipe illum sicut me:",
+          "english": "So if you consider me a partner in the faith, welcome him as you would welcome me."
+        },
+        {
+          "number": 18,
+          "latin": "si autem aliquid nocuit tibi, aut debet, hoc mihi imputa.",
+          "english": "If he has wronged you in any way, or owes you anything, charge it to my account."
+        },
+        {
+          "number": 19,
+          "latin": "Ego Paulus scripsi mea manu: ego reddam: ut non dicam tibi, quoniam et teipsum mihi debes.",
+          "english": "I, Paul, am writing this with my own hand: I will repay you. I do not need to mention that you owe me even your very self."
+        },
+        {
+          "number": 20,
+          "latin": "Ita, frater, ego te fruar in Domino: refice viscera mea in Domino.",
+          "english": "Yes, my brother, let me benefit from you in the Lord. Refresh my heart and soul in Christ."
+        },
+        {
+          "number": 21,
+          "latin": "Confidens in obedientia tua scripsi tibi: sciens quoniam et super id, quod dico, facies.",
+          "english": "I write to you confident in your obedience, knowing that you will do even more than what I am asking."
+        },
+        {
+          "number": 22,
+          "latin": "Simul autem et para mihi hospitium: nam spero per orationes vestras donari me vobis.",
+          "english": "Also, at the same time, prepare a guest room for me, for I hope that through your prayers I will be restored to you."
+        },
+        {
+          "number": 23,
+          "latin": "Salutat te Epaphras concaptivus meus in Christo Iesu,",
+          "english": "Epaphras, my fellow prisoner in Christ Jesus, sends you his greetings."
+        },
+        {
+          "number": 24,
+          "latin": "Marcus, Aristarchus, Demas, Lucas, adiutores mei.",
+          "english": "Mark, Aristarchus, Demas, and Luke, my coworkers, also greet you."
+        },
+        {
+          "number": 25,
+          "latin": "Gratia Domini nostri Iesu Christi cum spiritu vestro. Amen.",
+          "english": "The grace of our Lord Jesus Christ be with your spirit. Amen."
+        }
+      ]
+    }
+  ]
+}

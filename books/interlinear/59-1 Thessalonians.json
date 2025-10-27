@@ -1,0 +1,485 @@
+{
+  "name": "1 Thessalonians",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Paulus, et Silvanus, et Timotheus, ecclesiae Thessalonicensium in Deo Patre, et Domino Jesu Christo.",
+          "english": "From Paul, and Silvanus, and Timothy: to the church of the Thessalonians, who are united to God the Father and our Lord Jesus Christ."
+        },
+        {
+          "number": 2,
+          "latin": "Gratia vobis, et pax. Gratias agimus Deo semper pro omnibus vobis, memoriam facientes vestri in orationibus nostris sine intermissione,",
+          "english": "Grace to you, and peace. We give thanks to God always for you all, making mention of you in our prayers without ceasing,"
+        },
+        {
+          "number": 3,
+          "latin": "sine intermissione memores operationis fidei vestrae, et laboris, et caritatis, et patientiae spei Domini nostri Jesu Christi, ante Deum et Patrem nostrum:",
+          "english": "constantly remembering your work of faith and your labor, and the love and patience of the hope of our Lord Jesus Christ, before God our Father:"
+        },
+        {
+          "number": 4,
+          "latin": "scientes, fratres dilecti a Deo, electionem vestram:",
+          "english": "Knowing, brethren beloved by God, your election:"
+        },
+        {
+          "number": 5,
+          "latin": "quia Evangelium nostrum non fuit ad vos in sermone tantum, sed et in virtute, et in Spiritu Sancto, et in plenitudine multa, sicut scitis quales fuerimus in vobis propter vos.",
+          "english": "Because our Gospel came to you not only in word, but also in power, and in the Holy Spirit, and in much fullness, just as you know what kind of men we were among you, for your sakes."
+        },
+        {
+          "number": 6,
+          "latin": "Et vos imitatores nostri facti estis, et Domini, excipientes verbum in tribulatione multa cum gaudio Spiritus Sancti,",
+          "english": "And you became imitators of us and of the Lord, receiving the word with much tribulation, with the joy of the Holy Spirit,"
+        },
+        {
+          "number": 7,
+          "latin": "ita ut facti sitis forma omnibus credentibus in Macedonia et Achaia.",
+          "english": "so that you were made a pattern to all those who believe, in Macedonia and in Achaia."
+        },
+        {
+          "number": 8,
+          "latin": "A vobis enim emanavit verbum Domini, non solum in Macedonia et Achaia, sed in omni loco fides vestra, quae est ad Deum, profecta est, ita ut non sit nobis necesse quidquam loqui.",
+          "english": "For from you has gone forth the word of the Lord, not only in Macedonia and Achaia, but in every place your faith, which is toward God, has gone forth, so that we need not to speak anything."
+        },
+        {
+          "number": 9,
+          "latin": "Ipsi enim de nobis annuntiant qualem introitum habuimus ad vos: et quomodo conversi estis ad Deum a simulacris, ad servire Deo vivo et vero,",
+          "english": "For they themselves relate of us what kind of entrance we had to you: and how you turned to God from idols, to serve the living and true God,"
+        },
+        {
+          "number": 10,
+          "latin": "et exspectare Filium ejus de coelis (quem suscitavit a mortuis), Jesum, qui eripuit nos ab ira ventura.",
+          "english": "and to await His Son from the universe—Jesus—whom He raised from the dead, who has delivered us from the wrath to come."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Nam ipsi scitis, fratres, introitum nostrum ad vos non inanis fuisse:",
+          "english": "You know yourselves, brothers, that we didn’t come to you in vain, wasting time or energy:"
+        },
+        {
+          "number": 2,
+          "latin": "sed ante passi et contumeliis affecti, sicut scitis, in Philippis, fiduciam habuimus in Deo nostro loqui ad vos in magno certamine.",
+          "english": "But after suffering and enduring insults, as you know, in Philippi, we had the courage given to us by God to preach to you in difficult times."
+        },
+        {
+          "number": 3,
+          "latin": "Nam exhortatio nostra non de errore, neque de immunditia, neque in dolo:",
+          "english": "For our encouragement did not come from error, nor from uncleanness, nor from trickery:"
+        },
+        {
+          "number": 4,
+          "latin": "sed sicut probati sumus a Deo, ut crederetur nobis Evangelium, ita loquimur, non quasi hominibus placentes, sed Deo, qui probat corda nostra.",
+          "english": "but as we were proven worthy by God, that the Gospel be entrusted to us, so do we speak, not as those pleasing men, but God, who knows our hearts."
+        },
+        {
+          "number": 5,
+          "latin": "Neque enim aliquando in sermone blandimentorum fuimus, sicut scitis: neque in occasione avaritiae: Deus testis est.",
+          "english": "For at no time were we in speech with flattery, as you know: nor with an occasion for greed: God is witness."
+        },
+        {
+          "number": 6,
+          "latin": "Nec quaerentes ab hominibus gloriam, neque a vobis, neque ab aliis:",
+          "english": "Nor seeking glory from men, neither from you, nor from others:"
+        },
+        {
+          "number": 7,
+          "latin": "cum possumus vobis oneri esse, ut Christi gloriam quaereremus:",
+          "english": "though we could have been a burden to you, in order to seek the glory of Christ:"
+        },
+        {
+          "number": 8,
+          "latin": "sed facti sumus parvuli in medio vestrum, tamquam si nutrix foveat filios suos:",
+          "english": "but we became little ones among you, as a mother would nurture her children:"
+        },
+        {
+          "number": 9,
+          "latin": "ita desiderantes vos, cupide volebamus tradere vobis non solum Evangelium Dei, sed etiam animas nostras: quoniam charissimi nobis facti estis.",
+          "english": "in this way, we longed for you, and eagerly wished to hand over to you not only the Gospel of God, but also our souls: because you have become very dear to us."
+        },
+        {
+          "number": 10,
+          "latin": "Memores enim estis, fratres, laboris nostri et fatigationis: nocte enim et die operantes, ne quem vestrum gravaremus, praedicavimus vobis Evangelium Dei.",
+          "english": "For you remember, brothers, our labor and toil: for working night and day, so that we might not burden any of you, we preached to you the Gospel of God."
+        },
+        {
+          "number": 11,
+          "latin": "Vos testes estis, et Deus: quam sancte, et juste, et sine querela vobis, qui credidistis, fuimus:",
+          "english": "You are witnesses, and God is too: how holy, just, and blameless we were among you who believed:"
+        },
+        {
+          "number": 12,
+          "latin": "sicut scitis, qualiter unumquemque vestrum, sicut pater filios suos,",
+          "english": "as you know, how we exhorted each of you, as a father does his children,"
+        },
+        {
+          "number": 13,
+          "latin": "testificantes, et consolantes vos, et testantes, ut digni Deo ambularetis, qui vos vocavit in suum regnum et gloriam.",
+          "english": "assuring, consoling, and testifying to you, that you should walk worthy of God, who has called you to His kingdom and glory."
+        },
+        {
+          "number": 14,
+          "latin": "Ideo et nos gratias agimus Deo sine intermissione: quoniam cum accepissetis a nobis verbum auditus Dei, accepistis illud non ut verbum hominum, sed sicut est vere verbum Dei, qui operatur in vobis, qui credidistis.",
+          "english": "For this reason, we also thank God without ceasing: because when you received from us the word of the hearing of God, you received it not as the word of men, but as it truly is the word of God, which works in you who believe."
+        },
+        {
+          "number": 15,
+          "latin": "Vos enim imitatores facti estis, fratres, ecclesiarum Dei, quae sunt in Judaea in Christo Jesu: quia eadem passi estis et vos a contribulibus vestris, sicut et illi a Judaeis,",
+          "english": "For you have become imitators, brothers, of the churches of God which are in Judea in Christ Jesus: because the same things that they suffered were also suffered by you from your own countrymen, as they did from the Jews,"
+        },
+        {
+          "number": 16,
+          "latin": "qui et Dominum occiderunt Jesum, et prophetas, et nos persecuti sunt, et Deo non placent, et omnibus hominibus adversantur,",
+          "english": "who also killed the Lord Jesus and the prophets, and persecuted us, and do not please God, and are against all men,"
+        },
+        {
+          "number": 17,
+          "latin": "prohibentes nos gentibus loqui ut salvae fiant, ut impleant peccata sua semper: pervenit enim ira Dei super illos usque in finem.",
+          "english": "forbidding us to speak to the Gentiles, so that they may be saved, so that they may always fill up their sins: for the wrath of God has come upon them to the end."
+        },
+        {
+          "number": 18,
+          "latin": "Nos autem fratres, desolati a vobis per tempus horae, specie, non corde, abundantius satagimus faciem vestram videre cum magno desiderio.",
+          "english": "But we, brothers, being left desolate from you for a time, in appearance, not in heart, we eagerly sought all the more to see your face with great desire."
+        },
+        {
+          "number": 19,
+          "latin": "Quoniam voluimus venire ad vos, ego quidem Paulus, et semel et iterum: et impedivit nos Satanas.",
+          "english": "Because we wanted to come to you, I, indeed, Paul, once and again: and Satan prevented us."
+        },
+        {
+          "number": 20,
+          "latin": "Quis est enim nostra spes, aut gaudium, aut corona gloriae? Nonne vos? ante Dominum nostrum Jesum in adventu ejus?",
+          "english": "For who is our hope, or joy, or the crown of glory? Are you not? Before our Lord Jesus at His coming?"
+        },
+        {
+          "number": 21,
+          "latin": "Vos enim estis gloria nostra et gaudium.",
+          "english": "For you are our glory and joy."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quo propter non sustinentes, placuit nobis remanere Athenis solis,",
+          "english": "Because of this, we could not bear to remain alone in Athens."
+        },
+        {
+          "number": 2,
+          "latin": "et misimus Timotheum fratrem nostrum, et ministrum Dei in Evangelio Christi, ad confirmandos vos, et exhortandos in fide vestra:",
+          "english": "So we sent our brother Timothy, a servant of God in the Gospel of Christ, to strengthen you and to exhort you in your faith."
+        },
+        {
+          "number": 3,
+          "latin": "ut nemo moveatur in tribulationibus istis: ipsi enim scitis quod in hoc positi sumus.",
+          "english": "We sent him so that no one would be shaken by these tribulations. For you yourselves know that we are appointed to this."
+        },
+        {
+          "number": 4,
+          "latin": "Nam et cum essemus apud vos, praedicebamus vobis passuros nos tribulationes, sicut et evenit, et scitis.",
+          "english": "For when we were with you, we told you beforehand that we would suffer tribulation, even as it came to pass, and as you know."
+        },
+        {
+          "number": 5,
+          "latin": "Propterea et ego amplius non ferens, misi ad cognoscendam fidem vestram: ne forte tentaverit vos is qui tentat, et inanis fiat labor noster.",
+          "english": "For this cause, I also, not bearing it any longer, sent to know your faith, lest perhaps the tempter has tempted you and our labor become vain."
+        },
+        {
+          "number": 6,
+          "latin": "Nunc autem veniente ad nos Timotheo, a vobis, et nuntiante nobis fidem et caritatem vestram, et quia memoriam nostri habetis bonam semper, desiderantes nos videre, sicut et nos vos:",
+          "english": "But now, Timothy has come to us from you and brought us good news about your faith and your charity and that you have a good memory of us always, desiring to see us, just as we also want to see you."
+        },
+        {
+          "number": 7,
+          "latin": "ideo consolati sumus, fratres, in vobis, in omni necessitate et tribulatione nostra, per fidem vestram:",
+          "english": "Therefore, brothers, we have been comforted about you in all our necessity and tribulation, through your faith."
+        },
+        {
+          "number": 8,
+          "latin": "quia nunc vivimus, si vos statis in Domino.",
+          "english": "Because now we live, if you stand firm in the Lord."
+        },
+        {
+          "number": 9,
+          "latin": "Quam enim gratiarum actionem possumus Deo retribuere pro vobis in omni gaudio, quo gaudemus propter vos ante Deum,",
+          "english": "For what thanksgiving can we render to God for you, for all the joy wherewith we rejoice for your sakes before God,"
+        },
+        {
+          "number": 10,
+          "latin": "nocte ac die abundantius orantes, ut videamus faciem vestram, et compleamus ea quae deficiunt fidei vestrae?",
+          "english": "night and day praying more abundantly that we may see your face and may accomplish those things that are wanting to your faith?"
+        },
+        {
+          "number": 11,
+          "latin": "Ipse autem Deus et Pater noster, et Dominus noster Jesus Christus dirigat viam nostram ad vos.",
+          "english": "Now God Himself and our Father, and our Lord Jesus Christ, direct our way unto you."
+        },
+        {
+          "number": 12,
+          "latin": "Vos autem Dominus multiplicet, et abundare faciat in dilectione invicem, et in omnes, quemadmodum et nos in vobis:",
+          "english": "And may the Lord make you increase and abound in love towards one another and towards all men, even as we do towards you."
+        },
+        {
+          "number": 13,
+          "latin": "ad confirmanda corda vestra sine querella in sanctitate, ante Deum et Patrem nostrum, in adventu Domini nostri Jesu Christi cum omnibus sanctis ejus.",
+          "english": "So that he may establish your hearts without blame, in holiness before God and our Father, at the coming of our Lord Jesus Christ with all his saints."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "De cetero ergo, fratres, rogamus vos, et obsecramus in Domino Iesu, ut quomodo accepistis a nobis quomodo oporteat vos ambulare, et placere Deo, et abundetis magis.",
+          "english": "And now, brothers, we beg you and beseech you in the Lord Jesus Christ, and it is our earnest desire that you continue living the holy life that we have taught you, the life that is pleasing to God, and that you do it even more and more."
+        },
+        {
+          "number": "2",
+          "latin": "Scitis enim quae praecepta dedimus vobis per Dominum Iesum.",
+          "english": "For you know very well what instructions we gave you through the Lord Jesus."
+        },
+        {
+          "number": "3",
+          "latin": "Haec est enim voluntas Dei, sanctificatio vestra: ut abstineatis vos a fornicatione,",
+          "english": "For this is the will of God, your sanctification: that you stay away from all sexual sin,"
+        },
+        {
+          "number": "4",
+          "latin": "ut sciat unusquisque vestrum vasum suum possidere in sanctificatione et honore,",
+          "english": "that each of you knows how to control his own body in holiness and honor,"
+        },
+        {
+          "number": "5",
+          "latin": "non in passione desiderii, sicut et gentes, quae ignorant Deum:",
+          "english": "and not in the lust of passion, as the Gentiles who do not know God do:"
+        },
+        {
+          "number": "6",
+          "latin": "ne quis supergrediatur, neque circumveniat in negotio fratrem suum: quoniam vindex Dominus est de his omnibus, sicut praediximus vobis, et testificati sumus.",
+          "english": "that no one transgress and wrong his brother in this matter. For the Lord is the avenger of all these things, as we have told you and testified before."
+        },
+        {
+          "number": "7",
+          "latin": "Non enim vocavit nos Deus in immunditiam, sed in sanctificationem.",
+          "english": "For God has not called us to impurity, but to holiness."
+        },
+        {
+          "number": "8",
+          "latin": "Itaque qui spernit, non hominem spernit, sed Deum, qui etiam dedit Spiritum suum sanctum in vobis.",
+          "english": "Therefore, he who rejects this, rejects not man, but God, who has also given His Holy Spirit to you."
+        },
+        {
+          "number": "9",
+          "latin": "De caritate autem fraternitatis, non necesse habemus scribere vobis: ipsi enim vos a Deo didicistis ut diligatis invicem.",
+          "english": "Now concerning fraternal love, we do not need to write to you. For you yourselves have been taught by God to love one another."
+        },
+        {
+          "number": "10",
+          "latin": "Etenim illud facitis in omnes fratres, qui sunt in universa Macedonia. Rogamus autem vos, fratres, ut abundetis magis,",
+          "english": "For indeed you do this toward all the brothers who are in all of Macedonia. But we urge you, brothers, to increase more and more,"
+        },
+        {
+          "number": "11",
+          "latin": "et operam detis ut quieti sitis, et negotia vestra agatis, et operemini manibus vestris, sicut praecepimus vobis:",
+          "english": "and to strive to be at peace, and to mind your own business, and to work with your own hands, as we have commanded you,"
+        },
+        {
+          "number": "12",
+          "latin": "ut honeste ambuletis ad eos qui foris sunt, et nullius aliquid desideretis.",
+          "english": "so that you may walk honestly toward those who are outside, and that you may not lack anything."
+        },
+        {
+          "number": "13",
+          "latin": "Nolumus autem vos ignorare, fratres, de dormientibus, ut non contristemini sicut ceteri, qui spem non habent.",
+          "english": "But we do not want you to be ignorant, brothers, concerning those who have fallen asleep, so that you do not grieve as the others do who have no hope."
+        },
+        {
+          "number": "14",
+          "latin": "Si enim credimus quod Iesus mortuus est, et resurrexit: ita et Deus eos qui dormierunt per Iesum, adducet cum eo.",
+          "english": "For if we believe that Jesus died and rose again, even so God will bring with Him those who have fallen asleep through Jesus."
+        },
+        {
+          "number": "15",
+          "latin": "Hoc enim vobis dicimus in verbo Domini, quia nos, qui vivimus, qui residui sumus in adventum Domini, non praeveniemus eos qui dormierunt.",
+          "english": "For this we tell you by the word of the Lord: that we who are alive and remain until the coming of the Lord will not precede those who have fallen asleep."
+        },
+        {
+          "number": "16",
+          "latin": "Quia ipse Dominus in iussu, et in voce archangeli, et in tuba Dei descendet de caelo: et mortui, qui in Christo sunt, resurgent primi.",
+          "english": "For the Lord Himself, with a command, with the voice of the archangel and with the trumpet of God, will descend from the sky: and the dead who are in Christ will rise first."
+        },
+        {
+          "number": "17",
+          "latin": "Deinde nos, qui vivimus, qui residui sumus, simul rapiemur cum illis in nubibus obviam Christo in aera: et sic semper erimus cum Domino.",
+          "english": "Then we who are alive and remain will be caught up together with them in the clouds to meet Christ in the air: and so we will always be with the Lord."
+        },
+        {
+          "number": "18",
+          "latin": "Itaque consolamini invicem in verbis istis.",
+          "english": "Therefore, comfort one another with these words."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "De temporibus autem et momentis, fratres, non est necesse scribere vobis.",
+          "english": "Now concerning the times and moments, brothers and sisters, there is no need to write to you about it."
+        },
+        {
+          "number": 2,
+          "latin": "Ipsi enim diligenter scitis, quia dies Domini sicut fur in nocte ita veniet.",
+          "english": "For you yourselves know perfectly well that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "number": 3,
+          "latin": "Quando enim dixerint: Pax et securitas: tunc repentinus illis superveniet interitus, sicut dolores in utero habentis, et non effugient.",
+          "english": "When they say “Peace and safety,” then sudden destruction will come upon them, as labor pains come upon a woman giving birth, and they will not escape."
+        },
+        {
+          "number": 4,
+          "latin": "Vos autem, fratres, non estis in tenebris, ut vos illa dies tamquam fur comprehendat:",
+          "english": "But you, brothers and sisters, are not in darkness, that this day should overtake you as a thief."
+        },
+        {
+          "number": 5,
+          "latin": "omnes enim vos filii lucis estis et filii diei: non sumus noctis neque tenebrarum.",
+          "english": "For you are all children of light and children of the day; we are not of the night nor of darkness."
+        },
+        {
+          "number": 6,
+          "latin": "Igitur non dormiamus sicut ceteri, sed vigilemus et sobrii simus.",
+          "english": "Therefore let us not sleep, as the rest do, but let us keep awake and be sober."
+        },
+        {
+          "number": 7,
+          "latin": "Qui enim dormiunt, nocte dormiunt, et qui ebrii sunt, nocte ebrii sunt.",
+          "english": "For those who sleep, sleep at night, and those who get drunk are drunk at night."
+        },
+        {
+          "number": 8,
+          "latin": "Nos autem, qui diei sumus, sobrii simus, induti loricam fidei et caritatis, et galeam spem salutis:",
+          "english": "But since we belong to the day, let us be sober, putting on the breastplate of faith and love, and the helmet of the hope of salvation."
+        },
+        {
+          "number": 9,
+          "latin": "quoniam non posuit nos Deus in iram, sed in acquisitionem salutis per Dominum nostrum Jesum Christum,",
+          "english": "For God has not destined us for wrath, but to obtain salvation through our Lord Jesus Christ,"
+        },
+        {
+          "number": 10,
+          "latin": "qui mortuus est pro nobis: ut, sive vigilemus, sive dormiamus, simul cum illo vivemus.",
+          "english": "who died for us, so that whether we are awake or asleep, we may live together with him."
+        },
+        {
+          "number": 11,
+          "latin": "Propter quod consolamini invicem, et aedificate invicem, sicut et facitis.",
+          "english": "Therefore encourage one another and build one another up, as indeed you are doing."
+        },
+        {
+          "number": 12,
+          "latin": "Rogamus autem vos, fratres, ut sciatis eos qui laborant in vobis, et praesunt vobis in Domino, et monent vos:",
+          "english": "We ask you, brothers and sisters, to respect those who labor among you and are over you in the Lord and admonish you,"
+        },
+        {
+          "number": 13,
+          "latin": "ut habeatis illos abundantius in caritate propter opus illorum. Pacem habete cum eis.",
+          "english": "and to esteem them very highly in love because of their work. Be at peace among yourselves."
+        },
+        {
+          "number": 14,
+          "latin": "Rogamus autem vos, fratres, corripite inquietos, consolamini pusillanimes, suscipite infirmos, patientes estote ad omnes.",
+          "english": "And we exhort you, brothers and sisters, admonish the idle, encourage the fainthearted, help the weak, be patient with all."
+        },
+        {
+          "number": 15,
+          "latin": "Videte ne quis malum pro malo alicui reddat: sed semper quod bonum est, sectamini in invicem et in omnes.",
+          "english": "See that no one repays evil for evil to anyone, but always pursue what is good, both for yourselves and for all."
+        },
+        {
+          "number": 16,
+          "latin": "Semper gaudete.",
+          "english": "Rejoice always."
+        },
+        {
+          "number": 17,
+          "latin": "Sine intermissione orate.",
+          "english": "Pray without ceasing."
+        },
+        {
+          "number": 18,
+          "latin": "In omnibus gratias agentes: haec est enim voluntas Dei in Christo Jesu in vobis.",
+          "english": "In everything give thanks; for this is God’s will for you in Christ Jesus."
+        },
+        {
+          "number": 19,
+          "latin": "Spiritum nolite extinguere.",
+          "english": "Do not quench the Spirit."
+        },
+        {
+          "number": 20,
+          "latin": "Prophetias nolite spernere:",
+          "english": "Do not despise prophecies,"
+        },
+        {
+          "number": 21,
+          "latin": "omnia autem probate: quod bonum est tenete.",
+          "english": "but test everything; hold fast to what is good."
+        },
+        {
+          "number": 22,
+          "latin": "Ab omni specie mala abstinete vos.",
+          "english": "Abstain from every form of evil."
+        },
+        {
+          "number": 23,
+          "latin": "Ipse autem Deus pacis sanctificet vos per omnia: ut integer spiritus vester, et anima, et corpus sine querela in adventu Domini nostri Jesu Christi conservetur.",
+          "english": "May the God of peace himself sanctify you completely; and may your spirit and soul and body be kept sound and blameless at the coming of our Lord Jesus Christ."
+        },
+        {
+          "number": 24,
+          "latin": "Fidelis est qui vocat vos: qui etiam faciet.",
+          "english": "He who calls you is faithful; he will surely do it."
+        },
+        {
+          "number": 25,
+          "latin": "Fratres, orate pro nobis.",
+          "english": "Brothers and sisters, pray for us."
+        },
+        {
+          "number": 26,
+          "latin": "Salutate fratres omnes in osculo sancto.",
+          "english": "Greet all the brothers and sisters with a holy kiss."
+        },
+        {
+          "number": 27,
+          "latin": "Adiuro vos per Dominum, ut legatur epistola haec omnibus sanctis fratribus.",
+          "english": "I adjure you by the Lord to have this letter read to all the holy brothers and sisters."
+        },
+        {
+          "number": 28,
+          "latin": "Gratia Domini nostri Jesu Christi vobiscum. Amen.",
+          "english": "The grace of our Lord Jesus Christ be with you. Amen."
+        }
+      ]
+    }
+  ]
+}

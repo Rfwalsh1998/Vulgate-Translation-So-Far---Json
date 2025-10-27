@@ -1,0 +1,560 @@
+{
+  "name": "1 Peter",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Petrus, Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiæ, Cappadociæ, Asiæ, et Bithyniæ,",
+          "english": "Peter, an Apostle of Jesus Christ, writes this letter to God's chosen ones—all those who live as spiritual exiles, scattered throughout the regions of Pontus, Galatia, Cappadocia, Asia, and Bithynia."
+        },
+        {
+          "number": "2",
+          "latin": "secundum præscientiam Dei Patris, in sanctificationem Spiritus, in obedientiam, et aspersionem sanguinis Jesu Christi: gratia vobis, et pax multiplicetur.",
+          "english": "These chosen ones are known by the foreknowledge of God the Father, and they are set apart by the Holy Spirit for a life of obedience, purified by the sprinkling of the Blood of Jesus Christ. May grace and peace be multiplied abundantly in you."
+        },
+        {
+          "number": "3",
+          "latin": "Benedictus Deus et Pater Domini nostri Jesu Christi, qui secundum magnam misericordiam suam regeneravit nos in spem vivam, per resurrectionem Jesu Christi ex mortuis,",
+          "english": "Blessed be God, the Father of our Lord Jesus Christ! Because of His immense mercy, He has given us new birth, so that we now live in a true and living hope, all through the resurrection of Jesus Christ from the dead."
+        },
+        {
+          "number": "4",
+          "latin": "in hæreditatem incorruptibilem, et incontaminatam, et immarcescibilem, conservatam in cælis in vobis,",
+          "english": "This new birth leads to an inheritance that can never decay, spoil, or fade away—an inheritance kept safe in heaven for all of you."
+        },
+        {
+          "number": "5",
+          "latin": "qui in virtute Dei custodimini per fidem in salutem, paratam revelari in tempore novissimo.",
+          "english": "Through your faith, you are being guarded by the power of God for a salvation that is ready to be fully revealed in the last days of this age."
+        },
+        {
+          "number": "6",
+          "latin": "In quo exsultabitis, modicum nunc si oportet contristari in variis tentationibus:",
+          "english": "Because of this hope, you will greatly rejoice, even though for a short time—if it is necessary—you may have to suffer various trials and tests."
+        },
+        {
+          "number": "7",
+          "latin": "ut probatum vestræ fidei multo pretiosius sit auro quod perit, per ignem probato, in inventionem laudis, et gloriæ, et honoris in revelatione Jesu Christi:",
+          "english": "This happens so that the genuineness of your faith—which is far more precious than perishable gold, even gold refined by fire—may be found to result in praise, glory, and honor when Jesus Christ is fully revealed."
+        },
+        {
+          "number": "8",
+          "latin": "quem cum non videritis, diligitis: in quem nunc non videntes creditis: credentes autem exsultabitis lætitia inenarrabili, et glorificata:",
+          "english": "Even though you have never seen Him, you love Him. And even though you do not see Him now, you believe in Him. And because you believe, you rejoice with an inexpressible joy that is already filled with glory."
+        },
+        {
+          "number": "9",
+          "latin": "reportantes finem fidei vestræ, salutem animarum.",
+          "english": "You are already receiving the ultimate goal of your faith: the salvation of your souls."
+        },
+        {
+          "number": "10",
+          "latin": "De qua salute exquisierunt, atque scrutati sunt prophetæ, qui de futura gratia in vobis prophetaverunt:",
+          "english": "Concerning this very salvation, the prophets of old meticulously searched and diligently inquired. They were the ones who prophesied about the grace that would eventually come to you."
+        },
+        {
+          "number": "11",
+          "latin": "scrutantes in quod vel quale tempus significaret in eis Spiritus Christi, prænuntians eas quæ in Christo sunt passiones, et posteriores glorias:",
+          "english": "They were earnestly seeking to understand what specific time or circumstances the Spirit of Christ, who was within them, was indicating. The Spirit had foretold Christ's sufferings and the glories that would follow."
+        },
+        {
+          "number": "12",
+          "latin": "quibus revelatum est quia non sibi ipsis, vobis autem ministrabant ea quæ nunc nuntiata sunt vobis per eos qui evangelizaverunt vobis Spiritu Sancto misso de cælo, in quæ desiderant Angeli prospicere.",
+          "english": "It was revealed to those prophets that they were not serving themselves, but rather serving you, when they ministered these truths. Now, these same truths have been announced to you through those who preached the Gospel to you, empowered by the Holy Spirit sent from God's heavenly domain. These are truths so profound that even the angels long to look into them."
+        },
+        {
+          "number": "13",
+          "latin": "Propter quod succincti lumbos mentis vestræ, sobrii estote, perfecte sperantes in eam quæ offertur vobis gratia in revelatione Jesu Christi,",
+          "english": "Therefore, prepare your minds for action by mentally girding yourselves, and be alert and self-controlled. Place your complete hope in the grace that will be brought to you at the full revelation of Jesus Christ."
+        },
+        {
+          "number": "14",
+          "latin": "quasi filii obedientiæ, non configurati prioribus ignorantiæ vestræ desideriis:",
+          "english": "As truly obedient children, do not conform yourselves to the evil desires that you once had when you lived in ignorance of God's ways."
+        },
+        {
+          "number": "15",
+          "latin": "sed secundum eum qui vocavit vos Sanctum, et ipsi sancti in omni conversatione sitis:",
+          "english": "Instead, just as the One who called you is holy, you yourselves must also be holy in all aspects of your conduct and way of life."
+        },
+        {
+          "number": "16",
+          "latin": "quoniam scriptum est: Sancti eritis, quoniam ego sanctus sum.",
+          "english": "For the Scripture says: 'You shall be holy, because I am holy.'"
+        },
+        {
+          "number": "17",
+          "latin": "Et si Patrem invocatis eum, qui sine acceptione personarum judicat secundum uniuscujusque opus, in timore incolatus vestri tempore conversamini.",
+          "english": "And if you call upon Him as Father—the One who judges each person's actions impartially, without favoritism—then live your lives in reverent fear during this time of your earthly pilgrimage."
+        },
+        {
+          "number": "18",
+          "latin": "scientes quod non corruptibilibus auro vel argento redempti estis de vana vestra conversatione paternae traditionis:",
+          "english": "For you know very well that you were not set free from your futile way of life, inherited from your ancestors, by anything perishable like silver or gold."
+        },
+        {
+          "number": "19",
+          "latin": "sed pretioso sanguine quasi agni immaculati et inviolati Jesu Christi:",
+          "english": "Instead, you were set free by the precious Blood of Christ, like that of a lamb without blemish or defect."
+        },
+        {
+          "number": "20",
+          "latin": "præcogniti quidem ante constitutionem mundi, manifestati autem novissimis temporibus propter vos,",
+          "english": "He was known by God the Father before the creation of the world, but He was fully revealed in these last times for your sake."
+        },
+        {
+          "number": "21",
+          "latin": "qui per ipsum fideles estis in Deo, qui suscitavit eum a mortuis, et dedit ei gloriam, ut fides vestra et spes esset in Deo.",
+          "english": "Through Christ, you are believers in God, who raised Him from the dead and gave Him glory. This was done so that your faith and hope might be securely placed in God."
+        },
+        {
+          "number": "22",
+          "latin": "Animas vestras castificantes in obedientia caritatis, in fraternitatis amore non ficto, ex corde diligite invicem attente:",
+          "english": "Now that you have purified your souls through obedience to the truth, leading to sincere fraternal love, you must love one another intensely and with a pure heart."
+        },
+        {
+          "number": "23",
+          "latin": "renati non ex semine corruptibili, sed incorruptibili per verbum Dei vivi et permanentis in æternum.",
+          "english": "You have been born again, not from perishable seed, but from imperishable seed, through the living and eternally enduring Word of God."
+        },
+        {
+          "number": "24",
+          "latin": "Quia omnis caro ut fænum: et omnis gloria ejus tamquam flos fæni: exaruit fænum, et flos decidit.",
+          "english": "For 'All human life is like grass, and all its glory is like the flower of the field. The grass withers, and the flower falls away.'"
+        },
+        {
+          "number": "25",
+          "latin": "Verbum autem Domini manet in æternum. Hoc est autem verbum quod evangelizatum est in vos.",
+          "english": "But the Word of the Lord remains forever.' This is the very Word that was proclaimed to you through the Gospel."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Deponentes igitur omnem malitiam, et omnem dolum, et simulationes, et invidias, et omnes detractiones,",
+          "english": "Therefore, you must put away all malice, all deceit, all hypocrisy, all envy, and all forms of slander."
+        },
+        {
+          "number": 2,
+          "latin": "sicut modo geniti infantes, rationabile, sine dolo lac concupiscite: ut in eo crescatis in salutem:",
+          "english": "Like spiritual newborns, you must truly desire the pure, unadulterated spiritual milk of God's truth, so that by it you may grow in the Lord and attain salvation."
+        },
+        {
+          "number": 3,
+          "latin": "si tamen gustastis quoniam dulcis est Dominus.",
+          "english": "Do this especially if you have already experienced how good the Lord is."
+        },
+        {
+          "number": 4,
+          "latin": "Ad quem accedentes lapidem vivum, ab hominibus quidem reprobatum, a Deo autem electum, et honorificatum.",
+          "english": "Come to Jesus, the Living Stone. He was rejected by men, yet God chose Him and honored Him greatly."
+        },
+        {
+          "number": 5,
+          "latin": "Et ipsi tamquam lapides vivi superaedificamini, domus spiritualis, sacerdotium sanctum, offerre spirituales hostias, acceptabiles Deo per Iesum Christum.",
+          "english": "You yourselves are also like living stones, being built into a spiritual house. This house is a holy priesthood, whose purpose is to offer spiritual sacrifices that are acceptable to God through Jesus Christ Our Lord."
+        },
+        {
+          "number": 6,
+          "latin": "Propter quod continet Scriptura: Ecce pono in Sion lapidem summum angularem, electum, pretiosum: et qui crediderit in eum, non confundetur.",
+          "english": "For this reason, the Scripture states: 'Behold, I am placing in Zion a chief cornerstone, chosen and precious. Whoever believes in Him will never be put to shame.'"
+        },
+        {
+          "number": 7,
+          "latin": "Vobis igitur honor, qui creditis: non credentibus autem lapis, quem reprobaverunt aedificantes, hic factus est in caput anguli,",
+          "english": "Therefore, honor belongs to you who believe. But for those who do not believe, the stone that the builders rejected has become the very head of the corner—the most important stone."
+        },
+        {
+          "number": 8,
+          "latin": "et lapis offensionis, et petra scandali his qui offendunt verbo, nec credunt in quo et positi sunt.",
+          "english": "To unbelievers, He is a stumbling stone and a rock that causes them to fall. They stumble because they disobey the word of God by not believing in Him, and this is the purpose for which they were appointed."
+        },
+        {
+          "number": 9,
+          "latin": "Vos autem genus electum, regale sacerdotium, gens sancta, populus acquisitionis, ut virtutes annuntietis eius qui de tenebris vos vocavit in admirabile lumen suum:",
+          "english": "But you are a chosen race, a royal priesthood, a holy nation, a people belonging to God Himself. You are chosen so that you may proclaim the wonderful works of Him who called you out of the darkness of sin and into His marvelous light."
+        },
+        {
+          "number": 10,
+          "latin": "qui aliquando non populus, nunc autem populus Dei: qui non consecuti misericordiam, nunc autem misericordiam consecuti.",
+          "english": "In the past, you were not God's people, but now you are the people of God. Once you had not received mercy, but now you have received God's mercy."
+        },
+        {
+          "number": 11,
+          "latin": "Carissimi, obsecro vos tamquam advenas et peregrinos, abstinere vos a carnalibus desideriis, quae militant adversus animam,",
+          "english": "Beloved, I urge you as temporary residents and sojourners in this world to abstain from fleshly desires. These desires war against your very soul."
+        },
+        {
+          "number": 12,
+          "latin": "conversationem vestram inter gentes habentes bonam: ut in eo quod detrahunt vobis tamquam malefactoribus, ex bonis operibus vos considerantes, glorificent Deum in die visitationis.",
+          "english": "Maintain excellent conduct among the Gentiles. Then, even when they falsely accuse you as evildoers, they will observe your good works. In doing so, they will give glory to God when He comes to judge the world."
+        },
+        {
+          "number": 13,
+          "latin": "Subiecti estote omni humanae creaturae propter Deum: sive regi quasi praecellenti:",
+          "english": "Be subject to every human authority for the Lord's sake. This includes the king as the supreme authority."
+        },
+        {
+          "number": 14,
+          "latin": "sive ducibus tamquam ab eo missis ad vindictam malefactorum, laudem vero bonorum:",
+          "english": "It also includes governors who are sent by the king to punish evildoers and to praise those who do good."
+        },
+        {
+          "number": 15,
+          "latin": "quia sic est voluntas Dei, ut benefacientes obmutescere faciatis imprudentium hominum ignorantiam:",
+          "english": "For it is God's will that by doing good, you silence the ignorant accusations of foolish people."
+        },
+        {
+          "number": 16,
+          "latin": "quasi liberi, et non quasi velamen habentes malitiae libertatem: sed sicut servi Dei.",
+          "english": "Live as free people, but do not use your freedom as a cloak to conceal evil. Instead, live as servants of God."
+        },
+        {
+          "number": 17,
+          "latin": "Omnes honorate: fraternitatem diligite: Deum timete: regem honorificate.",
+          "english": "Honor everyone. Love the brotherhood of believers. Fear God above all. Honor the king."
+        },
+        {
+          "number": 18,
+          "latin": "Servi, subditi estote in omni timore dominis, non tantum bonis et modestis, sed etiam dyscolis.",
+          "english": "Servants, be subject to your masters with all reverence. This applies not only to those who are good and gentle, but also to those who are difficult or harsh."
+        },
+        {
+          "number": 19,
+          "latin": "Haec est enim gratia, si propter Dei conscientiam sustinet quis tristitias, patiens iniuste.",
+          "english": "For this is a gracious act in the eyes of God: if, because of your devotion and conscience toward God, you endure sorrows, even when suffering unjustly."
+        },
+        {
+          "number": 20,
+          "latin": "Quae enim est gloria, si peccantes et colaphizati suffertis? sed si benefacientes et patientes sustinetis, haec est gratia apud Deum.",
+          "english": "What glory is there if you endure a beating when you have sinned? But if you endure patiently while doing good, this is truly a gracious act in the sight of God."
+        },
+        {
+          "number": 21,
+          "latin": "In hoc enim vocati estis: quia et Christus passus est pro nobis, vobis relinquens exemplum ut sequamini vestigia eius:",
+          "english": "For you were called to this very purpose: because Christ also suffered for us, leaving you an example so that you might follow in His footsteps."
+        },
+        {
+          "number": 22,
+          "latin": "qui peccatum non fecit, nec inventus est dolus in ore eius:",
+          "english": "He committed no sin, and no deceit was ever found in His mouth."
+        },
+        {
+          "number": 23,
+          "latin": "qui cum malediceretur, non maledicebat: cum pateretur, non comminabatur: tradebat autem iudicanti se iniuste:",
+          "english": "When He was reviled with insults, He did not return insults. When He suffered, He did not threaten vengeance. Instead, He entrusted Himself to Him who judges righteously."
+        },
+        {
+          "number": 24,
+          "latin": "qui peccata nostra ipse pertulit in corpore suo super lignum: ut peccatis mortui, iustitiae vivamus: cuius livore sanati estis.",
+          "english": "He Himself carried our sins in His own body on the wood of the Cross. This was so that we, having died to the power of sin, might live for righteousness. By His wounds, you have been healed of your spiritual maladies."
+        },
+        {
+          "number": 25,
+          "latin": "Eratis enim sicut oves errantes, sed conversi estis nunc ad pastorem et episcopum animarum vestrarum.",
+          "english": "For you were like sheep who had gone astray, but now you have returned to the Shepherd and Guardian of your souls."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Similiter mulieres subditæ sint viris suis: ut et si qui non credunt verbo, sine verbo lucrifaciatis eos per vestram conversationem castam in timore:",
+          "english": "Likewise, wives, be submissive to your own husbands, so that even if some of them are disobedient to the Gospel, you may win them over not by preaching, but by your chaste conduct, lived in proper reverence and respect for God."
+        },
+        {
+          "number": "2",
+          "latin": "considerantes in castitate, et casta conversatione cum timore.",
+          "english": "They will observe your pure, chaste, and respectful behavior."
+        },
+        {
+          "number": "3",
+          "latin": "Quarum non sit extrinsecus capillaturæ, aut aurorum compositio, aut vestimentorum cultus,",
+          "english": "Your adornment should not be merely an outward display of elaborate hairstyles, or of gold jewelry, or of dressing in fashionable clothing."
+        },
+        {
+          "number": "4",
+          "latin": "sed qui absconditus est cordis homo in incorruptibilitate quieti, et modesti spiritus, qui est in conspectu Dei dives.",
+          "english": "Rather, let your beauty be the hidden inner person of the heart, manifested by the imperishable quality of a gentle and quiet spirit, which is very precious and valuable in the sight of God."
+        },
+        {
+          "number": "5",
+          "latin": "Sic enim aliquando sanctæ mulieres ornabant se, quæ sperabant in Deo, subjectæ viris suis:",
+          "english": "For this is how the holy women of old, who put their hope in God, used to adorn themselves: by being submissive to their own husbands."
+        },
+        {
+          "number": "6",
+          "latin": "sicut Sara obediebat Abrahæ, dominum illum vocans: cujus estis filiæ bene agentes, et non timentes ullam perturbationem.",
+          "english": "Just as Sarah obeyed Abraham, calling him 'lord' as a sign of respect. You are her true spiritual daughters if you do good and are not intimidated by any kind of fear that might arise from your good actions."
+        },
+        {
+          "number": "7",
+          "latin": "Viri similiter cohabitantes cum eis secundum scientiam, quasi infirmori vasculo muliebri impartientes honorem, tamquam et cohæredibus gratiæ vitæ: ut non impediantur orationes vestræ.",
+          "english": "Husbands, likewise, live with your wives in an understanding way, showing honor to the female, considering her the physically weaker vessel. Also, regard them as co-heirs with you of the grace of life, so that your prayers are not hindered."
+        },
+        {
+          "number": "8",
+          "latin": "In fine autem omnes unanimes, compatientes, fraternitatis amatores, misericordes, modesti, humiles:",
+          "english": "Finally, all of you should be of one mind and purpose, sympathetic to one another, loving as brothers and sisters, compassionate, humble in spirit."
+        },
+        {
+          "number": "9",
+          "latin": "non reddentes malum pro malo, nec maledictum pro maledicto, sed e contrario benedicentes: quia in hoc vocati estis, ut benedictionem hereditate possideatis.",
+          "english": "Do not return evil for evil, nor insult for insult. Instead, return a blessing; for this is why God has called you: to inherit a blessing from Him."
+        },
+        {
+          "number": "10",
+          "latin": "Qui enim vult vitam amare, et dies bonos videre, coërceat linguam suam a malo, et labia ejus ne loquantur dolum.",
+          "english": "For he who desires to love life and to see good days must keep his tongue from speaking evil, and his lips from speaking deceit."
+        },
+        {
+          "number": "11",
+          "latin": "Declinet a malo, et faciat bonum: inquirat pacem, et sequatur eam.",
+          "english": "He must turn away from evil and do good; he must seek peace and actively pursue it."
+        },
+        {
+          "number": "12",
+          "latin": "Quia oculi Domini super justos, et aures ejus in preces eorum: vultus autem Domini super facientes mala.",
+          "english": "For the eyes of the Lord are on the righteous, and His ears are open to their prayers. But the face of the Lord is set against those who do evil."
+        },
+        {
+          "number": "13",
+          "latin": "Et quis est qui vobis noceat, si boni fueritis æmulatores?",
+          "english": "And who will harm you if you are zealous for what is good and eager to do it?"
+        },
+        {
+          "number": "14",
+          "latin": "Sed et si quid patimini propter justitiam, beati. Timorem autem eorum ne timueritis, et non conturbemini.",
+          "english": "But even if you suffer for the sake of righteousness, you are blessed. Do not fear the threats of those who oppose you, and do not be troubled by them."
+        },
+        {
+          "number": "15",
+          "latin": "Dominum autem Christum sanctificate in cordibus vestris, parati semper ad satisfactionem omni poscenti vos rationem de ea, quæ in vobis est, spe:",
+          "english": "Instead, sanctify the Lord Christ in your hearts as holy. Always be ready to give an adequate explanation to anyone who asks you for the reason for the hope that is within you."
+        },
+        {
+          "number": "16",
+          "latin": "sed cum modestia, et timore, conscientiam habentes bonam: ut in eo, quod detrahunt vobis, confundantur qui calumniantur vestram bonam in Christo conversationem.",
+          "english": "But do this with gentleness and reverence, maintaining a good conscience. Then, in the very matter that they speak evil of you, those who falsely accuse your good conduct in Christ will be shamed."
+        },
+        {
+          "number": "17",
+          "latin": "Melius est enim benefacientes pati, si voluntas Dei ita vult, quam malefacientes.",
+          "english": "For it is better to suffer for doing good, if that is God's will, than to suffer for doing evil."
+        },
+        {
+          "number": "18",
+          "latin": "Quia et Christus semel pro peccatis nostris mortuus est, justus pro injustis, ut nos offerret Deo, mortificatus quidem carne, vivificatus autem spiritu.",
+          "english": "For Christ also suffered once for our sins, the just for the unjust, that He might bring us to God. He was put to death in the flesh, but brought to life by the Holy Spirit."
+        },
+        {
+          "number": "19",
+          "latin": "In quo et his, qui in carcere erant, spiritibus veniens prædicavit,",
+          "english": "In this same Holy Spirit, He also went and proclaimed His victory to the spirits who were being held in the realm of the dead."
+        },
+        {
+          "number": "20",
+          "latin": "qui increduli fuerant aliquando, quando expectabant Dei patientiam in diebus Noë, cum fabricaretur arca: in qua pauci, id est, octo animæ salvæ factæ sunt per aquam.",
+          "english": "These were the ones who were disobedient long ago, when God's patience waited during the days of Noah, as the ark was being built. In that ark, a few—that is, eight souls—were saved through water."
+        },
+        {
+          "number": "21",
+          "latin": "Quod et vos nunc similis formæ salvos facit baptisma: non carnis depositio sordium, sed conscientiæ bonæ interrogatio in Deum per resurrectionem Jesu Christi.",
+          "english": "Baptism, which is a corresponding sign to that event, now saves you as well. It is not merely the removal of dirt from the body, but rather the appeal or commitment of a good conscience to God, made possible through the Resurrection of Jesus Christ."
+        },
+        {
+          "number": "22",
+          "latin": "Qui est in dextera Dei, deglutiens mortem ut vitæ æternæ hæredes efficeremur: profectus in cælum, subjectis sibi Angelis, et Potestatibus, et Virtutibus.",
+          "english": "He is now at the right hand of God, having completely swallowed death so that we might be made heirs of eternal life. He has ascended into the created universe, to a place beyond our sight, and all angels, authorities, and powers have been made subject to Him."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Christo igitur passo in carne, et vos eadem cogitatione armamini: quia qui passus est in carne, desiit a peccatis:",
+          "english": "Since Christ suffered for you in the flesh, you also should arm yourselves with the same mindset. This is the mindset that whoever suffers in the flesh—as Christ did—is finished with the life of sin."
+        },
+        {
+          "number": "2",
+          "latin": "ut jam non hominum desideriis, sed voluntate Dei, quod reliquum est in carne vivatis temporis.",
+          "english": "This means that for the rest of your time in this bodily life, you should no longer live according to worldly human desires, but according to the will and commandments of God."
+        },
+        {
+          "number": "3",
+          "latin": "Sufficit enim praeteritum tempus ad voluntatem gentilium consummandam, qui ambulaverunt in luxuriis, desideriis, ebrietatibus, comessationibus, potationibus, et illicitis idolorum cultibus.",
+          "english": "The time you have already spent living according to the ways of non-believers is enough. That past life was filled with excessive pleasures, sinful desires, habitual drunkenness, wild parties, public carousing, and the forbidden worship of idols."
+        },
+        {
+          "number": "4",
+          "latin": "In quo admirantur non concurrere vos in eamdem luxuriae confusionem, blasphemantes.",
+          "english": "Because you no longer join them in that same flood of debauchery and sin, they are surprised. And because they are surprised, they speak evil of you and blaspheme God."
+        },
+        {
+          "number": "5",
+          "latin": "qui reddent rationem ei qui paratus est judicare vivos et mortuos.",
+          "english": "But those who blaspheme you will have to give an account to the Lord. He is prepared and ready to judge all people, both those who are still alive and those who have died."
+        },
+        {
+          "number": "6",
+          "latin": "Propter hoc enim et mortuis evangelizatum est: ut judicentur quidem secundum homines in carne, spiritu autem vivant secundum Deum.",
+          "english": "For this very purpose, the Good News was also preached to those who are now dead in their bodies. The purpose was that even though they might be judged in their human nature by men —meaning they suffered physical death—they might still live in their spirit according to the eternal life given by God."
+        },
+        {
+          "number": "7",
+          "latin": "Omnium autem finis appropinquavit. Estote igitur prudentes, et vigilate in orationibus:",
+          "english": "Now, the culmination and end of all things is drawing near. Therefore, be clear-headed and exercise self-control, and be watchful and diligent in your prayers."
+        },
+        {
+          "number": "8",
+          "latin": "ante omnia vero mutuam inter vos caritatem habentes continuam: quia caritas operit multitudinem peccatorum.",
+          "english": "But above all these things, maintain a fervent and constant divine charity for one another. This is because divine charity—supernatural love—covers a multitude of sins."
+        },
+        {
+          "number": "9",
+          "latin": "Hospitalitatem mutuo sine murmuratione praebentes.",
+          "english": "Practice hospitality to one another without grumbling or complaining about the inconvenience."
+        },
+        {
+          "number": "10",
+          "latin": "Unusquisque sicut accepit gratiam, in alterutrum illam administrantes: sicut boni dispensatores multiformis gratiae Dei.",
+          "english": "Each person, according to the specific divine gift of grace he has received, should use that grace to serve one another. Act as good and faithful stewards of God's varied and multifaceted grace."
+        },
+        {
+          "number": "11",
+          "latin": "Si quis loquitur, quasi sermones Dei: si quis ministrat, quasi ex virtute, quam administrat Deus: ut in omnibus honorificetur Deus per Jesum Christum, cui est gloria et imperium in saecula saeculorum. Amen.",
+          "english": "If anyone speaks to the community, he should speak as if delivering the very words of God Himself. If anyone serves, he should serve with the strength and spiritual power that God Himself supplies. This is all so that in every action, God may be glorified through Jesus Christ. To Him alone belongs all glory and dominion for all ages and eternity. Amen."
+        },
+        {
+          "number": "12",
+          "latin": "Carissimi, nolite peregrinari in fervore qui ad tentationem vobis fit, quasi novi aliquid vobis contingat:",
+          "english": "My dearly beloved, do not be surprised or consider it something strange when you experience the fiery trials that come to test your faith. Do not act as if something utterly new or unexpected is happening to you."
+        },
+        {
+          "number": "13",
+          "latin": "sed communicantes Christi passionibus gaudete, ut in revelatione gloriae ejus gaudeatis exsultantes.",
+          "english": "Instead, find joy in the fact that you share in the sufferings of Christ. This is so that when His glory is finally revealed, you may also rejoice with exceeding gladness and triumph."
+        },
+        {
+          "number": "14",
+          "latin": "Si exprobratur vobis in nomine Christi, beati eritis: quoniam qui est ex gloria, et est Dei Spiritus, super vos requiescit.",
+          "english": "If you are insulted or reproached for the sake of the name of Christ, then you are truly blessed. For the Spirit of glory, which is the very Spirit of God, rests upon you and dwells within you."
+        },
+        {
+          "number": "15",
+          "latin": "Nemo autem vestrum patiatur quasi homicida, aut fur, aut maledicus, aut alienorum appetitor:",
+          "english": "However, let none of you suffer justly as a murderer, or a thief, or an evil-doer, or as a busybody interfering in other people's affairs."
+        },
+        {
+          "number": "16",
+          "latin": "si autem ut Christianus, non erubescat: glorificet autem Deum in isto nomine.",
+          "english": "But if someone suffers for being a Christian, he should not be ashamed of that name. Instead, he should glorify God because he bears that holy name."
+        },
+        {
+          "number": "17",
+          "latin": "Quoniam tempus est ut judicium incipiat a domo Dei: si autem primum a nobis, qui finis eorum qui non credunt Dei Evangelio?",
+          "english": "For the appointed time has now come for judgment to begin with the household of God—meaning, with the Church and its members. And if judgment begins first with us, what will be the ultimate end of those who do not believe and obey the Good News of God?"
+        },
+        {
+          "number": "18",
+          "latin": "Et si justus vix salvatur, impius et peccator ubi parebit?",
+          "english": "And if even the righteous person is saved only with great difficulty and by God’s immense mercy, where will the ungodly and the persistent sinner find a place to stand on the Day of Judgment?"
+        },
+        {
+          "number": "19",
+          "latin": "Itaque et hi qui patiuntur secundum voluntatem Dei, fideli creatori commendent animas suas in benefactis.",
+          "english": "Therefore, let those who suffer according to the providential will of God entrust and commit their souls to Him, their faithful Creator, while continuing to do good and holy works."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Seniores ergo qui in vobis sunt, obsecro ego consenior, et testis Christi passionum: qui et ejus, quæ in futuro revelanda est, gloriæ communicator:",
+          "english": "Therefore, I, who am also an elder, appeal to the elders who are among you—\nI am a witness of Christ’s sufferings,\nand I am a sharer in the glory that will be revealed in the future."
+        },
+        {
+          "number": "2",
+          "latin": "Pascite qui in vobis est gregem Dei, providentes non coacte, sed spontanee secundum Deum, neque turpis lucri gratia, sed voluntarie:",
+          "english": "Shepherd the flock of God that is entrusted to you,\noverseeing them not because you are forced to, but willingly, just as God desires.\nDo not do it for shameful financial gain, but with eager willingness."
+        },
+        {
+          "number": "3",
+          "latin": "neque ut dominantes in cleris, sed forma facti gregis ex animo.",
+          "english": "Do not act as if you are domineering over the people of God,\nbut rather become genuine examples to the flock, from the heart."
+        },
+        {
+          "number": "4",
+          "latin": "Et cum apparuerit princeps pastorum, percipietis immarcescibilem gloriæ coronam.",
+          "english": "And when Christ, the Chief Shepherd, appears,\nyou will certainly receive the unfading crown of glory."
+        },
+        {
+          "number": "5",
+          "latin": "Similiter adolescentes subditi estote senioribus. Omnes autem invicem humilitatem insinuate, quia Deus superbis resistit, humilibus autem dat gratiam.",
+          "english": "In the same way, you younger ones, be subject to the elders.\nAnd all of you, clothe yourselves with humility towards one another,\nbecause God resists the proud, but He gives His grace to the humble."
+        },
+        {
+          "number": "6",
+          "latin": "Humiliamini igitur sub potenti manu Dei, ut vos exaltet in tempore visitationis:",
+          "english": "Humble yourselves, therefore, under the mighty hand of God,\nso that He may exalt you when His time of visitation comes."
+        },
+        {
+          "number": "7",
+          "latin": "omnem sollicitudinem vestram projicientes in eum, quoniam ipsi cura est de vobis.",
+          "english": "Cast all your anxiety and worries upon Him,\nbecause He cares for you personally."
+        },
+        {
+          "number": "8",
+          "latin": "Sobrii estote, et vigilate: quia adversarius vester diabolus tamquam leo rugiens circuit, quærens quem devoret.",
+          "english": "Be sober and keep watch:\nbecause your adversary, the devil, prowls around like a roaring lion,\nseeking someone to devour."
+        },
+        {
+          "number": "9",
+          "latin": "Cui resistite fortes in fide: scientes eadem passionum, quæ in orbe terrarum sunt, ei quæ in fratribus vestris est, consummari.",
+          "english": "Resist him, standing firm in your faith,\nknowing that the very same kinds of suffering are being experienced by your brothers and sisters throughout the entire world."
+        },
+        {
+          "number": "10",
+          "latin": "Deus autem omnis gratiæ, qui vocavit nos in æternam suam gloriam in Christo Jesu, modicum passos ipse perficiet, confirmabit, solidabitque.",
+          "english": "But the God of all grace, who has called us into His eternal glory in Christ Jesus,\nafter you have suffered a little while, He Himself will perfect you,\nHe will confirm you, He will strengthen you, and He will establish you firmly."
+        },
+        {
+          "number": "11",
+          "latin": "Ipsi gloria et imperium in sæcula sæculorum. Amen.",
+          "english": "To Him be glory and dominion for all ages of ages. Amen."
+        },
+        {
+          "number": "12",
+          "latin": "Per Silvanum fidelem fratrem vobis, ut arbitror, paucis scripsi: obsecrans et contestans hanc esse veram gratiam Dei, in qua statis.",
+          "english": "Through Silvanus, whom I consider a faithful brother to you, I have written briefly,\nexhorting you and testifying that this is the true grace of God, in which you now stand firm."
+        },
+        {
+          "number": "13",
+          "latin": "Salutat vos Ecclesia quæ est in Babylone coelecta, et Marcus filius meus.",
+          "english": "The Church, which is in Babylon (Rome), chosen together with you, sends you greetings,\nand so does Mark, my spiritual son."
+        },
+        {
+          "number": "14",
+          "latin": "Salutate invicem in osculo sancto. Gratia vobiscum omnibus, qui estis in Christo Jesu. Amen.",
+          "english": "Greet one another with a holy kiss, a sign of Christian fellowship.\nGrace be with all of you who are in Christ Jesus. Amen."
+        }
+      ]
+    }
+  ]
+}

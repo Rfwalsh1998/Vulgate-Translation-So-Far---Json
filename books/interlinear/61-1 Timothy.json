@@ -1,0 +1,606 @@
+{
+  "name": "1 Timothy",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Paulus Apostolus Iesu Christi, secundum imperium Dei Salvatoris nostri, et Christi Iesu spei nostræ,",
+          "english": "Paul, an Apostle of Jesus Christ, according to the command of God our Savior, and of Christ Jesus, our hope,"
+        },
+        {
+          "number": 2,
+          "latin": "Timotheo dilecto filio in fide. Gratia, misericordia, et pax a Deo Patre, et Christo Iesu Domino nostro.",
+          "english": "To Timothy, a beloved son in the faith. Grace, mercy, and peace from God the Father, and Christ Jesus, our Lord."
+        },
+        {
+          "number": 3,
+          "latin": "Sicut rogavi te ut maneres Romæ, proficiscens in Macedoniam, ut denuntiares quibusdam ne aliter docerent,",
+          "english": "As I requested you to stay in Ephesus, on my way to Macedonia, so that you would command certain people not to teach differently,"
+        },
+        {
+          "number": 4,
+          "latin": "neque intenderent fabulis et genealogiis interminatis: quæ quaestiones præstant magis quam ædificationem Dei, quæ est in fide.",
+          "english": "nor to give heed to fables and endless genealogies: which give rise to disputes, rather than to the edification of God, which is in faith."
+        },
+        {
+          "number": 5,
+          "latin": "Finis autem præcepti est caritas de corde puro, et conscientia bona, et fide non ficta.",
+          "english": "Now the goal of the commandment is charity, from a pure heart, and a good conscience, and faith unfeigned."
+        },
+        {
+          "number": 6,
+          "latin": "A quibus recedentes, conversi sunt in vaniloquium,",
+          "english": "From these things some, having strayed, are turned aside to vain speech,"
+        },
+        {
+          "number": 7,
+          "latin": "volentes esse legis doctores, non intelligentes neque quæ loquuntur, neque de quibus affirmant.",
+          "english": "desiring to be teachers of the law, though they understand neither what they say, nor the things concerning which they make affirmation."
+        },
+        {
+          "number": 8,
+          "latin": "Scimus autem quia bona est lex, si quis legitime utatur ea:",
+          "english": "But we know that the law is good, if one uses it lawfully:"
+        },
+        {
+          "number": 9,
+          "latin": "sciens hoc, quia non est lex posita justo, sed injustis, et non subditis, impiis et peccatoribus, sceleratis et contaminatis, percussoribus parentum, et homicidis,",
+          "english": "knowing this, that the law is not made for the just man, but for the unjust and disobedient, for the impious and for sinners, for the wicked and defiled, for murderers of fathers, and murderers of mothers,"
+        },
+        {
+          "number": 10,
+          "latin": "fornicariis, masculorum concubitoribus, plagiariis, mendacibus, et perjuris, et si quid aliud contra sanam doctrinam est:",
+          "english": "fornicators, those who practice homosexuality, kidnappers, liars, perjurers, and if there is anything else that goes against sound doctrine;"
+        },
+        {
+          "number": 11,
+          "latin": "secundum Evangelium gloriæ beati Dei, quod creditum est mihi.",
+          "english": "according to the Gospel of the glory of the blessed God, which was entrusted to me."
+        },
+        {
+          "number": 12,
+          "latin": "Et gratias ago ei, qui me confortavit, Christo Iesu Domino nostro, quia fidelem me existimavit, ponens in ministerio,",
+          "english": "And I give thanks to him who has strengthened me, even Christ Jesus our Lord, because he has judged me faithful, putting me into the ministry,"
+        },
+        {
+          "number": 13,
+          "latin": "qui prius eram blasphemus, et persecutor, et contumeliosus: sed misericordiam consecutus sum, quia ignorans feci in incredulitate.",
+          "english": "who was before a blasphemer, and a persecutor, and contumelious. But I obtained mercy, because I did it ignorantly, in unbelief."
+        },
+        {
+          "number": 14,
+          "latin": "Superabundavit autem gratia Domini nostri cum fide et dilectione, quæ est in Christo Iesu.",
+          "english": "And the grace of our Lord abounded with faith and the love that is in Christ Jesus."
+        },
+        {
+          "number": 15,
+          "latin": "Fidelis sermo, et omni acceptione dignus, quod Christus Iesus venit in mundum peccatores salvos facere: quorum primus ego sum.",
+          "english": "Faithful is the word, and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."
+        },
+        {
+          "number": 16,
+          "latin": "Sed ideo misericordiam consecutus sum: ut in me primo ostenderet Christus Iesus omnem patientiam: ad exemplum eorum, qui credituri sunt illi in vitam æternam.",
+          "english": "But for this reason I obtained mercy: that in me first Christ Jesus might show forth all patience, for the example of those who would believe in him unto life everlasting."
+        },
+        {
+          "number": 17,
+          "latin": "Regi autem sæculorum immortali, invisibili, soli Deo honor et gloria in sæcula sæculorum. Amen.",
+          "english": "Now to the King of ages, immortal, invisible, the only God, be honor and glory for ever and ever. Amen."
+        },
+        {
+          "number": 18,
+          "latin": "Hoc præceptum commendo tibi, fili Timothee, secundum præcedentes in te prophetias, ut milites in illis bonam militiam,",
+          "english": "This charge I commit to you, Timothy, my son, in accordance with the prophecies previously made about you, that by them you may wage the good warfare,"
+        },
+        {
+          "number": 19,
+          "latin": "habens fidem et bonam conscientiam, quam quidam repellentes, circa fidem naufragaverunt.",
+          "english": "holding faith and a good conscience, which some, having thrust aside, have suffered shipwreck concerning the faith."
+        },
+        {
+          "number": 20,
+          "latin": "Ex quibus est Hymenæus et Alexander: quos tradidi Satanæ, ut discant non blasphemare.",
+          "english": "Among these are Hymenaeus and Alexander, whom I have delivered to Satan, that they may learn not to blaspheme."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Obsecro igitur primum omnium fieri obsecrationes, orationes, postulationes, gratiarum actiones, pro omnibus hominibus:",
+          "english": "I ask, then, that, first of all, that there be prayers of supplication, prayers of petition, and thanksgiving offered for all people:"
+        },
+        {
+          "number": 2,
+          "latin": "pro regibus, et omnibus qui in sublimitate sunt: ut quietam et tranquillam vitam agamus in omni pietate et castitate.",
+          "english": "Pray for those in authority, and all those who govern, so that we may live a calm and tranquil life, with all piety and chastity."
+        },
+        {
+          "number": 3,
+          "latin": "Hoc enim bonum est, et acceptum coram Salvatore nostro Deo,",
+          "english": "This is good, and acceptable in the sight of God, our Savior,"
+        },
+        {
+          "number": 4,
+          "latin": "qui omnes homines vult salvos fieri, et ad agnitionem veritatis venire.",
+          "english": "Who wills all people to be saved, and to come to the knowledge of the truth."
+        },
+        {
+          "number": 5,
+          "latin": "Unus enim Deus, unus et mediator Dei et hominum, homo Christus Iesus:",
+          "english": "For there is only one God, and only one mediator between God and humankind, the man Christ Jesus:"
+        },
+        {
+          "number": 6,
+          "latin": "qui dedit semetipsum redemptionem pro omnibus, testimonium temporibus suis:",
+          "english": "Who gave Himself as a redemption for all, as a testimony in his own time:"
+        },
+        {
+          "number": 7,
+          "latin": "in quo positus sum ego praedicator, et apostolus (veritatem dico, non mentior) doctor gentium in fide et veritate.",
+          "english": "I, Paul, have been placed as a herald, and an apostle—I speak the truth and do not lie—a teacher of the Gentiles in faith and truth."
+        },
+        {
+          "number": 8,
+          "latin": "Volo igitur viros orare in omni loco, levantes puras manus sine ira et contentione.",
+          "english": "I want, therefore, men to pray in every place, lifting up holy hands, without anger or quarreling."
+        },
+        {
+          "number": 9,
+          "latin": "Similiter et mulieres in habitu ornato, cum verecundia et sobrietate ornantes se, non in tortis crinibus, aut auro, aut margaritis, vel vestitu pretioso,",
+          "english": "Likewise, women should adorn themselves in modest apparel, with decency and moderation, not with braided hair, gold, pearls, or costly clothes,"
+        },
+        {
+          "number": 10,
+          "latin": "sed quod decet mulieres, promittentes pietatem per opera bona.",
+          "english": "but with good works, as befits women who profess godliness."
+        },
+        {
+          "number": 11,
+          "latin": "Mulier in silentio discat cum omni subjectione.",
+          "english": "Let a woman learn in silence, with all subjection."
+        },
+        {
+          "number": 12,
+          "latin": "Docere autem mulieri non permitto, neque dominari in virum: sed esse in silentio.",
+          "english": "I do not permit a woman to teach or to have authority over a man, but to be in silence."
+        },
+        {
+          "number": 13,
+          "latin": "Adam enim primus formatus est, deinde Eva:",
+          "english": "For Adam was formed first, and then Eve."
+        },
+        {
+          "number": 14,
+          "latin": "et Adam non est seductus: mulier autem seducta in praevaricatione fuit.",
+          "english": "And Adam was not deceived, but the woman was deceived and became a transgressor."
+        },
+        {
+          "number": 15,
+          "latin": "Salvabitur autem per filiorum generationem, si permanserint in fide, et dilectione, et sanctificatione cum sobrietate.",
+          "english": "But she will be saved through childbirth, if they continue in faith, and love, and holiness, with moderation."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Fidelis sermo: Si quis episcopatum desiderat, bonum opus concupiscit.",
+          "english": "This is a true statement: If a man desires to be a bishop, he is reaching for an honorable work."
+        },
+        {
+          "number": 2,
+          "latin": "Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,",
+          "english": "A bishop, therefore, must be above reproach, he must be a one-woman man, sober, prudent, respectable, chaste, hospitable, and able to teach,"
+        },
+        {
+          "number": 3,
+          "latin": "non vinolentum, non percussorem, sed modestum, non litigiosum, non cupidum, sed",
+          "english": "not a drunkard or a brawler, but gentle, not quarrelsome, not greedy,"
+        },
+        {
+          "number": 4,
+          "latin": "suae domui bene praepositum, filios habentem subditos cum omni castitate.",
+          "english": "one who manages his own household well, with his children in submission with all dignity."
+        },
+        {
+          "number": 5,
+          "latin": "(Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei curam habebit?)",
+          "english": "(For if a man does not know how to manage his own household, how will he take care of the church of God?)"
+        },
+        {
+          "number": 6,
+          "latin": "Non neophytum: ne elatus in judicium incidat diaboli.",
+          "english": "He must not be a recent convert, lest he be puffed up with pride and fall into the devil's judgment."
+        },
+        {
+          "number": 7,
+          "latin": "Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut non in opprobrium incidat et in laqueum diaboli.",
+          "english": "Moreover, he must have a good reputation with those outside the Church, so that he does not fall into disgrace and the devil's snare."
+        },
+        {
+          "number": 8,
+          "latin": "Diaconos similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes:",
+          "english": "Deacons likewise must be dignified, not double-tongued, not given to much wine, not greedy for sordid gain."
+        },
+        {
+          "number": 9,
+          "latin": "habentes mysterium fidei in conscientia pura.",
+          "english": "They must hold the mystery of the faith with a clear conscience."
+        },
+        {
+          "number": 10,
+          "latin": "Et hi autem probentur prius: et tunc ministrent, si irreprehensibiles sint.",
+          "english": "Let these also be tested first; then let them serve as deacons if they prove themselves blameless."
+        },
+        {
+          "number": 11,
+          "latin": "Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus.",
+          "english": "Women, in like manner, must be dignified, not slanderers, but sober and trustworthy in everything."
+        },
+        {
+          "number": 12,
+          "latin": "Diaconi sint viri unius uxoris, qui filiis suis bene praepositi sint, et suis domibus.",
+          "english": "Let deacons be the husbands of one wife, and let them manage their children and their own households well."
+        },
+        {
+          "number": 13,
+          "latin": "Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam fiduciam in fide, quae est in Christo Jesu.",
+          "english": "For those who serve well gain a good standing for themselves and also great confidence in the faith which is in Christ Jesus."
+        },
+        {
+          "number": 14,
+          "latin": "Haec tibi scribo, sperans ad te venire cito:",
+          "english": "I am writing these things to you, hoping to come to you soon,"
+        },
+        {
+          "number": 15,
+          "latin": "si autem tardius, ut scias quomodo oporteat te in domo Dei conversari, quae est ecclesia Dei vivi, columna et firmamentum veritatis.",
+          "english": "but in case I am delayed, so that you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth."
+        },
+        {
+          "number": 16,
+          "latin": "Et manifeste magnum est pietatis sacramentum, quod manifestatum est in carne, justificatum est in spiritu, apparuit angelis, praedicatum est gentibus, creditum est in mundo, assumptum est in gloria.",
+          "english": "And without doubt, the mystery of godliness is great: He was revealed in the flesh, vindicated in the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Spiritus autem manifeste dicit, quia in novissimis temporibus discedent quidam a fide, attendentes spiritibus erroris, et doctrinis daemoniorum,",
+          "english": "The Spirit clearly says that in the final days, some will abandon the faith, listening to the spirits of error and the teachings of demons."
+        },
+        {
+          "number": 2,
+          "latin": "in hypocrisi mendaciorum, et cauteriatam habentes conscientiam,",
+          "english": "They will be deceivers, and their consciences will be seared."
+        },
+        {
+          "number": 3,
+          "latin": "prohibentes nubere, abstinere a cibis, quos Deus creavit ad percipiendum cum gratiarum actione fidelibus, et his, qui cognoverunt veritatem.",
+          "english": "They will forbid marriage and tell people to abstain from certain foods. God created these foods to be received with thanksgiving by those who believe and know the truth."
+        },
+        {
+          "number": 4,
+          "latin": "Quia omnis creatura Dei bona est, et nihil reiciendum quod cum gratiarum actione percipitur:",
+          "english": "Everything God made is good, and nothing is to be rejected if it is received with thanksgiving:"
+        },
+        {
+          "number": 5,
+          "latin": "sanctificatur enim per verbum Dei et orationem.",
+          "english": "It is made holy by the word of God and prayer."
+        },
+        {
+          "number": 6,
+          "latin": "Haec proponens fratribus, bonus eris minister Christi Jesu, enutritus in verbis fidei, et bonæ doctrinæ, quam assecutus es.",
+          "english": "By teaching these things to the brothers, you will be a good servant of Jesus Christ, nourished by the words of the faith and the good teaching that you have followed."
+        },
+        {
+          "number": 7,
+          "latin": "ineptas autem et aniles fabulas devita: exerce te ipsum ad pietatem.",
+          "english": "But reject profane and old wives' tales, and train yourself to be a man of faith."
+        },
+        {
+          "number": 8,
+          "latin": "Nam corporalis exercitatio ad modicum utilis est: pietas autem ad omnia utilis est, promissionem habens vitæ, quae nunc est, et futuræ.",
+          "english": "Physical training has some value, but faith is valuable in every way. It promises life now and in the future."
+        },
+        {
+          "number": 9,
+          "latin": "Fidelis sermo, et omni acceptione dignus.",
+          "english": "This is a faithful saying, worthy of all acceptance."
+        },
+        {
+          "number": 10,
+          "latin": "Hoc enim est quod laboramus, et contumelias patimur, quoniam speramus in Deum vivum, qui est salvator omnium hominum, maxime fidelium.",
+          "english": "We work hard and suffer insults for this, because we have put our hope in the living God, who is the Savior of all men, especially of those who believe."
+        },
+        {
+          "number": 11,
+          "latin": "Haec impera, et doce.",
+          "english": "Command and teach these things."
+        },
+        {
+          "number": 12,
+          "latin": "Nemo adolescentiam tuam contemnat: sed exemplum esto fidelium in verbo, in conversatione, in caritate, in fide, in castitate.",
+          "english": "Let no one look down on your youth. Instead, be an example for the believers in your speech, in your conduct, in love, in faith, and in purity."
+        },
+        {
+          "number": 13,
+          "latin": "Donec veniam, attende lectioni, exhortationi, et doctrinæ.",
+          "english": "Until I come, focus on reading the Scriptures, exhorting others, and teaching."
+        },
+        {
+          "number": 14,
+          "latin": "Noli negligere gratiam, quæ in te est, quæ data est tibi per prophetiam cum impositione manuum presbyterii.",
+          "english": "Do not neglect the spiritual gift that is in you, which was given to you through prophecy when the elders laid their hands on you."
+        },
+        {
+          "number": 15,
+          "latin": "Haec meditare, in his esto: ut profectus tuus manifestus sit omnibus.",
+          "english": "Meditate on these things; be committed to them, so that your progress may be evident to all."
+        },
+        {
+          "number": 16,
+          "latin": "Attende tibi, et doctrinæ: insta in illis: hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt.",
+          "english": "Pay close attention to yourself and to your teaching. Persevere in them, for by doing so you will save both yourself and those who listen to you."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Seniori ne increpaveris, sed roga ut patrem: juvenes, ut fratres:",
+          "english": "Never scold an older man, but instead implore him as if he were your own father. Treat younger men as brothers."
+        },
+        {
+          "number": 2,
+          "latin": "Anus, ut matres: juvenes feminas, ut sorores, in omni castitate.",
+          "english": "Treat older women as mothers. Treat younger women as sisters—in all purity."
+        },
+        {
+          "number": 3,
+          "latin": "Viduas, quae vere viduae sunt, honora.",
+          "english": "Give honor to widows who are truly widows."
+        },
+        {
+          "number": 4,
+          "latin": "Si qua autem vidua filios, aut nepotes habet, discant primum domum suam regere, et vicem rependere parentibus: hoc enim acceptum est coram Deo.",
+          "english": "If any widow has children or grandchildren, let them learn first to manage their own household and to repay their parents and grandparents; for this is acceptable before God."
+        },
+        {
+          "number": 5,
+          "latin": "Quae autem vere vidua est, et desolata, speret in Deum, et instet orationibus nocte ac die.",
+          "english": "Now, she who is truly a widow, and desolate, hopes in God, and persists in prayers night and day."
+        },
+        {
+          "number": 6,
+          "latin": "Nam quae in deliciis est, vivens mortua est.",
+          "english": "But she who is self-indulgent is dead while she lives."
+        },
+        {
+          "number": 7,
+          "latin": "Et haec praecipe, ut irreprehensibiles sint.",
+          "english": "Give these instructions, so that they may be blameless."
+        },
+        {
+          "number": 8,
+          "latin": "Si quis autem suorum, et maxime domesticorum, curam non habet, fidem negavit, et est infideli deterior.",
+          "english": "But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever."
+        },
+        {
+          "number": 9,
+          "latin": "Vidua eligatur non minus sexaginta annorum, quae fuerit unius viri uxor,",
+          "english": "Let a widow be chosen if she is not less than sixty years old, the wife of one husband,"
+        },
+        {
+          "number": 10,
+          "latin": "in operibus bonis testimonium habens, si filios educavit, si hospitio suscepit, si sanctorum pedes lavit, si tribulationem patientibus subministravit, si omne opus bonum subsecuta est.",
+          "english": "having a testimony of good works: if she has brought up children, if she has shown hospitality, if she has washed the saints' feet, if she has relieved the afflicted, if she has diligently followed every good work."
+        },
+        {
+          "number": 11,
+          "latin": "Juvenes autem viduas devita: cum enim luxuriatae fuerint in Christo, nubere volunt:",
+          "english": "But refuse younger widows. For when they have grown luxurious against Christ, they want to marry,"
+        },
+        {
+          "number": 12,
+          "latin": "habentes damnationem, quia primam fidem irritam fecerunt.",
+          "english": "having condemnation, because they have set aside their first faith."
+        },
+        {
+          "number": 13,
+          "latin": "Simul autem et otiosae discunt circumire domos: non solum otiosae, sed et verbosae et curiosae, loquentes quae oportet non.",
+          "english": "At the same time, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, talking about things which they ought not."
+        },
+        {
+          "number": 14,
+          "latin": "Voluergo juniores nubere, filios procreare, matres familias esse, nullam occasionem dare adversario maledicti causa.",
+          "english": "Therefore, I want younger women to marry, bear children, manage their households, and give the adversary no opportunity for reproach."
+        },
+        {
+          "number": 15,
+          "latin": "Iam enim quaedam conversae sunt retro post Satanam.",
+          "english": "For some have already turned aside after Satan."
+        },
+        {
+          "number": 16,
+          "latin": "Si quis fidelis vir aut femina habet viduas, subministrent eis, et ne gravetur ecclesia: ut iis, quae vere viduae sunt, sufficiat.",
+          "english": "If any believing man or woman has widows, let them provide for them, and let not the Church be burdened, so that it may suffice for those who are truly widows."
+        },
+        {
+          "number": 17,
+          "latin": "Qui bene praesunt presbyteri, duplici honore digni habeantur: maxime qui laborant in verbo et doctrina:",
+          "english": "Let the presbyters who rule well be considered worthy of double honor, especially those who labor in the word and in doctrine."
+        },
+        {
+          "number": 18,
+          "latin": "dicit enim Scriptura: Non alligabis os bovi trituranti: et, Dignus est operarius mercede sua.",
+          "english": "For the Scripture says: “You shall not muzzle an ox while it is treading out the grain,” and, “The laborer is worthy of his wages.”"
+        },
+        {
+          "number": 19,
+          "latin": "Adversus presbyterum accusationem noli recipere, nisi sub duobus aut tribus testibus.",
+          "english": "Do not receive an accusation against a presbyter, except under two or three witnesses."
+        },
+        {
+          "number": 20,
+          "latin": "Peccantes coram omnibus argue, ut et ceteri timorem habeant.",
+          "english": "Those who sin, rebuke in the presence of all, that the rest also may fear."
+        },
+        {
+          "number": 21,
+          "latin": "Testificor coram Deo, et Christo Jesu, et electis angelis, ut haec custodias sine praejudicio, nihil faciens in alteram partem.",
+          "english": "I solemnly charge you in the sight of God and Christ Jesus and the elect angels, that you observe these things without prejudice, doing nothing with partiality."
+        },
+        {
+          "number": 22,
+          "latin": "Manus cito nemini imposueris, neque communicaveris peccatis alienis. Teipsum castum custodi.",
+          "english": "Lay hands on no one hastily, nor share in the sins of others. Keep yourself chaste."
+        },
+        {
+          "number": 23,
+          "latin": "Noli adhuc aquam bibere, sed vino utere paululum propter stomachum tuum, et frequentes tuas infirmitates.",
+          "english": "No longer drink only water, but use a little wine for the sake of your stomach, and your frequent infirmities."
+        },
+        {
+          "number": 24,
+          "latin": "Quorundam hominum peccata manifesta sunt, praecedunt ad judicium: quosdam autem et subsequuntur.",
+          "english": "The sins of some men are evident, preceding them to judgment, while the sins of others follow them."
+        },
+        {
+          "number": 25,
+          "latin": "Similiter et opera bona, manifesta sunt: et quae aliter se habent, abscondi non possunt.",
+          "english": "Likewise, the good works are evident, and those that are otherwise cannot be hidden."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Quicumque sunt sub jugo servi, dominos suos omni honore dignos arbitrentur: ne nomen Dei, et doctrina blasphemetur.",
+          "english": "Those who are slaves must consider their masters worthy of all honor. This is to prevent the name of God and His teaching from being dishonored."
+        },
+        {
+          "number": 2,
+          "latin": "Qui autem fideles dominos habent, non contemnant: quia fratres sunt: sed magis deserviant, quia fideles sunt, et dilecti, qui beneficii participes sunt. Haec doce, et exhortare.",
+          "english": "Those who have faithful masters shouldn't despise them because they are brothers. Instead, they should serve even more diligently, because those masters are faithful and beloved and share in the benefit of Christ. Teach these things, and urge them upon others."
+        },
+        {
+          "number": 3,
+          "latin": "Si quis aliter docet, et non adquiescit sanis verbis Domini nostri Jesu Christi, et ei, quae secundum pietatem est doctrina:",
+          "english": "If anyone teaches otherwise and does not adhere to the sound words of our Lord Jesus Christ and to the teaching that accords with true devotion,"
+        },
+        {
+          "number": 4,
+          "latin": "superbus est, nihil sciens, sed languens circa quaestiones, et pugnas verborum: ex quibus oriuntur invidia, contentiones, blasphemiae, suspiciones malae,",
+          "english": "he is conceited and knows nothing, but is obsessed with disputes and quarrels about words. These disputes produce envy, contentions, blasphemies, evil suspicions,"
+        },
+        {
+          "number": 5,
+          "latin": "conflictationes hominum mente corruptorum, et qui veritate privati sunt, existimantium quaestum esse pietatem. Recede ab his.",
+          "english": "and the wrangling of people who are corrupted in mind and deprived of the truth, imagining that godliness is a means of gain. Stay away from such people."
+        },
+        {
+          "number": 6,
+          "latin": "Est autem quaestus magnus pietas cum sufficientia. ",
+          "english": "But godliness with contentment is great gain."
+        },
+        {
+          "number": 7,
+          "latin": "Nihil enim intulimus in hunc mundum:   sed nec auferre quid possumus.",
+          "english": "For we brought nothing into this world, and we cannot take anything out of it."
+        },
+        {
+          "number": 8,
+          "latin": "Habentes autem victum, et tegumenta, his contenti simus.",
+          "english": "But if we have food and clothing, with these things we should be content."
+        },
+        {
+          "number": 9,
+          "latin": "Nam qui volunt divites fieri, incidunt in  tentationem, et in laqueum, et in desideria multa inutilia, et nocentia, quae mergunt homines in interitum et perditionem.",
+          "english": "Those who want to be rich fall into temptation, a snare, and many foolish and harmful desires that plunge people into ruin and destruction."
+        },
+        {
+          "number": 10,
+          "latin": "Radix enim omnium malorum est cupiditas: quam quidam appetentes erraverunt a fide, et inseruerunt se doloribus multis.",
+          "english": "For the love of money is the root of all evils, which some, yearning for, have gone astray from the faith and pierced themselves with many sorrows."
+        },
+        {
+          "number": 11,
+          "latin": "Tu autem, o homo Dei, haec fuge: et sectare justitiam, pietatem, fidem, caritatem, patientiam, mansuetudinem.",
+          "english": "But you, man of God, flee from these things and pursue righteousness, godliness, faith, love, perseverance, and gentleness."
+        },
+        {
+          "number": 12,
+          "latin": "Certamen bonum cert a fidem: adprehende vitam aeternam, in qua vocatus es, et  confessus bonam confessionem coram multis testibus.",
+          "english": "Fight the good fight of faith; take hold of eternal life, to which you were called and made the good confession in the presence of many witnesses."
+        },
+        {
+          "number": 13,
+          "latin": "Praecipio tibi coram Deo, qui vivificat omnia, et  Christo Jesu, qui testimonium reddidit sub Pontio Pilato bonam confessionem:",
+          "english": "I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who bore witness to the good confession before Pontius Pilate,"
+        },
+        {
+          "number": 14,
+          "latin": "ut serves mandatum sine macula, irreprehensibile usque in adventum Domini nostri Jesu Christi,",
+          "english": "to keep the commandment without stain or reproach until the appearing of our Lord Jesus Christ,"
+        },
+        {
+          "number": 15,
+          "latin": "quem suis temporibus ostendet beatus, et solus potens Rex regum, et Dominus dominantium:",
+          "english": "which He will manifest at the proper time, He who is the blessed and only Sovereign, the King of kings and Lord of lords,"
+        },
+        {
+          "number": 16,
+          "latin": "qui solus habet immortalitatem, et  inaccessiblem lucem inhabitat: quem nemo hominum vidit,   nec videre potest: cui honor, et imperium sempiternum. Amen.",
+          "english": "who alone possesses immortality and dwells in unapproachable light, whom no one has seen or can see, to whom be honor and eternal dominion. Amen."
+        },
+        {
+          "number": 17,
+          "latin": "Divitibus in hoc saeculo praecipe non sublime sapere, neque sperare in incerto divitiarum, sed in Deo vivo, qui praestat nobis omnia abundanter ad fruendum:",
+          "english": "Instruct those who are rich in this present world not to be conceited or to fix their hope on the uncertainty of riches, but on God, who richly supplies us with all things to enjoy."
+        },
+        {
+          "number": 18,
+          "latin": "bene operari,  divites fieri in bonis operibus, facile tribuere, communicare:",
+          "english": "Instruct them to do good, to be rich in good works, to be generous and ready to share,"
+        },
+        {
+          "number": 19,
+          "latin": "thesaurizare sibi fundamentum bonum in futurum, ut adprehendant veram vitam.",
+          "english": "storing up for themselves the treasure of a good foundation for the future, so that they may take hold of that which is life indeed."
+        },
+        {
+          "number": 20,
+          "latin": "O Timothee, depositum custodi, devitans profanas vocum novitates, et oppositiones falsi nominis scientiae,",
+          "english": "O Timothy, guard what has been entrusted to you, avoiding worldly and empty chatter and the opposing arguments of what is falsely called knowledge."
+        },
+        {
+          "number": 21,
+          "latin": "quam quidam promittentes, circa fidem exciderunt. Gratia tecum. Amen.",
+          "english": "By professing such knowledge, some have gone astray from the faith. Grace be with you. Amen."
+        }
+      ]
+    }
+  ]
+}

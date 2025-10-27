@@ -1,0 +1,564 @@
+{
+  "name": "Ruth",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "In diebus unius judicis, quando judices præerant, facta est fames in terra: abiitque homo de Bethlehem Juda ut peregrinaretur in regione Moabitide cum uxore sua et duobus filiis.",
+          "english": "During the time when the judges ruled the land, there was a great famine in the land of Israel. So, a man from Bethlehem in Judah left his home to live as a foreigner in the country of Moab, along with his wife and his two sons."
+        },
+        {
+          "number": 2,
+          "latin": "Nomine Elimelech vir ejus, et nomen uxoris ejus Noemi: et duo filii, quorum unus vocabatur Maalon, et alter Chelion, Ephrathæi de Bethlehem Juda.",
+          "english": "The man’s name was Elimelech, and his wife’s name was Naomi. They had two sons, one named Mahlon and the other Chilion. They were Ephrathites, from Bethlehem in Judah."
+        },
+        {
+          "number": 3,
+          "latin": "Et mortuus est Elimelech maritus Noemi: mansitque ipsa cum filiis.",
+          "english": "Naomi’s husband, Elimelech, died there in Moab. So, she was left with her two sons."
+        },
+        {
+          "number": 4,
+          "latin": "Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, et altera Ruth. Et manserunt ibi decem annis.",
+          "english": "Her sons took wives from among the Moabite women. One wife was named Orpah, and the other was named Ruth. They lived in Moab for about ten years."
+        },
+        {
+          "number": 5,
+          "latin": "Et mortui sunt ambo, Maalon et Chelion: remansitque mulier orbata duobus filiis et marito.",
+          "english": "Then both Mahlon and Chilion also died. So, Naomi was left without her two sons and her husband, completely alone."
+        },
+        {
+          "number": 6,
+          "latin": "Et surrexit cum utraque nuru sua, ut reverteretur de regione Moabitide in terram suam: audierat enim quod visitasset Dominus populum suum, et dedisset eis escas.",
+          "english": "Naomi then decided to return from the country of Moab to her homeland, along with her two daughters-in-law. She had heard that the Lord God had visited His people in Judah and had given them food."
+        },
+        {
+          "number": 7,
+          "latin": "Egressa est itaque de loco peregrinationis suæ, cum utraque nuru: et jam reversa in viam ut rediret in terram Juda.",
+          "english": "So, she and her two daughters-in-law set out from the place where they had been living as foreigners. They were already on their way back to the land of Judah."
+        },
+        {
+          "number": 8,
+          "latin": "Et ait Noemi ad nurus suas: Ite in domum matris vestræ: faciat Dominus vobiscum misericordiam, sicut fecistis cum mortuis, et mecum.",
+          "english": "Naomi said to her two daughters-in-law, 'Go, return each of you to your mother’s house. May the Lord God deal kindly with you, just as you have dealt kindly with your dead husbands and with me.'"
+        },
+        {
+          "number": 9,
+          "latin": "Det vobis Dominus ut inveniatis requiem in domibus virorum quos sortituræ estis. Et osculata est eas: at illæ elevata voce flere cœperunt.",
+          "english": "'May the Lord God grant each of you rest and peace in the home of a future husband whom you will marry.' Then she kissed them goodbye, and they began to weep loudly."
+        },
+        {
+          "number": 10,
+          "latin": "Et dixerunt: Tecum pergemus ad populum tuum.",
+          "english": "They said to her, 'No, we will go with you to your people.'"
+        },
+        {
+          "number": 11,
+          "latin": "Quibus ille respondit: Reddite vos filiæ miæ: cur venitis mecum? num ultra habeo filios in utero meo, ut viri vobis esse possint?",
+          "english": "But Naomi answered them, 'Turn back, my daughters. Why would you come with me? Do I still have sons in my womb who could become your husbands?'"
+        },
+        {
+          "number": 12,
+          "latin": "Revertimini filiæ miæ, abite: jam enim senectute confecta sum, nec apta conjugio: etiamsi possem concipere hac nocte, et parere filios:",
+          "english": "'Go back, my daughters, go your way. For I am too old to have a husband. Even if I were to say, “I have hope,” even if I were to become pregnant tonight and give birth to sons—'"
+        },
+        {
+          "number": 13,
+          "latin": "si expectare velletis donec crescerent, et annos nubiles pervenirent, ante sustineretis quam nuberetis. Nolite, quæso, filiæ meæ: quia multo angustior est mihi vestra miseria, quam mea.",
+          "english": "'would you wait until they grew up? Would you refrain from marrying for them? No, my daughters, please don’t. For my distress is far greater than yours, because the Lord has turned against me.'"
+        },
+        {
+          "number": 14,
+          "latin": "Itaque elevata voce rursum flere cœperunt: Orpha osculata est socrum, et reversa est: Ruth adhæsit socrui suæ.",
+          "english": "Again, they wept loudly. Orpah kissed her mother-in-law goodbye and returned to her own people. But Ruth clung to Naomi."
+        },
+        {
+          "number": 15,
+          "latin": "Dixitque ei Noemi: En, cognata tua reversa est ad populum suum, et ad deos suos: vade cum ea.",
+          "english": "Then Naomi said to Ruth, 'Look, your sister-in-law has gone back to her own people and to her gods. You should go back with her.'"
+        },
+        {
+          "number": 16,
+          "latin": "Quæ respondit: Ne adverseris mihi ut te derelinquam, et abeam: quocumque perrexeris, pergam, et ubi morata fueris, et ego pariter morabor. Populus tuus, populus meus, et Deus tuus, Deus meus.",
+          "english": "But Ruth replied, 'Do not urge me to leave you or to turn back from following you. For wherever you go, I will go, and wherever you live, I will live. Your people shall be my people, and your God shall be my God.'"
+        },
+        {
+          "number": 17,
+          "latin": "Quæ te morientem susceperit terra, et ego in ea moriar, ibique locum sepulturæ accipiam. Hæc mihi faciat Dominus, et hæc addat, si non sola mors me et te separavert.",
+          "english": "'Where you die, I will die, and there I will be buried. May the Lord God do to me and more also, if anything but death separates you and me.'"
+        },
+        {
+          "number": 18,
+          "latin": "Videns ergo Noemi quod obstinato Ruth animo figeret, ut secum iret, ultra non contradixit, nec suasit.",
+          "english": "When Naomi saw that Ruth was determined to go with her, she stopped arguing with her or trying to persuade her otherwise."
+        },
+        {
+          "number": 19,
+          "latin": "Profectæ sunt itaque ambæ, et venerunt Bethlehem. Quibus ingressis civitatem, commota est omnis civitas super eis, et dicebant: Hæc est Noemi?",
+          "english": "So, the two of them went on until they came to Bethlehem. When they arrived in the city, the entire city was stirred because of them, and the women exclaimed, 'Can this be Naomi?'"
+        },
+        {
+          "number": 20,
+          "latin": "At illa dixit ad eos: Ne vocetis me Noemi (id est, pulchram), sed vocate Mara (id est, amarum), quia amaritudine nimia replevit me Omnipotens.",
+          "english": "She replied to them, 'Do not call me Naomi, which means 'pleasant.' Instead, call me Mara, which means 'bitter.' For the Almighty God has filled me with much bitterness and sorrow.'"
+        },
+        {
+          "number": 21,
+          "latin": "Egressa sum dives, et vacuam me reduxit Dominus: cur vocatis me Noemi, quam Dominus humiliavit, et afflixit Omnipotens?",
+          "english": "'I went out from here full, but the Lord God has brought me back empty. Why do you call me Naomi, when the Lord God has humbled me, and the Almighty God has brought calamity upon me?'"
+        },
+        {
+          "number": 22,
+          "latin": "Venerunt ergo Noemi et Ruth Moabitissa nurus ejus, de terra Moabitide: et reversæ sunt Bethlehem, quando primum hordeum metebatur.",
+          "english": "So Naomi returned with her daughter-in-law Ruth, the Moabitess, from the country of Moab. They arrived in Bethlehem at the beginning of the barley harvest."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Habebat autem Noemi cognatum viri sui, virum potentem et genere nobilem, de familia Elimelech, nomine Booz.",
+          "english": "Now Naomi had a relative of her husband, a man of great influence and noble lineage, from the family of Elimelech, named Boaz. This man possessed significant wealth and social standing."
+        },
+        {
+          "number": 2,
+          "latin": "Dixitque Ruth Moabitides ad socrum suam: Si jubes, vadam in agrum, et colligam spicas quæ segnius a tergo messorum cadunt, ubicumque clementia domini invenero. Cui illa respondit: Vade, filia mea.",
+          "english": "And Ruth, the Moabite woman, said to her mother-in-law, \"If you permit it, I will go into a field and gather the fallen grain that the reapers leave behind, wherever I may find favor with a landowner.\" To this Naomi responded, \"Go, my daughter.\" This act of gleaning was a provision for the poor."
+        },
+        {
+          "number": 3,
+          "latin": "Perrexit itaque et veniens colligebat spicas post terga messorum. Accidit autem ut ager ille esset viri nomine Booz, qui erat de cognatione Elimelech.",
+          "english": "So she went out, and coming to a field, she gathered the grain behind the reapers. It just so happened that the field belonged to the man named Boaz, who was from the family of Elimelech. This was truly providential."
+        },
+        {
+          "number": 4,
+          "latin": "Et ecce ipse Booz de Bethlehem veniebat: dixitque messoribus: Dominus vobiscum. Qui responderunt ei: Benedicat tibi Dominus.",
+          "english": "And behold, Boaz himself was coming from Bethlehem. He said to the reapers, \"The Lord be with you.\" And they responded to him, \"May the Lord bless you.\" This exchange showed the respectful and pious nature of their community."
+        },
+        {
+          "number": 5,
+          "latin": "Dixitque Booz ad adolescentem, qui messoribus præerat: Cujus est hæc puella?",
+          "english": "Then Boaz said to the young man who was in charge of the reapers, \"Whose young woman is this?\" He noticed her as a stranger in his field."
+        },
+        {
+          "number": 6,
+          "latin": "Cui respondit adolescens: Hæc est Moabitis puella, quæ venit cum Noemi de regione Moabitide:",
+          "english": "To whom the young man responded, \"This is the young Moabite woman who came with Naomi from the region of Moab.\" Her foreign origin was known."
+        },
+        {
+          "number": 7,
+          "latin": "et rogavit ut spicas colligeret post messorum vestigia, et jaceret manipulos: et ex quo venimus huc, usque nunc, in agro perseverat, et ne ad momentum quidem domum reversa est.",
+          "english": "\"And she asked to gather the grain behind the reapers' footsteps, and to glean among the gathered sheaves. And since we came here, until now, she has diligently persevered in the field, and she has not even returned home for a moment.\" This demonstrated Ruth's exceptional work ethic."
+        },
+        {
+          "number": 8,
+          "latin": "Dixitque Booz ad Ruth: Audi filia, ne vadas in alterum agrum ad colligendum, nec recedas de hoc loco: sed jungere puellis meis.",
+          "english": "Then Boaz said to Ruth, \"Listen, my daughter, do not go into another field to gather grain, nor depart from this place. Instead, stay close to my young women.\" This was a direct offer of protection and special privilege."
+        },
+        {
+          "number": 9,
+          "latin": "Et ubi messuerint, sequere. Præcepi enim pueris meis, ne te molestiæ afficiant: quin potius cum sitieris, vade ad vasa, et bibe de aquis, de quibus et pueri mei bibunt.",
+          "english": "\"And wherever my reapers have finished, follow after them. For I have commanded my young men not to bother you. Rather, when you are thirsty, go to the water vessels and drink from the water from which my young men also drink.\" Boaz extended hospitality beyond mere permission."
+        },
+        {
+          "number": 10,
+          "latin": "Quæ cadens in faciem suam, et adorans super terram, dixit: Unde mihi hoc, ut invenires meam gratiam oculis tuis, quæ sum peregrina?",
+          "english": "She, falling on her face and prostrating herself on the ground, said, \"How have I deserved this, that I should find such favor in your eyes, I who am a mere foreigner?\" Ruth's humility was evident."
+        },
+        {
+          "number": 11,
+          "latin": "Cui respondit Booz: Omnia mihi nuntiata sunt quæ feceris socrui tuæ post mortem viri tui, et quemadmodum reliqueris parentes tuos, et terram tuam nativitatis, et veneris ad populum quem antea nesciebas.",
+          "english": "To whom Boaz responded, \"All things have been reported to me: what you have done for your mother-in-law after the death of your husband, and how you left your parents and your native land, and came to a people whom you did not know before.\" Boaz was aware of her virtuous actions."
+        },
+        {
+          "number": 12,
+          "latin": "Reddat tibi Dominus pro opere tuo, et plenam recipias mercedem a Domino Deo Israël, ad quem venisti, et sub cujus alis confugisti.",
+          "english": "\"May the Lord repay you for your work, and may you receive a full reward from the Lord God of Israel, to whom you have come and under whose protective wings you have taken refuge.\" Boaz's blessing recognized her conversion to the God of Israel."
+        },
+        {
+          "number": 13,
+          "latin": "Quæ ait: Inveni gratiam in oculis tuis, domine mi, qui consolatus es me, et locutus es ad cor ancillæ tuæ, quæ non sum similis uni de ancillis tuis.",
+          "english": "And she said, \"I have found favor in your eyes, my lord, for you have comforted me and spoken kindly to the heart of your handmaid, though I am not even like one of your own servants.\" She felt unworthy of such generosity."
+        },
+        {
+          "number": 14,
+          "latin": "Et dixit ei Booz: Quando hora fuerit prandii, veni huc, et comede panem, et intinge buccellam tuam in acetum. Sedit itaque juxta messores, et accedit ei panis, et comedit, et saturata est, et tulit de reliquiis.",
+          "english": "And Boaz said to her, \"When it is time for the midday meal, come here, and eat some bread, and dip your morsel in the vinegar.\" So she sat beside the reapers, and he offered her bread, and she ate and was satisfied, and took some of the leftovers to save for later."
+        },
+        {
+          "number": 15,
+          "latin": "Surrexitque ut meteret. Præcepitque Booz pueris suis, dicens: Etiam si inter manipulos metere voluerit, ne prohibeatis eam:",
+          "english": "And she rose up to continue gleaning. Boaz then commanded his young men, saying, \"Even if she wishes to glean among the sheaves already gathered, do not hinder her.\" This was an extraordinary allowance for a gleaner."
+        },
+        {
+          "number": 16,
+          "latin": "quin potius de manipulis vestris spicas projicite, et relinquite, ut colligat absque confusione, et nemo reprehendat eam.",
+          "english": "\"But rather, from your own gathered sheaves, intentionally throw out some grain and leave it for her, so that she may collect it without any shame, and no one should rebuke her.\" This made her task easier and more dignified."
+        },
+        {
+          "number": 17,
+          "latin": "Colligebat ergo in agro usque ad vesperum: et percussit quæ collegerat, et invenit ephæ hordei.",
+          "english": "So she gleaned in the field until evening. And she beat out the grain she had gathered to separate it from the stalks, and she found it amounted to about an ephah of barley. This was a substantial amount, thanks to Boaz's generosity."
+        },
+        {
+          "number": 18,
+          "latin": "Quod portans reversa est in civitatem, et ostendit socrui suæ: insuper protulit et dedit ei de reliquiis cibi sui, quo saturata fuerat.",
+          "english": "And carrying what she had collected, she returned to the city and showed it to her mother-in-law. Moreover, she brought forth and gave Naomi some of the leftover food with which she herself had been satisfied earlier. Ruth's constant care for Naomi was clear."
+        },
+        {
+          "number": 19,
+          "latin": "Dixitque ei socrus sua: Ubi hodie colligisti, et ubi fecisti opus? Sit benedictus qui misertus est tui. Illa indicavit ei ubi operata esset: et nomen viri, secundum quem operata erat, Booz dixit.",
+          "english": "And her mother-in-law said to her, \"Where did you glean today, and where did you do your work? Blessed be he who had mercy on you.\" She told Naomi where she had worked, and she said the name of the man under whom she had worked was Boaz."
+        },
+        {
+          "number": 20,
+          "latin": "Cui respondit Noemi: Benedictus sit a Domino, quia eamdem gratiam, quam antea, nunc quoque præstitit vivis et mortuis. Et addidit: Propinquus noster est homo, et de familia nostra.",
+          "english": "To whom Naomi responded, \"May he be blessed by the Lord, because he has shown the same kindness, as before, now also to the living and to the dead.\" Naomi was referring to the potential preservation of their family line. And she added, \"The man is our close relative, and from our family.\" This revealed Boaz's role as a potential kinsman-redeemer."
+        },
+        {
+          "number": 21,
+          "latin": "Dixitque Ruth: Quin et hoc mihi præcepit, ut jungar messoribus ejus, donec omnes metantur fructus.",
+          "english": "And Ruth said, \"Furthermore, he also commanded me this: that I should stay close to his reapers until all the harvest is completely finished.\" Boaz's protection and provision were ongoing."
+        },
+        {
+          "number": 22,
+          "latin": "Cui socrus: Melius est, inquit, filia mea, ut cum puellis ejus exeas ad metendum, ne in alieno agro quippiam molestiæ patiaris.",
+          "english": "To whom her mother-in-law said, \"It is better, my daughter, that you go out to glean with his young women, lest you suffer any trouble or harassment in another field.\" Naomi wisely advised Ruth to remain under Boaz's protection."
+        },
+        {
+          "number": 23,
+          "latin": "Mansit itaque cum puellis Booz, et metebat donec hordea simul et triticum succiderentur.",
+          "english": "So she remained with the young women of Boaz and gleaned until both the barley harvest and the wheat harvest were finished. Ruth obediently continued her work, patiently awaiting God's plan."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Dixit ergo ad eam Noemi socrus sua: Filia mi, non perquiram tibi requiem, et provideam tibi?",
+          "english": "Then Naomi, her mother-in-law, said to her, \"My daughter, shouldn't I find you a safe place to settle down, and provide for you?\""
+        },
+        {
+          "number": 2,
+          "latin": "Ecce Booz cum quo fuisti in agro, propinquus noster est, et hac nocte ventilat areas hordei.",
+          "english": "\"Look, Boaz, with whom you worked in the field, he is a relative of ours, and tonight he is winnowing barley at the threshing floor.\""
+        },
+        {
+          "number": 3,
+          "latin": "Lava igitur te et unge, et induere mutatoriis vestimentis tuis, et descende in aream: non te videat homo, donec comederit et biberit.",
+          "english": "\"So, wash yourself, anoint yourself with oil, and put on your best clothes, and go down to the threshing floor. Do not let any man see you until he has finished eating and drinking.\""
+        },
+        {
+          "number": 4,
+          "latin": "Quando autem dormierit, observa locum in quo dormiat: veniesque et discooperies pallium, quod est ad pedes ejus: et currus, ac recedet.",
+          "english": "\"When he lies down to sleep, observe the place where he sleeps. Then go and uncover the covering at his feet, and lie down there. And he will then take action regarding your situation, and he will then depart.\""
+        },
+        {
+          "number": 5,
+          "latin": "Quidquid præceperis mihi, inquam, faciam.",
+          "english": "Ruth replied, \"Whatever you command me, I will do.\""
+        },
+        {
+          "number": 6,
+          "latin": "Descendit itaque in aream, et fecit omnia quæ præceperat ei socrus sua.",
+          "english": "So she went down to the threshing floor and did everything her mother-in-law had commanded her."
+        },
+        {
+          "number": 7,
+          "latin": "Cumque comederet Booz, et biberet, et lætaretur, et isset ad dormiendum in parte areæ, venit abscondite, et discoopertis pedibus ejus, dormivit.",
+          "english": "When Boaz had eaten and drunk and was in good spirits, and had gone to lie down at the edge of the threshing floor, Ruth came secretly. She uncovered the covering at his feet and lay down there to sleep."
+        },
+        {
+          "number": 8,
+          "latin": "Et factum est in media nocte, expavit homo, et conturbatus est: viditque mulierem jacentem ad pedes suos.",
+          "english": "And it happened in the middle of the night: the man was startled and became agitated, and he saw a woman lying at his feet."
+        },
+        {
+          "number": 9,
+          "latin": "Et ait ad eam: Quæ es tu? Illa respondit: Ego sum Ruth ancilla tua: expande pallium tuum super ancillam tuam, quia propinquus es.",
+          "english": "And he said to her, \"Who are you?\" She answered, \"I am Ruth, your handmaid. Spread the corner of your cloak over your handmaid, for you are a near kinsman and have the right to redeem me.\""
+        },
+        {
+          "number": 10,
+          "latin": "Qui ait: Benedicta es a Domino filia mea, et major est misericordia tua posterior, quam prior: quoniam non es secuta juvenes, pauperes sive divites.",
+          "english": "He said, \"Blessed are you by the Lord, my daughter! This latter kindness you have shown is even greater than the former, because you have not pursued young men, whether poor or rich.\""
+        },
+        {
+          "number": 11,
+          "latin": "Noli ergo metuere: quidquid petieris a me, faciam tibi. Sciunt enim omnes populi, qui habitant in porta urbis meæ, mulierem te esse virtutis.",
+          "english": "\"Do not fear, therefore; whatever you ask of me, I will do for you. For all the people who dwell in the gate of my city know that you are a virtuous woman.\""
+        },
+        {
+          "number": 12,
+          "latin": "Nec invidiam facio, frater tuus est propinquior me.",
+          "english": "\"And I do not wish to hinder this plan, for there is a kinsman nearer than I who has the first right of redemption.\""
+        },
+        {
+          "number": 13,
+          "latin": "Quiesce hac nocte, et ubi illuxerit, si te voluerit recipere, bene est: sin autem noluerit, ego te absque ulla dubitatione suscipiam, vivit Dominus. Dormi usque mane.",
+          "english": "\"Stay here tonight, and when morning comes, if he wishes to take you as his wife, it is well. But if he does not wish to take you, I will certainly take you, as the Lord lives! Sleep here until morning.\""
+        },
+        {
+          "number": 14,
+          "latin": "Dormivit itaque ad pedes ejus usque ad noctis, et surrexit antequam homines se cognoscerent, et dixit Booz: Cave ne quis te sciat huc venisse.",
+          "english": "So she slept at his feet until near daybreak, and rose before people could recognize one another. And Boaz said, \"Be careful that no one knows you came here.\""
+        },
+        {
+          "number": 15,
+          "latin": "Et rursum: Expandere, inquit, palliolum tuum, quo operiris, et tene utraque manu. Quod cum expandisset et teneret, mensus est sex modios hordei, et posuit super eam. Et illa ingressa est civitatem.",
+          "english": "And again he said, \"Spread out your shawl with which you are covered, and hold it with both hands.\" When she had spread it out and held it, he measured out six measures of barley and placed it upon her. And she then went into the city."
+        },
+        {
+          "number": 16,
+          "latin": "Et venit ad socrum suam. Quæ dixit ei: Quid egisti, filia mi? Narravitque ei omnia quæ fecisset sibi vir.",
+          "english": "And she came to her mother-in-law, who said to her, \"How did you fare, my daughter?\" And she told her everything the man had done for her."
+        },
+        {
+          "number": 17,
+          "latin": "Et dixit: Sex ista modios hordei dedit mihi, et ait: Noli vacua reverti ad socrum tuam.",
+          "english": "And she said, \"He gave me these six measures of barley, and he said, 'Do not return empty-handed to your mother-in-law.'\""
+        },
+        {
+          "number": 18,
+          "latin": "Dixitque Noemi: Expecta filia mea, donec videamus quem res exitum habeat. Non enim cessabit vir, nisi conpleverit sermonem, et firmarit negotium hodie.",
+          "english": "Then Naomi said, \"Wait, my daughter, until we see what outcome this matter will have. For the man will not rest until he has completed his word and settled the business today.\""
+        },
+        {
+          "number": 19,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 20,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 21,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 22,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 23,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 24,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 25,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 26,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 27,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 28,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 29,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 30,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 31,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 32,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 33,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 34,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 35,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 36,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 37,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 38,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 39,
+          "latin": null,
+          "english": null
+        },
+        {
+          "number": 40,
+          "latin": null,
+          "english": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Boaz igitur ascendit ad portam, et sedit ibi. Cumque vidisset propinquum præterire, de quo prius locutus fuerat, vocavit eum nomine, et ait: Declina paulisper, et sede hic. Qui divertit, et sedit.",
+          "english": "So Boaz went up to the city gate, which was where all legal and social matters were decided, and he sat there. When he saw the close relative—the one he had spoken about concerning the land and Ruth—passing by, he called out to him by name and said, \"Step aside for a moment, and sit down here with me.\" So the kinsman turned aside from the path and sat down with Boaz."
+        },
+        {
+          "number": 2,
+          "latin": "Et assumptis decem viris de senioribus civitatis, dixit: Sedete hic.",
+          "english": "Boaz then gathered ten men from among the elders of the city—these were the necessary witnesses for legal transactions—and said to them, \"Please sit down here.\""
+        },
+        {
+          "number": 3,
+          "latin": "Quibus sedentibus, locutus est ad propinquum: Partem agri fratris nostri Elimelech vendit Noemi, quæ reversa est de regione Moabitide.",
+          "english": "Once they were all seated, Boaz spoke to the close relative, explaining the situation: \"Naomi, who has returned from the land of Moab, is selling the portion of the field that belonged to our relative Elimelech.\""
+        },
+        {
+          "number": 4,
+          "latin": "Et ego putavi dicendum tibi, et te monere coram cunctis sedentibus, et majoribus natu civitatis. Si vis possidere jure propinquitatis, eme et posside. Sin autem non vis, hoc ipsum indica mihi, ut sciam quid facere debeam. Nullus est enim alius juxta te, qui jus habeat propinquitatis, ego autem sum tertius. At ille respondit: Ego emam.",
+          "english": "\"I thought it was necessary to tell you this now, and to inform you in the presence of all these sitting here, especially the elders of the city. If you wish to redeem the property by your right as a close relative, then buy it and take possession of it. But if you do not wish to redeem it, then you must let me know so that I can proceed, because I am the next in line to you to exercise the right of a close relative to redeem the land. Therefore, there is no other person besides you who has the right of redemption, and I am next after you.\" The kinsman immediately responded, \"I will redeem it.\""
+        },
+        {
+          "number": 5,
+          "latin": "Dixitque Boaz: Quando emeris agrum de manu Noemi, Ruth quoque Moabitidem, quæ fuit uxor defuncti, debes accipere, ut suscites nomen defuncti in hæreditate sua.",
+          "english": "Boaz then explained, \"When you buy the field from Naomi, you must also take Ruth the Moabitess as your wife, she who was the wife of the deceased. This is to ensure that the name of the deceased man is continued in his inheritance and does not perish.\""
+        },
+        {
+          "number": 6,
+          "latin": "Qui respondit: Cedo jure propinquitatis: neque enim possum absque meo detrimento hæreditatem tueri: meum primogenitum periclitabor. Tu meo utere privilegio, quo me scio non posse uti.",
+          "english": "The kinsman replied, \"I must surrender my right of redemption. I cannot protect this inheritance for myself without causing harm to my own estate; I would risk the future of my own firstborn son. So, you must use my privilege, which I know I am unable to use myself.\""
+        },
+        {
+          "number": 7,
+          "latin": "Hic autem erat mos in Israel inter propinquos, ut si quando aliquis suis juri cederet, ut firma esset commutatio, tolleret vir calceamentum suum, et daret proximo suo: hoc erat testimonium cessionis in Israel.",
+          "english": "Now, this was the established custom in Israel among close relatives when someone surrendered their right of redemption, in order that a transfer of property would be confirmed and legally binding: a man would take off his sandal and give it to his neighbor. This act served as a clear testimony of the surrender of rights in Israel."
+        },
+        {
+          "number": 8,
+          "latin": "Dixit ergo Boaz propinquo: Tolle calceamentum tuum. Et statim deposuit de pede suo.",
+          "english": "So Boaz said to the close relative, \"Then take off your sandal, as is the custom.\" And immediately, the kinsman took it off his foot."
+        },
+        {
+          "number": 9,
+          "latin": "At Boaz majoribus natu, et omni populo testatus est: Testes vos estis hodie, quod possederim omnia quæ fuerunt Elimelech, et Chilion, et Maalon, de manu Noemi:",
+          "english": "Then Boaz solemnly declared to the elders and to all the people present, \"You are all witnesses today that I have acquired everything that belonged to Elimelech, and everything that belonged to Chilion and Mahlon, all of it from the hand of Naomi.\""
+        },
+        {
+          "number": 10,
+          "latin": "Et Ruth Moabitidem, uxorem Maalon, in conjugem sumpserim, ut suscitem nomen defuncti in hæreditate sua, ne extirpetur nomen ejus de fratribus suis, et de porta loci sui. Vos, inquam, hujus rei testes estis.",
+          "english": "\"And I have also taken Ruth the Moabitess, who was the wife of Mahlon, to be my own wife. My purpose in doing this is to perpetuate the name of the deceased within his inheritance, so that his name will not be cut off from among his relatives, nor from the register at the gate of his hometown. I declare to you that you are indeed witnesses of this matter.\""
+        },
+        {
+          "number": 11,
+          "latin": "Respondit omnis populus qui in porta residebat, et majores natu: Nos testes sumus: faciat te Dominus sicut Rachel, et sicut Lia, quæ ædificaverunt domum Israël: ut sit exemplum fortitudinis in Ephratha, et habeat celebre nomen in Bethlehem:",
+          "english": "All the people who were sitting in the city gate, along with the elders, responded, \"We are indeed witnesses! May the Lord make your wife, Ruth, like Rachel and Leah, who together built up the entire household of Israel. May you yourself become an example of strength and prosperity in Ephrathah, and may your name become celebrated and famous in Bethlehem.\""
+        },
+        {
+          "number": 12,
+          "latin": "Fiatque domus tua sicut domus Phares, quem Thamar peperit Juda, de semine quod dederit Dominus tibi ex hac puella.",
+          "english": "\"May your household become like the household of Perez, whom Tamar bore to Judah, because of the offspring the Lord will grant to you from this young woman, Ruth.\""
+        },
+        {
+          "number": 13,
+          "latin": "Tulit itaque Boaz Ruth, et accepit uxorem: ingressusque est ad eam, et dedit illi Dominus ut conciperet, et pareret filium.",
+          "english": "So Boaz took Ruth, and she became his wife. He then went in to her, and the Lord granted her the grace to conceive and to bear a son."
+        },
+        {
+          "number": 14,
+          "latin": "Dixeruntque mulieres ad Noemi: Benedictus Dominus, qui non dimisit tibi hodie propinquum, ut vocaretur nomen ejus in Israël: et sit tibi in pretium, et foveatur nomine suo.",
+          "english": "Then the women of Bethlehem said to Naomi, \"Praised be the Lord, who has not left you without a close relative today, so that his name may be celebrated and remembered in Israel! May this child be to you a full redemption and a comfort, and may his own name be cherished.\""
+        },
+        {
+          "number": 15,
+          "latin": "Et sit tibi qui consoletur animam tuam, et nutriat senectutem tuam: de nuru enim tua natus est, quæ te diligit, et multo melior est tibi quam si septem filios haberes.",
+          "english": "\"May this child bring comfort to your soul and sustain you in your old age, for he has been born to your daughter-in-law, who deeply loves you. She is far better to you than if you had seven sons, for her loyalty and love surpass all.\""
+        },
+        {
+          "number": 16,
+          "latin": "Susceptumque Noemi puerum posuit in sinu suo, et nutrix ejus effecta est.",
+          "english": "Naomi then took the child herself, placing him in her lap, and she became his nurse and caretaker, tending to him as her own."
+        },
+        {
+          "number": 17,
+          "latin": "Vicini vero et cognati, gratulantes ei, dixerunt: Natus est filius Noemi: et vocaverunt nomen ejus Obed. Hic est pater Isai, pater David.",
+          "english": "The neighbors and relatives, filled with joy and congratulating her, declared, \"A son has been born to Naomi!\" And they gave him the name Obed. This Obed later became the father of Jesse, who in turn was the father of David, the great king."
+        },
+        {
+          "number": 18,
+          "latin": "Hæ sunt generationes Phares: Phares genuit Esrom,",
+          "english": "Now, these are the generations descending from Perez: Perez begat Hezron."
+        },
+        {
+          "number": 19,
+          "latin": "Esrom genuit Aram, Aram genuit Aminadab,",
+          "english": "Hezron begat Ram, and Ram begat Amminadab."
+        },
+        {
+          "number": 20,
+          "latin": "Aminadab genuit Naasson, Naasson genuit Salmon,",
+          "english": "Amminadab begat Nahshon, and Nahshon begat Salmon."
+        },
+        {
+          "number": 21,
+          "latin": "Salmon genuit Boaz, Boaz genuit Obed,",
+          "english": "Salmon begat Boaz, and Boaz begat Obed."
+        },
+        {
+          "number": 22,
+          "latin": "Obed genuit Isai, Isai genuit David.",
+          "english": "Obed begat Jesse, and Jesse begat David."
+        }
+      ]
+    }
+  ]
+}

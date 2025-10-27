@@ -1,0 +1,288 @@
+{
+  "name": "Zephaniah",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Verbum Domini, quod factum est ad Sophoniam filium Chusi, filii Godoliae, filii Amariae, filii Ezechiae, in diebus Josiae filii Amon regis Judae:",
+          "english": "The Word of the Lord, which was delivered to Zephaniah, son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah, son of Amon, king of Judah:"
+        },
+        {
+          "number": 2,
+          "latin": "Congregans congregabo omnia a facie terrae, dicit Dominus.",
+          "english": "The Lord says, “I will completely sweep away the land.”"
+        },
+        {
+          "number": 3,
+          "latin": "Auferam homines et pecora: auferam volucres caeli, et pisces maris: et ruent impii cum scandalis: et disperdam homines de facie terrae, dicit Dominus.",
+          "english": "“I will take away men and the animals; I will take away the birds of the sky, and the fish of the sea. And the wicked will collapse along with their sins. I will destroy all mankind from the face of the land,” says the Lord."
+        },
+        {
+          "number": 4,
+          "latin": "Et extendam manum meam super Judam, et super omnes habitatores Jerusalem: et disperdam de loco isto reliquias Baal, et nomina aedituorum cum sacerdotibus;",
+          "english": "“I will stretch out my hand against Judah and against all those who live in Jerusalem. I will destroy from this place the remnants of Baal, and the names of the false priests, along with the true priests."
+        },
+        {
+          "number": 5,
+          "latin": "et eos qui adorant super tecta militiam caeli, et adorant, et jurant in Domino, et jurant in Moloch.",
+          "english": "“Also, I will destroy those who worship the armies of the sky on the rooftops, and who worship, and swear by the Lord, and swear by Milcom."
+        },
+        {
+          "number": 6,
+          "latin": "Et eos qui aversi sunt a Domino: et qui non quaesierunt Dominum, nec investigaverunt eum.",
+          "english": "“I will also destroy those who have turned away from the Lord, those who have not sought after the Lord, nor inquired after Him.”"
+        },
+        {
+          "number": 7,
+          "latin": "Silete a facie Domini Dei, quia prope est dies Domini: quia praeparavit Dominus hostiam suam, sanctificavit convocatos suos.",
+          "english": "Be silent before the face of the Lord God, because the day of the Lord is near; for the Lord has prepared his sacrifice, he has sanctified those whom he has called."
+        },
+        {
+          "number": 8,
+          "latin": "Et erit in die hostiae Domini, visitabo super principes, et super filios regis, et super omnes qui induti sunt veste aliena.",
+          "english": "“And on the day of the Lord’s sacrifice, I will visit the princes and the sons of the king, and all those who are clothed in foreign garments."
+        },
+        {
+          "number": 9,
+          "latin": "Et visitabo in die illa omnem eum qui adtransit super limen, qui implet iniquitatem et dolos.",
+          "english": "“On that day I will visit everyone who leaps over the threshold, who fills the house with violence and deceit."
+        },
+        {
+          "number": 10,
+          "latin": "Et erit in die illa, dicit Dominus, vox clamoris a porta piscium, et ululatus a secunda, et contritio magna a collibus.",
+          "english": "“On that day,” says the Lord, “there will be a cry of wailing from the Fish Gate, and a lamentation from the second quarter, and a great destruction from the hills."
+        },
+        {
+          "number": 11,
+          "latin": "Ululate, habitatores Pilae, quia conticuit omnis populus Chanaan: consumpti sunt omnes qui argentum ponderabant.",
+          "english": "Wail, you inhabitants of the Mortar, because all the people of Canaan have become silent; all those who were merchants have been destroyed."
+        },
+        {
+          "number": 12,
+          "latin": "Et erit in tempore illo, scrutabor Jerusalem in lucernis, et visitabo super viros gloriosos, qui dicunt in cordibus suis: Non operatur bene Dominus, nec malum.",
+          "english": "“At that time I will thoroughly search Jerusalem with lamps, and I will visit the men of renown who say in their hearts, ‘The Lord does not act for good, nor does he act for evil.’"
+        },
+        {
+          "number": 13,
+          "latin": "Et erit fortitudo eorum in praedam, et domus eorum in desolationem: et aedificabunt domos, et non habitabunt eas: et plantabunt vineas, et non bibent vinum earum.",
+          "english": "“And their wealth will be for plunder, and their houses for desolation; they will build houses, but not inhabit them, and they will plant vineyards, but not drink their wine.”"
+        },
+        {
+          "number": 14,
+          "latin": "Prope est dies Domini magnus: prope, et velox nimis: vox diei Domini amara: ibi fortis irruit.",
+          "english": "The great day of the Lord is near; it is near, and hastens quickly; the voice of the day of the Lord is bitter; there the strong man will cry out."
+        },
+        {
+          "number": 15,
+          "latin": "Dies irae dies tribulationis et angustiae, dies calamitatis et miseriae, dies tenebrarum et caliginis, dies nebulae et turbinis,",
+          "english": "That day is a day of wrath, a day of trouble and distress, a day of calamity and misery, a day of darkness and gloom, a day of clouds and thick darkness,"
+        },
+        {
+          "number": 16,
+          "latin": "dies tubae et clangoris super civitates munitas, et super angulos excelsos.",
+          "english": "a day of the trumpet and the battle cry against the fortified cities and against the high corners."
+        },
+        {
+          "number": 17,
+          "latin": "Et tribulabo homines, et ambulabunt ut caeci, quia peccaverunt Domino: et spargentur sanguis eorum sicut lutum, et corpora eorum sicut stercora.",
+          "english": "“I will bring distress upon men, and they will walk like the blind, because they have sinned against the Lord; and their blood will be poured out like dust, and their bodies like dung."
+        },
+        {
+          "number": 18,
+          "latin": "Neque argentum eorum, neque aurum eorum poterit liberare eos in die irae Domini: in igne zeli ejus consumetur omnis terra: quoniam consumptionem, et cito faciet cunctis habitatoribus terrae.",
+          "english": "“Neither their silver nor their gold will be able to save them on the day of the Lord's wrath; but the whole land will be consumed in the fire of his jealousy, for he will make a speedy end of all the inhabitants of the land.”"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Congregamini, et congregamini, gens sine desiderio,",
+          "english": "Gather yourselves together, you nations that don't care about God,"
+        },
+        {
+          "number": 2,
+          "latin": "antequam veniat decretum quasi pulvis transvolans, antequam veniat super vos ira furoris Domini, antequam veniat vobis dies furoris Domini.",
+          "english": "Before the time to act comes like the wind blows the dust away, before the anger of the Lord's fury comes on you, before the Lord's day of wrath descends on you."
+        },
+        {
+          "number": 3,
+          "latin": "Quærite Dominum, omnes mansueti terræ, qui judicium ejus operamini: quærite justitiam, quærite mansuetudinem, si forte protegamini in die furoris Domini.",
+          "english": "Seek the Lord, all you humble ones of the earth, you who work to do His will. Seek righteousness, seek meekness, so that perhaps you may be protected on the day of the Lord's fury."
+        },
+        {
+          "number": 4,
+          "latin": "Quia Gaza derelinquetur, et Ascalon in solitudinem: Azotum in meridie ejicient, et Accaron eradicabitur.",
+          "english": "For Gaza will be forsaken, and Ascalon will become a wasteland. They will cast out the people of Ashdod at noon, and Ekron will be uprooted."
+        },
+        {
+          "number": 5,
+          "latin": "Væ qui habitatis, partem maris, gens perditorum! Verbum Domini super vos, Chanaan, terra Philisthinorum: et disperdam te ita quod non sit incola.",
+          "english": "Woe to you who live on the coast, you nation of the lost! The Lord's word is against you, Canaan, land of the Philistines. I will destroy you so that no one will live there."
+        },
+        {
+          "number": 6,
+          "latin": "Et erit pars maris in pascuis, et pabulationes pecorum: in domibus, quæ requiescunt in medio gregum.",
+          "english": "The coast will become pastures and folds for flocks, for those who rest in the middle of their herds."
+        },
+        {
+          "number": 7,
+          "latin": "Et erit pars reliqua domus Juda, qui salvabuntur, in ea: et pascentur in domibus Ascalonis: cum sederint ad vesperam.",
+          "english": "And those who remain of the house of Judah will be saved, and they will graze in the houses of Ascalon, when they sit at evening."
+        },
+        {
+          "number": 8,
+          "latin": "Audivi opprobrium Moab, et blasphemias filiorum Ammon, quibus exprobraverunt populo meo, et magnificati sunt super terminos eorum.",
+          "english": "I have heard the taunts of Moab and the insults of the children of Ammon, who have reproached My people and have magnified themselves against their borders."
+        },
+        {
+          "number": 9,
+          "latin": "Propterea vivo ego, dicit Dominus exercituum, Deus Israël, quia Moab erit ut Sodoma, et filii Ammon ut Gomorrha: possessio spinarum, et salinarum, et solitudo usque in sempiternum: reliquiæ populi mei diripient eos, et reliquiæ gentis meæ possidebunt illos.",
+          "english": "Therefore, as I live, says the Lord of hosts, the God of Israel, surely Moab will be like Sodom, and the children of Ammon like Gomorrah: a possession of thorns, and salt pits, and a desolation forever: the remnants of My people will plunder them, and the remnants of My nation will possess them."
+        },
+        {
+          "number": 10,
+          "latin": "Hoc eis eveniet pro superbiæ suæ, quia exprobraverunt, et magnificati sunt super populum Domini exercituum.",
+          "english": "This will happen to them for their pride, because they have reproached and have magnified themselves against the people of the Lord of hosts."
+        },
+        {
+          "number": 11,
+          "latin": "Horribilis Dominus super eos: conteret omnes deos terræ: et adorabunt eum, singuli de loco suo, omnes insulæ gentium.",
+          "english": "The Lord will be terrible against them: He will destroy all the gods of the earth; and all the islands of the nations, each in its own place, will worship Him."
+        },
+        {
+          "number": 12,
+          "latin": "Et vos Ethiopes, interfecti quoque gladio meo eritis.",
+          "english": "You Ethiopians, you also will be slain by My sword."
+        },
+        {
+          "number": 13,
+          "latin": "Et extendet manum suam super aquilonem, et perdet Assur: et rediget in solitudinem civitatem Ninive, et aridam quasi desertum.",
+          "english": "And He will stretch out His hand against the north and destroy Assyria; He will make Nineveh a desolation, as dry as the desert."
+        },
+        {
+          "number": 14,
+          "latin": "Et dormient in medio ejus greges, omnes bestiæ gentium: et onocrotalus et ericius in liminibus ejus dormient: vox cantantis in fenestris: corvus in solariis: quia conteri confracta est eorum fortitudo.",
+          "english": "Herds will lie down in its midst, all the beasts of the nations; both the pelican and the hedgehog will lodge in its thresholds; the owl will hoot in the windows; the raven will be in the roof beams; for their strength has been crushed."
+        },
+        {
+          "number": 15,
+          "latin": "Hæc est civitas laeta, quæ habitaverat confidenter, quæ dicebat in corde suo: Ego sum, et non est amplius: quomodo facta est in solitudinem, cubile bestiarum! omnis qui transierit per eam sibilabit, et movebit manum suam.",
+          "english": "This is the joyful city that dwelt securely, that said in her heart: 'I am, and there is no more.' How has she become a desolation, a den for beasts! Everyone who passes by her will hiss and shake their hand."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Vae civitati rebelli et contaminatae, et opprimenti!",
+          "english": "What misery awaits the rebellious, polluted, oppressing city!"
+        },
+        {
+          "number": 2,
+          "latin": "Non audivit vocem, nec suscepit doctrinam: in Domino non speravit, nec ad Deum suum appropinquavit.",
+          "english": "It has not obeyed God. It has rejected all guidance. It did not trust in the Lord. It would not approach its God."
+        },
+        {
+          "number": 3,
+          "latin": "Principes ejus in medio ejus rugientes leones: judices ejus lupi vespere, non relinquebant in mane.",
+          "english": "Its leaders are roaring lions in the city. Its judges are wolves at dusk, devouring until dawn."
+        },
+        {
+          "number": 4,
+          "latin": "Prophetae ejus furentes et viri perfidi: sacerdotes ejus polluerunt sancta, et contempserunt legem.",
+          "english": "Its prophets are brash and untrustworthy men. Its priests defile holy things, and they disrespect the law."
+        },
+        {
+          "number": 5,
+          "latin": "Dominus justus in medio ejus, non faciet iniquitatem: mane mane judicium suum dabit in lucem, et non ignorabit.",
+          "english": "The Lord, who is just, is within it. He will do no injustice. Every morning, He brings His judgment to light, and it never fails."
+        },
+        {
+          "number": 6,
+          "latin": "Disperdidit gentes: desolatae sunt turres eorum: dedi viam eorum desertam, ita ut non esset qui transiret: civitates eorum desolatae sunt absque homine.",
+          "english": "He has destroyed nations. Their towers are desolate. He has made their roads deserted so no one can pass. Their cities are desolate, without inhabitants."
+        },
+        {
+          "number": 7,
+          "latin": "Dixi: Certe timebis me, suscipies disciplinam: et non peribit coram oculis ejus, omnia quaecumque constitui super eam: sed mane consurgentes corruperunt omnes cogitationes suas.",
+          "english": "I said: Surely you will fear Me and accept guidance. You will not be destroyed before My eyes, nor lose all of My decrees. But instead, rising up every morning, they corrupt all their thoughts."
+        },
+        {
+          "number": 8,
+          "latin": "Quapropter sustine me, dicit Dominus, in die resurrectionis meae in testimonium. Quia judicium meum in congregatione gentium, ut colligam reges, et congregem regna, et effundam super eos indignationem meam, omnem iram furoris mei: in igne enim zeli mei devorabitur omnis terra.",
+          "english": "Therefore, be patient and wait for Me, says the Lord, until the day I arise to judge. Because My judgment will come upon the nations so I can gather kings and gather kingdoms, pouring out upon them all My indignation, all the heat of My anger. For in the fire of My zeal, all the earth will be consumed."
+        },
+        {
+          "number": 9,
+          "latin": "Tunc reddam populis labium electum, ut omnes invocent nomen Domini, et serviant ei humero uno.",
+          "english": "Then I will give to the peoples a pure tongue so that all will call on the name of the Lord, and they will serve Him with one accord."
+        },
+        {
+          "number": 10,
+          "latin": "De finibus fluminum Aethiopiae, supplices mei, filii dispersorum meorum, deferent munus mihi.",
+          "english": "From beyond the rivers of Ethiopia, My supplicants, the remnant of My scattered, will bring offerings to Me."
+        },
+        {
+          "number": 11,
+          "latin": "In die illa non confunderis super cunctis adinventionibus tuis, quibus praevaricata es in me: quia tunc auferam de medio tui exultantes super superbiam tuam, et non adjicies, ut magnificeris ultra in monte sancto meo.",
+          "english": "In that day, you will not be ashamed because of all your deeds, by which you have transgressed against Me. Then I will remove from your midst those who boast of their pride. You will never again be exalted on My holy mountain."
+        },
+        {
+          "number": 12,
+          "latin": "Et derelinquam in medio tui populum pauperem et mendicum: et sperabunt in nomine Domini.",
+          "english": "I will leave within you a poor and humble people, and they will trust in the name of the Lord."
+        },
+        {
+          "number": 13,
+          "latin": "Reliquiae Israël non facient iniquitatem, nec loquentur mendacium, et non invenietur in ore eorum lingua dolosa: quoniam ipsi pascentur et requiescent, et non erit qui deterreat eos.",
+          "english": "The remnant of Israel will do no wrong, nor will they speak lies, nor will a deceitful tongue be found in their mouth. For they will feed and rest, and no one will frighten them."
+        },
+        {
+          "number": 14,
+          "latin": "Lauda, filia Sion: jubila, Israël: laetare, et exulta, filia Jerusalem, ex toto corde tuo.",
+          "english": "Sing, daughter of Zion; shout with joy, Israel; rejoice and exult, daughter of Jerusalem, with all your heart."
+        },
+        {
+          "number": 15,
+          "latin": "Amovit Dominus judicium tuum: avertit inimicos tuos. Dominus rex Israël in medio tui: non timebis malum ultra.",
+          "english": "The Lord has removed your judgment; He has turned away your enemies. The Lord, the King of Israel, is in your midst; you shall no longer fear evil."
+        },
+        {
+          "number": 16,
+          "latin": "In die illa dicetur Jerusalem: Noli timere: Sion, non dissolvantur manus tuae.",
+          "english": "In that day, it will be said to Jerusalem: “Do not be afraid, Zion; let not your hands be slack.”"
+        },
+        {
+          "number": 17,
+          "latin": "Dominus Deus tuus in medio tui, fortis, ipse salvabit: gaudebit super te in laetitia, silebit in dilectione tua: gaudebit super te in cantico.",
+          "english": "The Lord your God is in your midst, a warrior, He will save. He will rejoice over you with gladness; He will be silent in His love for you; He will rejoice over you with singing."
+        },
+        {
+          "number": 18,
+          "latin": "Conturbatos ab iniquitate, congregabo: quoniam erant ex te, ut non ultra portetis opprobrium.",
+          "english": "I will gather those who mourn for the feasts, who are of you, and I will take away your disgrace."
+        },
+        {
+          "number": 19,
+          "latin": "Ecce ego interficiam omnes qui afflixerunt te in tempore illo: et salvabo claudicantem, et eam quae ejecta est congregabo: et ponam eos in laudem et in nomen in omni terra infamiae eorum.",
+          "english": "Behold, I will deal with all those who afflict you at that time; and I will save the lame and gather the outcast; and I will make them a praise and a name in all the earth."
+        },
+        {
+          "number": 20,
+          "latin": "In tempore illo adducam vos, et in tempore quo congregavero vos: quia dabo vos in nomen et in laudem in cunctis populis terrae, cum convertero captivitatem vestram coram oculis vestris, dicit Dominus.",
+          "english": "At that time, I will bring you in, and at the time I gather you together; for I will give you renown and praise among all the peoples of the earth, when I restore your fortunes before your eyes, says the Lord."
+        }
+      ]
+    }
+  ]
+}

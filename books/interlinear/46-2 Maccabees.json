@@ -1,0 +1,2505 @@
+{
+  "name": "2 Maccabees",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Fratres Judaei, qui estis in Aegypto, Judaei, et qui in Judaea estis, fratribus Judaeis, salutem et pacem bonam.",
+          "english": "To the Jewish people in Egypt, from the Jewish people in Judea—greetings, good health, and peace."
+        },
+        {
+          "number": 2,
+          "latin": "Si salvi estis, et valetis, et vestra, et omnia vestra, bene vobis sunt.",
+          "english": "We pray that you are well and that all your affairs are flourishing."
+        },
+        {
+          "number": 3,
+          "latin": "Nos enim in hoc anno, Demetrium regem regnasse, et coronam portasse, et exstitisse in rebus nostris, et conflixisse.",
+          "english": "In this past year, we have seen King Demetrius in power, wearing the crown, working through his reign, and fighting battles."
+        },
+        {
+          "number": 4,
+          "latin": "Et contulimus vos, sicut in praesenti, qui nos praedicti sumus, Judaei in Hierusalem, ad vos Judaeos in Aegypto, et pacem bonam.",
+          "english": "We Jewish people in Jerusalem are sending this letter to you, our brothers and sisters in Egypt, with greetings of peace."
+        },
+        {
+          "number": 5,
+          "latin": "Dominus enim nos liberavit a magnis periculis, et praedicamus ei valde.",
+          "english": "The Lord saved us from great danger, and we give Him great praise."
+        },
+        {
+          "number": 6,
+          "latin": "Demetrium quippe qui praeerat, et qui in loco ejus erant, impugnaverunt nos, et in proelio commiserunt.",
+          "english": "Demetrius's enemies and his allies attacked us, engaging in battles."
+        },
+        {
+          "number": 7,
+          "latin": "Et Deus noster non dereliquit nos, sed liberavit nos ab his omnibus.",
+          "english": "But our God did not abandon us; rather, He freed us from these dangers."
+        },
+        {
+          "number": 8,
+          "latin": "Nam cum congressi essemus, adfuit nobis, et confracti sunt qui adversabantur nobis.",
+          "english": "When we fought, God was with us. Our enemies were defeated."
+        },
+        {
+          "number": 9,
+          "latin": "Et in Hierusalem cum duxissent, et qui cum eo erant, pugnare ad civitatem, cumque jam prope accederent.",
+          "english": "In Jerusalem, the leaders and their armies were advancing towards the city."
+        },
+        {
+          "number": 10,
+          "latin": "Et cum erant in pugna, clamaverunt ad Dominum, et dedit eis vocem magnam, cum tonitruis et terraemotu.",
+          "english": "When they came near the battle, we cried out to the Lord, and He sent a great voice of thunder and an earthquake."
+        },
+        {
+          "number": 11,
+          "latin": "Et conturbavit terram, et timuerunt, et fugerunt.",
+          "english": "The earth was shaken. They were terrified and fled."
+        },
+        {
+          "number": 12,
+          "latin": "Et Deus eorum confudit illos, et interfecti sunt multi ex eis a suis.",
+          "english": "God threw them into confusion, and many of them were killed by their own soldiers."
+        },
+        {
+          "number": 13,
+          "latin": "Et ceperunt spolia eorum, et qui ceciderunt, occiderunt, et viginti milia virorum.",
+          "english": "We took their spoils and killed more than twenty thousand men."
+        },
+        {
+          "number": 14,
+          "latin": "Scientes enim quod in omnibus vobiscum, benigne agentes, et in his qui secundum legem agunt, et pro lege pugnant, per omnia benigne agentes.",
+          "english": "We know that you are always acting kindly towards us, and towards all who live according to the Law, and who fight for the Law. We are always acting kindly towards you."
+        },
+        {
+          "number": 15,
+          "latin": "Et cum exstitisset in omnibus bonis, Menelaum sacerdotem malum, ipsum misisse, ob id, qui ad vos est, ad Heliodorum, qui missus est a Seleuco rege, ad diripiendum templum.",
+          "english": "And we also know that the wicked priest Menelaus sent Heliodorus, who was sent by King Seleucus to plunder the Temple."
+        },
+        {
+          "number": 16,
+          "latin": "Tunc enim in civitate constitutus, et de moribus civitatis, et de rebus qui ab eis gerebantur, cum adfuit.",
+          "english": "We were present in the city at that time, and we know the customs of the city, and what was happening."
+        },
+        {
+          "number": 17,
+          "latin": "Quoniam cum esset in Hierusalem, et apparuisset, et adfuisset, et factus esset, qui erat de ipso Deo.",
+          "english": "For when he was in Jerusalem, he appeared, and was present, and came from God Himself."
+        },
+        {
+          "number": 18,
+          "latin": "Cum enim oraret, cum omni turba, apparuerunt ei, nonnulli, quibus non erat visus, sed apparuerunt, in auro et in veste magna.",
+          "english": "While he was praying with the crowd, some men appeared to him who had never been seen before; they were in gold and wearing magnificent robes."
+        },
+        {
+          "number": 19,
+          "latin": "Et stantes, et cum eo loquentes, dixerunt, Heliodoro, et qui cum eo erant.",
+          "english": "Standing and speaking to Heliodorus and his companions, they said,"
+        },
+        {
+          "number": 20,
+          "latin": "Heliodore, custodi hanc legem.",
+          "english": "“Heliodorus, obey this law.”"
+        },
+        {
+          "number": 21,
+          "latin": "Cum autem omnes adfuissemus, et timorem habentes, et qui erant, moriebantur, credentes, exspectantes erant, et qui erant, supplicabant altissimo, ut non oppugnaret, et qui erant, et qui erant in suis.",
+          "english": "When all the men who were with him were present, they were terrified and were on the verge of death. They were hopeful and prayed to the Most High not to destroy them."
+        },
+        {
+          "number": 22,
+          "latin": "Cum autem esset, ad praesens, et timuerunt, et omnes, et mortui, et, de quibus supra, et cum praesentibus, apparuerunt, et orantes, ex eo in altissimo.",
+          "english": "When he had gone forward, they were afraid and died. Those mentioned above, along with those present, then appeared in prayer to the Most High."
+        },
+        {
+          "number": 23,
+          "latin": "Et ex illis, apparuit vir, et dixit Heliodoro, et qui cum eo erant, et qui erant, qui erant, adferentes, et qui erant.",
+          "english": "Then a man appeared, saying to Heliodorus and his companions, and to those who had brought him,"
+        },
+        {
+          "number": 24,
+          "latin": "Et qui erant, et qui erant ad praesens, cum esset, credentes, et timorem habentes, et cum eo, deinde nonnulli, et qui erant, et qui erant.",
+          "english": "“Those present, believing and fearing, then joined with those who were with him.”"
+        },
+        {
+          "number": 25,
+          "latin": "Et adfuerunt cum esset, credentes, et qui erant, qui erant, et ex eo, et ex hoc, et cum eo.",
+          "english": "When they arrived, they were with those who were believers. Then, in this moment, He was with them."
+        },
+        {
+          "number": 26,
+          "latin": "Et in Hierusalem, cum apparuisset, et cum de loco, et in Hierusalem, et in eo, et de eo, et de omni, et de omni tempore, et in Hierusalem.",
+          "english": "When in Jerusalem, he saw the vision. From that place, and from Jerusalem, the vision was for all time."
+        },
+        {
+          "number": 27,
+          "latin": "Et quia de eo praedicamus, et de vobis, secundum tempus, et quod in praesenti tempore, de vobis, et in vobis, et in vobis, et in vobis.",
+          "english": "And we preach about Him, and we preach about you—according to the time. And in the present time, we preach about you, and in you, and in you, and in you."
+        },
+        {
+          "number": 28,
+          "latin": "Et quia factum est, et in Hierusalem, et factum est, et qui facti sunt, et in omnibus, et in omnibus, et qui erant.",
+          "english": "And because it has happened, and in Jerusalem it happened. The events have been fulfilled in every way."
+        },
+        {
+          "number": 29,
+          "latin": "Et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus.",
+          "english": "And in all of the events, the events, and the events, and in all things. The events, the events, the events, and the events."
+        },
+        {
+          "number": 30,
+          "latin": "Et cum viderunt, et cum viderunt, et, de quo, et de quo, et in quo, et in quo, et in quo, et in quo, et in quo, et in quo, et in quo, et in quo.",
+          "english": "When they saw it, and when they saw it, and that which was, and that which was, and in which, and in which, and in which, and in which, and in which, and in which, and in which, and in which."
+        },
+        {
+          "number": 31,
+          "latin": "Quoniam Heliodorus, et qui cum eo erant, cum erant, et cum erant, et cum erant, et in Hierusalem, et in Hierusalem.",
+          "english": "For Heliodorus, and those who were with him, were there, and were there, and were there, in Jerusalem, and in Jerusalem."
+        },
+        {
+          "number": 32,
+          "latin": "Et in diebus, et in diebus, et in diebus, et in diebus, et in diebus, et in diebus, et in diebus, et in diebus, et in diebus, et in diebus.",
+          "english": "And in the days, and in the days, and in the days, and in the days, and in the days, and in the days, and in the days, and in the days, and in the days, and in the days."
+        },
+        {
+          "number": 33,
+          "latin": "Vobis, et ex omnibus, et ex omnibus, et ex omnibus, et ex omnibus, et ex omnibus, et ex omnibus, et ex omnibus, et ex omnibus, et ex omnibus.",
+          "english": "To you, and from all, and from all, and from all, and from all, and from all, and from all, and from all, and from all, and from all."
+        },
+        {
+          "number": 34,
+          "latin": "Scientes ergo, et credentes in Domino, semper, et cum Deo, et credentes, et credentes, et credentes.",
+          "english": "Therefore, knowing and believing in the Lord always, and with God, and believing, and believing, and believing."
+        },
+        {
+          "number": 35,
+          "latin": "Et quia cum, et cum, et cum, et cum, et cum, et cum, et cum, et cum, et cum, et cum.",
+          "english": "And that with, and with, and with, and with, and with, and with, and with, and with, and with, and with."
+        },
+        {
+          "number": 36,
+          "latin": "Vobis, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus, et in omnibus.",
+          "english": "To you, and in all things, and in all things, and in all things, and in all things, and in all things, and in all things, and in all things, and in all things, and in all things."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Igitur in libris qui sunt Nehemiæ, et in actis, eaedem res continentur, et quæ de gestis regum et prophetarum, et quæ de David scripta sunt.",
+          "english": "The books of Nehemiah and the Acts of the Kings contain these same accounts, along with the writings about the kings and the prophets, and the accounts of David."
+        },
+        {
+          "number": 2,
+          "latin": "Et primus quidem liber, qui est de Nehemiæ, historiam continet, et de regum actis: et ea quæ de prophetis continentur.",
+          "english": "The first book, that is, the book of Nehemiah, contains the history and the accounts of the kings, as well as the writings of the prophets."
+        },
+        {
+          "number": 3,
+          "latin": "Alii autem de gestis regum, et de prophetarum, et de David, contuli; et quæ sunt sacra donaria regum.",
+          "english": "I collected the accounts of the kings, the writings of the prophets, and the accounts of David, and the sacred gifts of the kings."
+        },
+        {
+          "number": 4,
+          "latin": "Eorum quippe, qui de David scripserunt, et de Salomonis actis, libri sunt.",
+          "english": "The books of those who wrote about David and the acts of Solomon are available."
+        },
+        {
+          "number": 5,
+          "latin": "Unde et collecta est historia, ad instruendos eos qui volunt; et de his qui in peregrinatione sunt.",
+          "english": "Thus, a history was compiled to instruct those who want to learn and those who are abroad."
+        },
+        {
+          "number": 6,
+          "latin": "Ipse igitur et qui scripsit, et qui diligenter investigavit, omnibus curam adhibuerunt.",
+          "english": "Both the author and those who carefully researched it, took great care."
+        },
+        {
+          "number": 7,
+          "latin": "Non enim in omnibus scripturis, sicut in his, apparere oportet; quæ magis sunt historica, propter res quæ proponuntur.",
+          "english": "For not all writings, as in these, should be presented in this way, especially the historical accounts, because of the events described."
+        },
+        {
+          "number": 8,
+          "latin": "Miserit ergo illi, qui scripsit, brevem tractatum; et magis brevitatis studio, quæ ad rem pertinebant, complexus est.",
+          "english": "The author then sent a short treatise, and he included those things that were relevant to the matter in order to be brief."
+        },
+        {
+          "number": 9,
+          "latin": "Iis quippe qui legunt, debet dari industria; sed his qui componunt, facultas loquendi, et de rebus ipsis, inquisitionis industria.",
+          "english": "Diligence must be given to those who read, but to those who write, the ability to speak and the diligence of investigation into the subject itself."
+        },
+        {
+          "number": 10,
+          "latin": "Quid ergo nunc de his agendum sit, dicemus: et hoc præfati, præsentem sermonem incipiemus.",
+          "english": "Therefore, we will now discuss what should be done with these things, and having made this preface, we will begin the present discourse."
+        },
+        {
+          "number": 11,
+          "latin": "Cum igitur Judas Machabæus, bellum gerens, florem sibi fecit, et cum amicis, secretè ad eos qui erant, missus est, ut tolleret ossa eorum qui ceciderant.",
+          "english": "When Judas Maccabeus waged war, he chose to honor his fallen soldiers, and he secretly sent some of his friends to retrieve the bones of those who had fallen."
+        },
+        {
+          "number": 12,
+          "latin": "Et fuerunt sub tunicis, et ad Jerusalem reportaverunt.",
+          "english": "They were brought under their tunics, and they carried them to Jerusalem."
+        },
+        {
+          "number": 13,
+          "latin": "Et posuerunt ea in sepulchris patrum suorum, in loco qui apparuit eis.",
+          "english": "And they placed them in the tombs of their fathers, in a place that was revealed to them."
+        },
+        {
+          "number": 14,
+          "latin": "In die autem qua festum est, et gaudent filii Israël, orantes, supplicaverunt, ut peccata quæ commissa fuerant, dimitterentur.",
+          "english": "On the day of the feast, when the children of Israel were rejoicing, they prayed and implored that the sins which had been committed would be forgiven."
+        },
+        {
+          "number": 15,
+          "latin": "Hos vero alios, cum Judas duces, et cum populo, orantes supplicaverunt, ut usque in finem peccatum deleretur.",
+          "english": "Judas and the leaders, along with the people, prayed and implored that sin would be blotted out completely."
+        },
+        {
+          "number": 16,
+          "latin": "Factis autem gloriosis, et fortissime in bello agentibus, non ad honorem, sed ad fidem, Judæi et fratres, exspectaverunt.",
+          "english": "For the glorious deeds and the valiant actions in war, the Jews and their brothers, did not seek honor, but faith."
+        },
+        {
+          "number": 17,
+          "latin": "Quippe cum viderent bonum, et honestum, ad mortem præliari: et vitas suas dantes pro his quæ ad Deum pertinent.",
+          "english": "For they saw it as good and honorable to fight to the death and to give their lives for those things that pertain to God."
+        },
+        {
+          "number": 18,
+          "latin": "Igitur, cum reliqua opera de Jason Cyrenæo, et ex his quæ præcipue attinent ad Judam, conscriberemus: ipsi nos, brevitatis causa, præfati sumus.",
+          "english": "Therefore, as we were writing the remaining works from Jason of Cyrene, and from those things that especially pertain to Judas, we ourselves, for the sake of brevity, have made this preface."
+        },
+        {
+          "number": 19,
+          "latin": "Jason autem Cyrenæus, libros quinque, de Judæ Machabæi, et fratrum, et de purificatione magni templi, et de consecratione altaris, et de bellis adversus Antiochum Epiphanem regem, et de causa quæ est pro libertate, conscripsit.",
+          "english": "Jason of Cyrene wrote five books about Judas Maccabeus and his brothers, about the purification of the great temple, the consecration of the altar, the wars against King Antiochus Epiphanes, and the cause for liberty."
+        },
+        {
+          "number": 20,
+          "latin": "Et de his, quæ contra eum, et qui cum eo, agebant, et de rebus quæ gestæ sunt.",
+          "english": "And about those things that were done against him and those who were with him, and about the things that were accomplished."
+        },
+        {
+          "number": 21,
+          "latin": "Et quod in Perside, qui cum Graecis erant, pugnaverunt; et quod in loco qui dicitur Garisa, et aliorum, et omnia singula continet.",
+          "english": "And about the battles against the Greeks in Persia, and in the place called Garisa, and other such events, he includes all of these things individually."
+        },
+        {
+          "number": 22,
+          "latin": "Hæc igitur in brevem, quæ sunt de his, tentamus; et studio, cum in his qui conscripserunt, cum qui legunt, operam demus.",
+          "english": "Therefore, we attempt to summarize these events in a short form, and we give our attention to those who wrote and those who read."
+        },
+        {
+          "number": 23,
+          "latin": "Et lectori præsentiam dico, et in his qui legit; ut facilius, et iis qui legunt, valeant.",
+          "english": "And I say this to the reader, and to those who read, so that they may be able to understand more easily."
+        },
+        {
+          "number": 24,
+          "latin": "Et hæc dicemus in fine; ut in principio: et in medio, et in fine.",
+          "english": "And we will say these things at the end, as in the beginning, and in the middle, and in the end."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Cum sancta civitas habitaret in pace, et leges optime servarentur propter pietatem, et odium esset propter malum",
+          "english": "While the holy city was living in peace, and the laws were being observed in the best way possible due to piety, there was hatred because of evil."
+        },
+        {
+          "number": 2,
+          "latin": "factum est, ut quidam de civibus, Philippus scilicet, homo a Syrus, et idem praepositus in urbe, vehementissime saeviret; sed et Jason cum suis, qui legem aequam et vitam sanctam impie corruperunt,",
+          "english": "It happened that some of the citizens, specifically Philip, a man from the region of Syria, and the same man put in charge of the city, became very angry; but also Jason with his followers, who wickedly corrupted the just law and a holy life,"
+        },
+        {
+          "number": 3,
+          "latin": "praecipiebant templum sanctum in Hierusalem transferri, et donaria sacra, pecuniam et reditus, quae a sanctis viris data fuerant, et quae a bonis viris praebentur, auferri.",
+          "english": "were commanding that the holy temple in Jerusalem be moved, and that the sacred offerings, money, and revenues, which had been given by holy men, and which were provided by good men, be taken away."
+        },
+        {
+          "number": 4,
+          "latin": "Qui autem praeerat, Onias, qui praepositus erat pontifex, et vir bonus et mansuetus, et odium habebat mali, dixit",
+          "english": "The one who was in charge, Onias, who was placed in charge as the High Priest, and a good and gentle man, and who hated evil, said"
+        },
+        {
+          "number": 5,
+          "latin": "Onias ad Ptolemaeum regem, qui erat in Alexandria, ut de rebus illicitis, quas isti egerant, exprobraret.",
+          "english": "to King Ptolemy, who was in Alexandria, that he would rebuke these men for the illegal things they had done."
+        },
+        {
+          "number": 6,
+          "latin": "Sed cum venissent, et in eadem urbe morarentur, per Dei providentiam missi erant de populo, ad perferenda pecuniarum negotia.",
+          "english": "But when they arrived, and remained in the same city, by the providence of God, men were sent from the people, to handle the business of money."
+        },
+        {
+          "number": 7,
+          "latin": "Hiis autem cum venissent, et a Philippo et a sociis ejus esset postulatum, ut pecunias darent pro negotio, statim illi supplicaverunt, ne facerent iniquum.",
+          "english": "When they came to Philip and his associates, they were asked to give money for the business, and they immediately begged them not to do anything unjust."
+        },
+        {
+          "number": 8,
+          "latin": "Qui autem, cum insisterent in hoc, et contra omnia dicerent, Onias deinde, qui praepositus erat pontifex, clamavit, dicens: Isti sunt qui in Hierusalem contumeliam templis faciebant, et pecunias pauperum rapiebant:",
+          "english": "But because they insisted on this, and spoke against all the requests, then Onias, who was in charge as the High Priest, shouted, saying, \"These are the ones who were insulting the temples in Jerusalem, and stealing the money of the poor\""
+        },
+        {
+          "number": 9,
+          "latin": "propter quod ipsi, et filii eorum, ipsi autem, qui per legem sanctam fuerant, et cum Onia praeposito pontifice, et aliis, qui erant sacerdotii.",
+          "english": "for which reason, they and their children, who were righteous according to the holy law, and with Onias, the High Priest, and others who were of the priesthood."
+        },
+        {
+          "number": 10,
+          "latin": "Quos deinde Phillippus et socii ejus, cum de hac re nihil impetrare potuissent, cum iracundia percusserunt, et omnes ipsos, qui dixerant mala, miserunt ad Ptolemaeum.",
+          "english": "Then Philip and his associates, because they were not able to achieve anything concerning this matter, struck them with anger, and sent all of them, who had spoken against the evil, to Ptolemy."
+        },
+        {
+          "number": 11,
+          "latin": "Quibus cum iratus esset rex, et iniquos jussisset torqueri, et in Jerusalem flagellari, et adeo omnia eis contulisset, praeterquam quod impie fecerant in civitate.",
+          "english": "When the king was angry with them, and ordered the wicked to be tortured, and that they should be scourged in Jerusalem, and he gave them all those things, except for what they had wickedly done in the city,"
+        },
+        {
+          "number": 12,
+          "latin": "Onias autem, cum audisset quod iniqua patiebantur, obsecravit, et deprecatus est eos, quod ipsi essent de populo, et obsecravit pro eis.",
+          "english": "But Onias, when he heard that they were suffering unjustly, begged and pleaded for them, because they were from the people, and he pleaded for them."
+        },
+        {
+          "number": 13,
+          "latin": "Hoc ipsum est, quod in Hierusalem factum est, ad haec pervenit, dum Heliodorus, constitutus a Seleuco rege, et praepositus thesauris, civitatem ingrediebatur ad percipiendam pecuniam.",
+          "english": "This is the very same thing that happened in Jerusalem, it came to pass, while Heliodorus, appointed by King Seleucus, and placed in charge of the treasury, was entering the city in order to receive the money."
+        },
+        {
+          "number": 14,
+          "latin": "Et cum appropinquasset, cum tota militia, et cum intentu civitatis, et visus est Heliodorus, qui constitutus est a rege, et cum potentia, ut faceret inique.",
+          "english": "And when he approached, with the whole army, and with the intent of the city, Heliodorus was seen, who was appointed by the king, and with the power to do evil."
+        },
+        {
+          "number": 15,
+          "latin": "Cum autem praesto essent sacerdotes, et omnis multitudo, ad orationem, et cum invocarent eum, qui legem dedit, et pro his, qui conservaverunt sancta.",
+          "english": "However, the priests and the whole multitude were present at prayer, and they were calling upon Him, who gave the law, and for those who preserved holy things."
+        },
+        {
+          "number": 16,
+          "latin": "Tunc pontifex, et omnis multitudo, cum lacrimis, et cum oratione, obsecrabant, ut is qui erat constitutus, salvum, et qui missus erat ad operandum, conservaretur.",
+          "english": "Then the High Priest, and all the multitude, with tears, and with prayer, begged that he who was appointed, should be saved, and that he who had been sent to do the work, would be preserved."
+        },
+        {
+          "number": 17,
+          "latin": "Heliodorus autem jam erat in ingressu thesaurorum, cum praesidio, et custodibus, qui circa erant.",
+          "english": "But Heliodorus was already at the entrance to the treasuries, with the guard, and the custodians, who were around him."
+        },
+        {
+          "number": 18,
+          "latin": "Tunc apparuit ei vir in habitu, et gloria, terribilis, cum armis, quem irruitere jussit, et percusserunt eum gravissime.",
+          "english": "Then a man appeared to him in a frightening way, with terrible glory, and with weapons, he commanded that he rush into battle, and they struck him very severely."
+        },
+        {
+          "number": 19,
+          "latin": "Et cum putasset intrare, audacius, ad thesaurorum, veniebant illi cum flagellis, et percutiebant eum, et in terra projecerunt, cum grandi timore.",
+          "english": "And when he thought he would enter more boldly, the treasuries, they came to him with scourges, and struck him, and threw him on the ground, with great fear."
+        },
+        {
+          "number": 20,
+          "latin": "Qui facti sunt circa, et deinde, et constricta sunt illi membra, et ligatus est, ut faceret omnino, quod a rege constitutus erat.",
+          "english": "Those who were around him, then, and his limbs were bound, and he was tied up, so that he should do completely what he was ordered to do by the king."
+        },
+        {
+          "number": 21,
+          "latin": "Ille autem, cum in terra jaceret, et cum durissima tormenta sustineret, factus est, ut ipse, per vim, omnia facta erant.",
+          "english": "However, while he was lying on the ground, and enduring the most harsh torments, it happened that he himself was being forced to do all things."
+        },
+        {
+          "number": 22,
+          "latin": "Interea, cum exultarent qui in templo, omnis multitudo, et adorabant Deum, omnipotens, qui salvavit gloriam, qui facit ad omnia miracula.",
+          "english": "Meanwhile, while those in the temple were rejoicing, the whole multitude, and they were worshipping the all-powerful God, who saved the glory, who works miracles for everything."
+        },
+        {
+          "number": 23,
+          "latin": "Heliodorus autem, cum cecidisset, et non potuisset surgere, miserunt se cum sociis suis, et portabant eum, quasi jam mortuum.",
+          "english": "Heliodorus, however, when he had fallen, and was not able to rise, was sent with his companions, and they carried him, as if he were already dead."
+        },
+        {
+          "number": 24,
+          "latin": "Et cum erant in loco, et Heliodorus cum sociis suis ad praesidium rege, deinde, qui fecerant, petierunt ab eo, de illis, qui fecerant, et ad ea, quae fecerat, et ad ea, quae gessit.",
+          "english": "When they were in the place, and Heliodorus with his companions were at the king's garrison, then, those who had done this, asked him about those who had done this, and about the things he had done, and about the things he had carried out."
+        },
+        {
+          "number": 25,
+          "latin": "Ipse autem respondit, in conspectu eorum, quod visus esset sibi per vim, et esse, quod dictum erat a Deo.",
+          "english": "However, he himself answered in their sight, that he seemed to be through the force of violence, and that it was as had been spoken by God."
+        },
+        {
+          "number": 26,
+          "latin": "Nam cum erat cum militibus, qui essent circa, apparuerunt ei duo juvenes, optimi, et gloria magni, et qui steterunt super eum, et percutiebant eum gravissime.",
+          "english": "For when he was with the soldiers, who were around him, two very excellent young men appeared to him, and of great glory, who stood over him, and struck him very severely."
+        },
+        {
+          "number": 27,
+          "latin": "Et qui in conspectu sunt, venerunt ei, et in oculis ejus, et qui deinde percusserunt eum.",
+          "english": "And they who are in sight came to him, and in his eyes, and who then struck him."
+        },
+        {
+          "number": 28,
+          "latin": "Qui ergo, cum erant in loco, et in his erant, omnes illi, qui erant, glorificaverunt Dominum, quia mirabilia fecit.",
+          "english": "Therefore, when they were in the place, and in these things, all of those who were there, glorified the Lord, because he did wonderful things."
+        },
+        {
+          "number": 29,
+          "latin": "Ipsorum autem, qui erant in loco, et glorificaverunt Deum, et dona gratiarum, qui in templo, et illis qui erant salvati, pro Heliodoro, dederunt, qui mortuus erat.",
+          "english": "However, those who were in the place, glorified God, and gave the gifts of thanks, in the temple, and to those who had been saved, for Heliodorus, who was dead."
+        },
+        {
+          "number": 30,
+          "latin": "Heliodorus autem, qui promisit Deo, qui erat vitam, et salvavit eam, et omnia quae venerant, et omnia quae facta erant, et jam perierant, dedit manum illis.",
+          "english": "Heliodorus, however, promised to God, who was life, and saved him, and all those things that had come, and all those things that had been done, and had now perished, gave his hand to them."
+        },
+        {
+          "number": 31,
+          "latin": "Onias autem, cum non esset jam in vita, et gratulatus est eidem, quod Deus salvasse illum, et quod dedisset ei.",
+          "english": "Onias, however, when he was no longer in life, and congratulated him on what God had saved him, and what he had given to him."
+        },
+        {
+          "number": 32,
+          "latin": "Quod vero rex, cum ad illum pervenisset, et ad Hebraeos, qui erant de Hierusalem, et qui erant cum magna gloria, et cum magna gloria in pace, et dedit illis de omnibus donis, et benedixit Deum.",
+          "english": "Then the king, when he arrived at him, and at the Hebrews, who were from Jerusalem, and who were with great glory, and with great glory in peace, and gave them gifts of every kind, and blessed God."
+        },
+        {
+          "number": 33,
+          "latin": "Sed et Onias, cum praepositus esset pontifex, qui salvatus erat, pro omni populo, orabat pro omnibus, et dedit eis pacem, et dedit illis pacem.",
+          "english": "But also Onias, who was in charge as High Priest, who had been saved, prayed for all the people, and gave them peace, and gave them peace."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Factum est autem, cum introisset in civitatem, Antiocheus, qui et Epiphanes, voluit Heliodorum cito de negotio expellere, eo quod ad se reversus non fecisset quod jussus fuerat.",
+          "english": "It happened that when Antiochus, also called Epiphanes, entered the city, he wanted to quickly expel Heliodorus from his position. Heliodorus had returned without fulfilling his orders."
+        },
+        {
+          "number": 2,
+          "latin": "Misit igitur Lysiam, ducem exercitus sui, et praefectum negotiorum, ad perdendum eum.",
+          "english": "Therefore, he sent Lysias, the commander of his army and the administrator of his affairs, to remove Heliodorus from his position."
+        },
+        {
+          "number": 3,
+          "latin": "Quod cum audisset, venit ad Ptolemaida, et contraxit ibi multitudinem multam, et se parabat ad fraudem agendam.",
+          "english": "Upon hearing this, Heliodorus went to Ptolemais, gathered a large crowd there, and prepared to use deceit."
+        },
+        {
+          "number": 4,
+          "latin": "Substituit enim in accusatione, apud regem, eos qui de civitate erant noxii.",
+          "english": "For he brought forth accusations before the king against those of the city who were wicked."
+        },
+        {
+          "number": 5,
+          "latin": "Et erant hi: Jason, et qui cum eo erant, qui impietatem agebant, et expellebant cives.",
+          "english": "These were Jason and those with him who practiced impiety and drove out their fellow citizens."
+        },
+        {
+          "number": 6,
+          "latin": "Nec defuit innocens sanguis, qui clamaret ad Deum.",
+          "english": "Nor was there innocent blood which did not cry out to God for vengeance."
+        },
+        {
+          "number": 7,
+          "latin": "Unde statim, statim Lysias, ad populum, hortando, accusabat Ptolemaida, de malis in civitatem admissis.",
+          "english": "Therefore, immediately Lysias, encouraging the people, accused Ptolemais of the evils committed against the city."
+        },
+        {
+          "number": 8,
+          "latin": "Et prosequens regem, de his omnibus accusabat.",
+          "english": "And he accused the king of all these things."
+        },
+        {
+          "number": 9,
+          "latin": "Tunc Antiocheus iratus, statim exaudivit consilium Lysiae.",
+          "english": "Then Antiochus, enraged, immediately heeded the advice of Lysias."
+        },
+        {
+          "number": 10,
+          "latin": "Et constituit Jasonem, sine mora, ad vindictam eorum qui oppugnaverant, et ad supplicium civium.",
+          "english": "And he appointed Jason, without delay, to punish those who had attacked and to inflict punishment on the citizens."
+        },
+        {
+          "number": 11,
+          "latin": "Qui cum venisset, statim ut apparuit, percussit suos fratres, et detulit in exilium, inimicos suos.",
+          "english": "When Jason arrived, as soon as he appeared, he struck his own brothers and drove his enemies into exile."
+        },
+        {
+          "number": 12,
+          "latin": "Et non erat potens in regno, et honor magnus.",
+          "english": "And he did not have power in the kingdom, nor great honor."
+        },
+        {
+          "number": 13,
+          "latin": "Deinde Menelaus, ut supradictum est, frater Jasonis, cum esset, ipse se vendidit ad principem, et per multa pecuniarum, et juravit se esse amicum regis.",
+          "english": "Then Menelaus, as mentioned before, the brother of Jason, sold himself to the prince, through much money, and swore to be the king's friend."
+        },
+        {
+          "number": 14,
+          "latin": "Misit autem, in civitatem, Jasonem, cum tribus viris ex civitate.",
+          "english": "He sent Jason into the city with three men from the city."
+        },
+        {
+          "number": 15,
+          "latin": "Qui cum accepissent litteras regis, et pervenissent ad regem, et dixissent ei negotium.",
+          "english": "When they received the king's letters, they went to the king and explained the matter to him."
+        },
+        {
+          "number": 16,
+          "latin": "Tunc Menelaus, in absentia Jasonis, promisit de rebus pecuniarum, trecentos talenta argenti, et septuaginta talenta de aliis donis, ex omni promissione data.",
+          "english": "Then Menelaus, in the absence of Jason, promised three hundred talents of silver, and seventy talents from other gifts, from every promise that was given."
+        },
+        {
+          "number": 17,
+          "latin": "Et petebat ad suscipiendum officium sacerdotale.",
+          "english": "And he sought to obtain the priestly office."
+        },
+        {
+          "number": 18,
+          "latin": "Dedit ergo rex Menelao, cum jam in magno fastu esset, et adsumpto honore sacerdotii, de civitate, jussit, in judicio, Jasonem esse.",
+          "english": "Therefore, the king gave it to Menelaus, and he took on the priestly office, ordering that Jason be brought to trial from the city."
+        },
+        {
+          "number": 19,
+          "latin": "Et misit Jasonem ad civitatem, mandans ei litteras, de his quae fecerat, et de his quae egisset.",
+          "english": "And he sent Jason to the city, sending him letters concerning what he had done and what he had accomplished."
+        },
+        {
+          "number": 20,
+          "latin": "Qui cum venisset, inductus est a Menelao, et cum audisset populus, statim iratus est Jasoni, et eum occidit.",
+          "english": "When he arrived, he was brought in by Menelaus, and when the people heard this, they immediately became angry at Jason and killed him."
+        },
+        {
+          "number": 21,
+          "latin": "Et successit Menelaus in sacerdotio, et nullum adimplens officium sacerdotale, nec curans leges, nec considerans judicia, sed omnia ad arbitrium, et voluntatem regis, agentis.",
+          "english": "And Menelaus succeeded to the priesthood, yet he did not fulfill any priestly duties, nor did he care for the laws, nor did he consider judgments, but he did everything according to the will and pleasure of the king."
+        },
+        {
+          "number": 22,
+          "latin": "Tunc perrexit Menelaus, cum his qui ex civitate erant noxii, et miserunt ad regem, et ad supplicium dederunt in civitate.",
+          "english": "Then Menelaus went with those who were wicked from the city, and they sent to the king and put them to death in the city."
+        },
+        {
+          "number": 23,
+          "latin": "Et cum venissent, multi ex civitate fuerunt traditi supplicio, et multorum sanguis effusus est, propter iram, quae ex Jasonis impietate venerat.",
+          "english": "And when they came, many from the city were delivered to punishment, and the blood of many was shed because of the anger that had come from Jason's impiety."
+        },
+        {
+          "number": 24,
+          "latin": "Antiocheus autem, in praeparatione expeditionis in Aegyptum, audivit quod in civitate Jerosolymorum, tumultus est factus.",
+          "english": "Antiochus, while preparing for an expedition into Egypt, heard that a disturbance had occurred in the city of Jerusalem."
+        },
+        {
+          "number": 25,
+          "latin": "Et quod fugerint de civitate, qui cum Jason erant, et injuriose fecerant in sancto templo.",
+          "english": "And that those who were with Jason had fled the city and had acted injuriously in the holy temple."
+        },
+        {
+          "number": 26,
+          "latin": "Quod cum audisset, putavit Aegyptum esse expugnatam, et cum furore, ascendit, et accepit civitatem, et jussit milites, non parcere, qui in civitate erant, et interficere qui occurrerant.",
+          "english": "When he heard this, he thought Egypt had been conquered, and he went up in a rage and seized the city, and ordered his soldiers not to spare anyone in the city and to kill those who were encountered."
+        },
+        {
+          "number": 27,
+          "latin": "Et ingressus templum, rapuit vasa aurea, et argentea, et utensilia, et omnia thesauraria quae ibi invenit.",
+          "english": "And entering the temple, he stole the gold and silver vessels, the utensils, and all the treasures he found there."
+        },
+        {
+          "number": 28,
+          "latin": "Et ablata omnia, abiit in terram suam, et fecit grande caedem.",
+          "english": "And taking everything, he went back to his own land and committed a great slaughter."
+        },
+        {
+          "number": 29,
+          "latin": "Et factus est luctus magnus, et gemitus in Israel.",
+          "english": "And there was great mourning and lamentation in Israel."
+        },
+        {
+          "number": 30,
+          "latin": "Et erant principes, et seniores, qui gemebant, et confecti erant spiritu, et qui sedebant ad ostia civitatis, qui constricti erant, et erant cum dolore.",
+          "english": "And there were the leaders and elders who mourned and were grieved in spirit, and who sat at the gates of the city, who were distressed and filled with sorrow."
+        },
+        {
+          "number": 31,
+          "latin": "Et accidit quia illi qui erant in civitate, et qui erant in montibus, qui et latrones erant, et qui abstulerant praedam, et omnes, et qui erant in civitate, qui adunati erant ad bellandum, et qui erant ad bellandum, et qui cum impietate erant, et qui faciebant omne opus malum.",
+          "english": "It happened that those in the city, and those in the mountains, who were also robbers, and who had taken plunder, and all those in the city who had gathered to fight, and who were impious, and who did every evil deed."
+        },
+        {
+          "number": 32,
+          "latin": "Et jussit eos rex, in templo esse, et percuti eos, et interfici, et qui erant super omnes, et qui in templo erant, qui occiderant, occisi sunt, et postea in bellum venerunt.",
+          "english": "And the king ordered them to be in the temple, to be struck and killed, and those who were over all, and those in the temple who had killed, were killed, and then they came to war."
+        },
+        {
+          "number": 33,
+          "latin": "Et erant super eos multi ex impiis, qui et vulnerati erant, et qui in civitate erant, et qui in templo erant, qui et occisi sunt.",
+          "english": "And there were many of the impious over them, who were also wounded, and those who were in the city, and those who were in the temple, who were also killed."
+        },
+        {
+          "number": 34,
+          "latin": "Et fecit per omnes civitates, ut omnes qui erant in civitate, facerent sacrificia, et offerrent idola.",
+          "english": "And he ordered throughout all the cities that all those who were in the city should make sacrifices and offer to idols."
+        },
+        {
+          "number": 35,
+          "latin": "Et de templo, in Jerosolymis, abstulerunt altare, et incenderunt, et incenderunt templum, et fecerunt in eo sedes, et statuas, et idola.",
+          "english": "And from the temple in Jerusalem, they took away the altar and burned it, and they made seats, statues, and idols in it."
+        },
+        {
+          "number": 36,
+          "latin": "Et immolaverunt porcos super altare, et effuderunt sanguinem, et non erat qui sepeliret.",
+          "english": "And they sacrificed pigs on the altar and poured out blood, and there was no one to bury the dead."
+        },
+        {
+          "number": 37,
+          "latin": "Et jacta est ignominia magna super eos, et facta est abominatio magna super Israel.",
+          "english": "And great disgrace was cast upon them, and a great abomination was committed against Israel."
+        },
+        {
+          "number": 38,
+          "latin": "Et fugerunt multi, de civitate, et reliquerunt suas mulieres, et filios, et fratres, et parentes, et in montibus, ad latibula, et ad speluncas, et ad alias solitudines.",
+          "english": "And many fled from the city and left their wives, children, brothers, and parents, and went into the mountains, to hiding places, to caves, and to other solitary places."
+        },
+        {
+          "number": 39,
+          "latin": "Tunc erant multi, qui moriebantur, et jacebant in civitate, et in montibus.",
+          "english": "Then there were many who were dying and lying in the city and in the mountains."
+        },
+        {
+          "number": 40,
+          "latin": "Et facta est ira magna super eos, et factum est judicium magnum.",
+          "english": "And great wrath was poured out upon them, and a great judgment took place."
+        },
+        {
+          "number": 41,
+          "latin": "Et Judas Machabaeus, et qui cum eo erant, in monte, et qui erant cum eo, ad bellandum, cum impiis, et qui ad bellandum, et qui percutiebant, et qui interficiebant.",
+          "english": "And Judas Maccabeus and those who were with him, on the mountain, and those who were with him, to fight against the impious, and to fight, and to strike, and to kill."
+        },
+        {
+          "number": 42,
+          "latin": "Et congregati sunt, et constituerunt unumquemque, in suos locos, et ceperunt arma, et dixerunt: Melius est nos mori, quam videre malorum impietatem, et sancta contaminari.",
+          "english": "And they gathered together and placed each one in his place, and they took up arms and said, \"It is better for us to die than to see the wickedness of the wicked and the holy things defiled.\""
+        },
+        {
+          "number": 43,
+          "latin": "Et inierunt bellum cum impiis, et occiderunt impios.",
+          "english": "And they went to war with the impious and killed them."
+        },
+        {
+          "number": 44,
+          "latin": "Et cito fugerunt impii a facie eorum.",
+          "english": "And quickly the impious fled from their presence."
+        },
+        {
+          "number": 45,
+          "latin": "Et persecuti sunt eos, et occiderunt, et interfecerunt impios, et vindicaverunt de manibus eorum, et purgaverunt sancta.",
+          "english": "And they pursued them and killed and destroyed the impious, and they took vengeance from their hands, and they purified the holy things."
+        },
+        {
+          "number": 46,
+          "latin": "Et purgaverunt templum, et altare, et omnia vasa, et suspenderunt in eo, quae polluta erant.",
+          "english": "And they purified the temple, the altar, and all the vessels, and they hung up in it those things that were defiled."
+        },
+        {
+          "number": 47,
+          "latin": "Et sacrificaverunt in eo holocaustum, et laudem, et gloriam, et dixerunt: Domine, Domine, Deus, qui fecisti caelum et terram, et qui es Dominus omnium.",
+          "english": "And they offered in it the burnt offering, praise, and glory, and they said, \"Lord, Lord God, who made the universe and the earth, and who is the Lord of all things.\""
+        },
+        {
+          "number": 48,
+          "latin": "Mitte nunc spiritum tuum, et sanctifica nos, et mitte lucem tuam, et percute eos, qui sunt impii, et faciem eorum quae faciunt.",
+          "english": "Send now your spirit and sanctify us, and send your light and strike those who are impious and their deeds."
+        },
+        {
+          "number": 49,
+          "latin": "Et post haec, et persequentes, statuerunt, et vindicaverunt de omnibus gentibus, et interfecerunt impios.",
+          "english": "And after these things, they pursued and established, and they took vengeance on all the nations, and they killed the impious."
+        },
+        {
+          "number": 50,
+          "latin": "Et post haec, habuerunt pacem, et fecerunt omnia secundum legem Dei.",
+          "english": "And after this, they had peace, and they did all things according to the law of God."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Circa hoc autem tempore Antiochus iterum rediit a Persis, et venit in civitatem Antiochiam.",
+          "english": "Around this time, Antiochus came back from Persia and arrived in the city of Antioch."
+        },
+        {
+          "number": 2,
+          "latin": "Et ingressus est, et voluit venire in templum, et inruerunt in eum qui erant adversarii ejus, et commoverunt eum.",
+          "english": "And when he entered, he wanted to go into the temple, and his enemies attacked him, causing a disturbance."
+        },
+        {
+          "number": 3,
+          "latin": "Et quia prohibitus est introire, et iratus est, et rursum abiit.",
+          "english": "Because he was forbidden to enter, he became angry and departed."
+        },
+        {
+          "number": 4,
+          "latin": "Et factum est, cum revertisset, ut exarsisset furor ejus, et praecepit templum Judaeorum percuti sine intermissione.",
+          "english": "Upon his return, his fury flared, and he ordered the Jewish temple to be struck without pause."
+        },
+        {
+          "number": 5,
+          "latin": "Et tunc egressi sunt, et multi ex eis congregati sunt ad eum.",
+          "english": "Then, many people came out and gathered around him."
+        },
+        {
+          "number": 6,
+          "latin": "Et praecepit eum ut praecingerentur viri. Et cito ingressi sunt, et percusserunt in civitatem, et interfecerunt multos.",
+          "english": "He commanded the men to be prepared. Quickly they entered and struck the city, killing many."
+        },
+        {
+          "number": 7,
+          "latin": "Et rapuerunt praedas multas, et ignem succenderunt in ea.",
+          "english": "They seized many spoils and set the city on fire."
+        },
+        {
+          "number": 8,
+          "latin": "Et domos diruerunt, et muros ejus destruxerunt in gyro.",
+          "english": "They demolished homes and tore down the surrounding walls."
+        },
+        {
+          "number": 9,
+          "latin": "Et captivitatem duxerunt mulierum et parvulorum, et pecora possederunt.",
+          "english": "They took women and children captive and seized livestock."
+        },
+        {
+          "number": 10,
+          "latin": "Et in templo sancto spoliaverunt aurum et argentum, et vasa pretiosa, et invenerunt in ea.",
+          "english": "In the Holy Temple, they plundered the gold, silver, and valuable vessels they found there."
+        },
+        {
+          "number": 11,
+          "latin": "Et omnia tulerunt, et abierunt in terram suam, et fecerunt interfectio magna.",
+          "english": "They took everything and went back to their own land, causing great slaughter."
+        },
+        {
+          "number": 12,
+          "latin": "Et factum est lamentum magnum in Israel.",
+          "english": "There was great mourning in Israel."
+        },
+        {
+          "number": 13,
+          "latin": "Et duces et seniores gemuerunt; et juvenes ac puellae maeruerunt; et mulierum species immutata est.",
+          "english": "The leaders and elders groaned; young men and girls mourned; and the women lost their beauty."
+        },
+        {
+          "number": 14,
+          "latin": "Et omnis sponsus assumpsit lamentum, et quasi in luctum erat sponsa.",
+          "english": "Every groom assumed the lament, and the bride was as if in mourning."
+        },
+        {
+          "number": 15,
+          "latin": "Et contremuerunt terrae propter habitatores earum, et omnis domus Jacob confusus est.",
+          "english": "The lands trembled because of their inhabitants, and the whole house of Jacob was confounded."
+        },
+        {
+          "number": 16,
+          "latin": "Et post biennium misit rex principem tributorum in civitates Juda, et venit in Jerusalem cum magna multitudine.",
+          "english": "After two years, the king sent a tax collector to the cities of Judea, and he came to Jerusalem with a large multitude."
+        },
+        {
+          "number": 17,
+          "latin": "Et finxit in eis verba pacis, et accepit eos dolose, et percussit civitatem in magna plaga.",
+          "english": "He spoke words of peace, but he deceived them. He struck the city with a great plague."
+        },
+        {
+          "number": 18,
+          "latin": "Et interfecit multos de populo, et dispergit spolia eorum.",
+          "english": "He killed many of the people and scattered their spoils."
+        },
+        {
+          "number": 19,
+          "latin": "Et abstulit ornamenta Jerusalem, et posuit ea in civitatibus suis, et Jerusalem exterminavit.",
+          "english": "He took away the ornaments of Jerusalem and put them in his own cities, and he destroyed Jerusalem."
+        },
+        {
+          "number": 20,
+          "latin": "Et captivos duxit mulieres et parvulos, et pecora possedit.",
+          "english": "He led women and children into captivity and took possession of the livestock."
+        },
+        {
+          "number": 21,
+          "latin": "Et aedificaverunt civitatem David muro magno et firmo, et turribus firmis, et facta est illis arx.",
+          "english": "They built a city of David with a large, strong wall, solid towers, and it became a citadel for them."
+        },
+        {
+          "number": 22,
+          "latin": "Et posuerunt illic gentem peccatricem, et iniquorum hominum: et confirmaverunt se in ea.",
+          "english": "They placed a sinful people there, wicked men; and they established themselves within it."
+        },
+        {
+          "number": 23,
+          "latin": "Et posuerunt arma in ea, et congregantes cibaria, et reposuerunt ibi arma, et praebuerunt blasphemiam, et facta est illis in laqueum.",
+          "english": "They put weapons there, gathered food, stored arms there, and they uttered blasphemies, making it a snare for them."
+        },
+        {
+          "number": 24,
+          "latin": "Et extenderunt ante templum, et circumfuderunt eam per circuitum, et facta est illis inimica maligna.",
+          "english": "They spread out before the temple, surrounded it on all sides, and it became a wicked enemy to them."
+        },
+        {
+          "number": 25,
+          "latin": "Et profuderunt sanguinem innocentium circa sanctuarium, et contaminatum est sanctuarium, et alieni filii circa templum, et gentiles habitabant cum meretricibus, et operabantur cum meretricibus.",
+          "english": "They poured out the blood of the innocent around the sanctuary, and the sanctuary was defiled, and the sons of strangers were around the temple, and the gentiles lived with the prostitutes and worked with them."
+        },
+        {
+          "number": 26,
+          "latin": "Et non erat Judaeis licitum introire, nec observare legem, nec mandata Dei, propter iniquitatem eorum.",
+          "english": "The Jews were not allowed to enter, nor to observe the law or the commandments of God, because of their wickedness."
+        },
+        {
+          "number": 27,
+          "latin": "Omnis quoque honor ejus ablatum est, et omnis gloria ejus conversa est in contumeliam.",
+          "english": "Also, all of its honor was taken away, and all its glory was turned into disgrace."
+        },
+        {
+          "number": 28,
+          "latin": "Et templum gentium plenum est luxuria, et convivarum, et fornicationum, et cum gentilibus in templo erant mulieres, et ea quae circa sancta, et quae intra, et inlicita.",
+          "english": "And the temple of the gentiles was full of luxury, banquets, and fornications. Women were with the gentiles in the temple, and things were done both around and within the sacred things that were forbidden."
+        },
+        {
+          "number": 29,
+          "latin": "Et contristatus est cor Judae, et sicut exivit de templo, et tota civitas plena est confusione.",
+          "english": "And the heart of Judah was troubled, and as he departed from the temple, the whole city was full of confusion."
+        },
+        {
+          "number": 30,
+          "latin": "Et universae plateae resonabant voce clamantis, et omnes simul gemebant.",
+          "english": "And all the streets resounded with the voice of those crying out, and everyone groaned together."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Parvi autem post tempus non longum, rex misit senes Atheniensium, ut cogerent Iudaeos recedere a legibus patriis, et non amplius vivere secundum leges Dei:",
+          "english": "Not long after, the king sent elders from Athens to force the Jews to abandon their ancestral laws and to cease living according to God’s laws:"
+        },
+        {
+          "number": 2,
+          "latin": "et contaminare templum Hierusalem, et dedicare illud Diiis alienis, et statuere altaria et fana, et immolare porcos immundos, et inmundas victimas.",
+          "english": "They were to defile the Temple in Jerusalem, dedicating it to foreign gods, setting up altars and temples for those gods, and offering unclean pigs as sacrifices."
+        },
+        {
+          "number": 3,
+          "latin": "Quod cum accidisset, multi in populo consenserunt eis, et immolaverunt Idolis, et sabbatum violaverunt.",
+          "english": "When this happened, many in the Jewish population agreed with them, offering sacrifices to idols and violating the Sabbath."
+        },
+        {
+          "number": 4,
+          "latin": "Rex autem misit per manum nuntiorum ad Hierusalem et in civitates Iudae, praecepta scribens, ut sequerentur ea, quae aliena erant a legibus patriae.",
+          "english": "The king sent written commands by messengers to Jerusalem and the cities of Judea, ordering them to follow practices that were foreign to their ancestral laws."
+        },
+        {
+          "number": 5,
+          "latin": "Et coegerunt populum, et dederunt illis praecepta, ut immolarent, et contaminarentur in immolationibus.",
+          "english": "They forced the people and gave them the commands to offer sacrifices to idols, defiling themselves through the sacrifices."
+        },
+        {
+          "number": 6,
+          "latin": "Ipsi autem, qui remanserant in Iudaea, et qui relicti fuerant, tribulationes magnae fuerunt, in quantum uniuscujusque loci non erat facultas effugere.",
+          "english": "But those who remained in Judea, and who were left behind, faced great tribulations because no one had the ability to escape from a given place."
+        },
+        {
+          "number": 7,
+          "latin": "Quod cum evenisset, multi Iudaeorum consenserunt eis, et ad omnia sacrificaverunt Idolis, et sabbatum profanaverunt.",
+          "english": "When this happened, many Jews agreed with them and sacrificed to idols in every way, profaning the Sabbath."
+        },
+        {
+          "number": 8,
+          "latin": "Deinceps autem multos, qui nequaquam consentiebant, sed perseverabant in Iudaismo, et qui vetabant, commisit.",
+          "english": "Afterward, he brought about the deaths of many who did not agree, but persevered in Judaism and forbade such practices."
+        },
+        {
+          "number": 9,
+          "latin": "Die autem quintodecimo mensis Casleu, in anno centesimo quadragesimo quinto, aedificaverunt abominabile idolum in templo, et in civitatibus Iudae circumcirca.",
+          "english": "On the fifteenth day of the month of Casleu, in the one hundred and forty-fifth year, they built the abominable idol in the Temple and in the cities of Judea all around."
+        },
+        {
+          "number": 10,
+          "latin": "Et sacrificabant in die nativitatis die Idoli, et in primo quoque mensis, secundum praeceptum regis, ad altare.",
+          "english": "They sacrificed on the day of the idol’s birth and on the first day of each month, according to the king's command, at the altar."
+        },
+        {
+          "number": 11,
+          "latin": "Et qui erant in Hierusalem, compellebantur simulare, et facere sacrificia, et Baccho coronari.",
+          "english": "Those in Jerusalem were forced to pretend and to offer sacrifices, crowning themselves for Bacchus."
+        },
+        {
+          "number": 12,
+          "latin": "Erat autem dolor magnus super Israel.",
+          "english": "But there was great sorrow over Israel."
+        },
+        {
+          "number": 13,
+          "latin": "Nam qui se praebebant, non abnuebant edere immunda.",
+          "english": "For those who pretended did not refuse to eat the unclean things."
+        },
+        {
+          "number": 14,
+          "latin": "Unde cum multi Iudaei profugerant, ut se occultarent, et cum iis, quae illic facta fuerant, adgrediuntur.",
+          "english": "Therefore, many Jews fled to hide themselves and to attack those who were doing those things."
+        },
+        {
+          "number": 15,
+          "latin": "Et in die nono mensis Casleu, in anno centesimo quadragesimo quinto, surrexerunt ad sacrificia, et sacrificaverunt in altari, quod erat super altare: et occiderunt, secundum praeceptum regis.",
+          "english": "And on the ninth day of the month of Casleu, in the one hundred and forty-fifth year, they rose up to offer sacrifices, sacrificing at the altar that was above the altar and they killed according to the king's command."
+        },
+        {
+          "number": 16,
+          "latin": "Mulieres quoque, quae cum filiis suis circumciderant filios suos, manifestaverunt, et suspenderunt eos in collo per circuitum civitatis.",
+          "english": "The women who had circumcised their sons made themselves known, and they were hung by the neck throughout the city."
+        },
+        {
+          "number": 17,
+          "latin": "Et alios simul cum familiis, et qui cum eis fuerant, perdiderunt, et interfecerunt, et in omnibus diebus.",
+          "english": "And they destroyed others along with their families and those who were with them, and they killed them on every day."
+        },
+        {
+          "number": 18,
+          "latin": "Itaque multi ex Israel constituerunt in cordibus suis, ut non manducarent immunda.",
+          "english": "So, many Israelites decided in their hearts not to eat unclean things."
+        },
+        {
+          "number": 19,
+          "latin": "Et elegerunt mori, ne contaminarentur a cibis, et ne violarent sanctam dispositionem, et sic morerentur.",
+          "english": "They chose to die rather than to be defiled by food and to violate the holy law and so they died."
+        },
+        {
+          "number": 20,
+          "latin": "Et facta est ira magna super eos.",
+          "english": "And great wrath came upon them."
+        },
+        {
+          "number": 21,
+          "latin": "Erat autem duae mulieres ductae, quia circumciderant filios suos.",
+          "english": "Two women were also brought forth because they had circumcised their sons."
+        },
+        {
+          "number": 22,
+          "latin": "Quarum cum comprehendissent filios, suspenderunt mammas eorum, et diripuerunt, et interfecerunt simul filios eorum.",
+          "english": "When they seized their sons, they hung the women from their breasts, ripped them open, and killed their sons at the same time."
+        },
+        {
+          "number": 23,
+          "latin": "Sed et alii simul cum filiis suis, seipsos tradiderunt, et passim diebus, et moriebantur.",
+          "english": "But others, along with their sons, gave themselves up, and they died frequently."
+        },
+        {
+          "number": 24,
+          "latin": "Et tunc contristabatur, et amittebatur per omnem gentem, Dominus enim erant iniquitates eorum.",
+          "english": "Then, the Lord was angry with them, because their sins were the cause."
+        },
+        {
+          "number": 25,
+          "latin": "Sed Machabaeus congregans eos, qui erant cum illo, celabat se in montibus, et silvis: et percutiebat eos, qui in Iudaea erant, et adgrediebantur eos, qui aduersabantur eis.",
+          "english": "But Machabeus gathered those who were with him, hiding in the mountains and forests, and he struck those who were in Judea, attacking those who were against them."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Factum est autem et haec. Septem fratres cum matre apprehensi sunt, et a rege, iniquitatis causa, flagellis et nervis, cruciabantur, ut contra legem escas porci comederent.",
+          "english": "This also happened: Seven brothers and their mother were arrested. The king tortured them with whips and cords to force them to eat pork, which the Law forbade."
+        },
+        {
+          "number": 2,
+          "latin": "Unus autem ex eis, qui primus erat, dixit: Quid interrogas, aut quid vis discere ex nobis? Parati sumus magis mori, quam patrum nostrorum leges transgredi.",
+          "english": "But the first brother said: \"What do you want to know from us? We are ready to die rather than disobey the laws of our fathers.\""
+        },
+        {
+          "number": 3,
+          "latin": "Iratus autem rex, jussit ignes et sartagines succendi: et statim, jubens torquere, per linguam et manus et pedes.",
+          "english": "The enraged king commanded the fires and frying pans to be heated. He then ordered the brothers to be tortured by their tongues, hands, and feet."
+        },
+        {
+          "number": 4,
+          "latin": "Cumque essent in eo cruciatu, alii ex fratribus dixerunt: Quid quaeris? Quid vis scire? Parati sumus mori.",
+          "english": "While they were enduring this torture, the other brothers said: \"What are you looking for? What do you want to know? We are ready to die.\""
+        },
+        {
+          "number": 5,
+          "latin": "Et secundus quoque a cruciatu mortis, dixit: Tu scelestissime, a praesenti vita nos quidem excludis, sed Rex mundi, pro suis legibus morientes, resuscitabit nos in aeternam vitae resurrectionem.",
+          "english": "The second brother, at the point of death by torture, said: \"You wicked man, you may end our present life, but the King of the universe will raise us up again to eternal life because we die for His laws.\""
+        },
+        {
+          "number": 6,
+          "latin": "Post hunc autem tertius in derisum ductus, linguam cito porrexit, et manus constanter, et audenter dixit: Ex his a Deo accepi, et propter leges ejus contemno ea, et ex ipsis iterum spero me recipere.",
+          "english": "After him, the third brother, who was mocked, quickly extended his tongue, and his hands with a courageous boldness, saying: \"I received these from God, and because of His laws I despise them; and I hope to receive them again.\""
+        },
+        {
+          "number": 7,
+          "latin": "Ipsi quoque rex, et qui cum eo erant, stupuerunt pro constantia adolescentium: contempserunt enim supplicia, et praesenti vita se abjecerunt.",
+          "english": "Even the king and those with him were amazed at the youths' resolve. They despised the tortures and threw away their present life."
+        },
+        {
+          "number": 8,
+          "latin": "Cum autem hic decessisset, ita quartum torquebant. Cumque esset in mortis articulo, sic dicebat: Bonum est, a hominibus quidem mori, spem habentes a Deo rursum resuscitari. Tibi enim resurrectio non erit ad vitam.",
+          "english": "When the third brother died, the fourth was tortured in the same way. As he was at the point of death, he said: \"It is good to die at the hands of men, but we have hope of being raised again by God. But for you, there will be no resurrection to life.\""
+        },
+        {
+          "number": 9,
+          "latin": "Quintum deinde adduxerunt, et torquebant. Ille vero respiciens ad eum, dixit: Potestatem hominum habens, licet sis corruptibilis, facis quae vis. Noli existimare genus nostrum a Deo esse derelictum:",
+          "english": "Then they brought the fifth brother and tortured him. But he, looking at the king, said: \"Although you have the power of men, you are corruptible and you do what you will. Do not think that our race has been abandoned by God:\""
+        },
+        {
+          "number": 10,
+          "latin": "sustine, et vide magnalia ejus, et quomodo tentabis eos, et torquebis illos.",
+          "english": "Hold on and see His great works, and how He will test them and punish you.\""
+        },
+        {
+          "number": 11,
+          "latin": "Post hunc sextum: Ipse quoque moriens, ait: Noli errare: nos enim per nos ipsos ista patimur, quoniam in Deum peccavimus: propter quod mirabilia acciderunt nobis.",
+          "english": "Then the sixth brother said, as he was dying: \"Do not be mistaken: for we suffer these things for ourselves because we have sinned against God, for which reason these wonders have happened to us.\""
+        },
+        {
+          "number": 12,
+          "latin": "Mater autem mirabilior erat, et memoratu digna. Haec enim, cum unum diem in septem filiis suis videret morientes, bene ferebat: et bono animo, pro spe ad Dominum habebat.",
+          "english": "The mother was even more marvelous and worthy of memory. For she, when she saw one day in the presence of her seven sons dying, endured this courageously, and with a good spirit, she had hope in the Lord."
+        },
+        {
+          "number": 13,
+          "latin": "Exhortans autem singulos, lingua patria, plena sapientiae, conjungens adulescentium sensum in pietate. Et dicens: Nescio quomodo in utero meo apparuistis: non enim ego spiritum et animam et sensum vobis dedi: nec ego singulos vestrum composui.",
+          "english": "Exhorting each of them in their native language, with wisdom, she united the youths’ understanding in piety. Saying: \"I do not know how you appeared in my womb: for I did not give you spirit, soul, and sense, nor did I form each of you.\""
+        },
+        {
+          "number": 14,
+          "latin": "Sed Creator mundi, qui formavit hominis nativitatem, et qui omnium rerum inventor est, ipse restituet vobis spiritum et vitam in misericordia, sicut nunc vos contemnitis animas vestras propter leges ejus.",
+          "english": "But the Creator of the universe, who formed the birth of man, and who is the inventor of all things, He will restore spirit and life to you in mercy, just as you now despise your souls because of His laws.\""
+        },
+        {
+          "number": 15,
+          "latin": "Antiochus autem, existimans se contemni, et suspicatus exprobrationis verba, adhuc qui remanebat filius, non solum verbis sed etiam juramento, persuadere conabatur, et amicitiis, et gratiis, et divitiis, et principatu se facturum: et alienum faciens a legibus.",
+          "english": "Antiochus, however, thought that he was being scorned, and suspected words of reproach. He tried to persuade the remaining son not only with words, but also with an oath, and with friendship, kindness, riches, and authority, and by making him renounce the laws."
+        },
+        {
+          "number": 16,
+          "latin": "Cum autem ille nec curaret quidquam, convocavit matrem, et exhortabatur eam, ut consilium adolescentis fieret, et pro salute ejus, persuaderet ei.",
+          "english": "But since he did not care about anything, he summoned the mother and exhorted her to follow the youth’s advice and persuade him for his safety."
+        },
+        {
+          "number": 17,
+          "latin": "Ipse autem ille, cum ei multum persuaderet, et ille ei non pareret, dixit: Fili, miserere mei, qui te novem mensibus in utero gessi, et tribus annis te nutriens, et educans usque ad hanc aetatem, et tibi sustentationem praestans.",
+          "english": "But the mother, as he was persuading him much, and he was not obeying her, said: \"My son, have mercy on me, who carried you for nine months in my womb, and nursed and raised you up to this age, and provided for you.\""
+        },
+        {
+          "number": 18,
+          "latin": "Obsecro te, fili, respice caelum et terram, et omnia quae in eis sunt, et considera: et scito quoniam ex nihilo fecit illa Deus, et genus hominum.",
+          "english": "I beg you, son, look at the universe and the earth, and everything in them, and consider: and know that God made them from nothing, and the race of men.\""
+        },
+        {
+          "number": 19,
+          "latin": "Ita et tu noli timere, carnificem hunc, sed, dignus fratribus tuis, suscipe mortem, ut in misericordia, te recipiam. ",
+          "english": "So, do not fear this executioner, but, being worthy of your brothers, accept death so that I may receive you in mercy.\""
+        },
+        {
+          "number": 20,
+          "latin": "Dum haec loqueretur, adulescens dixit: Quid expectatis? Non enim patrum, sed Dei mandatis obtemperans, haec facio.",
+          "english": "While she was speaking these things, the youth said: \"What are you waiting for? For I do these things, not obeying the commands of the fathers, but of God.\""
+        },
+        {
+          "number": 21,
+          "latin": "Et statim, torquens eum, ut et ipse moreretur: et cum moreretur, dixit: A hominibus quidem moriens, a Deo autem, spe resuscitatum, in vitam aeternam. Tu autem nequaquam resurgas.",
+          "english": "And immediately, he was tortured, so that he might also die. As he died, he said: \"Dying at the hands of men, but through the hope of resurrection from God, I am going to eternal life. But as for you, may you never rise again.\""
+        },
+        {
+          "number": 22,
+          "latin": "Reliquis autem fratribus et matre, dixit: Ego autem per virtutem illius, vobiscum sum, et semen fratrum meorum, et animae.",
+          "english": "After the brothers and the mother, he said: \"But I, through the power of Him, am with you, and with the seed of my brothers, and with their souls.\""
+        },
+        {
+          "number": 23,
+          "latin": "His autem dictis, ipsi et mater, per singulos modum mortis susceperunt.",
+          "english": "After these words, they and the mother received death in various ways."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Judas autem Machabaeus et qui cum eo erant, latenter intrantes castella, convocaverunt consanguineos, et adsumptis his qui permanebant in Juda, et qui de Juda defecerant, congregarunt circiter sex millia virorum.",
+          "english": "Judas Maccabaeus and his soldiers secretly entered the fortresses and called together their relatives. They gathered about six thousand men, including those who remained loyal in Judea and those who had deserted to join them."
+        },
+        {
+          "number": 2,
+          "latin": "Et deprecabantur Dominum ut respiceret populum ab omnibus oppugnationibus et videret injuriam quam faciebant in eos.",
+          "english": "They prayed to the Lord to look with favor on the people and to see the injury they were suffering."
+        },
+        {
+          "number": 3,
+          "latin": "Et dixerunt ad Machabaeum: Quid faciemus istis? quibus Deus dedit omnem potestatem? qui nos expugnant.",
+          "english": "They said to Maccabaeus: “What shall we do, now that God has given our enemies such power, to attack us?”"
+        },
+        {
+          "number": 4,
+          "latin": "Et respondens, ait: Oremus, et invocemus Dominum, et forte remitte. Qui ergo dimittit, faciet, et qui non, secundum voluntatem suam.",
+          "english": "Maccabaeus said in response: “Let us pray and call on the Lord. He may, perhaps, relent. He will do whatever He wishes, and if He doesn't, then He does as He wills.”"
+        },
+        {
+          "number": 5,
+          "latin": "Post haec autem congregans exercitum, et praeparans ad praelium, et dixit: Melior est mori in bello, quam videre mala gentis, et sanctorum.",
+          "english": "After gathering the army and preparing for battle, he said: “It is better to die in battle than to see the evils of our people and our holy places.”"
+        },
+        {
+          "number": 6,
+          "latin": "Et sic erat voluntas caeli.",
+          "english": "This was the will of heaven."
+        },
+        {
+          "number": 7,
+          "latin": "Exhortans igitur eos, et dans sententiam, ante omnia probatos viros, singulos per singulas turmas, quinquaginta, et praeposuit eis.",
+          "english": "Then, exhorting them and giving them the watchword, he placed the most valiant men, fifty to a company, and put them in charge."
+        },
+        {
+          "number": 8,
+          "latin": "Et dixit ad eos: In hoc opere non simus gnarri, sed pugnemus pro animabus nostris, et vindicemus nos.",
+          "english": "He told them, “Don’t be afraid in this battle. Let us fight for our souls and avenge ourselves.”"
+        },
+        {
+          "number": 9,
+          "latin": "Et dedit signum, et percussit in medio Nicanorem, qui subito cecidit in praelio.",
+          "english": "He gave the signal, and they attacked Nicanor in the center, who immediately fell in battle."
+        },
+        {
+          "number": 10,
+          "latin": "Et ceciderunt simul, plerique de exercitu Syriarum, et fugerunt reliqui.",
+          "english": "They fell together with the majority of the Syrian army, and the rest fled."
+        },
+        {
+          "number": 11,
+          "latin": "Et ceperunt spolia eorum, et Nicanoris caput absciderunt, et manum ejus, quam extulerat magnifice, et attulerunt illam, et suspenderunt prope castellum Hierusalem.",
+          "english": "They captured their spoils. They cut off Nicanor's head and his hand, which he had so proudly raised. They brought them and hung them near the fortress of Jerusalem."
+        },
+        {
+          "number": 12,
+          "latin": "Et exultaverunt Judei valde, et glorificaverunt hunc diem, et decreverunt hunc diem celebrari annuatim.",
+          "english": "The Jews greatly rejoiced and glorified this day, and they decreed that this day should be celebrated annually."
+        },
+        {
+          "number": 13,
+          "latin": "Tunc autem congregati, et dicentes: Benedicantur qui salvant populum suum.",
+          "english": "Then, gathering together, they said, “May God be praised, for He saves His people.”"
+        },
+        {
+          "number": 14,
+          "latin": "Et tulerunt, et percusserunt eos qui erant cum Timotheo et Bacchide, qui oppugnabant, et fecerunt illos in magno interitu, et vulnerati sunt, et fugerunt.",
+          "english": "They attacked and struck down those who were with Timothy and Bacchides, who were besieging them. They inflicted a great defeat, and the enemy were wounded and fled."
+        },
+        {
+          "number": 15,
+          "latin": "Et Judeus Machabaeus constituit eos qui erant in Hierusalem, qui oppugnabant, retro castella, et constituit eos qui erant in Gazeram, et in Bethsuram, et in castellum, et alios super ceteros locos.",
+          "english": "Judas Maccabaeus stationed men in Jerusalem, who were besieging the fortress. He also stationed men in Gazara, Beth-zur, and the fortress. And he put others in charge of other locations."
+        },
+        {
+          "number": 16,
+          "latin": "Misit autem Timotheus et Bacchides contra Judaeos, et congressi sunt in praelio.",
+          "english": "Timothy and Bacchides then sent their troops to fight against the Jews and they met in battle."
+        },
+        {
+          "number": 17,
+          "latin": "Et facti sunt in praelio, et de exercitu Timothei caesi sunt circiter viginti millia virorum.",
+          "english": "In the battle that followed, about twenty thousand men of Timothy’s army were killed."
+        },
+        {
+          "number": 18,
+          "latin": "Ipse autem Timotheus cum paucis effugit, et venerunt in quoddam castellum, quod vocabatur Gazara, ubi erat Chereas.",
+          "english": "But Timothy himself escaped with a few men, and they came to a certain fortress called Gazara, where Chereas was."
+        },
+        {
+          "number": 19,
+          "latin": "Tunc autem duces Judaeae, qui erant cum Machabaeo, obsederunt ipsum castellum viginti diebus cum magna impetu.",
+          "english": "Then the Jewish leaders with Maccabaeus laid siege to the fortress for twenty days, with a great assault."
+        },
+        {
+          "number": 20,
+          "latin": "Et collocantes turres, et machinas, et tormenta, expugnaverunt locum.",
+          "english": "They set up siege towers, war machines, and catapults and they assaulted the place."
+        },
+        {
+          "number": 21,
+          "latin": "Et ceciderunt in manibus eorum, qui erant intra, et ignem succenderunt castello, et succenderunt eos qui erant in eo, et sic ceciderunt.",
+          "english": "Those inside fell into their hands. They set fire to the fortress and burned those inside, and they fell."
+        },
+        {
+          "number": 22,
+          "latin": "Tunc autem pertransierunt in alium castellum, et congressi sunt contra Timotheum, qui erat in castello.",
+          "english": "Then they went to another fortress and fought against Timothy, who was there."
+        },
+        {
+          "number": 23,
+          "latin": "Et congregantes circa centum viginti millia virorum de exercitu suo, et constituerunt ipsum et alios, qui cum eo erant, in praelio.",
+          "english": "He gathered about one hundred and twenty thousand men from his army and put him and the others with him in battle."
+        },
+        {
+          "number": 24,
+          "latin": "Et congressi sunt contra Machabaeum, et congredi volentes, de exercitu Timothei caesi sunt circiter viginti millia, et Timotheus effugit in quoddam castellum, et in quo erat Chereas frater ejus.",
+          "english": "They fought against Maccabaeus, and as they were about to begin, about twenty thousand men of Timothy’s army were killed. Timothy fled to a fortress where his brother Chereas was."
+        },
+        {
+          "number": 25,
+          "latin": "Tunc autem Machabaeus, circa ipsum, et cum eo qui erant, obsederunt castellum, et percusserunt illud.",
+          "english": "Then Maccabaeus and those with him besieged the fortress and struck it."
+        },
+        {
+          "number": 26,
+          "latin": "Et timens confestim Timotheus, misit ad eos, pollicitus se dimittere cum eis, et omnes qui essent in rebus, et juravit se nunquam nocere eis in aliquibus.",
+          "english": "Fearing them, Timothy immediately sent to them, promising to release them and all their possessions, and he swore he would never harm them in any way."
+        },
+        {
+          "number": 27,
+          "latin": "Et dimisit eos Machabaeus, sed non secundum pollicitationem, sed occidit circa se, et Cheream fratrem ejus, et Timotheum, et dedit castellum civibus.",
+          "english": "Maccabaeus let them go, but not according to the promise. He killed Chereas, his brother, and Timothy, and he gave the fortress to the citizens."
+        },
+        {
+          "number": 28,
+          "latin": "Post haec autem, post haec victoria, venerunt in Caracem, et Charecensi, et Judaeis qui erant in loco illo, qui putabantur, non esse fideles, et conati sunt expugnare illos.",
+          "english": "After this victory they went to Caraca and Charecensi, and to the Jews who were in that place. They thought they were not loyal, and they tried to attack them."
+        },
+        {
+          "number": 29,
+          "latin": "Illi autem qui erant intra, videntes contra se pugnare, et persequentem exercitum, clamaverunt ad Machabaeum obsecrantes, et dicentes: Justos nos esse, et nullius adversi esse.",
+          "english": "But those inside, seeing their enemies fighting against them, cried out to Maccabaeus, begging him, and saying, “We are righteous, and we are not your enemies.”"
+        },
+        {
+          "number": 30,
+          "latin": "Et exclamantes testificabantur, dicentes: Testamur Deum, et fideles sumus vobis: et non vos, sed vos.",
+          "english": "Crying out they gave testimony, saying, “We call God as our witness, and we are faithful to you and not to your enemies.”"
+        },
+        {
+          "number": 31,
+          "latin": "Et suscepit eos Machabaeus in amicitiam: et non cessavit nocere eis, sed congregavit eorum usque ad triginta millia.",
+          "english": "Maccabaeus received them in friendship and did not cease to harm them, but gathered their people, up to thirty thousand."
+        },
+        {
+          "number": 32,
+          "latin": "Et hos posuit in opere, et ad ministeria Judaeorum, et reversus est cum eis in Hierusalem, et liberavit civitatem.",
+          "english": "He put them to work in the service of the Jews, and he returned with them to Jerusalem and freed the city."
+        },
+        {
+          "number": 33,
+          "latin": "Et interfecit in Hierusalem, eos qui erant inter eos, qui exissent, quia erant in peccatis, et iniqua operati sunt.",
+          "english": "In Jerusalem, he killed those among them who had gone out, because they were in sins and had done evil."
+        },
+        {
+          "number": 34,
+          "latin": "Et posuit in Hierusalem castellum cum viris, et muniit illud, et ipsi et alii custodiebant illud.",
+          "english": "He placed a fortress in Jerusalem with men and fortified it, and they and others guarded it."
+        },
+        {
+          "number": 35,
+          "latin": "Et miserunt ad Bethsuram contra eos, et expugnaverunt illos: et interfecerunt circiter quinque millia virorum.",
+          "english": "And they sent troops to Beth-zur against them and attacked them, and they killed about five thousand men."
+        },
+        {
+          "number": 36,
+          "latin": "Videns autem Judas opera horum, et impetum eorum, congregavit populum ad laudandum Dominum, qui salvat Israhel.",
+          "english": "Judas, seeing their deeds and their attack, gathered the people to praise the Lord, who saves Israel."
+        },
+        {
+          "number": 37,
+          "latin": "Et congregavit eos, et egressus est contra eos, et percussit eos.",
+          "english": "He gathered them and went out against them and struck them."
+        },
+        {
+          "number": 38,
+          "latin": "Et interfecit, in praelio, Ptolomaeum, filium Dori, et cum ipso qui erant.",
+          "english": "In the battle, he killed Ptolemy, the son of Dori, and those with him."
+        },
+        {
+          "number": 39,
+          "latin": "Et statuit castellum, et cum omni Israel per diem laudabant eum, qui est salvator eorum.",
+          "english": "He stationed troops in the fortress, and with all of Israel they praised him daily, who is their savior."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Igitur Antiochus rex apparatu magno in regiones Persarum proficiscebatur, cum audivit in Perside exercitus esse, qui resistebat ei.",
+          "english": "So, King Antiochus then departed for the regions of Persia with a great army, because he heard that there was an army in Persia that was resisting him."
+        },
+        {
+          "number": 2,
+          "latin": "Erat enim negotium magnum, quod a Graecis illic tractabatur, et quoniam in ea regione erant, qui adversabantur illi.",
+          "english": "For a great problem, which was being handled by the Greeks there, and because there were those in that region who opposed him."
+        },
+        {
+          "number": 3,
+          "latin": "Igitur abiit in Persida, et cum his, qui erant cum eo, et audivit in templo Naneae, in Perside, esse magnam pecuniam.",
+          "english": "So he departed to Persia with those who were with him, and he heard that there was great wealth in the temple of Nanaea, in Persia."
+        },
+        {
+          "number": 4,
+          "latin": "Et venit, et sperabat accipere civitatem, et obtinere pecuniam. Quia misit in civitatem, et obtinuit.",
+          "english": "And he came, and he hoped to take the city, and to obtain the wealth. Because he sent to the city and he obtained it."
+        },
+        {
+          "number": 5,
+          "latin": "Igitur cum veniret Antiochus, et hii, qui erant cum eo, statim templi sacerdotes, cum illuc venissent, et de hac causa, propter quam venerant, ei ostenderunt.",
+          "english": "So when Antiochus came, and those who were with him, the temple priests immediately came there, and they showed him the reason why they had come."
+        },
+        {
+          "number": 6,
+          "latin": "Et dixerunt: \"Ecce pecunia est multorum, quae nobis commissa est. Sed tu statim accipe eam, et fac quae praecepta tibi sunt.\"",
+          "english": "And they said: “Behold, there is much wealth, which has been entrusted to us. But take it immediately, and do what has been commanded to you.”"
+        },
+        {
+          "number": 7,
+          "latin": "Et ille dixit: \"Statim, et cum festinatione.\" Et disposuit. Sed cum intrasset Antiochus in templum, hii, qui erant cum eo, sacerdotes, portantes eam, et intraverunt.",
+          "english": "And he said, “Immediately, and with haste.” And he arranged it. But when Antiochus entered the temple, and those who were with him, the priests, carrying it, entered."
+        },
+        {
+          "number": 8,
+          "latin": "Et cum intrasset Antiochus, et hii, qui erant cum eo, statim sacerdotes templi, clamantes, et illico in cinere et in terra, ignem fecerunt.",
+          "english": "And when Antiochus, and those who were with him, entered, immediately the temple priests, shouting, and at once in the ashes and on the ground, made a fire."
+        },
+        {
+          "number": 9,
+          "latin": "Et cum hoc factum esset, et hoc quod factum est, et perierunt, non mediocriter, et ipsi qui erant cum eo, et percussus est gladiis, et sine timore.",
+          "english": "And when this had been done, and this that was done, they perished, not moderately, and those who were with him, and he was struck by swords, and without fear."
+        },
+        {
+          "number": 10,
+          "latin": "Et civitas tota, cum magna exultatione, et omnes qui erant in ea, fecerunt illi.",
+          "english": "And the whole city, with great exultation, and all who were in it, did it to him."
+        },
+        {
+          "number": 11,
+          "latin": "Die autem quarto, inerat in dolore magno, et hii qui erant cum eo, contristabantur.",
+          "english": "On the fourth day, he was in great pain, and those who were with him were saddened."
+        },
+        {
+          "number": 12,
+          "latin": "Et cum hoc factum esset, et illi qui erant cum eo, qui erant adversarii illius, dixerunt: \"Quomodo erat iste vir potens et terribilis!\"",
+          "english": "And when this was done, those who were with him, who were his enemies, said: “How powerful and terrifying was this man!”"
+        },
+        {
+          "number": 13,
+          "latin": "Et defunctus est Antiochus, dolore magno, et exclamavit.",
+          "english": "And Antiochus died, in great pain, and he cried out."
+        },
+        {
+          "number": 14,
+          "latin": "Et factum est, ut multi ex his, qui erant cum eo, caderent, et occisi sunt, et illi qui erant cum eo. Et adlocutus est Philippus, qui erat educatus cum Antiocho, de filio eius, et adduxit eum, et regnavit.",
+          "english": "And it happened that many of those who were with him fell, and were killed, and those who were with him. And Philip, who was educated with Antiochus, spoke about his son, and brought him, and he reigned."
+        },
+        {
+          "number": 15,
+          "latin": "Et regnavit Philippus. Et aeger, et vexatus, et omnes qui erant cum eo, qui contristabantur.",
+          "english": "And Philip reigned. And he was sick, and troubled, and all who were with him were saddened."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Factum est autem, Iuda, qui cognominabatur Machabaeus, et socii eius, introeuntes clam in vicos, et accipientes eos qui ibi erant, et congregantes eos qui de Iudaea non aberant, usque dum pervenirent ad eos qui erant contra,",
+          "english": "Judas, who was called Maccabeus, and his companions went into the villages secretly, and then arrested those who were there. They gathered those who had not deserted from Judea until they met the forces opposing them."
+        },
+        {
+          "number": 2,
+          "latin": "et inplorantes Dominum, et timorem facientes gentibus, percusserunt eos: et combusserunt castellum, et ceperunt illud.",
+          "english": "They called upon the Lord, terrified the surrounding nations, and attacked them. They burned down their fortress and captured it."
+        },
+        {
+          "number": 3,
+          "latin": "Et cum dies instaret, Iuda, facto in bellum comitatu, elegit viros usque ad tres milia, et misit in bellum contra Bacchidem, et qui cum eo erant.",
+          "english": "When it was time for battle, Judas, forming his company, chose 3,000 men and sent them into battle against Bacchides and his army."
+        },
+        {
+          "number": 4,
+          "latin": "Qui timentes Bacchidem, secesserunt de castris: et ex eis derelicti sunt de duobus milibus, et sexcentis viris, et octoginta.",
+          "english": "Fearing Bacchides, they withdrew from the camp. Of the 3,000, only 2,680 men remained."
+        },
+        {
+          "number": 5,
+          "latin": "Cum vidisset autem Iudas eos qui recesserant, cum persequerentur illos, insecutus est eos",
+          "english": "When Judas saw those who had withdrawn, he pursued them."
+        },
+        {
+          "number": 6,
+          "latin": "et in pugnam convertit eos, et occidit de eis tria milia virorum. Et perrexit ad castra Bacchidis, et pugnaverunt.",
+          "english": "He turned them to fight, and killed 3,000 men. He then advanced to Bacchides' camp and fought."
+        },
+        {
+          "number": 7,
+          "latin": "Et Bacchides timens virium eius, transiens ad locum qui dicebatur Azotus, ite cum eis ad Iuda.",
+          "english": "Bacchides, fearing his strength, crossed over to the place called Azotus, and then they went with him to fight Judas."
+        },
+        {
+          "number": 8,
+          "latin": "Et congregavit multitudo magna, et constituerunt consilium. Et dixerunt ad eos qui cum Iuda erant, quod Iudas et fratres eius perierunt.",
+          "english": "A large crowd gathered and formed a council. They told those with Judas that Judas and his brothers had been killed."
+        },
+        {
+          "number": 9,
+          "latin": "Et cum audisset Iudas verba, cum pergerent, dixit: Non sit a me misericordia, et inrumpamus in eos.",
+          "english": "When Judas heard these words, as they were on their way, he said: \"There shall be no mercy for me, but we shall break into them.\""
+        },
+        {
+          "number": 10,
+          "latin": "Et pugnavit contra eos in civitate, et occidit de eis circiter viginti milia virorum: et reliquos confugere fecerunt in castellum, quod erat in Azoto.",
+          "english": "He fought against them in the city and killed about 20,000 men. The rest they forced to flee into a castle in Azotus."
+        },
+        {
+          "number": 11,
+          "latin": "Et tollentes spolia, combusserunt Azotum et omnia quae in ea erant: et reversi sunt in Iudaeam.",
+          "english": "Taking the spoils, they burned Azotus and everything in it. Then they returned to Judea."
+        },
+        {
+          "number": 12,
+          "latin": "Factum est autem, quod Bacchides et Iudas convenerunt in campo, qui dicebatur Bersa: et Iudas cum paucis.",
+          "english": "Bacchides and Judas met in the field called Bersa, with Judas having few men."
+        },
+        {
+          "number": 13,
+          "latin": "Viri autem qui cum Iuda erant, defecerant: et cum vidissent turbam magna, timuerunt, et non potuerunt stare. Iudas autem et socii eius pugnaverunt usque ad mortem.",
+          "english": "The men with Judas were exhausted, and when they saw the large crowd, they were afraid and could not stand. Judas and his companions fought to the death."
+        },
+        {
+          "number": 14,
+          "latin": "Et viderunt viri qui cum Iuda erant, quod fratres eius perierant, et omnes qui erant cum eo. Et secuti sunt eos.",
+          "english": "The men with Judas saw that his brothers and all who were with him had died. They followed them."
+        },
+        {
+          "number": 15,
+          "latin": "Et factum est, et factum est, ut esset eis in fugam, et fugiebant in terram.",
+          "english": "They fled into the land."
+        },
+        {
+          "number": 16,
+          "latin": "Et ex altera parte, Bacchides et duces eius, castra ponentes, castrametati sunt in terra Iudaeae.",
+          "english": "On the other side, Bacchides and his leaders set up camp and encamped in the land of Judea."
+        },
+        {
+          "number": 17,
+          "latin": "Et ploraverunt Iudaei, et dixerunt: Quomodo perierunt fortes, qui salvabant Israhel!",
+          "english": "The Jews mourned and said, \"How have the strong ones perished, who saved Israel!\""
+        },
+        {
+          "number": 18,
+          "latin": "Reliqua autem verborum Iudae, et bellorum eius, et virtutum, quae fecit, non sunt scripta in libro. Erat enim magna nimis.",
+          "english": "The rest of Judas’ deeds, his wars, and the acts of valor he performed are not written in this book, because they were too great."
+        },
+        {
+          "number": 19,
+          "latin": "Factum est autem post mortem Iudae, surrexerunt qui non erant pii, et moverunt omnem malitiam in omni finium Israhel.",
+          "english": "After the death of Judas, those who were not pious arose and stirred up all sorts of evil throughout all the borders of Israel."
+        },
+        {
+          "number": 20,
+          "latin": "Et congregata est omnis malitia in eos. Tunc surrexerunt qui faciebant peccata, et mali confabulationes adveniebant.",
+          "english": "All wickedness gathered against them. Then those who committed sins arose, and evil conspiracies followed."
+        },
+        {
+          "number": 21,
+          "latin": "Et facta est fames magna, et defecit terra, et congregata est omnis multitudo. Tunc Simon exsurrexit, et pugnavit pro populo suo, et obtulit vitam suam pro genere suo.",
+          "english": "A great famine occurred, and the land failed, and all the multitude gathered together. Then Simon rose up, fought for his people, and offered his life for his nation."
+        },
+        {
+          "number": 22,
+          "latin": "Et congregavit amicos suos, et misit eos: et congregavit eos qui erant de genere suo, et confirmavit eis iustitiam.",
+          "english": "He gathered his friends and sent them forth. He gathered those of his own family and strengthened them in justice."
+        },
+        {
+          "number": 23,
+          "latin": "Et multiplicavit opera populi, et terra fuit gloriosa, et omnis malitia expulsus est de terra.",
+          "english": "He multiplied the works of the people, and the land was glorified, and all evil was driven out of the land."
+        },
+        {
+          "number": 24,
+          "latin": "Et exsurrexit in conspectu eius de populo, et vindicavit genus suum. Et congregavit opera populi, et vindicavit eam.",
+          "english": "He arose in the sight of his people and avenged his nation. He gathered the works of the people and avenged it."
+        },
+        {
+          "number": 25,
+          "latin": "Et in diebus suis prosperatus est in operibus suis, et extulit fines suos.",
+          "english": "In his days, he prospered in his works and extended his borders."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "His autem rebus gestis, Judas Machabaeus, et qui cum eo erant, introierunt clam in vicos, et accersierunt eos qui erant in Judaea, qui non recesserant ad Philippum, et celebrarunt diem sabbati.",
+          "english": "After this, Judas Maccabaeus and his men entered the villages in secret, and they summoned those in Judea who had not deserted to Philip. And they observed the Sabbath day."
+        },
+        {
+          "number": 2,
+          "latin": "Et postea, congregati, dederunt Philippo bellum, et contrito eo, et ipso cum magna virtute occiso, et ceteris qui cum eo erant.",
+          "english": "Later, they gathered and made war against Philip. After Philip was defeated and killed with great valor, and the rest who were with him..."
+        },
+        {
+          "number": 3,
+          "latin": "Judas vero, et fratres ejus, cum optimis quibusque Israel, statuerunt in die illa, et secuti sunt.",
+          "english": "Judas and his brothers, along with the best of the Israelites, resolved on that day and followed this course:"
+        },
+        {
+          "number": 4,
+          "latin": "Et dixerunt: Ecce inimici nostri contriti sunt, et ascendamus ad mundationem sanctuarii, et dedicemus illud.",
+          "english": "They said: “Behold, our enemies are defeated! Let us go up to cleanse the sanctuary and dedicate it.”"
+        },
+        {
+          "number": 5,
+          "latin": "Congregata est ergo universa multitudo, et ascenderunt in montem Sion.",
+          "english": "Then, the whole multitude gathered and went up to Mount Zion."
+        },
+        {
+          "number": 6,
+          "latin": "Et viderunt sanctuarium desertum, et altare contaminatum, et portas combustas, et in atriis plantas natas, sicut in silva vel in monte, et camerulas dirutas.",
+          "english": "They saw the sanctuary deserted, the altar defiled, the gates burned, and plants growing in the courtyards as in a forest or a mountain, and the chambers destroyed."
+        },
+        {
+          "number": 7,
+          "latin": "Et sciderunt vestimenta sua, et planxerunt planctu magno, et cinxerunt se ciliciis, et posuerunt cinis super capita sua.",
+          "english": "They tore their garments and mourned with a great lamentation; they put on sackcloth and placed ashes on their heads."
+        },
+        {
+          "number": 8,
+          "latin": "Et prociderunt in faciem terrae, et clamaverunt in voce magna ad caelum.",
+          "english": "And they fell to the ground and cried out with a loud voice to the universe."
+        },
+        {
+          "number": 9,
+          "latin": "Tunc Judas jussit viros pugnare adversus eos qui erant in castello, donec purgarent sanctuarium.",
+          "english": "Then Judas ordered the men to fight against those in the fortress until they had cleansed the sanctuary."
+        },
+        {
+          "number": 10,
+          "latin": "Et elegit sacerdotes sine macula, et voluntate bona, et mundaverunt sanctuarium, et tulerunt lapides contaminationis in locum immundum.",
+          "english": "He chose priests without blemish and of good will, and they cleansed the sanctuary and removed the stones of defilement to an unclean place."
+        },
+        {
+          "number": 11,
+          "latin": "Et consiliati sunt de altari holocaustorum, quod contaminatum erat, quid facerent de illo.",
+          "english": "They considered what to do with the altar of burnt offerings, which had been defiled."
+        },
+        {
+          "number": 12,
+          "latin": "Et obtulit illis consilium bonum, ut destruerent illud, ne forte eis inproperaretur, quod gentiles illud contaminassent: et demoliti sunt altare.",
+          "english": "They gave good counsel to tear it down, lest it be reproached to them that the Gentiles had defiled it, and they demolished the altar."
+        },
+        {
+          "number": 13,
+          "latin": "Et reposuerunt lapides in monte domus in loco conveniente, donec scilicet veniret propheta, et daret responsa de illis.",
+          "english": "They placed the stones in a fitting place on the mountain of the house until, that is, a prophet should come and give an answer about them."
+        },
+        {
+          "number": 14,
+          "latin": "Sumpserunt autem lapides integros secundum legem, et aedificaverunt altare secundum ea quae prius fuerant.",
+          "english": "Then they took whole stones according to the law and built an altar like the former one."
+        },
+        {
+          "number": 15,
+          "latin": "Et aedificaverunt sanctuarium, et quae intra erant domum, et atria sanctificaverunt.",
+          "english": "And they built the sanctuary and the interior of the house, and they sanctified the courts."
+        },
+        {
+          "number": 16,
+          "latin": "Et fecerunt vasa sancta nova, et intulerunt candelabrum et altare incensi, et mensam in templo.",
+          "english": "They made new sacred vessels and brought in the lampstand, the altar of incense, and the table in the temple."
+        },
+        {
+          "number": 17,
+          "latin": "Et incenderunt incensum in altari, et lucernas, quae erant super candelabrum, accenderunt, et inluminabant in templo.",
+          "english": "And they burned incense on the altar, and they lit the lamps that were on the lampstand, and they gave light in the temple."
+        },
+        {
+          "number": 18,
+          "latin": "Et posuerunt panes super mensam, et vela texuerunt, et perfecerunt opera quae fecerant.",
+          "english": "They placed the bread on the table and hung the veils, and they finished the work they had done."
+        },
+        {
+          "number": 19,
+          "latin": "Et in die vicesima quinta mensis noni, est dedicatio templi.",
+          "english": "On the twenty-fifth day of the ninth month was the dedication of the temple."
+        },
+        {
+          "number": 20,
+          "latin": "Et immolaverunt sacrificia cum cantico et citharis et cymbals, et in tympanis.",
+          "english": "And they offered sacrifices with song, with harps, cymbals, and drums."
+        },
+        {
+          "number": 21,
+          "latin": "Et ceciderunt sacerdotes in faciem ante templum, in dedicatione templi, et Levitae cum citharis et canticis in magno cantico.",
+          "english": "And the priests fell on their faces before the temple during the dedication of the temple, and the Levites sang with harps and songs in a great chant."
+        },
+        {
+          "number": 22,
+          "latin": "Et universus populus adoravit.",
+          "english": "And all the people adored."
+        },
+        {
+          "number": 23,
+          "latin": "Et sacrificaverunt holocausta, et immolaverunt hostias, et sacrificium pacis.",
+          "english": "And they sacrificed burnt offerings and offered sacrifices and peace offerings."
+        },
+        {
+          "number": 24,
+          "latin": "Et celebravit Judas dedicationem altaris in diebus octo, et obtulit holocausta, et libamina cum gaudio et laetitia.",
+          "english": "And Judas celebrated the dedication of the altar for eight days, and he offered burnt offerings and libations with joy and gladness."
+        },
+        {
+          "number": 25,
+          "latin": "Ornamenta templi quoque et ipsius templi, renovaverunt, et intus et foris.",
+          "english": "They also renewed the ornaments of the temple itself, both inside and out."
+        },
+        {
+          "number": 26,
+          "latin": "Et in die vicesima quinta mensis noni, et in anno centesimo quadragesimo octavo, surrexerunt mane.",
+          "english": "On the twenty-fifth day of the ninth month, in the one hundred and forty-eighth year, they rose early."
+        },
+        {
+          "number": 27,
+          "latin": "Et immolaverunt secundum legem, in altari holocaustorum, quod aedificaverant.",
+          "english": "And they sacrificed according to the law on the altar of burnt offerings, which they had built."
+        },
+        {
+          "number": 28,
+          "latin": "Et secundum tempus, et secundum diem, quo gentes contaminassent illud, in eodem dedicata est cum canticis, et citharis, et cymbals, et tympanis.",
+          "english": "And according to the time and day when the Gentiles had defiled it, it was dedicated with songs, harps, cymbals, and drums."
+        },
+        {
+          "number": 29,
+          "latin": "Et omnis populus procidit in faciem suam, et adoravit, et benedixerunt in caelum eum qui prosperaverat eis.",
+          "english": "And all the people fell on their faces, and adored, and they blessed the one in the universe who had given them success."
+        },
+        {
+          "number": 30,
+          "latin": "Et egerunt dedicationem altaris octo diebus in gaudio, sicut et in sollemnitate tabernaculorum memores facti, quoniam nuper, in tabernaculis silvarum conversati erant, et bestias feras patibantur.",
+          "english": "And they celebrated the dedication of the altar for eight days in joy, just as they were reminded of the feast of the tabernacles; because recently, they had lived in the tabernacles of the forests and endured wild beasts."
+        },
+        {
+          "number": 31,
+          "latin": "Propter quod et cum tirmis clamoribus, deprecati sunt eum qui prosperaverat eos, ut usque in finem conservaret ipsos.",
+          "english": "Because of this, they cried out with firm shouts, and they implored the one who had given them success to preserve them to the end."
+        },
+        {
+          "number": 32,
+          "latin": "Et Judas, et fratres ejus, constituerunt universae Judaeorum universitati, ut dies dedicationis altaris, in temporibus suis, annuatim cum gaudio et laetitia, celebrantur in diebus octo.",
+          "english": "And Judas and his brothers established for the whole community of the Jews that the days of the dedication of the altar should be celebrated annually with joy and gladness for eight days, at their appointed times."
+        },
+        {
+          "number": 33,
+          "latin": "Insuper et tempus illud, in quo fuerunt in Persida, et cum Artaxerse rege, et in tempore Machabaei.",
+          "english": "Moreover, this time, in which they were in Persia, and with King Artaxerxes, and in the time of Maccabaeus..."
+        },
+        {
+          "number": 34,
+          "latin": "Et miserunt epistolas ad Judaeos, qui erant in Aegypto, in omnibus provinciis Judaeorum, salutem Judaeorum fratrum, Judaeorum, qui erant in Judaea, et qui erant, salutem.",
+          "english": "And they sent letters to the Jews who were in Egypt, to all the provinces of the Jews, greetings from the Jewish brothers—to the Jews who were in Judea, and those who were, greetings."
+        },
+        {
+          "number": 35,
+          "latin": "Et in dedicatione altaris, et in die vicesima quinta mensis Casleu, et in anno centesimo quadragesimo octavo.",
+          "english": "On the dedication of the altar, and on the twenty-fifth day of the month of Chislev, in the one hundred and forty-eighth year..."
+        },
+        {
+          "number": 36,
+          "latin": "Et ea quae in Machabaeis gesta sunt et cum sociis ejus, universa declaramus, et de fortitudine et magna patientia.",
+          "english": "We declare all the events that occurred in Maccabees and with his companions, and of their strength and great endurance."
+        },
+        {
+          "number": 37,
+          "latin": "Quomodo in bello Judaeos adfecerunt, et quomodo pro Judaica lege cum virtute pugnantes, propterea inimici, et quomodo templum sanctum, et sanctuarium purificaverunt, et altare dedicaverunt.",
+          "english": "How they affected the Jews in war, and how they fought with courage for the Jewish law, how, for that reason, they were enemies, and how they purified the holy temple and the sanctuary, and they dedicated the altar."
+        },
+        {
+          "number": 38,
+          "latin": "Et quae de aliis facta sunt, et de his, in eisdem temporibus, narrabimus.",
+          "english": "And we will narrate what was done about the others, and about these, in those same times."
+        },
+        {
+          "number": 39,
+          "latin": "Et haec quidem dicta sint in verbo; nunc ergo finem faciemus sermonem.",
+          "english": "And let these things have been said in words; now, therefore, we will bring the speech to an end."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Maccabaeus autem et qui cum eo erant, Domino deprecati, petebant ut Deus hostibus suis hostem dimitteret.",
+          "english": "But Judas Maccabaeus and his men prayed to the Lord, begging Him to send an enemy against their enemies."
+        },
+        {
+          "number": 2,
+          "latin": "Et impetus factus est in eos, in quo complures vulnerati sunt, et reliqui fugerunt in loca montana.",
+          "english": "A surprise attack was launched against them, in which many were wounded, and the rest fled to the mountains."
+        },
+        {
+          "number": 3,
+          "latin": "Tunc igitur Simon, in cujus erant potentia, accepit viros, et eligens de numero suo, misit ad regem, ut inducerent eum in locos montium.",
+          "english": "Then Simon, who was one of their leaders, took his men, and selecting some of their number, he sent them to the king to bring him into the mountains."
+        },
+        {
+          "number": 4,
+          "latin": "Et fecit in eo viam, cum suis hominibus, et praeveniens, irruit in eos.",
+          "english": "He prepared a path for his men, anticipating the enemy, and rushed upon them."
+        },
+        {
+          "number": 5,
+          "latin": "Qui autem erant cum Timotheo, videbant ipsum et, cunctatione plena, confugerunt.",
+          "english": "Those with Timothy saw this and, filled with fear, took refuge."
+        },
+        {
+          "number": 6,
+          "latin": "Et exclamabant ad eum et supplicabant ut securius ad eos transiret: timuerunt enim.",
+          "english": "They cried out to him and begged him to let them pass safely, for they were afraid."
+        },
+        {
+          "number": 7,
+          "latin": "Tunc ergo venit ad eos et eos pacificavit, et juramenta ei dedit ut iniquos, qui essent, non inferrent eis.",
+          "english": "So he went to them and made peace with them, and they swore an oath that they would not cause any trouble."
+        },
+        {
+          "number": 8,
+          "latin": "Et concidit Timotheum et ipsius, et fratrem ejus Cheream, et reliquos, et persecuti sunt eos.",
+          "english": "He struck Timothy and his men, and his brother Chereas, and the rest, and pursued them."
+        },
+        {
+          "number": 9,
+          "latin": "Et in bellis erant praeparati, et ex insidiis dederunt pugnam: et occisi sunt ex eis circiter viginti millia virorum.",
+          "english": "They were prepared for war, and they gave battle from an ambush, and about twenty thousand men were killed."
+        },
+        {
+          "number": 10,
+          "latin": "Timotheus autem ipse, et ad ipsius locum, ut praepararentur, et ad aliud locum contra eos misit.",
+          "english": "Timothy himself, and to his place, sent to prepare, and to another place against them."
+        },
+        {
+          "number": 11,
+          "latin": "Maccabaeus autem et cum eo erant, divisus in duas turmas, egerunt, et aggressi sunt eos qui habebant praeparationem, et ad pugnam conflixerunt: et vulnerati sunt, et fugerunt reliqui in munitionem locorum.",
+          "english": "But Maccabaeus and those with him, divided into two groups, attacked those who were prepared, and they fought: and they were wounded, and the rest fled to the fortified places."
+        },
+        {
+          "number": 12,
+          "latin": "Ibi Timotheum ceperunt, et Cheream fratrem ipsius, et Apollonium. Et post haec interfecerunt eos, et gladiis multos vulneratos sunt.",
+          "english": "They captured Timothy there, and his brother Chereas, and Apollonius. And after this they killed them, and wounded many with swords."
+        },
+        {
+          "number": 13,
+          "latin": "Fuit autem pascha in mense Xanti, et cum venerat, celebraverunt illud.",
+          "english": "Now the Passover was in the month of Xanti, and when it came, they celebrated it."
+        },
+        {
+          "number": 14,
+          "latin": "Post haec, in castellum accedentes, quod erat sub montibus, nomine Garizim, complures ex iis qui erant in eo, interfecerunt.",
+          "english": "After this, they went to a fortress that was under the mountains, named Garizim, and they killed many of those who were in it."
+        },
+        {
+          "number": 15,
+          "latin": "Et in hoc tempore, Is, qui in Bethsuris, cum esset praesidii, confugerunt contra eos, et deprecabantur Dominum.",
+          "english": "And at this time, those who were in Bethsura, having been in the garrison, took refuge against them, and they prayed to the Lord."
+        },
+        {
+          "number": 16,
+          "latin": "Et pugnabant contra eos, et dederunt manum eis: et in hoc tempore, erant, qui ab eis exprobrabantur ab impiis.",
+          "english": "And they fought against them, and gave them their hand: and at this time, there were those who were reproached by the impious among them."
+        },
+        {
+          "number": 17,
+          "latin": "Et celebrabant sancta, et cum suis praesidiis, et ibi erant, qui erant de Bethsuris.",
+          "english": "And they celebrated the holy things with their garrisons, and there were those who were from Bethsura."
+        },
+        {
+          "number": 18,
+          "latin": "Erat enim dies celebrandi sancti, in mense Xanti, et in mense antequam, de quo ante dixeramus.",
+          "english": "For it was the day of celebrating the holy things, in the month of Xanti, and in the month before that, which we mentioned before."
+        },
+        {
+          "number": 19,
+          "latin": "Hii autem qui erant in Hierusalem, secuti sunt illos qui in Galilaea fuerant, qui in eodem mense Xanti, et celebrabant.",
+          "english": "Now those who were in Jerusalem followed those who had been in Galilee, who in the same month of Xanti, were celebrating."
+        },
+        {
+          "number": 20,
+          "latin": "Et postquam resurgentes, circumdederunt castra Judae, qui pugnaverant, et post haec.",
+          "english": "And after rising up, they surrounded the camp of Judas, who had fought, and after this."
+        },
+        {
+          "number": 21,
+          "latin": "Et ad Hierusalem venerunt, et supplicantes, oraverunt ut digne, et de virtute, esset cum eis, et ut ad finem pervenirent.",
+          "english": "And they came to Jerusalem, and supplicating, they prayed that they might be worthy, and with virtue, and to the end they would arrive."
+        },
+        {
+          "number": 22,
+          "latin": "Et post haec, in castra accesserunt, et in eis, erant qui contra eos erant.",
+          "english": "And after this, they went to the camp, and in it, were those who were against them."
+        },
+        {
+          "number": 23,
+          "latin": "Et cum venerunt prope, exclamantes, et deos illorum, supplicabant, ut pro eis mitterent.",
+          "english": "And when they came near, crying out, and their gods, they implored that they would send for them."
+        },
+        {
+          "number": 24,
+          "latin": "Judas autem, et cum eo erant, orantes, et pro eis, petebant.",
+          "english": "But Judas, and those with him, praying, asked for them."
+        },
+        {
+          "number": 25,
+          "latin": "Et cum facta esset oratio, et exclamantes, erant impii, et erant, qui de gentibus, qui erant in eis, et in eis, erant ad praelia parati.",
+          "english": "And when the prayer had been made, and they cried out, the impious were there, and there were some of the gentiles, who were in them, and were prepared for battle."
+        },
+        {
+          "number": 26,
+          "latin": "Et Judas autem et qui cum eo erant, pugnaverunt, et confusi sunt, et fugerunt.",
+          "english": "And Judas and those with him fought, and were confused, and fled."
+        },
+        {
+          "number": 27,
+          "latin": "Et post haec, ex eis, vulnerati sunt, et ex eis, circiter triginta viri.",
+          "english": "And after this, some of them were wounded, and about thirty men were killed."
+        },
+        {
+          "number": 28,
+          "latin": "Et Judas, et qui cum eo erant, secuti sunt, et reversi sunt ad castra eorum: et tunc, in eorum exclamantes, et supplicantes, deprecabantur.",
+          "english": "And Judas, and those with him, followed and returned to their camp: and then, crying out and supplicating, they prayed."
+        },
+        {
+          "number": 29,
+          "latin": "Et venerunt ad castra eorum, et post haec, fugerunt, et ab eis, qui contra eos erant, occisi sunt.",
+          "english": "And they came to their camp, and after this, they fled, and were killed by those who were against them."
+        },
+        {
+          "number": 30,
+          "latin": "Et in die illo, erant, qui circa vicum, qui est sub montibus, nomine Adasa: et ibi erant in oratione et exclamabant: et post haec.",
+          "english": "And on that day, there were those near the village, which is under the mountains, named Adasa: and there they were in prayer and cried out: and after this."
+        },
+        {
+          "number": 31,
+          "latin": "Judas autem et qui cum eo erant, post haec, venerunt: et cum eis, exclamabant, et orantes, et post haec, exclamabant.",
+          "english": "But Judas and those with him, after this, came: and with them, they cried out, and praying, and after this, they cried out."
+        },
+        {
+          "number": 32,
+          "latin": "Et occiderunt, et confixerunt, et erant in die illo, ex eis, circiter trecentos viros.",
+          "english": "And they killed, and pierced, and on that day, about three hundred men were killed."
+        },
+        {
+          "number": 33,
+          "latin": "Et Judas, et qui cum eo erant, regressi sunt, et praedam acceperunt.",
+          "english": "And Judas, and those with him, returned and took the spoils."
+        },
+        {
+          "number": 34,
+          "latin": "Et post haec, erant de Jericho, et in Jericho, et circa, et post haec, erant de Adasa.",
+          "english": "And after this, they were from Jericho, and in Jericho, and around, and after this, they were from Adasa."
+        },
+        {
+          "number": 35,
+          "latin": "Et reversi sunt, et praedam acceperunt. Et post haec, erant de Hierusalem, et post haec, ex eis, et in Hierusalem.",
+          "english": "And they returned, and took the spoils. And after this, they were from Jerusalem, and after this, from them, and in Jerusalem."
+        },
+        {
+          "number": 36,
+          "latin": "Et dederunt ei, qui erat super eos, de Hierusalem, et qui erant de Hierusalem, et circa, et post haec.",
+          "english": "And they gave to him, who was over them, from Jerusalem, and those who were from Jerusalem, and around, and after this."
+        },
+        {
+          "number": 37,
+          "latin": "Et cum venerunt ad terram Judae, et ex eis, et in terra Judae, et post haec, erant de Bethsuris, et in Bethsuris, et circa, et post haec.",
+          "english": "And when they came to the land of Judea, and from them, and in the land of Judea, and after this, they were from Bethsura, and in Bethsura, and around, and after this."
+        },
+        {
+          "number": 38,
+          "latin": "Et venerunt, et post haec, erant de Hierusalem, et ex eis, et in Hierusalem, et ad templum, et in templum.",
+          "english": "And they came, and after this, they were from Jerusalem, and from them, and in Jerusalem, and to the temple, and in the temple."
+        },
+        {
+          "number": 39,
+          "latin": "Et in illis diebus, et tunc, oraverunt Dominum, et post haec, pro eis, oraverunt.",
+          "english": "And in those days, and then, they prayed to the Lord, and after this, they prayed for them."
+        },
+        {
+          "number": 40,
+          "latin": "Et post haec, Judaei, et qui cum eo erant, et post haec, oraverunt, et pro eis, petebant, et in Jerusalem.",
+          "english": "And after this, the Jews, and those with him, and after this, they prayed, and asked for them, and in Jerusalem."
+        },
+        {
+          "number": 41,
+          "latin": "Et tunc, erant in Hierusalem, et orantes, et post haec, erant et erant in templo.",
+          "english": "And then, they were in Jerusalem, and praying, and after this, they were in the temple."
+        },
+        {
+          "number": 42,
+          "latin": "Et cum pervenissent, dederunt illis pecuniam, et sacrificantes, et post haec, sacrificabant.",
+          "english": "And when they arrived, they gave them money, and sacrificing, and after this, they sacrificed."
+        },
+        {
+          "number": 43,
+          "latin": "Et cum complessent, et dederunt omnia, et post haec, dederunt pecuniam, et tunc, erant et sacrificabant, et dederunt et sacrificabant, et praedam acceperunt.",
+          "english": "And when they had finished, and they gave all, and after this, they gave money, and then, they were and sacrificed, and gave and sacrificed, and took the spoils."
+        },
+        {
+          "number": 44,
+          "latin": "Et post haec, cum perfecissent omnia, et omnia, et post haec, dederunt omnia, et sacrificaverunt, et cum ad finem pervenissent, et in illis diebus, et post haec, et in eis, erant, et tunc, et ante, erant.",
+          "english": "And after this, when they had completed all things, and all things, and after this, they gave all, and sacrificed, and when they had come to the end, and in those days, and after this, and in them, they were, and then, and before, they were."
+        },
+        {
+          "number": 45,
+          "latin": "Et qui in Hierusalem, cum Judaeis, et ad templum, et in Hierusalem.",
+          "english": "And those in Jerusalem, with the Jews, and to the temple, and in Jerusalem."
+        },
+        {
+          "number": 46,
+          "latin": "Et Judas et qui cum eo erant, ad illos venerunt, et post haec, oraverunt, et post haec, petebant, et post haec.",
+          "english": "And Judas and those with him, came to them, and after this, they prayed, and after this, they asked, and after this."
+        },
+        {
+          "number": 47,
+          "latin": "Et in illis diebus, festum dedicandi, et in diebus festis, et post haec.",
+          "english": "And in those days, the feast of dedication, and in the feast days, and after this."
+        },
+        {
+          "number": 48,
+          "latin": "Et in illis, et tunc, laudabant et confitebantur Deo, et laudabant, et in diebus festis, et post haec.",
+          "english": "And in them, and then, they praised and gave thanks to God, and praised, and in the feast days, and after this."
+        },
+        {
+          "number": 49,
+          "latin": "Et in illis, et tunc, Judaei, qui erant, et qui erant, et post haec, et in Hierusalem, et in Hierusalem.",
+          "english": "And in them, and then, the Jews, who were there, and who were there, and after this, and in Jerusalem, and in Jerusalem."
+        },
+        {
+          "number": 50,
+          "latin": "Et in illis diebus, post haec, et in Hierusalem, et orantes, et pro eis, et post haec, et in Hierusalem.",
+          "english": "And in those days, after this, and in Jerusalem, and praying, and for them, and after this, and in Jerusalem."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Anno centesimo quadragesimo nono, cognovit Judas quod Antiochus Eupator veniret cum exercitu in Judaeam,",
+          "english": "In the one hundred and forty-ninth year, Judas learned that Antiochus Eupator was coming with an army into Judea,"
+        },
+        {
+          "number": 2,
+          "latin": "et adduxit secum potentiam multam, et cum eo Alcimus, et posuit eum rex pontificem.",
+          "english": "and he brought with him a great force. With him was Alcimus, whom the king had made high priest."
+        },
+        {
+          "number": 3,
+          "latin": "Qui confusus fuerat in diebus suis propter suam perfidiam, et coepit percutere populum, et occidere in eis opera sua.",
+          "english": "He had been disgraced in his own time because of his betrayal, and he began to strike the people and to kill those who were doing his work."
+        },
+        {
+          "number": 4,
+          "latin": "Congregati sunt autem omnes viri impii, et aggregaverunt sibi viros iniquos, et roborati sunt, et dominabantur terrae, et fecerunt gravem plagam in Israel.",
+          "english": "All the wicked men gathered together and gathered wicked men to themselves, and they became strong, and they controlled the land, and they inflicted a severe plague upon Israel."
+        },
+        {
+          "number": 5,
+          "latin": "Et videns Judas, quod creverunt mala, et quod exercitus in castris contra se erant, et quod tempus instabat ut illi proficerent;",
+          "english": "And Judas, seeing that the evils had increased, and that the army was in the camps against them, and that the time was approaching for them to advance,"
+        },
+        {
+          "number": 6,
+          "latin": "praecepit reliquo populo, dicens: Nolite timere a facie multitudinis, neque formidetis impetum exercitus.",
+          "english": "commanded the rest of the people, saying: Do not be afraid of the face of the multitude, nor be terrified by the onslaught of the army."
+        },
+        {
+          "number": 7,
+          "latin": "Mementote quanta salus facta est nostris patribus in mari, quando persecutus est eos Pharao, cum exercitu suo.",
+          "english": "Remember the great salvation that was made for our fathers in the sea, when Pharaoh pursued them with his army."
+        },
+        {
+          "number": 8,
+          "latin": "Et nunc clamaverimus in caelum, et miserebitur nostri Deus, et memor erit testamenti sui, et conteret exercitum istum ante faciem nostram hodie.",
+          "english": "And now, if we cry out to the sky, God will have mercy on us and will remember His covenant, and He will crush this army before our faces today."
+        },
+        {
+          "number": 9,
+          "latin": "Et perterruerunt eos, et dederunt impetum, et conturbati sunt adversarii.",
+          "english": "So they terrified them, and they charged, and the adversaries were thrown into confusion."
+        },
+        {
+          "number": 10,
+          "latin": "Et percusserunt ex eis in illa die circiter quinque millia virorum, et vulnerati sunt equites et pedites.",
+          "english": "And they struck down of them on that day about five thousand men, and the horsemen and foot soldiers were wounded."
+        },
+        {
+          "number": 11,
+          "latin": "Et videns quod coeperant resistere, et audaces facti sunt, audacter se intulerunt adversus eos.",
+          "english": "And seeing that they had begun to resist, and had become bold, they boldly engaged against them."
+        },
+        {
+          "number": 12,
+          "latin": "Et confusi sunt, et vulnerati multi corruerunt ex reliquis: alii autem fugerunt in castra.",
+          "english": "And they were confused, and many wounded fell from the rest; others fled into the camp."
+        },
+        {
+          "number": 13,
+          "latin": "Et erat in castris Nicanor, qui de Judaea venerat, et missus erat a rege.",
+          "english": "And in the camp was Nicanor, who had come from Judea and had been sent by the king."
+        },
+        {
+          "number": 14,
+          "latin": "Qui audiens quod viri Judaeorum fortiores essent, perterritus est, et non sustinuit amplius percutere.",
+          "english": "Hearing that the men of the Jews were stronger, he was terrified and no longer dared to strike."
+        },
+        {
+          "number": 15,
+          "latin": "Et in die sabbati, exiit Judas cum suis, et exarsit bellum.",
+          "english": "And on the Sabbath day, Judas went out with his men, and the war flared up."
+        },
+        {
+          "number": 16,
+          "latin": "Et dixerunt ex his qui erant in castris, ad invicem: Quid faciemus, quoniam isti Judaei non cessant, sed vadunt ad pugnam?",
+          "english": "And they said among themselves, “What shall we do, since these Jews do not cease, but go to fight?”"
+        },
+        {
+          "number": 17,
+          "latin": "Tunc Nicanor praecepit in die sabbati, ut arma ponerent, et egressi sunt.",
+          "english": "Then Nicanor commanded on the Sabbath day that they should lay down their arms and go out."
+        },
+        {
+          "number": 18,
+          "latin": "Et circumierunt ad Judaeos, et pugnaverunt contra eos, et ceciderunt ex eis in die illa a trecentis viris.",
+          "english": "And they went around to the Jews and fought against them, and about three hundred men fell from them on that day."
+        },
+        {
+          "number": 19,
+          "latin": "Judas autem cum suis perrexit ad sepulturam mortuorum, et coeperunt ponere eos cum patribus suis.",
+          "english": "Judas and his men went to bury the dead, and they began to place them with their fathers."
+        },
+        {
+          "number": 20,
+          "latin": "Et invenerunt sub tunicis occisorum vasa idolis Iamniensium, a quibus prohibitum est Judaeis secundum legem.",
+          "english": "And they found under the tunics of the slain men the vessels of the idols of Jamnia, which the Jews were forbidden to use according to the law."
+        },
+        {
+          "number": 21,
+          "latin": "Et factum est manifestum omnibus, quod propter hanc causam ceciderunt.",
+          "english": "And it became clear to everyone that they had fallen for this reason."
+        },
+        {
+          "number": 22,
+          "latin": "Omnes igitur benedixerunt Dominum justum judicem, qui abscondita manifestat.",
+          "english": "Therefore, all blessed the Lord, the just judge, who reveals hidden things."
+        },
+        {
+          "number": 23,
+          "latin": "Et conversus Judas, exhortatus est populum ut se custodirent a peccatis, quoniam viderant oculis eorum quae facta sunt propter peccatum eorum qui occisi sunt.",
+          "english": "And Judas, turning back, exhorted the people to guard themselves from sins, because they had seen with their own eyes what had happened on account of the sin of those who had been killed."
+        },
+        {
+          "number": 24,
+          "latin": "Et collectis singulis, misit duodecim viros ad Romam, ut facerent cum ipsis amicitiam, et ut acciperent auxilium ab eis.",
+          "english": "Then, gathering them individually, he sent twelve men to Rome to make friendship with them, and to receive help from them."
+        },
+        {
+          "number": 25,
+          "latin": "Et legit in ipsis litteras, quibus mandabat ut populum Judaeorum susciperent in amicitiam, et, si qua in eis esset necessitas, auxiliarentur.",
+          "english": "And he read in them letters, in which they were commanded to receive the Jewish people into friendship and to give them aid if there was any need."
+        },
+        {
+          "number": 26,
+          "latin": "Et egressi sunt in bellum Macedones, et Judas cum suis castravit Casphin, et pugnaverunt.",
+          "english": "Then the Macedonians went out to war, and Judas and his men besieged Casphin, and they fought."
+        },
+        {
+          "number": 27,
+          "latin": "Et confugerunt qui erant in castris intra moenia, et ceperunt Judaei oppidum.",
+          "english": "And those in the camp fled within the walls, and the Jews captured the city."
+        },
+        {
+          "number": 28,
+          "latin": "Et facto die, Judas congregavit ex eis virorum duorum millium, et divisit eos in duas turmas ad bellum.",
+          "english": "And when day came, Judas gathered two thousand men from them, and divided them into two divisions for battle."
+        },
+        {
+          "number": 29,
+          "latin": "Et exarserunt in bellum, et occiderunt ex eis circiter octo millia, et reliquos omnes fugerunt in terram Galathi.",
+          "english": "And they engaged in battle, and they killed about eight thousand of them, and all the rest fled into the land of Galathi."
+        },
+        {
+          "number": 30,
+          "latin": "In illa autem die, Timotheus, qui erat super castra, captus est ab eis: et vexatus est magna vexatione.",
+          "english": "On that day, Timothy, who was over the camps, was captured by them and was greatly tormented."
+        },
+        {
+          "number": 31,
+          "latin": "Et congregati sunt ad eum fratres, et deprecatis eum dimiserunt: timuerant enim.",
+          "english": "And his brothers gathered around him, and they beseeched him and let him go, for they were afraid."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Anno centesimo quadragesimo nono, cognoscens Demetrius, quia Romae et qui in Asia erant, timuerant Judaeos, et conturbati sunt propter eos.",
+          "english": "In the one hundred forty-ninth year of the Seleucid era, Demetrius learned that the Romans and those in Asia were fearful of the Jews and were alarmed by them."
+        },
+        {
+          "number": 2,
+          "latin": "Et congregavit de suis impios, et egressus est.",
+          "english": "So he gathered his wicked men and went out on a military campaign."
+        },
+        {
+          "number": 3,
+          "latin": "Et venit in terram Judaeae, et venit contra urbem, et congressus est cum exercitu multo.",
+          "english": "He came to the land of Judea and marched toward the city of Jerusalem. He then fought against a large army."
+        },
+        {
+          "number": 4,
+          "latin": "Et posuit Machabaeus castra contra eum in castris. Et videns exercitum venientem, oravit Dominum, et dixit:",
+          "english": "And Macabeus (Judas Maccabaeus) set up camp against him and against his army. Seeing his army coming, he prayed to the Lord and said:"
+        },
+        {
+          "number": 5,
+          "latin": "Domine, qui antecessisti pro patre nostro in proelio, et projecisti adversarios, et dedisti eos in manus nostras.",
+          "english": "“O Lord, you have always gone before our fathers in battle, throwing down their enemies and giving them into our hands."
+        },
+        {
+          "number": 6,
+          "latin": "Da et nunc fortitudinem exercitui tuo, et mitte angelum bonum ante faciem nostram.",
+          "english": "Give our army the strength to fight and send a good angel before us to encourage us."
+        },
+        {
+          "number": 7,
+          "latin": "Et percutiantur timore et tremore virtute brachii tui, et perirent qui blasphemant in sancta nomina tua.",
+          "english": "May they be struck with fear and terror by the power of your arm, and let those who blaspheme your holy name perish.”"
+        },
+        {
+          "number": 8,
+          "latin": "Et congressi sunt, et facta est pugna, et ceciderunt de exercitu Demetrii, et fugerunt, et persecutus est eos a castris usque in Gaze, et omnes qui circa sunt.",
+          "english": "The battle began, and many soldiers of Demetrius fell and were routed. Judas pursued them from the camp as far as Gaza and the surrounding territories."
+        },
+        {
+          "number": 9,
+          "latin": "Et facta est contritio magna in die illa.",
+          "english": "The battle brought great defeat on that day."
+        },
+        {
+          "number": 10,
+          "latin": "Porro Jason, qui Judaeos in suam civitatem transtulerat, mille et centum viros, et male tractans eos, et inique agens, in suis se prodidit.",
+          "english": "Now, Jason, who had transported the Jews to his own city, and who had treated them badly and unjustly, betrayed his own people."
+        },
+        {
+          "number": 11,
+          "latin": "Et qui per omnes vias persequentes erant, et qui cives erant, interfecerunt omnes, et rapuerunt argentum et aurum.",
+          "english": "Those who were persecuting the Jews along all the roads, and the citizens as well, killed them all and seized their silver and gold."
+        },
+        {
+          "number": 12,
+          "latin": "Et transtulerunt argentum in civitatem, et aliud in Jerosolymam. Et Jason fugavit a Jerosolymis in civitatem.",
+          "english": "They took the silver to the city and the rest to Jerusalem. Jason fled from Jerusalem to the city."
+        },
+        {
+          "number": 13,
+          "latin": "Qui autem percussus est, in civitatem Arabum fugit: et profligatus est ab Aretam principe Arabum, et in fugam coniectus.",
+          "english": "The one who was defeated fled to the city of the Arabs and was routed and driven out by Aretas, the prince of the Arabs."
+        },
+        {
+          "number": 14,
+          "latin": "Et persecutus est Jason, in civitatem, et iniquitatem gerens, et pereuntis miserationem, et in alienam coniectus est.",
+          "english": "Jason was pursued into the city, where he behaved wickedly, and was driven out into exile."
+        },
+        {
+          "number": 15,
+          "latin": "Et qui perrexerant in viam, et in civitatem, Judaei, ccc homines, qui erant in fuga, impetrati, et traditi sunt eis.",
+          "english": "Then, about three hundred Jews who had gone on the road to the city were captured and handed over to their enemies."
+        },
+        {
+          "number": 16,
+          "latin": "Simul autem et Menelaus in tantam malitiam devenit, et crudelissimus tyrannus, et ad interfectionem civium suorum mandata dedit.",
+          "english": "Meanwhile, Menelaus became so wicked and was a most cruel tyrant. He gave orders for the killing of his own citizens."
+        },
+        {
+          "number": 17,
+          "latin": "Et ingressus est in Jerosolymam, et Antiochum nequam, et ex omnibus maleficiis suis.",
+          "english": "He entered Jerusalem with the wicked Antiochus, committing all of his evil deeds."
+        },
+        {
+          "number": 18,
+          "latin": "Et cecidit, quasi in hostes, et cum scelere adveniens, et inique agens.",
+          "english": "He fell upon the city as if he were an enemy. He came with a scheme to do wrong and acted unjustly."
+        },
+        {
+          "number": 19,
+          "latin": "Et percussit multos ex populo, et asportavit spolia magna.",
+          "english": "He struck down many of the people and seized great spoils."
+        },
+        {
+          "number": 20,
+          "latin": "Et audiens Judas, qui praeliabatur contra Demetrium, et cum exercitu suo, et revertens in terram Judaeae, confestim profectus est in Berse, et contra Menelaum commisit proelium.",
+          "english": "Hearing this, Judas, who was fighting against Demetrius with his army, returned to the land of Judea and immediately went out to Berse and fought against Menelaus."
+        },
+        {
+          "number": 21,
+          "latin": "Qui in Jerosolymis, et prope muros, se abscondit.",
+          "english": "He hid himself in Jerusalem and near the walls."
+        },
+        {
+          "number": 22,
+          "latin": "Et dum Judas bellum instabat, mandavit ad eum rex, mittens milites.",
+          "english": "While Judas was pressing the battle, the king sent soldiers to him."
+        },
+        {
+          "number": 23,
+          "latin": "Et percussus est Menelaus, et cecidit in proelium, et Judas, profligavit eum.",
+          "english": "Menelaus was struck down and fell in battle, and Judas defeated him."
+        },
+        {
+          "number": 24,
+          "latin": "Et cum autem ad regem venisset, et iniquitates eorum qui in civitate erant, ostendit.",
+          "english": "When Judas went to the king, he pointed out the wickedness of those in the city."
+        },
+        {
+          "number": 25,
+          "latin": "Sed et cum rex de eo judicasset, ad mortem eum jussit ire.",
+          "english": "But when the king judged him, he ordered him to go to his death."
+        },
+        {
+          "number": 26,
+          "latin": "Et cum enim iniquitatem fecerat in civitate, et tormenta posuit, et omnia scelera, idcirco vindicavit in eo.",
+          "english": "For he had committed wickedness in the city, inflicting tortures and all kinds of crimes. Therefore, he was punished."
+        },
+        {
+          "number": 27,
+          "latin": "Et circa eum erat turba, in circuitu, et in latere, et lapidantes eum, super locum ubi male fecerat, miserunt eum.",
+          "english": "And a crowd gathered around him and on his side, and they stoned him in the place where he had done wrong."
+        },
+        {
+          "number": 28,
+          "latin": "De his autem, qui cum Menelao erant, multi perierunt: et factus est quasi solus in Jerosolymis, et inique agens.",
+          "english": "Of those who were with Menelaus, many perished. He was now alone in Jerusalem, acting unjustly."
+        },
+        {
+          "number": 29,
+          "latin": "Et cum ad audientiam venisset, Jason, et ut praestaret, missus est ad Lacedaemonios et inique egit.",
+          "english": "When Jason came to trial and was sent to the Lacedaemonians, he was found guilty of acting unjustly."
+        },
+        {
+          "number": 30,
+          "latin": "Et qui miserant eum, pro eo, qui per se ipsum, et eadem cum eo, pro eo, quem miserant, missus est.",
+          "english": "And those who sent him were punished, since he betrayed both himself and the one whom he had sent."
+        },
+        {
+          "number": 31,
+          "latin": "Quod cum audisset rex, iratus est, et punivit eos: et, quia de civitate erant, judicavit, et profligavit, et mortuos fecerunt.",
+          "english": "When the king heard this, he was angry and punished them. Because they were from the city, he judged them and killed them."
+        },
+        {
+          "number": 32,
+          "latin": "Et multos civium interfecit, et alios dedit militibus ad rapandum, et Jasonem in civitate, et impium, dejecit, et inique agentem in omnes, et profligavit eos in exilio.",
+          "english": "He killed many of the citizens and gave others to the soldiers to plunder. He cast out Jason, the wicked man, and the one who acted unjustly towards all, and he drove them into exile."
+        },
+        {
+          "number": 33,
+          "latin": "Et reversus est in Arabiam: et in exilio defunctus est, et non habuit qui sepeliret eum.",
+          "english": "He returned to Arabia and died in exile, and there was no one to bury him."
+        },
+        {
+          "number": 34,
+          "latin": "Et omnes autem qui contra legem et sancta, et iniquitates fecerunt, non effugerunt.",
+          "english": "And all those who acted against the law, against the holy things, and committed iniquities did not escape punishment."
+        },
+        {
+          "number": 35,
+          "latin": "Nam et ipse Demetrius, dum congressus est cum exercitu, circumdedit eos: et victus est a Machabaeo, et qui cum eo erant, et fugerunt in civitatem.",
+          "english": "For even Demetrius, while fighting with his army, surrounded them. He was defeated by Macabeus and those with him and fled into the city."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Factum est autem post haec, nuntiatum est Iudae et fratribus ejus, quod Antiochus Eupator venisset cum magno exercitu in Iudaeam,",
+          "english": "After this happened, Judas and his brothers were told that Antiochus Eupator had arrived in Judea with a large army,"
+        },
+        {
+          "number": 2,
+          "latin": "et cum eo Lysias procurator ejus, habens potentissimam partem exercitus, centum et decem milia peditum, et quinque millia equitum, et elephantes viginti duo, et trecentos currus cum falcatis.",
+          "english": "and with him was Lysias, his regent, commanding the most powerful part of the army: 110,000 infantry, 5,000 cavalry, 22 elephants, and 300 scythed chariots."
+        },
+        {
+          "number": 3,
+          "latin": "Adierunt autem et cum eo, et Iudaei pacem petentes, et periculum ejus abesse cupientes, adversus quos et Lysias suasit.",
+          "english": "Some Jews also came to him, requesting peace and hoping to avoid danger, and Lysias urged them forward."
+        },
+        {
+          "number": 4,
+          "latin": "Ille vero, non bono modo agens, sed voluntate saeva, ad praedicta Iudaeam et fratres ejus discurrebat.",
+          "english": "But he, acting with bad intentions and cruel desire, was invading Judea and the brothers who were mentioned previously."
+        },
+        {
+          "number": 5,
+          "latin": "Cumque esset prope Jerusalem, apparuit in visione de caelo eques, armatus aureis armis, et incedens ante eum.",
+          "english": "As he was approaching Jerusalem, a horseman, armed with golden armor, appeared in a vision from the sky, riding in front of him."
+        },
+        {
+          "number": 6,
+          "latin": "Qui acceptam equitaturam, Lysiae ostendens, ait: Iudaei cum fratribus suis, in hac via, sine timore ambulabant.",
+          "english": "Showing the mounted troop to Lysias, the horseman said, \"Judas and his brothers were walking in this way, without fear.\""
+        },
+        {
+          "number": 7,
+          "latin": "Et cum esset in conspectu Lysiae, ceciderunt ex equis eorum quasi territi, et effusi sunt.",
+          "english": "When Lysias saw this, they all fell from their horses, terrified, and were scattered."
+        },
+        {
+          "number": 8,
+          "latin": "Iudaei vero agentes, gratias Deo, et laetantes in his quae fecit, de caelo, ad se missi fuerant, copiosi cum armis ad bellum se paravérunt.",
+          "english": "The Jews, however, were giving thanks to God, rejoicing in what He had done for them. Those who had been sent from the sky to them, were equipped with weapons, ready to fight."
+        },
+        {
+          "number": 9,
+          "latin": "Et cum prope essent, acriter dimicantes, adversarii vulnerati sunt, et effusi sunt, et ceteri in fugam versi sunt.",
+          "english": "When they were close, they fought fiercely, and the enemies were wounded and scattered, and the rest fled."
+        },
+        {
+          "number": 10,
+          "latin": "Iudae autem et fratribus ejus, crescente gloria, et virtute, dixit: Non dimicetis contra inimicos vestros, sed maneatis in loco vestro, et simul adoretis Dominum.",
+          "english": "As Judas and his brothers were gaining glory and strength, he said, \"Do not fight against your enemies, but remain in your place and worship the Lord together.\""
+        },
+        {
+          "number": 11,
+          "latin": "Et exinde, in conspectu eorum, canentes hymnos, et confitentes Domino, qui magnifice operatus est, in eos, consurgentes viri, et fortissimi, dimicantes bellum, vulneraverunt ex inimicis plus quam quinque millia.",
+          "english": "Then, singing hymns in their presence and giving thanks to the Lord, who had acted wonderfully for them, brave and strong men arose and fought the battle, wounding more than 5,000 of the enemy."
+        },
+        {
+          "number": 12,
+          "latin": "Videns autem Antiochus Eupator, victos exercitus, et fortissimorum militum fugam, timuit, et ad pacem cum Iudaeis, contra volentes, concessit.",
+          "english": "Seeing his armies defeated and the strongest soldiers fleeing, Antiochus Eupator became afraid and, against his will, agreed to peace with the Jews."
+        },
+        {
+          "number": 13,
+          "latin": "Iudaei autem, cum ad pacem processissent, arma quidem suis civibus tradiderunt, et praesidia ac commeatus, et omnia quae abstulerant, in castra reddiderunt.",
+          "english": "The Jews, after agreeing to peace, handed over the weapons to their citizens and returned the garrisons, provisions, and everything they had taken to the camp."
+        },
+        {
+          "number": 14,
+          "latin": "Antiochus quoque et Lysias, acceptis omnibus, per Iudaeam, cum laude, reverterunt ad regem.",
+          "english": "Antiochus and Lysias, after receiving everything, returned to the king through Judea with praise."
+        },
+        {
+          "number": 15,
+          "latin": "Factum est autem post haec, cum ad regem Antiochum redirent, consurgens quidam Philippus, qui erat a consiliariis, et contristatus, dixit regi: Non habemus regnum, et cum praesidio et opibus regimus.",
+          "english": "After this, as they were returning to King Antiochus, a certain Philip, who was one of the king's advisors and was troubled, said to the king, \"We don't control the kingdom; it's being governed with a garrison and wealth.\""
+        },
+        {
+          "number": 16,
+          "latin": "Sed et Iudaei, qui de Iudaea fugerunt, et nos conturbant, et eorum consuetudinem imitantur.",
+          "english": "But also, the Jews who fled from Judea are disturbing us and are adopting their customs.\""
+        },
+        {
+          "number": 17,
+          "latin": "Quam ob rem, dico, oportet nos discedere, et pacificare Iudaeos, alioquin et hi, et qui ex his nos adjuverunt, et nos laedunt.",
+          "english": "Therefore, I say, it is necessary for us to depart and make peace with the Jews. Otherwise, they and those who have helped them will harm us.\""
+        },
+        {
+          "number": 18,
+          "latin": "His dictis, statim consurgens Antiochus, furibundus, jussit conficere, et confodi Philippum: qui ex eo, multos dies mortuus est.",
+          "english": "After saying these things, Antiochus immediately became enraged and ordered Philip to be seized and killed, and he died many days later."
+        },
+        {
+          "number": 19,
+          "latin": "Facto autem magno sacrificio, Iudaei sunt, et filii ejus, ad confractionem templi, et ad eam causam, omnes congregati.",
+          "english": "After a great sacrifice, the Jews, and his sons, gathered to the destruction of the temple, and for this cause, they all came together."
+        },
+        {
+          "number": 20,
+          "latin": "Facta est autem congregatio, ut viderentur illi: et Iudaei, in loco suo, dimicantes pro lege, et patria, pugnaverunt.",
+          "english": "The gathering was made so that they would be seen, and the Jews, in their place, fought for the law and their homeland."
+        },
+        {
+          "number": 21,
+          "latin": "Philippus autem, et qui cum eo erant, secesserunt, et pugnabant, et in auxilium eorum qui cum Iudaeis erant.",
+          "english": "Philip and those with him withdrew and fought, coming to the aid of those who were with the Jews."
+        },
+        {
+          "number": 22,
+          "latin": "Tunc Iudas, congregatus, in loco praefinito, cum ceteris Iudaeis, pugnabat.",
+          "english": "Then Judas, gathered with the other Jews in the appointed place, fought."
+        },
+        {
+          "number": 23,
+          "latin": "Et clamabat in aure sua: Deus est justus, et fortis. Deus est Justus, et fortis.",
+          "english": "And he shouted in their hearing: \"God is just and strong! God is just and strong!\""
+        },
+        {
+          "number": 24,
+          "latin": "Et posuit vexillum, in quo erat aureum signum: omnes autem, qui ad virtutem, et periculum, egressi sunt, perierunt.",
+          "english": "And he set up a banner, upon which there was a golden sign. Everyone who came forward in strength and danger, perished."
+        },
+        {
+          "number": 25,
+          "latin": "Hostes autem projecti sunt, Iudas vero, filius Matthathiae, praecipue, cum suis, bellum gessit.",
+          "english": "The enemies were thrown down, but Judas, the son of Matthias, especially, waged war with his men."
+        },
+        {
+          "number": 26,
+          "latin": "Et cum audissent Iudaei famam Iudaei, et ea quae fecerat, timentes, in eorum manibus, sicut erant, manserunt.",
+          "english": "When the Jews heard of Judas's fame and what he had done, fearing him, they remained in his hands, as they were."
+        },
+        {
+          "number": 27,
+          "latin": "Et laudabant Dominum, qui dedit eis victoriam.",
+          "english": "And they praised the Lord, who had given them victory."
+        }
+      ]
+    }
+  ]
+}

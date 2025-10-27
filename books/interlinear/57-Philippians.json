@@ -1,0 +1,549 @@
+{
+  "name": "Philippians",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Paulus et Timotheus, servi Iesu Christi, omnibus sanctis in Christo Iesu, qui sunt Philippis, cum episcopis et diaconibus.",
+          "english": "Paul and Timothy, servants of Jesus Christ, send greetings to all the holy ones in Christ Jesus who are at Philippi, including their overseers and those who serve them."
+        },
+        {
+          "number": 2,
+          "latin": "Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+          "english": "May grace and peace be granted to you by God our Father and by the Lord Jesus Christ."
+        },
+        {
+          "number": 3,
+          "latin": "Gratias ago Deo meo in omni memoria vestri,",
+          "english": "I thank my God whenever I think of you,"
+        },
+        {
+          "number": 4,
+          "latin": "semper in cunctis orationibus meis pro omnibus vobis cum gaudio deprecationem faciens,",
+          "english": "always in my every prayer, I pray with joy for all of you,"
+        },
+        {
+          "number": 5,
+          "latin": "propter communicationem vestram in evangelio a prima die usque nunc:",
+          "english": "because you have shared the Gospel from the very first day until now:"
+        },
+        {
+          "number": 6,
+          "latin": "confidens hoc ipsum, quia qui coepit in vobis bonum opus, perficiet usque in diem Christi Iesu:",
+          "english": "I am sure of this: God, who has begun this good work in you, will carry it on to completion until the day of Jesus Christ."
+        },
+        {
+          "number": 7,
+          "latin": "sicut justum est mihi hoc sentire pro omnibus vobis: eo quod habeam vos in corde, et in vinculis meis et in defensione et confirmatione evangelii, socios gratiae meae vos esse omnes.",
+          "english": "It is right that I should feel this way about all of you, because I hold you in my heart. You share in God’s grace with me, and you are with me in my imprisonment, and in the defense and confirmation of the Gospel."
+        },
+        {
+          "number": 8,
+          "latin": "Testis enim mihi est Deus, quomodo cupiam omnes vos in visceribus Iesu Christi.",
+          "english": "God is my witness that I long for all of you with the deep love of Jesus Christ."
+        },
+        {
+          "number": 9,
+          "latin": "Et hoc oro, ut caritas vestra magis ac magis abundet in scientia et in omni sensu:",
+          "english": "And I pray that your love may overflow more and more, with knowledge and with all insight,"
+        },
+        {
+          "number": 10,
+          "latin": "ut probetis potiora, ut sitis sinceri et sine offensa in diem Christi,",
+          "english": "so that you may discern what is best, and be pure and blameless for the day of Christ,"
+        },
+        {
+          "number": 11,
+          "latin": "repleti fructu justitiae per Iesum Christum, in gloriam et laudem Dei.",
+          "english": "filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God."
+        },
+        {
+          "number": 12,
+          "latin": "Scire autem vos volo, fratres, quod quae circa me sunt, magis ad profectum venerunt evangelii,",
+          "english": "Now I want you to know, brothers and sisters, that what has happened to me has actually served to advance the Gospel,"
+        },
+        {
+          "number": 13,
+          "latin": "ita ut vincula mea manifesta facta sunt in Christo in omni praetorio, et in ceteris omnibus;",
+          "english": "so that my imprisonment for Christ has become well known throughout the whole praetorian guard and to everyone else."
+        },
+        {
+          "number": 14,
+          "latin": "et plures e fratribus in Domino fiduciam habentes ex vinculis meis, abundantius audent verbum Dei sine timore loqui.",
+          "english": "And because of my imprisonment, most of the brothers and sisters have been encouraged to speak the word of God more courageously and fearlessly."
+        },
+        {
+          "number": 15,
+          "latin": "Quidam quidem et propter invidiam et contentionem, quidam autem et propter bonam voluntatem Christum praedicant:",
+          "english": "It is true that some preach Christ out of envy and rivalry, but others out of goodwill."
+        },
+        {
+          "number": 16,
+          "latin": "quidam ex caritate, scientes quoniam in defensionem evangelii positus sum:",
+          "english": "The latter do so in love, knowing that I am put here for the defense of the Gospel."
+        },
+        {
+          "number": 17,
+          "latin": "quidam autem ex contentione Christum annuntiant non sincere, existimantes tribulationem se suscitare vinculis meis.",
+          "english": "The former preach Christ out of selfish ambition, not sincerely, supposing that they can add to my distress in my chains."
+        },
+        {
+          "number": 18,
+          "latin": "Quid enim? Dum omni modo, sive per occasionem, sive per veritatem, Christus annuntietur: et in hoc gaudeo, sed et gaudebo.",
+          "english": "So what? The important thing is that in every way, whether from wrong motives or true, Christ is preached. And because of this I rejoice. Yes, and I will continue to rejoice,"
+        },
+        {
+          "number": 19,
+          "latin": "Scio enim quia hoc mihi proveniet ad salutem per vestram orationem et subministrationem Spiritus Iesu Christi,",
+          "english": "for I know that through your prayers and God’s provision of the Spirit of Jesus Christ, what has happened to me will turn out for my deliverance."
+        },
+        {
+          "number": 20,
+          "latin": "secundum exspectationem et spem meam, quia in nihil conturbabor, sed cum fiducia omnis semper, et nunc magnificabitur Christus in corpore meo, sive per vitam, sive per mortem.",
+          "english": "I eagerly expect and hope that I will in no way be ashamed, but will have sufficient courage so that now as always Christ will be exalted in my body, whether by life or by death."
+        },
+        {
+          "number": 21,
+          "latin": "Mihi enim vivere Christus est, et mori lucrum.",
+          "english": "For to me, to live is Christ and to die is gain."
+        },
+        {
+          "number": 22,
+          "latin": "Quod si vivere in carne, hoc mihi fructus operis est, et quid eligam nescio.",
+          "english": "If I am to go on living in the body, this will mean fruitful labor for me. Yet what shall I choose? I do not know!"
+        },
+        {
+          "number": 23,
+          "latin": "Coarctor autem e duobus: desiderium habens dissolvi, et esse cum Christo, multo magis melius;",
+          "english": "I am torn between the two: I desire to depart and be with Christ, which is better by far;"
+        },
+        {
+          "number": 24,
+          "latin": "manere autem in carne, necessarium propter vos.",
+          "english": "but it is more necessary for you that I remain in the body."
+        },
+        {
+          "number": 25,
+          "latin": "Et hoc confidens scio quia manebo, et permanebo omnibus vobis ad profectum et gaudium fidei:",
+          "english": "Convinced of this, I know that I will remain and will continue with all of you for your progress and joy in the faith,"
+        },
+        {
+          "number": 26,
+          "latin": "ut gratulatio vestra abundet in Christo Iesu in me, per meum adventum ad vos iterum.",
+          "english": "so that through my being with you again, your boasting in Christ Jesus will abound on account of me."
+        },
+        {
+          "number": 27,
+          "latin": "Tantum digne ambulate evangelio Christi: ut sive cum venero et videro vos, sive absens audiam de vobis, quod statis in uno spiritu, uno animo collaborantes fidei evangelii:",
+          "english": "Whatever happens, conduct yourselves in a manner worthy of the Gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in one spirit, striving together as one for the faith of the Gospel,"
+        },
+        {
+          "number": 28,
+          "latin": "et in nullo terreamini ab adversariis: quae illis est causa perditionis, vobis autem salutis, et hoc a Deo:",
+          "english": "without being frightened in any way by those who oppose you. This is a sign to them that they will be lost, but that you will be saved—and that by God."
+        },
+        {
+          "number": 29,
+          "latin": "quia vobis donatum est pro Christo, non solum ut in eum credatis, sed ut etiam pro illo patiamini:",
+          "english": "For it has been granted to you on behalf of Christ not only to believe in him, but also to suffer for him,"
+        },
+        {
+          "number": 30,
+          "latin": "eundem certamen habentes, quale vidistis in me, et nunc audistis de me.",
+          "english": "since you are going through the same struggle you saw I had, and now hear that I still have."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Si qua ergo consolatio est in Christo, si quod solacium caritatis, si qua societas spiritus, si quae viscera et misericordiae:",
+          "english": "If therefore there is any consolation in the Son, if any comfort of love, if any fellowship of the Spirit, if any affection and compassion:"
+        },
+        {
+          "number": 2,
+          "latin": "implete gaudium meum, ut idem sapiatis, eamdem caritatem habentes, unanimes, idipsum sentientes:",
+          "english": "Then complete my joy, by having the same understanding, having the same charity, being of one mind, thinking the same thing:"
+        },
+        {
+          "number": 3,
+          "latin": "nihil per contentionem, neque per inanem gloriam: sed in humilitate mentis alterutrum superiores sibi invicem arbitrantes:",
+          "english": "Let nothing be done through contention, nor by empty glory: but in humility of mind, let each esteem others better than themselves:"
+        },
+        {
+          "number": 4,
+          "latin": "non quae sua sunt singuli considerantes, sed ea quae aliorum.",
+          "english": "Not considering each the things that are his own, but the things that are of others."
+        },
+        {
+          "number": 5,
+          "latin": "Hoc enim sentite in vobis, quod et in Christo Iesu:",
+          "english": "For let this mind be in you, which was also in Christ Jesus:"
+        },
+        {
+          "number": 6,
+          "latin": "qui cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo:",
+          "english": "Who, being in the form of God, thought it not robbery to be equal to God:"
+        },
+        {
+          "number": 7,
+          "latin": "sed semet ipsum exinanivit formam servi accipiens, in similitudinem hominum factus, et habitu inventus ut homo.",
+          "english": "But emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man."
+        },
+        {
+          "number": 8,
+          "latin": "Humiliavit semet ipsum factus obediens usque ad mortem, mortem autem crucis.",
+          "english": "He humbled himself, becoming obedient unto death, even the death of the cross."
+        },
+        {
+          "number": 9,
+          "latin": "Propter quod et Deus illum exaltavit, et donavit illi nomen, quod est super omne nomen:",
+          "english": "For which cause also God hath exalted him, and hath given him a name which is above all names:"
+        },
+        {
+          "number": 10,
+          "latin": "ut in nomine Iesu omne genu flectatur, caelestium, terrestrium et infernorum:",
+          "english": "That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth:"
+        },
+        {
+          "number": 11,
+          "latin": "et omnis lingua confiteatur, quia Dominus Iesus Christus in gloria est Dei Patris.",
+          "english": "And that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father."
+        },
+        {
+          "number": 12,
+          "latin": "Itaque, dilectissimi mei, quomodo semper obedistis, non sicut in praesentia mei tantum, sed multo magis nunc in absentia mea, cum metu et tremore vestram salutem operamini.",
+          "english": "Wherefore, my dearly beloved, as you have always obeyed, not as in my presence only, but much more now in my absence, with fear and trembling work out your salvation."
+        },
+        {
+          "number": 13,
+          "latin": "Deus est enim, qui operatur in vobis et velle et perficere pro bona voluntate.",
+          "english": "For it is God who worketh in you both to will and to accomplish, according to his good will."
+        },
+        {
+          "number": 14,
+          "latin": "Omnia facite sine murmurationibus et haesitationibus:",
+          "english": "Do all things without murmurings and hesitations:"
+        },
+        {
+          "number": 15,
+          "latin": "ut sitis sine querella et simplices, filii Dei sine reprehensione, in medio nationis pravae et perversae: inter quos lucetis sicut luminaria in mundo,",
+          "english": "That you may be blameless and harmless, children of God without reproach, in the midst of a depraved and perverse nation: among whom you shine as lights in the world,"
+        },
+        {
+          "number": 16,
+          "latin": "verbum vitae continentes: ut gloriar in die Christi, quia non in vanum cucurri, neque in vanum laboravi.",
+          "english": "Holding fast the word of life: that I may glory in the day of Christ, that I have not run in vain, nor labored in vain."
+        },
+        {
+          "number": 17,
+          "latin": "Sed et si immolor super sacrificium et obsequium fidei vestrae, gaudeo, et congratulor vobis omnibus.",
+          "english": "But if I am to be sacrificed upon the sacrifice and service of your faith, I rejoice, and congratulate with you all."
+        },
+        {
+          "number": 18,
+          "latin": "Idipsum autem et vos gaudete, et congratulamini mecum.",
+          "english": "And for the same things do you also rejoice, and congratulate with me."
+        },
+        {
+          "number": 19,
+          "latin": "Spero autem in Domino Iesu Timotheum me cito missurum vobis, ut et ego bono animo sim, cognitis quae circa vos sunt.",
+          "english": "But I hope in the Lord Jesus to send Timothy to you shortly, that I also may be of good comfort, when I know the things concerning you."
+        },
+        {
+          "number": 20,
+          "latin": "Neminem enim habeo tam unanimem, qui sincera de vobis sollicitudine, eadem quae sunt Iesu Christi, curet.",
+          "english": "For I have no one so of one mind, who with sincere care for you, will care about the things that are of Jesus Christ."
+        },
+        {
+          "number": 21,
+          "latin": "Omnes enim quae sua sunt quaerunt, non quae Iesu Christi.",
+          "english": "For all seek the things that are their own, not the things that are of Jesus Christ."
+        },
+        {
+          "number": 22,
+          "latin": "Experimentum autem eius cognoscite, quoniam sicut filio patri, cum eo servivit in evangelio.",
+          "english": "But know ye the proof of him, that as a son with the father, he hath served with me in the gospel."
+        },
+        {
+          "number": 23,
+          "latin": "Hunc igitur spero me missurum, statim ac prospexero quae circa me sunt.",
+          "english": "Him therefore I hope to send immediately, as soon as I shall see what shall be about me."
+        },
+        {
+          "number": 24,
+          "latin": "Confido autem in Domino, quoniam et ipse cito venturus sum.",
+          "english": "And I trust in the Lord that I myself also shall come to you shortly."
+        },
+        {
+          "number": 25,
+          "latin": "Necessarium autem existimavi Epaphroditum fratrem et cooperatorem et commilitonem meum, vestrum autem apostolum et ministrum necessitatis meae, mittere ad vos.",
+          "english": "But I have thought it necessary to send to you Epaphroditus, my brother and fellow worker and fellow soldier, but your apostle and the minister of my need."
+        },
+        {
+          "number": 26,
+          "latin": "quoniam quidem desiderabat omnes vos, et maestus erat propterea quod audieratis illum infirmum fuisse.",
+          "english": "Because indeed he longed for you all, and was sad, for that you had heard that he was sick."
+        },
+        {
+          "number": 27,
+          "latin": "Nam et infirmatus est usque ad mortem, sed Deus misertus est eius: non solum autem eius, sed et mei, ne tristitiam super tristitiam haberem.",
+          "english": "For indeed he was sick, even unto death; but God had mercy on him: and not on him only, but on me also, that I might not have sorrow upon sorrow."
+        },
+        {
+          "number": 28,
+          "latin": "Festinantius igitur misissem eum, quo viso iterum gaudeatis, et ego minoris sim.",
+          "english": "I sent him therefore the more diligently, that, seeing him again, you may rejoice, and I may be the less sorrowful."
+        },
+        {
+          "number": 29,
+          "latin": "Suscipite itaque illum cum omni gaudio in Domino: et hujusmodi cum honore suscipite illum:",
+          "english": "Receive him therefore with all joy in the Lord; and such as these hold in honor:"
+        },
+        {
+          "number": 30,
+          "latin": "quoniam propter opus Christi usque ad mortem accessit, tradens animae suam, ut suppleret id quod vos deeratis in ministerio mei.",
+          "english": "Because for the work of Christ he came to the point of death, delivering his life, that he might fulfill that which was wanting of your service towards me."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "De cetero, fratres mei, gaudete in Domino. Eadem scribere vobis, mihi quidem non est pigritia, vobis autem necessarium.",
+          "english": "Finally, my brothers, rejoice in the Lord! It is no trouble for me to write the same things to you, and it is a safeguard for you."
+        },
+        {
+          "number": 2,
+          "latin": "Videte canes, videte malos operarios, videte concisionem.",
+          "english": "Watch out for the dogs! Beware of evil workers! Beware of those who mutilate the flesh."
+        },
+        {
+          "number": 3,
+          "latin": "Nos enim sumus circumcisio, qui spiritu servimus Deo, et gloriamur in Christo Jesu, et non in carne fiduciam habentes.",
+          "english": "For we are the circumcision, we who worship God in the Spirit, who rejoice in Christ Jesus, and who put no confidence in the flesh"
+        },
+        {
+          "number": 4,
+          "latin": "Ego enim habeo fiduciam et in carne. Si quis alius videtur confidere in carne, ego magis,",
+          "english": "Though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more:"
+        },
+        {
+          "number": 5,
+          "latin": "circumcisus octava die, ex genere Israël, tribus Beniamin, Hebraeus ex Hebraeis, secundum legem pharisæus,",
+          "english": "circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; in regard to the law, a Pharisee;"
+        },
+        {
+          "number": 6,
+          "latin": "secundum zelum, persequens Ecclesiam: secundum justitiam, quæ in lege est, conversatus sine querela.",
+          "english": "as for zeal, persecuting the Church; as for legal righteousness, faultless."
+        },
+        {
+          "number": 7,
+          "latin": "Sed quæ mihi lucra fuerunt, hæc existimavi propter Christum detrimenta.",
+          "english": "But whatever gain I had, I counted as loss for the sake of Christ."
+        },
+        {
+          "number": 8,
+          "latin": "Verumtamen existimo omnia detrimentum esse, propter eminentem scientiam Jesu Christi Domini mei: propter quem omnia detrimentum feci, et arbitror ut stercora, ut Christum lucrifaciam,",
+          "english": "Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ"
+        },
+        {
+          "number": 9,
+          "latin": "et inveniar in eo, non habens meam justitiam, quæ ex lege est, sed illam quæ ex fide est Christi, quæ ex Deo est justitia in fide,",
+          "english": "and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith"
+        },
+        {
+          "number": 10,
+          "latin": "ad cognoscendum illum, et virtutem resurrectionis ejus, et societatem passionum ejus, configuratus morti ejus,",
+          "english": "that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death,"
+        },
+        {
+          "number": 11,
+          "latin": "si quo modo occurram ad resurrectionem quæ est ex mortuis.",
+          "english": "that by any means possible I may attain the resurrection from the dead."
+        },
+        {
+          "number": 12,
+          "latin": "Non quia jam apprehendi, aut jam perfectus sum: sequor autem, si quo modo comprehendam in quo et comprehensus sum a Christo Jesu.",
+          "english": "Not that I have already obtained this or am already perfect, but I press on to make it my own, because Christ Jesus has made me his own."
+        },
+        {
+          "number": 13,
+          "latin": "Fratres, ego me non arbitror apprehendisse. Unum autem: quæ quidem retro sunt, obliviscens, in ea vero quæ sunt priora, extendens meipsum,",
+          "english": "Brothers, I do not consider that I have made it my own. But one thing I do: forgetting what lies behind and straining forward to what lies ahead,"
+        },
+        {
+          "number": 14,
+          "latin": "ad destinatum persequor, ad bravium supernæ vocationis Dei in Christo Jesu.",
+          "english": "I press on toward the goal for the prize of the upward call of God in Christ Jesus."
+        },
+        {
+          "number": 15,
+          "latin": "Quicumque ergo perfecti, hoc sentiamus: et si quid aliter sapitis, et hoc vobis Deus revelabit.",
+          "english": "Let those of us who are mature think this way, and if in anything you think otherwise, God will reveal this also to you."
+        },
+        {
+          "number": 16,
+          "latin": "Verumtamen in eo quod pervenimus, in eo ambulemus.",
+          "english": "Only let us hold true to what we have attained."
+        },
+        {
+          "number": 17,
+          "latin": "Fratres, imitatores mei estote, et imitate eos qui ita ambulant, sicut habetis formam in nobis.",
+          "english": "Brothers, join in imitating me, and keep your eyes on those who walk according to the example you have in us."
+        },
+        {
+          "number": 18,
+          "latin": "(Multi enim ambulant, quos sæpe dicebam vobis: nunc autem et flens dico, inimicos crucis Christi:)",
+          "english": "For many, of whom I have often told you and now tell you even with tears, walk as enemies of the cross of Christ."
+        },
+        {
+          "number": 19,
+          "latin": "quorum finis interitus: quorum Deus venter est: et gloria in confusione eorum: qui terrena sapuint.",
+          "english": "Their end is destruction, their god is their belly, and their glory is in their shame, who set their minds on earthly things."
+        },
+        {
+          "number": 20,
+          "latin": "Nostra autem conversatio in cælis est: unde etiam Salvatorem exspectamus Dominum Jesum Christum,",
+          "english": "But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ,"
+        },
+        {
+          "number": 21,
+          "latin": "qui transfigurabit corpus humilitatis nostræ configuratum corpori claritatis suæ, secundum operationem, qua possibilis est sibi etiam subicere omnia.",
+          "english": "who will transform our lowly body to be like his glorious body, by the power that enables him even to subject all things to himself."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Itaque, fratres mei dilectissimi et desideratissimi, gaudium meum et corona mea, sic state in Domino, carissimi.",
+          "english": "So, my beloved brothers and sisters, whom I love and long to see, you who are my joy and crown, stand firm in the Lord, my dear ones."
+        },
+        {
+          "number": 2,
+          "latin": "Evodiam rogo, et Syntychen deprecor, id ipsum sapere in Domino.",
+          "english": "I urge Euodia and I plead with Syntyche to agree in the Lord."
+        },
+        {
+          "number": 3,
+          "latin": "Item rogo et te, germane compar, adjuva illas: quae laboraverunt mecum in Evangelio cum Clemente et ceteris adjutoribus meis, quorum nomina sunt in libro vitae.",
+          "english": "And I ask you also, my loyal companion, help these women, for they worked with me in the Gospel, along with Clement and the rest of my fellow workers, whose names are in the book of life."
+        },
+        {
+          "number": 4,
+          "latin": "Gaudete in Domino semper: iterum dico, gaudete.",
+          "english": "Rejoice in the Lord always; again, I say, rejoice."
+        },
+        {
+          "number": 5,
+          "latin": "Modestia vestra nota sit omnibus hominibus. Dominus prope est.",
+          "english": "Let your gentleness be known to all men. The Lord is near."
+        },
+        {
+          "number": 6,
+          "latin": "Nihil solliciti sitis: sed in omni oratione et obsecratione cum gratiarum actione petitiones vestrae innotescant apud Deum.",
+          "english": "Have no anxiety about anything; but in everything, by prayer and supplication, with thanksgiving, let your requests be made known to God."
+        },
+        {
+          "number": 7,
+          "latin": "Et pax Dei, quae exsuperat omnem sensum, custodiat corda vestra et intelligentias vestras in Christo Jesu.",
+          "english": "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+        },
+        {
+          "number": 8,
+          "latin": "De cetero, fratres, quæcumque sunt vera, quæcumque pudica, quæcumque justa, quæcumque sancta, quæcumque amabilia, quæcumque bonae famæ, si qua virtus, si qua laus, hæc cogitate.",
+          "english": "Finally, brothers and sisters, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things."
+        },
+        {
+          "number": 9,
+          "latin": "Quæ et didicistis, et accepistis, et audistis, et vidistis in me, hæc facite: et Deus pacis erit vobiscum.",
+          "english": "The things which you have learned and received and heard and seen in me, these do: and the God of peace will be with you."
+        },
+        {
+          "number": 10,
+          "latin": "Gaudui autem in Domino vehementer, quoniam tandem aliquando refloruistis, ut cogitandi de me curam habuistis: in quo et cogitabatis, defuistis autem.",
+          "english": "I rejoiced in the Lord greatly that now at last you have revived your concern for me; though you were concerned before, you lacked an opportunity."
+        },
+        {
+          "number": 11,
+          "latin": "Non quasi propter penuriam dico: ego enim didici, in quibus sum, sufficiens esse.",
+          "english": "Not that I speak in regard to need; for I have learned, in whatever state I am, to be content."
+        },
+        {
+          "number": 12,
+          "latin": "Scio et humiliari, scio et abundare: ubique et in omnibus, institutus sum et saturari, et esurire, et abundare, et penuriam pati.",
+          "english": "I know how to be brought low, and I know how to abound. In any and all circumstances I have learned the secret of facing plenty and hunger, abundance and need."
+        },
+        {
+          "number": 13,
+          "latin": "Omnia possum in eo qui me confortat.",
+          "english": "I can do all things through him who strengthens me."
+        },
+        {
+          "number": 14,
+          "latin": "Verumtamen bene fecistis, conturbati in tribulatione mea.",
+          "english": "Yet it was kind of you to share in my trouble."
+        },
+        {
+          "number": 15,
+          "latin": "Scitis autem et vos Philippenses, quod in principio Evangelii, quando profectus sum a Macedonia, nullam mihi communicaverunt ecclesia in ratione dati et accepti, nisi vos solos:",
+          "english": "And you Philippians yourselves know that in the beginning of the Gospel, when I departed from Macedonia, no church shared with me in the matter of giving and receiving except you only."
+        },
+        {
+          "number": 16,
+          "latin": "quia et Thessalonicam semel et bis misistis mihi in necessitatem.",
+          "english": "For even in Thessalonica you sent me help more than once when I was in need."
+        },
+        {
+          "number": 17,
+          "latin": "Non quia quæro datum, sed quaero fructum abundantem in rationem vestram.",
+          "english": "Not that I seek the gift, but I seek the fruit that increases to your credit."
+        },
+        {
+          "number": 18,
+          "latin": "Habeo autem omnia et abundo: repletus sum, accepto ab Epaphrodito quae misistis, odorem suavitatis, hostiam acceptam, placentem Deo.",
+          "english": "I have received everything in full and have an abundance; I am filled, having received from Epaphroditus the things that you sent, a fragrant offering, a sacrifice acceptable and pleasing to God."
+        },
+        {
+          "number": 19,
+          "latin": "Deus meus impleat omne desiderium vestrum secundum divitias suas in gloria in Christo Jesu.",
+          "english": "My God will supply every need of yours according to his riches in glory in Christ Jesus."
+        },
+        {
+          "number": 20,
+          "latin": "Deo autem et Patri nostro gloria in saecula saeculorum. Amen.",
+          "english": "To our God and Father be glory for ever and ever. Amen."
+        },
+        {
+          "number": 21,
+          "latin": "Salutate omnem sanctum in Christo Jesu. Salutant vos qui cum me sunt fratres.",
+          "english": "Greet every saint in Christ Jesus. The brothers and sisters who are with me greet you."
+        },
+        {
+          "number": 22,
+          "latin": "Salutant vos omnes sancti, maxime autem qui de domo Caesaris.",
+          "english": "All the saints greet you, especially those of Caesar’s household."
+        },
+        {
+          "number": 23,
+          "latin": "Gratia Domini nostri Jesu Christi cum spiritu vestro. Amen.",
+          "english": "The grace of our Lord Jesus Christ be with your spirit. Amen."
+        }
+      ]
+    }
+  ]
+}

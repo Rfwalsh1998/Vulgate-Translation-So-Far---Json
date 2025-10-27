@@ -1,0 +1,786 @@
+{
+  "name": "Galatians",
+  "chapters": [
+    {
+      "number": 1,
+      "status": "completed",
+      "verses": [
+        {
+          "number": "1",
+          "latin": "Paulus apostolus (non ab hominibus, neque per hominem, sed per Iesum Christum, et Deum Patrem, qui suscitavit eum a mortuis),",
+          "english": "Paul, a sent one (not appointed by humans, nor through a human intermediary, but through Jesus Christ and God the Father, who raised him from the dead),"
+        },
+        {
+          "number": "2",
+          "latin": "et qui mecum sunt omnes fratres, ecclesiis Galatiae.",
+          "english": "and all the brothers who are with me, to the churches of Galatia."
+        },
+        {
+          "number": "3",
+          "latin": "Gratia vobis, et pax a Deo Patre, et Domino Iesu Christo,",
+          "english": "May grace and peace be given to you from God the Father and from the Lord Jesus Christ,"
+        },
+        {
+          "number": "4",
+          "latin": "qui dedit semetipsum pro peccatis nostris, ut eriperet nos de praesenti saeculo nequam, secundum voluntatem Dei et Patris nostri,",
+          "english": "who gave Himself to atone for our sins so that we might be rescued from this present evil world, according to the will of God our Father,"
+        },
+        {
+          "number": "5",
+          "latin": "cui est gloria in saecula saeculorum. Amen.",
+          "english": "to whom be the glory forever and ever. Amen."
+        },
+        {
+          "number": "6",
+          "latin": "Miror quod tam cito transferimini ab eo qui vos vocavit in gratiam Christi, in aliud Evangelium;",
+          "english": "I am astonished that you are so quickly deserting Him who called you to experience the grace of Christ, in order to follow a different gospel;"
+        },
+        {
+          "number": "7",
+          "latin": "quod non est aliud, nisi sunt aliqui qui conturbant vos, et volunt convertere Evangelium Christi.",
+          "english": "which is not really a gospel at all; some people are troubling you, and want to change the gospel of Christ."
+        },
+        {
+          "number": "8",
+          "latin": "Sed licet nos aut angelus de caelo evangelizet vobis praeterquam quod evangelizavimus vobis, anathema sit.",
+          "english": "But even if we, or an angel from heaven, were to evangelize to you anything other than what we evangelized to you, may he be cursed."
+        },
+        {
+          "number": "9",
+          "latin": "Sicut praediximus, et nunc iterum dico: Si quis vobis evangelizaverit praeter id quod accepistis, anathema sit.",
+          "english": "As we have said before, so I now say again: If anyone evangelizes to you anything beyond what you have already received, may he be cursed."
+        },
+        {
+          "number": "10",
+          "latin": "Nunc enim hominibus suadeor, an Deo? aut quaerere hominibus placere? Si enim adhuc hominibus placerem, Christi servus non essem.",
+          "english": "Am I now trying to win the favor of men, or of God? Or am I striving to please men? If I were still trying to please men, I would not be a servant of Christ."
+        },
+        {
+          "number": "11",
+          "latin": "Notum enim vobis facio, fratres, Evangelium, quod evangelizatum est a me, quia non est secundum hominem.",
+          "english": "For I would have you know, brothers, that the gospel that was evangelized by me is not a human invention."
+        },
+        {
+          "number": "12",
+          "latin": "Neque enim ego ab homine accepi illud, neque didici, sed per revelationem Iesu Christi.",
+          "english": "I did not receive it from any human, nor was I taught it, but it came through a revelation of Jesus Christ."
+        },
+        {
+          "number": "13",
+          "latin": "Audistis enim conversationem meam aliquando in Iudaismo: quoniam supra modum persequebar Ecclesiam Dei, et expugnabam illam;",
+          "english": "For you have heard of my former way of life in Judaism: how I persecuted the Church of God beyond measure and tried to destroy it."
+        },
+        {
+          "number": "14",
+          "latin": "et proficiebam in Iudaismo supra multos coaetaneos meos in genere meo, abundantius zelans traditiones patrum meorum.",
+          "english": "And I was advancing in Judaism beyond many of my own age among my people, being more exceedingly zealous for the traditions of my fathers."
+        },
+        {
+          "number": "15",
+          "latin": "Cum autem placuit ei, qui me segregavit ex utero matris meae, et vocavit per gratiam suam,",
+          "english": "But when it pleased Him Who set me apart from birth, and called me through His grace,"
+        },
+        {
+          "number": "16",
+          "latin": "ut revelaret Filium suum in me, ut evangelizarem illum in gentibus, continuo non acquievi carni et sanguini,",
+          "english": "to reveal His Son in me, so that I might evangelize Him among the Gentiles, I did not immediately consult with flesh and blood,"
+        },
+        {
+          "number": "17",
+          "latin": "neque veni statim ad Ierusalem ad eos, qui ante me apostoli erant: sed abii in Arabiam, et iterum reversus sum Damascum.",
+          "english": "nor did I go up to Jerusalem to those who were apostles before me; rather, I went away into Arabia, and returned again to Damascus."
+        },
+        {
+          "number": "18",
+          "latin": "Deinde post tres annos veni Ierosolymam videre Petrum, et mansi apud eum diebus quindecim.",
+          "english": "Then after three years I went up to Jerusalem to see Peter, and stayed with him for fifteen days."
+        },
+        {
+          "number": "19",
+          "latin": "alium autem apostolorum vidi neminem, nisi Iacobum fratrem Domini.",
+          "english": "But I saw none of the other apostles except James, the brother of the Lord."
+        },
+        {
+          "number": "20",
+          "latin": "Quae autem scribo vobis, ecce coram Deo, quia non mentior.",
+          "english": "In what I am writing to you, before God, I do not lie."
+        },
+        {
+          "number": "21",
+          "latin": "Deinde veni in partes Syriae et Ciliciae.",
+          "english": "Then I went into the regions of Syria and Cilicia."
+        },
+        {
+          "number": "22",
+          "latin": "Eram autem ignotus facie ecclesiis Iudaeae, quae erant in Christo:",
+          "english": "And I was still unknown in face to the churches of Judea that were in Christ:"
+        },
+        {
+          "number": "23",
+          "latin": "tantum autem audiebant: Quia qui persequebatur nos aliquando, nunc evangelizat fidem, quam aliquando expugnabat:",
+          "english": "they only heard: “The one who formerly persecuted us is now evangelizing the faith that he once tried to destroy.”"
+        },
+        {
+          "number": "24",
+          "latin": "et in me glorificabant Deum.",
+          "english": "And they were glorifying God in me."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Deinde post quattuordecim annos iterum ascendi Hierosolymam cum Barnaba, assumpto et Tito.",
+          "english": "Then after fourteen years, I returned to Jerusalem with Barnabas, bringing along Titus as well."
+        },
+        {
+          "number": 2,
+          "latin": "Ascendi autem secundum revelationem: et contuli cum illis Evangelium, quod praedico in gentibus: seorsum autem his, qui videbantur aliquid esse, ne forte in vacuum currerem aut cucurrissem.",
+          "english": "I went up because of a revelation. I presented the Gospel that I preach to the Gentiles, but I did so privately to those who seemed to be important leaders, to be certain that I wasn't running in vain."
+        },
+        {
+          "number": 3,
+          "latin": "Sed neque Titus, qui mecum erat, cum esset Graecus, coactus est circumcidi.",
+          "english": "But even Titus, who was with me, was not forced to be circumcised, even though he was a Greek."
+        },
+        {
+          "number": 4,
+          "latin": "Verumtamen propter subintroductos falsos fratres, qui subintroierant explorare libertatem nostram, quam habemus in Christo Jesu, ut nos in servitutem redigerent:",
+          "english": "This was because of certain false brothers who were secretly brought in. They were trying to find out about the freedom we have in Christ Jesus, to put us back into slavery."
+        },
+        {
+          "number": 5,
+          "latin": "quibus neque ad horam cessimus, neque obsequium dedimus: ut veritas Evangelii permaneat vobis.",
+          "english": "We did not yield to these men for a single hour, nor did we give in to them. We did this so the truth of the Gospel would remain with you."
+        },
+        {
+          "number": 6,
+          "latin": "Ab his autem, qui videbantur aliquid esse (quales aliquando fuerint, nihil mea interest: personam enim hominis non accipit Deus): mihi enim qui videbantur, nihil contulerunt.",
+          "english": "And from those who seemed to be something, it makes no difference to me what they once were—God shows no partiality. These so-called leaders added nothing to my Gospel."
+        },
+        {
+          "number": 7,
+          "latin": "Sed contra, cum vidissent quod mihi creditum est Evangelium praeputii, sicut et Petro circumcisionis:",
+          "english": "On the contrary, they saw that I had been entrusted with the Gospel for the uncircumcised, just as Peter had been entrusted with the Gospel for the circumcised."
+        },
+        {
+          "number": 8,
+          "latin": "(Qui enim operatus est Petro in apostolatu circumcisionis, operatus est et mihi inter gentes:)",
+          "english": "(For the one who worked through Peter in his ministry to the circumcised also worked through me among the Gentiles:)"
+        },
+        {
+          "number": 9,
+          "latin": "et cum cognovissent gratiam, quae data est mihi, Jacobus, et Cephas, et Joannes, qui videbantur columnae esse, dextras dederunt mihi et Barnabae societatis: ut nos in gentes, ipsi autem in circumcisionem.",
+          "english": "And when James, Cephas, and John, who seemed to be pillars, recognized the grace that had been given to me, they gave to Barnabas and me the right hand of fellowship. They agreed that we should go to the Gentiles, and they to the circumcised."
+        },
+        {
+          "number": 10,
+          "latin": "Tantum ut pauperum memores essemus: quod et sollicitus fui hoc ipsum facere.",
+          "english": "All they asked was that we should remember the poor, which is what I was very eager to do."
+        },
+        {
+          "number": 11,
+          "latin": "Cum autem venisset Cephas Antiochiam, in faciem ei restiti, quia reprehensibilis erat.",
+          "english": "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned."
+        },
+        {
+          "number": 12,
+          "latin": "Prius enim quam venirent quidam a Jacobo, cum gentibus edebat: cum autem venissent, subtrahebat se, et segregabat timens eos, qui ex circumcisione erant.",
+          "english": "Before certain men came from James, Peter used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, because he was afraid of those who belonged to the circumcision group."
+        },
+        {
+          "number": 13,
+          "latin": "Et simulationi ejus consenserunt ceteri Judaei, ita ut et Barnabas duceretur ab eis in illam simulationem.",
+          "english": "The other Jews joined him in his hypocrisy, so that even Barnabas was led astray by their hypocrisy."
+        },
+        {
+          "number": 14,
+          "latin": "Sed videns quod non recte ambularent ad veritatem Evangelii, dixi Cephae coram omnibus: Si tu, cum Judaeus sis, gentiliter vivis, et non judaice, quomodo gentes cogis judaizare?",
+          "english": "When I saw that they were not acting in line with the truth of the Gospel, I said to Cephas in front of everyone, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you force Gentiles to live like Jews?"
+        },
+        {
+          "number": 15,
+          "latin": "Nos natura Judaei, et non ex gentibus peccatores,",
+          "english": "We are Jews by birth, and not sinners from among the Gentiles;"
+        },
+        {
+          "number": 16,
+          "latin": "scientes autem quod non justificatur homo ex operibus legis, nisi per fidem Jesu Christi, et nos in Christo Jesu credidimus, ut justificemur ex fide Christi, et non ex operibus legis: quia ex operibus legis non justificabitur omnis caro.",
+          "english": "yet we know that a person is not justified by the works of the law, but by faith in Jesus Christ. So we, too, have believed in Christ Jesus, that we may be justified by faith in Christ and not by the works of the law, because by the works of the law no one will be justified."
+        },
+        {
+          "number": 17,
+          "latin": "Quod si quaerentes justificari in Christo, inventi sumus et ipsi peccatores, ergo Christus peccati minister est? Absit.",
+          "english": "But if, in seeking to be justified in Christ, we ourselves are found to be sinners, then does that mean Christ promotes sin? Absolutely not!"
+        },
+        {
+          "number": 18,
+          "latin": "Si enim quae destruxi, haec iterum aedifico, praevaricatorem meipsum constituo.",
+          "english": "For if I rebuild what I have destroyed, I become a transgressor."
+        },
+        {
+          "number": 19,
+          "latin": "Ego enim per legem legi mortuus sum, ut Deo vivam: Christo confixus sum cruci.",
+          "english": "For through the law I died to the law, so that I might live for God. I have been crucified with Christ."
+        },
+        {
+          "number": 20,
+          "latin": "Vivo autem, jam non ego: vivit vero in me Christus. Quod autem nunc vivo in carne, in fide vivo Filii Dei, qui dilexit me, et tradidit seipsum pro me.",
+          "english": "It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me."
+        },
+        {
+          "number": 21,
+          "latin": "Non irritum facio gratiam Dei: si enim per legem justitia, ergo Christus gratis mortuus est.",
+          "english": "I do not set aside the grace of God, for if righteousness could be gained through the law, Christ died for nothing!"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "O insensati Galatae, quis vos fascinavit non obedire veritati, ante quorum oculos Iesus Christus praescriptus est, in vobis crucifixus?",
+          "english": "O you foolish Galatians! Who has bewitched you, that you should not obey the truth, before whose eyes Jesus Christ was presented, crucified among you?"
+        },
+        {
+          "number": 2,
+          "latin": "Hoc solum a vobis discere volo: ex operibus legis Spiritum accepistis, an ex auditu fidei?",
+          "english": "This only I want to learn from you: Did you receive the Spirit by the works of the Law, or by the hearing of faith?"
+        },
+        {
+          "number": 3,
+          "latin": "Ita stulti estis? cum Spiritu coeperitis, nunc carne consummamini?",
+          "english": "Are you so foolish? Having begun in the Spirit, are you now being perfected by the flesh?"
+        },
+        {
+          "number": 4,
+          "latin": "Tanta passi estis frustra? si tamen frustra.",
+          "english": "Have you suffered so many things in vain? If it is indeed in vain."
+        },
+        {
+          "number": 5,
+          "latin": "Qui ergo tribuit vobis Spiritum, et operatur virtutes in vobis, ex operibus legis, an ex auditu fidei?",
+          "english": "He therefore who supplies the Spirit to you and works miracles among you, does He do it by the works of the Law, or by the hearing of faith?"
+        },
+        {
+          "number": 6,
+          "latin": "Sicut credidit Abraham Deo, et reputatum est illi ad justitiam.",
+          "english": "As Abraham believed God, and it was accounted to him for righteousness."
+        },
+        {
+          "number": 7,
+          "latin": "Cognoscit ergo quod hi qui ex fide sunt, hi sunt filii Abraham.",
+          "english": "Know therefore that those who are of faith, are the sons of Abraham."
+        },
+        {
+          "number": 8,
+          "latin": "Providens autem Scriptura, quod ex fide gentes justificat Deus, praenuntiavit Abraham: Quia benedicentur in te omnes gentes.",
+          "english": "And the Scripture, foreseeing that God would justify the Gentiles by faith, announced to Abraham: “In you shall all the nations be blessed.”"
+        },
+        {
+          "number": 9,
+          "latin": "Igitur qui ex fide sunt, benedicentur cum fideli Abraham.",
+          "english": "Therefore those who are of faith are blessed with faithful Abraham."
+        },
+        {
+          "number": 10,
+          "latin": "Quicumque enim ex operibus legis sunt, sub maledictionem sunt scriptum est enim: Maledictus omnis qui non permanet in omnibus quae scripta sunt in libro legis ut faciat ea.",
+          "english": "For as many as are of the works of the Law are under a curse; for it is written: “Cursed is everyone who does not continue in all things which are written in the book of the Law, to do them.”"
+        },
+        {
+          "number": 11,
+          "latin": "Quod autem per legem nemo justificatur apud Deum, manifestum est: quia justus ex fide vivit.",
+          "english": "But that by the Law no one is justified with God is clear, for “the just man lives by faith.”"
+        },
+        {
+          "number": 12,
+          "latin": "Lex autem non est ex fide: sed qui fecerit ea, vivet in illis.",
+          "english": "But the Law is not of faith, but “he who does them shall live in them.”"
+        },
+        {
+          "number": 13,
+          "latin": "Christus nos redemit de maledictione legis, factus pro nobis maledictio: quia scriptum est: Maledictus omnis qui pendet in ligno:",
+          "english": "Christ has redeemed us from the curse of the Law, having been made a curse for us, for it is written: “Cursed is everyone who hangs on a tree,”"
+        },
+        {
+          "number": 14,
+          "latin": "ut in gentibus benedictio Abraham fieret in Christo Iesu, ut promissionem Spiritus accipiamus per fidem.",
+          "english": "so that the blessing of Abraham might come upon the Gentiles in Christ Jesus, that we might receive the promise of the Spirit through faith."
+        },
+        {
+          "number": 15,
+          "latin": "Fratres, secundum hominem dico: tamen hominis confirmatam testamentum nemo irritum facit, aut superordinat.",
+          "english": "Brothers, I speak in human terms: even though it is only a man’s covenant, when it has been ratified, no one annuls it or adds to it."
+        },
+        {
+          "number": 16,
+          "latin": "Abrahæ dictae sunt promissiones et semini ejus. Non dicit: Et seminibus, quasi in multis: sed quasi in uno, et semini tuo, qui est Christus.",
+          "english": "Now to Abraham and his seed were the promises made. He does not say, “And to seeds,” as referring to many, but as to one, “And to your seed,” who is Christ."
+        },
+        {
+          "number": 17,
+          "latin": "Hoc autem dico, testamentum quod confirmatum est a Deo: lex, quae post annos quadringentos et triginta facta est, non irritum facit, ad evacuandam promissionem.",
+          "english": "Now I say this: The Law, which came four hundred and thirty years later, does not annul a covenant previously ratified by God, so as to make the promise invalid."
+        },
+        {
+          "number": 18,
+          "latin": "Nam si ex lege hæreditas, jam non ex promissione. Abraæ autem per promissionem donavit Deus.",
+          "english": "For if the inheritance is of the Law, it is no longer of promise; but God granted it to Abraham through promise."
+        },
+        {
+          "number": 19,
+          "latin": "Quid igitur lex? Propter transgressiones posita est, donec veniret semen cui promiserat, ordinata per angelos in manu mediatoris.",
+          "english": "Why then the Law? It was added because of transgressions, until the Seed should come to whom the promise was made, having been ordained through angels in the hand of a mediator."
+        },
+        {
+          "number": 20,
+          "latin": "Mediator autem unius non est: Deus autem unus est.",
+          "english": "Now a mediator is not for one only, but God is one."
+        },
+        {
+          "number": 21,
+          "latin": "Lex ergo adversus promissiones Dei? Absit. Nam si data esset lex, quæ posset vivificare, vere ex lege esset justitia.",
+          "english": "Is the Law then against the promises of God? By no means! For if a law had been given which could give life, then righteousness would indeed be by the Law."
+        },
+        {
+          "number": 22,
+          "latin": "Sed conclusit Scriptura omnia sub peccatum, ut promissio ex fide Iesu Christi daretur credentibus.",
+          "english": "But the Scripture has confined all things under sin, that the promise by faith in Jesus Christ might be given to those who believe."
+        },
+        {
+          "number": 23,
+          "latin": "Prius autemquam veniret fides, sub lege custodiebamur, conclusi in eam fidem quæ revelanda erat.",
+          "english": "But before faith came, we were kept under the Law, confined until the faith which was to be revealed would come."
+        },
+        {
+          "number": 24,
+          "latin": "Itaque lex pædagogus noster fuit in Christo, ut ex fide justificemur.",
+          "english": "Therefore the Law was our tutor in Christ, that we might be justified by faith."
+        },
+        {
+          "number": 25,
+          "latin": "At ubi venit fides, iam non sumus sub pædagogo.",
+          "english": "But now that faith has come, we are no longer under a tutor."
+        },
+        {
+          "number": 26,
+          "latin": "Omnes enim filii Dei estis per fidem in Christo Iesu.",
+          "english": "For you are all sons of God through faith in Christ Jesus."
+        },
+        {
+          "number": 27,
+          "latin": "Quicumque enim in Christo baptizati estis, Christum induistis.",
+          "english": "For as many of you as were baptized into Christ, have put on Christ."
+        },
+        {
+          "number": 28,
+          "latin": "Non est Judæus, neque Græcus: non est servus, neque liber: non est masculus, neque femina. Omnes enim vos unum estis in Christo Iesu.",
+          "english": "There is neither Jew nor Greek; there is neither slave nor free; there is neither male nor female; for you are all one in Christ Jesus."
+        },
+        {
+          "number": 29,
+          "latin": "Si autem vos Christi estis: ergo semen Abrahae estis, secundum promissionem hæredes.",
+          "english": "And if you are Christ’s, then you are Abraham’s seed, and heirs according to the promise."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Dico autem: Quanto tempore hæres parvulus est, nihil differt a servo, cum sit Dominus omnium,",
+          "english": "I mean, as long as the heir is a child, he is no different from a servant, even though he owns everything,"
+        },
+        {
+          "number": 2,
+          "latin": "sed sub tutoribus est, et actoribus, usque ad præfinítum tempus a patre.",
+          "english": "but he is under guardians and managers until the time fixed by his father."
+        },
+        {
+          "number": 3,
+          "latin": "Ita et nos, cum essemus parvuli, sub elementis mundi eramus sicut servi.",
+          "english": "So too, when we were children, we were enslaved to the basic principles of this world."
+        },
+        {
+          "number": 4,
+          "latin": "Ubi autem venit plenitudo temporis, misit Deus Filium suum factum ex muliere, factum sub lege:",
+          "english": "But when the time had fully come, God sent forth the Son on a mission by God, born of a woman, born under the Law,"
+        },
+        {
+          "number": 5,
+          "latin": "ut eos qui sub lege erant, redimeret: ut adoptionem filiorum reciperemus.",
+          "english": "to redeem those who were under the Law, so that we might receive adoption as sons."
+        },
+        {
+          "number": 6,
+          "latin": "Quoniam estis filii, misit Deus Spiritum Filii sui in corda nostra, clamantem: Abba, Pater.",
+          "english": "And because you are sons, God sent the Spirit of His Son on a mission by God into our hearts, crying out, “Abba! Father!”"
+        },
+        {
+          "number": 7,
+          "latin": "Itaque jam non es servus, sed filius: quod si filius, et hæres per Deum.",
+          "english": "So you are no longer a slave, but a son; and if a son, then an heir through God."
+        },
+        {
+          "number": 8,
+          "latin": "Sed tunc quidem ignorantes Deum, serviebatis his, qui non sunt dii natura.",
+          "english": "However, formerly, when you did not know God, you were enslaved to those who by nature are not gods."
+        },
+        {
+          "number": 9,
+          "latin": "Nunc autem, cum cognoveritis Deum, immo cogniti sitis a Deo: quomodo convertimini iterum ad infirma, et egena elementa, quibus iterum deservire vultis?",
+          "english": "But now that you have known God, or rather have been known by God, how can you turn back again to the weak and beggarly elemental spirits? Do you want to be enslaved to them again?"
+        },
+        {
+          "number": 10,
+          "latin": "Dies observatis, et menses, et tempora, et annos.",
+          "english": "You observe days and months and seasons and years."
+        },
+        {
+          "number": 11,
+          "latin": "Timeo vos, ne forte sine causa laboraverim in vobis.",
+          "english": "I fear for you, that perhaps I have labored over you in vain."
+        },
+        {
+          "number": 12,
+          "latin": "Estote sicut ego: quoniam et ego sicut vos, fratres, obsecro vos. Nihil me læsistis.",
+          "english": "Become like me, because I also became like you, brothers. I beg you: you have done me no wrong."
+        },
+        {
+          "number": 13,
+          "latin": "Scitis autem quoniam per infirmitatem carnis evangelizavi vobis in principio.",
+          "english": "You know that because of a physical illness I preached the gospel to you at first."
+        },
+        {
+          "number": 14,
+          "latin": "Et quod in carne mea tentatio vobis, non sprevistis, neque respuistis: sed sicut angelum Dei suscepistis me, sicut Christum Jesum.",
+          "english": "And though my condition was a trial for you, you did not despise or reject me, but received me as an angel of God, as Christ Jesus."
+        },
+        {
+          "number": 15,
+          "latin": "Ubi est ergo beatificatio vestra? Testimonium enim perhibeo vobis, quod, si fieri potuisset, oculos vestros eruissetis, et dedissetis mihi.",
+          "english": "What has become of your blessedness? For I testify that, if possible, you would have plucked out your eyes and given them to me."
+        },
+        {
+          "number": 16,
+          "latin": "Ergo inimicus vobis factus sum, verum dicens vobis?",
+          "english": "So have I become your enemy by telling you the truth?"
+        },
+        {
+          "number": 17,
+          "latin": "Æmulantur vos non bene: sed excludere vos volunt, ut illos æmulemini.",
+          "english": "They make much of you, but not in a good way; they want to shut you out, so that you will make much of them."
+        },
+        {
+          "number": 18,
+          "latin": "Bonum autem æmulari in bono semper: et non tantum cum præsens vobis sum.",
+          "english": "It is always good to be made much of, in a good way, and not only when I am present with you,"
+        },
+        {
+          "number": 19,
+          "latin": "Filioli mei, quos iterum parturio, donec formetur Christus in vobis.",
+          "english": "My children, for whom I am again in the pain of childbirth until Christ is formed in you!"
+        },
+        {
+          "number": 20,
+          "latin": "Vellem autem adesse modo vobis, et mutare vocem meam: quoniam vereor vos.",
+          "english": "I wish I could be present with you now and change my tone, because I am perplexed about you."
+        },
+        {
+          "number": 21,
+          "latin": "Dicite mihi, qui sub lege vultis esse, legem non audistis?",
+          "english": "Tell me, you who want to be under the Law, do you not listen to the Law?"
+        },
+        {
+          "number": 22,
+          "latin": "Scriptum est enim: Quoniam Abraham duos filios habuit: unum de ancilla, et unum de libera.",
+          "english": "For it is written that Abraham had two sons, one by a slave woman and one by a free woman."
+        },
+        {
+          "number": 23,
+          "latin": "Sed is quidem qui de ancilla, secundum carnem natus est: iste autem qui de libera, per repromissionem.",
+          "english": "But the son of the slave woman was born according to the flesh, while the son of the free woman was born through promise."
+        },
+        {
+          "number": 24,
+          "latin": "Quæ sunt per allegoriam dicta. Hæ enim duæ mulieres duo testamenta sunt: unum quidem in monte Sina, in servitutem generans, quæ est Agar.",
+          "english": "This is an allegory: for these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar."
+        },
+        {
+          "number": 25,
+          "latin": "Agar enim Sina mons est in Arabia, qui conjunctus est ei quæ nunc est Jerusalem, et servit cum filiis suis.",
+          "english": "Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children."
+        },
+        {
+          "number": 26,
+          "latin": "Illa autem quæ sursum est Jerusalem, libera est: quæ est mater nostra.",
+          "english": "But the Jerusalem above is free, and she is our mother."
+        },
+        {
+          "number": 27,
+          "latin": "Scriptum est enim: Lætare sterilis quæ non paris: erumpe et clama quæ non parturiebas: quia multi filii desolatæ magis quam ejus quæ habet virum.",
+          "english": "For it is written, “Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor; for the children of the desolate one are more than those of the one who has a husband.”"
+        },
+        {
+          "number": 28,
+          "latin": "Nos autem, fratres, secundum Isac promissionis filii sumus.",
+          "english": "Now you, brothers, like Isaac, are children of promise."
+        },
+        {
+          "number": 29,
+          "latin": "Sed quomodo tunc is qui secundum carnem natus fuerat, persequebatur eum qui secundum Spiritum: ita et nunc.",
+          "english": "But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also now."
+        },
+        {
+          "number": 30,
+          "latin": "Sed quid dicit Scriptura? Ejice ancillam et filium ejus: non enim erit hæres filius ancillæ cum filio liberæ.",
+          "english": "But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.”"
+        },
+        {
+          "number": 31,
+          "latin": "Igitur, fratres, non sumus ancillæ filii, sed liberæ.",
+          "english": "So, brothers, we are not children of the slave woman but of the free woman."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "State ergo in libertate, qua Christus liberavit nos, et nolite iterum iugo servitutis contineri.",
+          "english": "Be free, therefore! Christ freed us. Do not be enslaved again."
+        },
+        {
+          "number": 2,
+          "latin": "Ecce ego Paulus dico vobis, quoniam si circumcidamini, Christus vobis nihil proderit.",
+          "english": "I, Paul, say this: if you are circumcised, Christ will not benefit you in any way."
+        },
+        {
+          "number": 3,
+          "latin": "Testor autem rursum omni homini circumcidenti se, quoniam debitor est universae legis faciendae.",
+          "english": "I testify again to any man who is circumcised that he is obligated to keep the whole Law."
+        },
+        {
+          "number": 4,
+          "latin": "Evacuati estis a Christo, qui in lege justificamini: a gratia excidistis.",
+          "english": "You have been severed from Christ, all of you who try to become justified by the Law; you have fallen from grace."
+        },
+        {
+          "number": 5,
+          "latin": "Nos enim spiritu ex fide spem justitiae exspectamus.",
+          "english": "We eagerly await through the Spirit, by faith, the hope of righteousness."
+        },
+        {
+          "number": 6,
+          "latin": "Nam in Christo Jesu neque circumcisio aliquid valet, neque praeputium, sed fides, quae per caritatem operatur.",
+          "english": "For in Christ Jesus, neither circumcision nor uncircumcision counts for anything, but only faith working through love."
+        },
+        {
+          "number": 7,
+          "latin": "Currebatis bene: quis vos impedivit veritati non obedire?",
+          "english": "You were running well. Who stopped you from obeying the truth?"
+        },
+        {
+          "number": 8,
+          "latin": "Persuasio haec non est ex eo qui vocat vos.",
+          "english": "This kind of persuasion does not come from the One who called you."
+        },
+        {
+          "number": 9,
+          "latin": "Modicum fermentum totam massam corrumpit.",
+          "english": "A little bit of yeast leavens the whole lump."
+        },
+        {
+          "number": 10,
+          "latin": "Ego fiduciam habeo in vobis in Domino, quod nihil aliud sapietis: qui autem conturbat vos, portabit judicium, quicumque est.",
+          "english": "I am confident in you in the Lord that you will think in no other way; but the one who is troubling you will pay the penalty, whoever he may be."
+        },
+        {
+          "number": 11,
+          "latin": "Ego autem, fratres, si circumcisionem adhuc praedico, quid adhuc persecutionem patior? Ergo mortificatus est scandalum crucis.",
+          "english": "As for me, brothers, if I still preach circumcision, why am I still persecuted? Then the stumbling block of the cross has been removed."
+        },
+        {
+          "number": 12,
+          "latin": "Utinam et abscindantur qui vos conturbant.",
+          "english": "I wish those who unsettle you would castrate themselves!"
+        },
+        {
+          "number": 13,
+          "latin": "Vos enim in libertatem vocati estis, fratres: tantum ne libertatem in occasionem detis carnis, sed per caritatem spiritus invicem servite.",
+          "english": "For you were called to freedom, brothers. But do not use this freedom as an opportunity for the flesh; rather, serve one another through love."
+        },
+        {
+          "number": 14,
+          "latin": "Omnis enim lex in uno sermone impletur: Diliges proximum tuum sicut teipsum.",
+          "english": "For the whole Law is fulfilled in one statement: “You shall love your neighbor as yourself.”"
+        },
+        {
+          "number": 15,
+          "latin": "Quod si invicem mordetis et comeditis, videte ne ab invicem consumamini.",
+          "english": "But if you bite and devour one another, see that you are not consumed by one another."
+        },
+        {
+          "number": 16,
+          "latin": "Spiritu autem ambulate, et desiderium carnis non perficietis.",
+          "english": "But I say: walk in the Spirit, and do not gratify the desires of the flesh."
+        },
+        {
+          "number": 17,
+          "latin": "Caro enim concupiscit adversus spiritum: spiritus autem adversus carnem; haec enim invicem sibi adversantur, ut non quae vultis, illa faciatis.",
+          "english": "For the flesh has desires against the Spirit, and the Spirit against the flesh; for these are opposed to each other, so that you do not do what you want."
+        },
+        {
+          "number": 18,
+          "latin": "Quod si spiritu ducimini, non estis sub lege.",
+          "english": "But if you are led by the Spirit, you are not under the Law."
+        },
+        {
+          "number": 19,
+          "latin": "Manifesta sunt autem opera carnis, quae sunt fornicatio, immunditia, luxuria,",
+          "english": "Now the works of the flesh are obvious: immorality, impurity, licentiousness,"
+        },
+        {
+          "number": 20,
+          "latin": "idolatria, veneficia, inimicitiae, contentiones, aemulationes, irae, rixae, dissensiones, haereses,",
+          "english": "idolatry, sorcery, hatreds, rivalry, jealousy, outbursts of anger, selfish ambitions, dissensions, factions,"
+        },
+        {
+          "number": 21,
+          "latin": "invidiae, homicidia, ebrietates, comessationes, et his similia: quae praedico vobis, sicut praedixi, quoniam qui talia agunt, regnum Dei non consequentur.",
+          "english": "envy, drunkenness, carousing, and things like these. I am warning you, as I warned you before: those who do such things will not inherit the kingdom of God."
+        },
+        {
+          "number": 22,
+          "latin": "Fructus autem spiritus est caritas, gaudium, pax, patientia, benignitas, bonitas, fides, mansuetudo, continentia:",
+          "english": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control;"
+        },
+        {
+          "number": 23,
+          "latin": "adversum talia non est lex.",
+          "english": "against such things there is no law."
+        },
+        {
+          "number": 24,
+          "latin": "Qui autem sunt Christi, carnem suam crucifixerunt cum vitiis et concupiscentiis.",
+          "english": "Now those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+        },
+        {
+          "number": 25,
+          "latin": "Si spiritu vivimus, spiritu et ambulemus.",
+          "english": "If we live in the Spirit, let us also walk in the Spirit."
+        },
+        {
+          "number": 26,
+          "latin": "Non efficientes inanis gloriam, invicem provocantes, invicem invidentes.",
+          "english": "Let us not become conceited, provoking one another, envying one another."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "completed",
+      "verses": [
+        {
+          "number": 1,
+          "latin": "Fratres, et si praeoccupatus fuerit homo in aliquo delicto, vos qui spirituales estis, hujusmodi instruite in spiritu lenitatis, considerans teipsum, ne et tu tenteris.",
+          "english": "Brothers, if a man is caught in some sin, you who are spiritual should correct him with the spirit of gentleness, being mindful of yourself, lest you also be tempted."
+        },
+        {
+          "number": 2,
+          "latin": "Alter alterius onera portate, et sic adimplebitis legem Christi.",
+          "english": "Carry one another's burdens, and in this way you will fulfill the law of Christ."
+        },
+        {
+          "number": 3,
+          "latin": "Nam si quis existimat se esse aliquid cum nihil sit, seipsum seducit.",
+          "english": "For if anyone thinks himself to be something when he is nothing, he deceives himself."
+        },
+        {
+          "number": 4,
+          "latin": "Opus autem suum probet unusquisque: et sic in semetipso tantum gloriatio erit illi, et non in alio.",
+          "english": "But let each one examine his own work, and then he will have his boasting in himself alone, and not in another."
+        },
+        {
+          "number": 5,
+          "latin": "Unusquisque enim onus suum portabit.",
+          "english": "For each one will bear his own burden."
+        },
+        {
+          "number": 6,
+          "latin": "Communicet autem is qui instrucit verbo eum qui instruit: in omnibus bonis.",
+          "english": "Let the one who is taught in the word share all good things with the one who teaches."
+        },
+        {
+          "number": 7,
+          "latin": "Nolite errare: Deus non irridetur. Quae enim seminaverit homo, haec et metet.",
+          "english": "Do not be deceived: God is not mocked. For whatever a man sows, that he will also reap."
+        },
+        {
+          "number": 8,
+          "latin": "Quoniam qui seminat in carne sua, de carne et metet corruptionem: qui autem seminat in spiritu, de spiritu metet vitam aeternam.",
+          "english": "For he who sows to his flesh will from the flesh reap corruption; but he who sows to the Spirit will from the Spirit reap eternal life."
+        },
+        {
+          "number": 9,
+          "latin": "Bonum autem facientes, non deficiamus: tempore enim suo metemus, non deficientes.",
+          "english": "And let us not grow weary in doing good, for at the proper time we will reap, if we do not give up."
+        },
+        {
+          "number": 10,
+          "latin": "Ergo, dum tempus habemus, operemur bonum ad omnes, maxime autem ad domesticos fidei.",
+          "english": "So then, as we have opportunity, let us do good to all, but especially to those who are of the household of faith."
+        },
+        {
+          "number": 11,
+          "latin": "Videtis qualibus litteris vobis scripsi mea manu.",
+          "english": "See with what large letters I have written to you with my own hand."
+        },
+        {
+          "number": 12,
+          "latin": "Quicumque volunt placere in carne, hi cogunt vos circumcidi: tantum ut crucem Christi non persequantur.",
+          "english": "Those who want to make a good show in the flesh are the ones who try to compel you to be circumcised, simply so that they may not suffer persecution for the cross of Christ."
+        },
+        {
+          "number": 13,
+          "latin": "Neque enim ipsi qui circumciduntur, legem custodiunt: sed volunt vos circumcidi, ut in carne vestra glorientur.",
+          "english": "For even those who are circumcised do not keep the law, but they want you to be circumcised so that they may boast in your flesh."
+        },
+        {
+          "number": 14,
+          "latin": "Mihi autem absit gloriari, nisi in cruce Domini nostri Jesu Christi: per quem mihi mundus crucifixus est, et ego mundo.",
+          "english": "But may it never be that I should boast except in the cross of our Lord Jesus Christ, by whom the world has been crucified to me, and I to the world."
+        },
+        {
+          "number": 15,
+          "latin": "Nam in Christo Jesu neque circumcisio aliquid valet, neque praeputium, sed nova creatura.",
+          "english": "For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but a new creation."
+        },
+        {
+          "number": 16,
+          "latin": "Et quicumque hanc regulam sequuntur, pax super illos, et misericordia, et super Israel Dei.",
+          "english": "And as for all who will follow this rule, may peace and mercy be upon them, and upon the Israel of God."
+        },
+        {
+          "number": 17,
+          "latin": "De cetero, nemo mihi molestus sit: ego enim stigmata Domini Jesu in corpore meo porto.",
+          "english": "From now on, let no one bother me; for I bear the marks of the Lord Jesus in my body."
+        },
+        {
+          "number": 18,
+          "latin": "Gratia Domini nostri Jesu Christi cum spiritu vestro, fratres. Amen.",
+          "english": "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
+        }
+      ]
+    }
+  ]
+}
