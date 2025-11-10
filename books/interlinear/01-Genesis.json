@@ -73,7 +73,7 @@
         {
           "number": 14,
           "latin": "Dixit autem Deus: Fiant luminaria in firmamento caeli, et dividant diem ac noctem, et sint in signa et tempora, et dies et annos:",
-          "english": "God then said, \"Let there be sources of light in the sky to separate day from night. Let them serve as indicators for marking holy days, seasons, days, and years."
+          "english": "God then said, \"Let there be sources of light in the sky to separate day from night. Let them serve as markers for holy days, seasons, days, and years."
         },
         {
           "number": 15,
@@ -93,7 +93,7 @@
         {
           "number": 18,
           "latin": "et praeessent diei ac nocti, et dividerent lucem ac tenebras. Et vidit Deus quod esset bonum.",
-          "english": "and to govern the day and the night, and to separate the light from the darkness. God saw that this was good."
+          "english": "and to shine in the day and the night, and to separate the light from the darkness. God saw that this was good."
         },
         {
           "number": 19,
@@ -103,12 +103,12 @@
         {
           "number": 20,
           "latin": "Dixit etiam Deus: Producant aquae reptile animae viventis, et volatile super terram sub firmamento caeli.",
-          "english": "God also said, \"Let the waters teem with every type of living creature, and let birds fly above the earth, across the sky.\""
+          "english": "God also said, \"Let the waters be filled with every type of living creature, and let birds fly above the earth, across the sky.\""
         },
         {
           "number": 21,
           "latin": "Creavitque Deus cete grandia, et omnem animam viventem atque motabilem, quam produxerant aquae in species suas, et omne volatile secundum genus suum. Et vidit Deus quod esset bonum.",
-          "english": "So God created the great sea monsters and every other living creature that moves, with which the waters teem, each according to its species. He also created every winged bird according to its species. God saw that this was good."
+          "english": "So God created the great sea monsters and every other living creature that moves, which filled the waters, each according to its species. He also created every winged bird according to its species. God saw that this was good."
         },
         {
           "number": 22,
@@ -123,7 +123,7 @@
         {
           "number": 24,
           "latin": "Dixitque Deus: Producat terra animam viventem in genere suo, jumenta, et reptilia, et bestias terrae secundum species suas. Et factum est ita.",
-          "english": "God said, \"Let the earth bring forth living creatures according to their kinds: cattle, creatures that move along the ground, and wild animals, each according to its species.\" And so it was."
+          "english": "God said, \"Let the earth bring forth animals according to their kinds: cattle, creatures that move along the ground, and wild animals, each according to its species.\" And so it was."
         },
         {
           "number": 25,
@@ -138,7 +138,7 @@
         {
           "number": 27,
           "latin": "Et creavit Deus hominem ad imaginem suam: ad imaginem Dei creavit illum, masculum et feminam creavit eos.",
-          "english": "So God created man in His own image; in the image of God, He created him. He created them male and female."
+          "english": "So God created man in His own image, giving them reason and free will; in the image of God, He created him. He created male and female."
         },
         {
           "number": 28,
@@ -148,7 +148,7 @@
         {
           "number": 29,
           "latin": "Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quae habent in semetipsis sementem generis sui, ut sint vobis in escam:",
-          "english": "Then God said, \"Look, I have given you every seed-bearing plant on the face of the entire earth, and every tree whose fruit contains seed. These will be your food."
+          "english": "Then God said, \"Look, I have given you every seed-bearing plant on the face of the entire earth, and every tree whose fruit contains seeds. These will be your food."
         },
         {
           "number": 30,
@@ -199,12 +199,12 @@
         {
           "number": 7,
           "latin": "Formavit igitur Dominus Deus hominem de limo terrae, et inspiravit in faciem ejus spiraculum vitae, et factus est homo in animam viventem.",
-          "english": "So the Lord God formed man from the dust of the ground, and He breathed into his face the breath of life, and thus man became a living soul."
+          "english": "So the Lord God formed man from the dust of the ground, and He breathed into his face the breath of life, and man received a living soul."
         },
         {
           "number": 8,
           "latin": "Plantaverat autem Dominus Deus paradisum voluptatis a principio: in quo posuit hominem quem formaverat.",
-          "english": "Then the Lord God had planted a garden of delight from the beginning in the East, and there He placed the man whom He had formed."
+          "english": "Then the Lord God had planted the Garden of Paradise in the beginning towards the East, and there He placed the man whom He had formed."
         },
         {
           "number": 9,
@@ -214,7 +214,7 @@
         {
           "number": 10,
           "latin": "Et fluvius egrediebatur de loco voluptatis ad irrigandum paradisum, qui inde dividitur in quatuor capita.",
-          "english": "A river flowed out of the place of delight to water the garden, and from there it divided into four branches."
+          "english": "A river flowed out of the place of delight to water the Garden, and from there it divided into four branches."
         },
         {
           "number": 11,
@@ -239,12 +239,12 @@
         {
           "number": 15,
           "latin": "Tulit ergo Dominus Deus hominem, et posuit eum in paradiso voluptatis, ut operaretur et custodiret illum.",
-          "english": "Therefore, the Lord God took the man and placed him in the Garden of Delight to cultivate and keep it."
+          "english": "Therefore, the Lord God took the man and placed him in the Garden of Paradise to cultivate and keep it."
         },
         {
           "number": 16,
           "latin": "Praecepitque ei dicens: Ex omni ligno paradisi comede:",
-          "english": "And the Lord God gave the man this command, saying: \"From every tree of the garden you may freely eat."
+          "english": "And the Lord God gave the man this command, saying: \"From every tree of the Garden you may freely eat."
         },
         {
           "number": 17,
@@ -300,17 +300,17 @@
         {
           "number": 1,
           "latin": "Sed et serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem: Cur præcepit vobis Deus ut non comederetis de omni ligno paradisi?",
-          "english": "Now, the serpent was the most cunning creature among all the animals the Lord God had made on the earth. It came to the woman and said, 'Why did God give you a command that you should not eat from *any* tree in this entire garden?' —the serpent twisted God's actual prohibition, making it sound like they were forbidden from everything."
+          "english": "Now, the serpent was the most cunning creature among all the animals the Lord God had made on the earth. It came to the woman and said, 'Why did God give you a command that you should not eat from *any* tree in this entire Garden?' —the serpent twisted God's actual prohibition, making it sound like they were forbidden from everything."
         },
         {
           "number": 2,
           "latin": "Cui respondit mulier: De fructu lignorum quæ sunt in paradiso vescimur:",
-          "english": "The woman answered the serpent, 'We may eat the fruit from the trees throughout this garden;'"
+          "english": "The woman answered the serpent, 'We may eat the fruit from the trees throughout the Garden;'"
         },
         {
           "number": 3,
           "latin": "de fructu vero ligni quod est in medio paradisi præcepit nobis Deus ne comederemus, et ne tangeremus illud, ne forte moriamur.",
-          "english": "but from the fruit of the tree that stands in the very center of the garden, God has strictly commanded us not to eat, nor even to touch it—an addition the woman made to God's original command—lest we die.'"
+          "english": "but from the fruit of the tree that stands in the very center of the Garden, God has strictly commanded us not to eat, nor even to touch it—an addition the woman made to God's original command—lest we die.'"
         },
         {
           "number": 4,
@@ -335,7 +335,7 @@
         {
           "number": 8,
           "latin": "Et cum audissent vocem Domini Dei deambulantis in paradiso ad auram post meridiem, abscondit se Adam et uxor ejus a facie Domini Dei in medio ligni paradisi.",
-          "english": "And when they heard the voice of the Lord God, Who was walking about in the garden during the cool afternoon breeze, Adam and his wife immediately hid themselves from the presence of the Lord God, concealing themselves among the trees of the garden."
+          "english": "And when they heard the voice of the Lord God, Who was walking about in the Garden during the cool afternoon breeze, Adam and his wife immediately hid themselves from the presence of the Lord God, concealing themselves among the trees of the garden."
         },
         {
           "number": 9,
@@ -345,7 +345,7 @@
         {
           "number": 10,
           "latin": "Qui ait: Vocem tuam audivi in paradiso, et timui, eo quod nudus essem, et abscondi me.",
-          "english": "He answered, 'I heard Your voice in the garden, and I was afraid because I was naked, so I hid myself.'"
+          "english": "He answered, 'I heard Your voice in the Garden, and I was afraid because I was naked, so I hid myself.'"
         },
         {
           "number": 11,
@@ -355,7 +355,7 @@
         {
           "number": 12,
           "latin": "Dixitque Adam: Mulier quam dedisti sociam mihi, dedit mihi de ligno, et comedi.",
-          "english": "And Adam said, 'The woman You gave to be my companion—she gave me fruit from the tree, and I ate it.'"
+          "english": "And Adam said, 'The woman that You gave to be my companion—she gave me fruit from the tree, and I ate it.'"
         },
         {
           "number": 13,
@@ -370,12 +370,12 @@
         {
           "number": 15,
           "latin": "Inimicitias ponam inter te et mulierem, et semen tuum et semen illius: ipsa conteret caput tuum, et tu insidiaberis calcaneo ejus.",
-          "english": "I will put enmities, a spiritual warfare, between you and the woman, and between your offspring and her offspring. She, the Woman, shall crush your head—a prophecy of Mary and her Son, Jesus Christ, triumphing over you—and you, in turn, shall lie in wait for her heel, attempting to wound Him."
+          "english": "I will put conflict, a spiritual warfare, between you and the woman, and between your offspring and her offspring. She, the Woman, shall crush your head—a prophecy of Mary and her Son, Jesus Christ, triumphing over you—and you, in turn, shall lie in wait for her heel, attempting to wound Him."
         },
         {
           "number": 16,
           "latin": "Ad mulierem quoque dixit: Multiplicabo ærumnas tuas, et conceptus tuos: in dolore paries filios, et sub viri potestate eris, et ipse dominabitur tui.",
-          "english": "To the woman He also said, 'I will greatly multiply your sorrows and your painful conceptions. In great pain you shall give birth to children; and you shall be subject to your husband's authority, and he shall rule over you.'"
+          "english": "To the woman He also said, 'I will greatly multiply your sorrows and your painful. In great pain you shall give birth to children. You shall be subject to your husband's authority, and he shall rule over you.'"
         },
         {
           "number": 17,
@@ -390,7 +390,7 @@
         {
           "number": 19,
           "latin": "In sudore vultus tui vesceris pane, donec revertaris in terram de qua sumptus es: quia pulvis es et in pulverem reverteris.",
-          "english": "By the sweat of your face you shall eat bread, until you return to the very ground from which you were taken; for you are dust, and to dust you shall return in death."
+          "english": "With the sweat of your face and much labor you shall have food to eat, and this shall be so until you return to the very ground from which you were taken; for you are dust, and to dust you shall return in death."
         },
         {
           "number": 20,
@@ -405,17 +405,17 @@
         {
           "number": 22,
           "latin": "Et ait Dominus Deus: Ecce Adam quasi unus ex nobis factus est, sciens bonum et malum: nunc ergo ne forte mittat manum suam, et sumat etiam de ligno vitæ, et comedat, et vivat in æternum.",
-          "english": "And the Lord God said, 'Behold, Adam has now become like one of Us—meaning, like the divine beings in heaven—by knowing good and evil in a fallen way. Now, therefore, lest he reach out his hand and also take from the Tree of Life, and eat, and live forever in this fallen state—'"
+          "english": "And the Lord God said, 'Behold, Adam has now become like one of Us— knowing good and evil, yet in a corrupt way. Now, I shall stop him, so that he may not reach out his hand and also take from the Tree of Life, and eat, and live forever in this fallen state—'"
         },
         {
           "number": 23,
           "latin": "Et emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est.",
-          "english": "Therefore, the Lord God sent Adam out from the Garden of Eden—the Garden of Pleasure—so that he might work the very ground from which he was taken, as a consequence of his sin."
+          "english": "Therefore, the Lord God sent Adam out from the Garden of Eden—the Garden of Paradise—so that he might work the very ground from which he was taken, as a consequence of his sin."
         },
         {
           "number": 24,
           "latin": "Et ejecit Adam: et collocavit ante paradisum voluptatis cherubim, et flammeum gladium atque versatilem, ad custodiendam viam ligni vitæ.",
-          "english": "And so He drove Adam out; and at the eastern side of the Garden of Pleasure, He stationed Cherubim and a flaming sword that turned every way, to guard the path to the Tree of Life and prevent humanity from reaching it in their fallen state."
+          "english": "And so He drove Adam out; and at the eastern side of the Garden of Paradise, He stationed Cherubim and a flaming sword that turned every way, to guard the path to the Tree of Life and prevent humanity from reaching it in their fallen state."
         }
       ]
     },
@@ -431,7 +431,7 @@
         {
           "number": 2,
           "latin": "Rursumque peperit fratrem ejus Abel. Fuit autem Abel pastor ovium, et Cain agricola.",
-          "english": "Again, she gave birth to his brother, Abel. Abel became a shepherd of sheep, while Cain was a tiller of the ground."
+          "english": "Again, she gave birth to his brother, Abel. Abel became a shepherd of sheep, while Cain was a farmer of the ground."
         },
         {
           "number": 3,
@@ -441,22 +441,22 @@
         {
           "number": 4,
           "latin": "Abel quoque obtulit de primogenitis gregis sui, et de adipibus eorum: et respexit Dominus ad Abel, et ad munera ejus.",
-          "english": "Abel also offered from the firstborn of his flock and from their fat portions. The Lord looked with favor upon Abel and his offering."
+          "english": "Abel also offered from the firstborn of his flock and from their best portions. The Lord looked with favor upon Abel and his offering, for he gave the best of what he had."
         },
         {
           "number": 5,
           "latin": "Ad Cain vero, et ad munera illius non respexit: iratusque est Cain vehementer, et concidit vultus ejus.",
-          "english": "But upon Cain and his offering, He did not look with favor. Cain became extremely angry, and his face fell."
+          "english": "But the Lord God did not approve of Cain and his offering. Cain became extremely angry, and he became sorrowful."
         },
         {
           "number": 6,
           "latin": "Dixitque Dominus ad eum: Quare iratus es? et cur concidit vultus tuus?",
-          "english": "Then the Lord said to Cain, \"Why are you angry? Why has your face fallen?\""
+          "english": "Then the Lord said to Cain, \"Why are you angry? Why is your face full of sorrow?\""
         },
         {
           "number": 7,
           "latin": "Nonne si bene egeris, recipies? Sin autem male, statim in foribus peccatum aderit: sed sub te erit appetitus ejus, et tu dominaberis illius.",
-          "english": "If you do what is right, will you not be accepted? But if you do not do what is right, sin is waiting at the door, and its desire is for you, but you must master it."
+          "english": "If you do what is right, will you be accepted. But if you do not do what is right, sin is waiting at the door, and its desire is for you, but you must master it."
         },
         {
           "number": 8,
@@ -466,22 +466,22 @@
         {
           "number": 9,
           "latin": "Et ait Dominus ad Cain: Ubi est Abel frater tuus? Qui respondit: Nescio: num custos fratris mei sum ego?",
-          "english": "Then the Lord said to Cain, \"Where is your brother Abel?\" He answered, \"I do not know. Am I my brother's keeper?\""
+          "english": "Then the Lord said to Cain, \"Where is your brother Abel?\" He answered, \"I do not know. Am I my brother's guardian?\""
         },
         {
           "number": 10,
           "latin": "Et dixit ad eum: Quid fecisti? Vox sanguinis fratris tui clamat ad me de terra.",
-          "english": "And He said to him, \"What have you done? The voice of your brother's blood is crying out to me from the earth!\""
+          "english": "And He said to him, \"What have you done? The voice of your brother's blood is crying out to me from the earth!\"- for the murder of the innocent cries out for vengeance to God"
         },
         {
           "number": 11,
           "latin": "Nunc igitur maledictus eris super terram, quae aperuit os suum, et suscepit sanguinem fratris tui de manu tua.",
-          "english": "Now, therefore, you are cursed from the earth, which has opened its mouth to receive your brother's blood from your hand."
+          "english": "Now, therefore, you are cursed while you live upon the earth, which has opened its mouth to receive your brother's blood, shed by your hand."
         },
         {
           "number": 12,
           "latin": "Cum operatus fueris eam, non dabit tibi fructus suos: vagus et profugus eris super terram.",
-          "english": "When you cultivate the ground, it will no longer yield its produce to you. You shall be a restless wanderer on the earth."
+          "english": "When you cultivate the ground, it will no longer give its produce to you. You shall be a restless wanderer on the earth."
         },
         {
           "number": 13,
@@ -511,7 +511,7 @@
         {
           "number": 18,
           "latin": "Natus est autem Enoch Irad: et Irad genuit Maviael, et Maviael genuit Mathusael, et Mathusael genuit Lamech.",
-          "english": "To Enoch was born Irad. Irad begot Maviael. Maviael begot Mathusael, and Mathusael begot Lamech."
+          "english": "To Enoch was born Irad. Irad was the father of Maviael. Maviael was the father of Mathusael, and Mathusael was the father of Lamech."
         },
         {
           "number": 19,
@@ -567,17 +567,17 @@
         {
           "number": 2,
           "latin": "Masculum et feminam creavit eos: et benedixit illis, et appellavit nomen eorum Adam, in die qua creati sunt.",
-          "english": "He created them as male and female. He blessed them, and He called their collective name 'Mankind' (Adam), at the time they were created."
+          "english": "He created one male and one female. He blessed them, and He called their collective name 'Mankind' (Adam), at the time they were created."
         },
         {
           "number": 3,
           "latin": "Vixit autem Adam centum triginta annis, et genuit ad imaginem et similitudinem suam, et appellavit nomen ejus Seth.",
-          "english": "Adam lived for one hundred and thirty years, and then he begot a son in his own image and likeness, whom he named Seth."
+          "english": "Adam lived for one hundred and thirty years, and then he became the father of a son in his own image and likeness, whom he named Seth."
         },
         {
           "number": 4,
           "latin": "Et facti sunt dies Adam, postquam genuit Seth, octingenti anni: et genuit filios et filias.",
-          "english": "After he begot Seth, Adam lived for eight hundred more years, during which time he also begot other sons and daughters."
+          "english": "After he begot Seth, Adam lived for eight hundred more years, during which time he also had other sons and daughters."
         },
         {
           "number": 5,
@@ -587,12 +587,12 @@
         {
           "number": 6,
           "latin": "Vixit quoque Seth centum quinque annis, et genuit Enos.",
-          "english": "Seth also lived for one hundred and five years, and then he begot Enos."
+          "english": "Seth also lived for one hundred and five years, and then he had a son named Enos."
         },
         {
           "number": 7,
           "latin": "Vixitque Seth postquam genuit Enos, octingentis septem annis, et genuit filios et filias.",
-          "english": "After he begot Enos, Seth lived for eight hundred and seven more years, during which time he also begot other sons and daughters."
+          "english": "After he had his child Enos, Seth lived for eight hundred and seven more years, during which time he also had other sons and daughters."
         },
         {
           "number": 8,
@@ -602,12 +602,12 @@
         {
           "number": 9,
           "latin": "Vixit autem Enos nonaginta annis, et genuit Cainan.",
-          "english": "Enos lived for ninety years, and then he begot Cainan."
+          "english": "Enos lived for ninety years, and then he he had a son named Cainan."
         },
         {
           "number": 10,
           "latin": "Vixitque Enos postquam genuit Cainan, octingentis quindecim annis, et genuit filios et filias.",
-          "english": "After he begot Cainan, Enos lived for eight hundred and fifteen more years, during which time he also begot other sons and daughters."
+          "english": "After he had his child Cainan, Enos lived for eight hundred and fifteen more years, during which time he also had other sons and daughters."
         },
         {
           "number": 11,
@@ -617,12 +617,12 @@
         {
           "number": 12,
           "latin": "Vixit autem Cainan septuaginta annis, et genuit Malaleel.",
-          "english": "Cainan lived for seventy years, and then he begot Malaleel."
+          "english": "Cainan lived for seventy years, and then he had a son named Malaleel."
         },
         {
           "number": 13,
           "latin": "Vixitque Cainan postquam genuit Malaleel, octingentis quadraginta annis, et genuit filios et filias.",
-          "english": "After he begot Malaleel, Cainan lived for eight hundred and forty more years, during which time he also begot other sons and daughters."
+          "english": "After he had his child Malaleel, Cainan lived for eight hundred and forty more years, during which time he also had other sons and daughters."
         },
         {
           "number": 14,
@@ -632,12 +632,12 @@
         {
           "number": 15,
           "latin": "Vixit autem Malaleel sexaginta quinque annis, et genuit Jared.",
-          "english": "Malaleel lived for sixty-five years, and then he begot Jared."
+          "english": "Malaleel lived for sixty-five years, and then he had a son named Jared."
         },
         {
           "number": 16,
           "latin": "Et vixit Malaleel postquam genuit Jared, octingentis triginta annis, et genuit filios et filias.",
-          "english": "After he begot Jared, Malaleel lived for eight hundred and thirty more years, during which time he also begot other sons and daughters."
+          "english": "After he had his child Jared, Malaleel lived for eight hundred and thirty more years, during which time he also had other sons and daughters."
         },
         {
           "number": 17,
@@ -647,12 +647,12 @@
         {
           "number": 18,
           "latin": "Vixit quoque Jared centum sexaginta duobus annis, et genuit Enoch.",
-          "english": "Jared also lived for one hundred and sixty-two years, and then he begot Enoch."
+          "english": "Jared also lived for one hundred and sixty-two years, and then he had a son named Enoch."
         },
         {
           "number": 19,
           "latin": "Et vixit Jared postquam genuit Enoch, octingentis annis, et genuit filios et filias.",
-          "english": "After he begot Enoch, Jared lived for eight hundred more years, during which time he also begot other sons and daughters."
+          "english": "After he had his child Enoch, Jared lived for eight hundred more years, during which time he also had other sons and daughters."
         },
         {
           "number": 20,
@@ -662,12 +662,12 @@
         {
           "number": 21,
           "latin": "Vixit autem Enoch sexaginta quinque annis, et genuit Mathusalem.",
-          "english": "Enoch lived for sixty-five years, and then he begot Methuselah."
+          "english": "Enoch lived for sixty-five years, and then he had a son named Methuselah."
         },
         {
           "number": 22,
           "latin": "Et ambulavit Enoch cum Deo: et vixit Enoch postquam genuit Mathusalem, trecentis annis, et genuit filios et filias.",
-          "english": "And Enoch walked closely with God. After he begot Methuselah, Enoch lived for three hundred more years, during which time he also begot other sons and daughters."
+          "english": "And Enoch walked closely with God, remaining in God's favor. After he had a son named Methuselah, Enoch lived for three hundred more years, during which time he also had other sons and daughters."
         },
         {
           "number": 23,
@@ -682,12 +682,12 @@
         {
           "number": 25,
           "latin": "Vixit quoque Mathusalem centum octoginta septem annis, et genuit Lamech.",
-          "english": "Methuselah also lived for one hundred and eighty-seven years, and then he begot Lamech."
+          "english": "Methuselah also lived for one hundred and eighty-seven years, and then he had a son named Lamech."
         },
         {
           "number": 26,
           "latin": "Et vixit Mathusalem postquam genuit Lamech, septingentis octoginta duobus annis, et genuit filios et filias.",
-          "english": "After he begot Lamech, Methuselah lived for seven hundred and eighty-two more years, during which time he also begot other sons and daughters."
+          "english": "After he had his child Lamech, Methuselah lived for seven hundred and eighty-two more years, during which time he also had other sons and daughters."
         },
         {
           "number": 27,
@@ -697,7 +697,7 @@
         {
           "number": 28,
           "latin": "Vixit autem Lamech centum octoginta duobus annis, et genuit filium:",
-          "english": "Lamech lived for one hundred and eighty-two years, and then he begot a son."
+          "english": "Lamech lived for one hundred and eighty-two years, and then he had a son."
         },
         {
           "number": 29,
@@ -716,7 +716,7 @@
         },
         {
           "number": 32,
-          "latin": "Noe cum quingentorum annorum fuisset, genuit Sem, Cham, et Japheth.",
+          "latin": "Noe vero cum quingentorum esset annorum, genuit Sem, Cham, et Japheth.",
           "english": "When Noah was five hundred years old, he became the father of Shem, Ham, and Japheth."
         }
       ]
@@ -733,7 +733,7 @@
         {
           "number": 2,
           "latin": "videntes filii Dei filias hominum quod essent pulchræ, acceperunt sibi uxores ex omnibus quas elegerant.",
-          "english": "the sons of God saw that the daughters of men were beautiful, and they chose wives for themselves from all of them whom they desired."
+          "english": "the sons of God, who were the descendants of Seth, saw that the daughters of men were beautiful, and they chose wives for themselves from all of them whom they desired."
         },
         {
           "number": 3,
@@ -758,7 +758,7 @@
         {
           "number": 7,
           "latin": "delebo, inquit, hominem, quem creavi, a facie terræ, ab homine usque ad animantia, a reptili usque ad volucres cæli: pænitet enim me fecisse eos.",
-          "english": "God said, \"I will blot out man whom I have created from the face of the earth—from man to beast, from creeping thing to the birds of the sky—for I regret that I have made them.\""
+          "english": "God said, \"I will cleanse man whom I have created from the face of the earth—from man to beast, from creeping thing to the birds of the sky—for I regret that I have made them : for the great sins of man brought God's judgment upon the world.\""
         },
         {
           "number": 8,
@@ -773,22 +773,22 @@
         {
           "number": 10,
           "latin": "Genuitque tres filios, Sem, Cham et Japheth.",
-          "english": "And Noah begot three sons: Shem, Ham, and Japheth."
+          "english": "And Noah had three sons: Shem, Ham, and Japheth."
         },
         {
           "number": 11,
           "latin": "Corrupta est autem terra coram Deo: et repleta est iniquitate.",
-          "english": "The earth, however, was corrupt before God; the earth was filled with iniquity and violence."
+          "english": "The earth's people, however, were corrupt and sinned against God; the earth was filled with their sin and violence."
         },
         {
           "number": 12,
           "latin": "Cumque vidisset Deus terram esse corruptam (omnis quippe caro corruperat viam suam super terram),",
-          "english": "When God saw that the earth was corrupted (for all flesh had corrupted its way upon the earth—their moral path was depraved),"
+          "english": "When God saw that the earth's inhabitants were corrupted (for all of mankind had corrupted its way upon the earth—their moral path was depraved),"
         },
         {
           "number": 13,
           "latin": "dixit ad Noe: Finis universæ carnis venit coram me: eo quod repleta sit terra iniquitate a facie eorum: et ego disperdam eos cum terra.",
-          "english": "God said to Noah, \"The end of all flesh has come before me; for the earth is filled with iniquity and violence because of them. And behold, I will destroy them with the earth.\""
+          "english": "God said to Noah, \"The end of all mankind has come; for the earth is filled with sin and violence because of them. And behold, I will destroy them with the earth.\""
         },
         {
           "number": 14,
@@ -798,7 +798,7 @@
         {
           "number": 15,
           "latin": "Et sic facies eam: trecentorum cubitorum erit longitudo arcæ, quinquaginta cubitorum latitudo, et triginta cubitorum altitudo illius.",
-          "english": "And this is how you shall make it: The length of the ark shall be three hundred cubits, its width fifty cubits, and its height thirty cubits. (A cubit is approximately 18 inches, so about 450 feet long, 75 feet wide, 45 feet high)."
+          "english": "And this is how you shall make it: The length of the ark shall be three hundred cubits, its width fifty cubits, and its height thirty cubits. (A cubit is approximately 18 inches, the Ark was about 450 feet long, 75 feet wide, 45 feet high)."
         },
         {
           "number": 16,
@@ -808,7 +808,7 @@
         {
           "number": 17,
           "latin": "Ecce ego inducam aquas diluvii super terram, ut interficiam omnem carnem, in qua spiritus vitæ est subter cælum, universa quæ in terra sunt morientur.",
-          "english": "For behold, I, myself, am bringing a flood of waters upon the earth, to destroy all flesh in which is the spirit of life from under the sky. Everything that is on the earth shall die."
+          "english": "For behold, I am bringing a flood upon the earth, to destroy all mankind. Everything that is on the earth shall die."
         },
         {
           "number": 18,
@@ -818,12 +818,12 @@
         {
           "number": 19,
           "latin": "Et ex cunctis animantibus universæ carnis bina facies intra arcam, ut vivant tecum: masculini sexus et feminini erunt.",
-          "english": "And from every living thing of all flesh, you shall bring two of every sort into the ark, to keep them alive with you; they shall be male and female."
+          "english": "And from every living thing, you shall bring two of every sort into the ark, to keep them alive with you; of the two one shall be male and the other one female."
         },
         {
           "number": 20,
           "latin": "De volucribus secundum genus suum, et de jumentis in genere suo, et de omni reptili terræ juxta genus suum: bina de omnibus ingredientur tecum, ut possint vivere.",
-          "english": "Of birds after their kind, and of livestock after their kind, of every creeping thing of the earth after its kind, two of every sort shall come to you, so they may live."
+          "english": "Of the birds, livestock, and every creeping thing of the earth, two of each shall come to you, so they may live."
         },
         {
           "number": 21,
@@ -833,7 +833,7 @@
         {
           "number": 22,
           "latin": "Fecit ergo Noe omnia quæ præceperat illi Deus.",
-          "english": "Thus Noah did; according to all that God had commanded him, so he did."
+          "english": "Thus Noah did all that God had commanded him to do."
         }
       ]
     },
@@ -854,12 +854,12 @@
         {
           "number": 3,
           "latin": "Sed et de volucribus caeli septena, masculum et feminam, ut salvetur semen super faciem universae terrae.",
-          "english": "\"And from the birds of the sky, take seven pairs of each, a male and a female. This is so that their offspring may be preserved on the face of the entire earth after the flood.\""
+          "english": "\"And from the birds of the sky, take seven pairs of each, a male and a female. This is so that their offspring may be preserved on the earth after the flood.\""
         },
         {
           "number": 4,
           "latin": "Adhuc enim et post dies septem ego pluam super terram quadraginta diebus et quadraginta noctibus: et delebo omnem substantiam quam feci de superficie terrae.",
-          "english": "\"For in exactly seven days, I will send rain upon the earth for forty days and forty nights. I will then wipe out every living thing that I have made from the face of the earth.\""
+          "english": "\"For in exactly seven days, I will send rain upon the earth for forty days and forty nights. I will then wipe out every living thing that I have made from the surface of the earth.\""
         },
         {
           "number": 5,
@@ -879,7 +879,7 @@
         {
           "number": 8,
           "latin": "De animantibus quoque mundis et immundis, et de volucribus, et de cunctis quae moventur super terram,",
-          "english": "All the animals, both clean and unclean, and all the birds, and all the creeping creatures that move upon the earth—"
+          "english": "All the animals, both clean and unclean, and all the birds, and all the creeping creatures that move upon the earth—a sign signifying the Catholic Church, in which both all peoples must enter to be saved."
         },
         {
           "number": 9,
@@ -954,7 +954,7 @@
         {
           "number": 23,
           "latin": "Et delevit omnem substantiam quae erat super terram, ab homine usque ad pecus, tam reptilia quam volucres caeli: et deleta sunt de terra. Remansit vero solus Noë, et qui cum eo erant in arca.",
-          "english": "God wiped out every living thing that was on the surface of the earth, from man to domestic animal, and all creeping creatures, and all birds of the sky. They were all utterly destroyed from the earth. Only Noah remained alive, along with those who were with him in the ark."
+          "english": "God wiped out every living thing that was on the surface of the earth, from man to domestic animal, and all creeping creatures, and all birds of the sky. They were all utterly destroyed from the earth. Only Noah remained alive, along with those who were with him in the ark, this signifies that there is no salvation outside ofthe Catholic Church which is of the ark of salvation. "
         },
         {
           "number": 24,
@@ -1060,17 +1060,17 @@
         {
           "number": 19,
           "latin": "Sed et omnia animantia, et universa reptilia, et universa volatilia, cunctaque quae moventur super terram, egressa sunt de arca per cognationes suas.",
-          "english": "And all the living creatures, all the creeping things, and all the birds, everything that moves upon the earth, came out of the ark according to their kinds."
+          "english": "And all the living creatures, all the creeping things, and all the birds, everything that moves upon the earth, came out of the ark."
         },
         {
           "number": 20,
           "latin": "Aedificavit autem Noe altare Domino: et tollens de cunctis pecoribus et volucribus mundis, obtulit holocausta super altare.",
-          "english": "Then Noah built an altar to the Lord. And taking from every clean animal and every clean bird, he offered burnt offerings on the altar."
+          "english": "Then Noah built an altar to the Lord. And taking from every clean animal and every clean bird, he offered sacrifice by burning offerings on the altar."
         },
         {
           "number": 21,
           "latin": "Odoratusque est Dominus odorem suavitatis, et locutus est ad eum: Nequaquam ultra maledicam terrae propter homines: quia cogitatio et sensus humani cordis in malum prona sunt ab adolescentia sua: igitur non percutiam ultra omnem animam viventem, sicut feci.",
-          "english": "And the Lord smelled the pleasing aroma of the sacrifice, and He said in His heart: 'Never again will I curse the earth because of humans, for the intention and the inclination of the human heart are prone to evil from its youth. Therefore, I will never again strike down every living thing as I have done."
+          "english": "And the Lord smelled the pleasing aroma of the sacrifice, and He said in His heart: 'Never again will I curse the earth because of humans, for the intention and the inclination of the human heart are prone to evil even from its youth, because of Original Sin. Therefore, I will never again strike down every living thing as I have done."
         },
         {
           "number": 22,
@@ -1096,7 +1096,7 @@
         {
           "number": 3,
           "latin": "Et omne quod movetur et vivit, erit vobis in cibum: quasi holera ligni dedi vobis omnia.",
-          "english": "Every moving, living thing will be food for you. Just as I gave you the green plants before the flood, I have now given you all these things to eat."
+          "english": "Every living thing that moves will be food for you. Just as I gave you the green plants before the flood, I have now given you all these things to eat."
         },
         {
           "number": 4,
@@ -1106,12 +1106,12 @@
         {
           "number": 5,
           "latin": "Sanguinem enim animarum vestrarum requiram de manu cunctarum bestiarum, et de manu hominis, de manu viri et fratris ejus requiram animam hominis.",
-          "english": "For I will certainly demand an account for the blood that holds your life; I will demand it from every wild beast, and from the hand of man. Indeed, from the hand of every man and his brother, I will demand an account for the life of a human being."
+          "english": "For I will certainly execute justice upon for those who shed your blood; I will execute it upon every wild beast and man. Indeed, upon every man and his brother, I will execute justice upon those who take the life of a human being."
         },
         {
           "number": 6,
           "latin": "Quicumque effuderit humanum sanguinem, fundetur sanguis illius: ad imaginem quippe Dei factus est homo.",
-          "english": "Whoever sheds human blood, his blood shall also be shed in return; for indeed, God made man in His own divine image and likeness."
+          "english": "Whoever sheds human blood, his blood shall also be shed in return; for indeed, God made man in His own divine image and likeness, for the murder of the innocent cries to heaven for vengeance."
         },
         {
           "number": 7,
@@ -1136,7 +1136,7 @@
         {
           "number": 11,
           "latin": "Statuam pactum meum vobiscum, et nequaquam ultra interficietur omnis caro aquarum diluvii, neque erit deinceps diluvium dissipans terram.",
-          "english": "\"I establish my covenant with you: never again shall all living creatures be cut off by the waters of a flood; nor shall there ever again be a flood to destroy the entire earth.\""
+          "english": "\"I establish my covenant with you: never again shall all living creatures be cut be destroyed by the waters of a flood; nor shall there ever again be a flood to destroy the entire earth.\""
         },
         {
           "number": 12,
@@ -1206,7 +1206,7 @@
         {
           "number": 25,
           "latin": "Ait: Maledictus Chanaan, servus servorum erit fratribus suis.",
-          "english": "He said, \"Cursed be Canaan! He shall be the lowest of servants to his brothers.\""
+          "english": "He said, \"Cursed by God is Canaan! He shall be the lowest of servants to his brothers.\""
         },
         {
           "number": 26,
@@ -1237,7 +1237,7 @@
         {
           "number": 1,
           "latin": "Haec sunt generationes filiorum Noe, Sem, Cham, et Japheth: et nati sunt eis filii post diluvium.",
-          "english": "These are the descendants of Noah's sons, Shem, Ham, and Japheth. Children were born to them after the great flood that reset humanity."
+          "english": "These are the descendants of Noah's sons, Shem, Ham, and Japheth. Children were born to the three sons of Noah after the great flood that cleansed the earth of humanity."
         },
         {
           "number": 2,
@@ -1392,7 +1392,7 @@
         {
           "number": 32,
           "latin": "Hæ sunt familiæ Noe, juxta populos et nationes suas. Ab his divisae sunt gentes in terra post diluvium.",
-          "english": "These are the family groups descended from Noah, according to their peoples and nations. From these, the nations of the earth spread out and divided after the great flood."
+          "english": "These are the family groups which descended from Noah, according to their peoples and nations. From these, the nations of the earth spread out and divided after the great flood."
         }
       ]
     },
@@ -1423,7 +1423,7 @@
         {
           "number": 5,
           "latin": "Descendit autem Dominus ut videret civitatem, et turrim quam ædificabant filii Adam.",
-          "english": "But then the Lord came down from His sublime dwelling —not because He needed to, but to observe the city and the tower that the children of Adam were building."
+          "english": "But then the Lord's judgment came down from His sublime dwelling to judge the city and the tower that the children of Adam were building."
         },
         {
           "number": 6,
@@ -1433,7 +1433,7 @@
         {
           "number": 7,
           "latin": "Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non intelligat unusquisque vocem proximi sui.",
-          "english": "Then He said, 'Come, let Us —the Holy Trinity— descend and there confuse their language, so that no one will be able to understand what his neighbor is saying.'"
+          "english": "Then He said, 'Come, let Us —Father, Son and Holy Spirit: the Holy Trinity— bring down our judgment upon them and confuse their language, so that no one will be able to understand what his neighbor is saying.'"
         },
         {
           "number": 8,
@@ -1579,7 +1579,7 @@
         {
           "number": 3,
           "latin": "Benedicam benedicentibus tibi, et maledicam maledicentibus tibi: et in te benedicentur universae cognationes terrae.",
-          "english": "\"I will bless those who bless you, and I will curse those who curse you. Through you, all the families of the earth will receive blessings.\""
+          "english": "\"I will bless those who bless you, and I will curse those who curse you. Through you, all the families of the earth will receive blessings.\" - a promise that the Christ who would bless the whole earth would descend from Abram's lineage."
         },
         {
           "number": 4,
@@ -1639,7 +1639,7 @@
         {
           "number": 15,
           "latin": "Et nuntiaverunt principes Pharaoni, et laudaverunt eam apud illum: et sublata est mulier in domum Pharaonis.",
-          "english": "And the princes of Pharaoh saw her and praised her to Pharaoh. Then the woman was taken into Pharaoh's house, an act which would later bring divine judgment."
+          "english": "And the princes of Pharaoh saw her and told Pharaoh of her beauty. Then the woman was taken into Pharaoh's house, an act which would later bring divine judgment for the Lord hates adultery."
         },
         {
           "number": 16,
@@ -1664,7 +1664,7 @@
         {
           "number": 20,
           "latin": "Praecepitque Pharao super Abram viris: et deduxerunt eum, et uxorem ejus, et omnia quae habebat.",
-          "english": "And Pharaoh gave orders to his men concerning Abram, and they escorted him out, along with his wife and all that he had acquired while in Egypt."
+          "english": "And Pharaoh gave orders to his men concerning Abram, and they lead him out, along with his wife and all that he had acquired while in Egypt."
         }
       ]
     },
@@ -1690,7 +1690,7 @@
         {
           "number": 4,
           "latin": "In loco altaris quem fecerat prius et invocavit ibi nomen Domini.",
-          "english": "It was where he had built an altar earlier, and there Abram worshipped the Lord, invoking His name."
+          "english": "It was where he had built an altar earlier, and there Abram worshipped the Lord, praying in His name."
         },
         {
           "number": 5,
@@ -1705,12 +1705,12 @@
         {
           "number": 7,
           "latin": "Unde et facta est rixa inter pastores gregum Abram et pastores gregum Loth: eo tempore Cananaeus et Pherezaeus habitabant in terra.",
-          "english": "This led to a quarrel between Abram’s herdsmen and Lot’s herdsmen. At that time, the Canaanites and the Perizzites also inhabited the land."
+          "english": "This led to a quarrel between Abram’s shepherds and Lot’s shepherds. At that time, the Canaanites and the Perizzites also inhabited the land."
         },
         {
           "number": 8,
           "latin": "Dixit ergo Abram ad Loth ne sit quaeso jurgium inter me et te et inter pastores meos et pastores tuos fratres enim sumus.",
-          "english": "So Abram said to Lot, “Please, let there be no quarreling between you and me, nor between my herdsmen and your herdsmen, for we are brothers.”"
+          "english": "So Abram said to Lot, “Please, let there be no quarreling between you and me, nor between my shepherds and your shepherds, for we are brothers.”"
         },
         {
           "number": 9,
@@ -1887,86 +1887,6 @@
           "number": 24,
           "latin": "Exceptis his, quae comederunt juvenes, et partibus virorum qui mecum venerunt, Aner, Escol et Mambre: isti accipient partes suas.",
           "english": "However, I will not take anything for myself, except for the food my young men have already eaten. But as for Aner, Eshcol, and Mamre, the men who came with me, they will certainly take their rightful share of the spoils."
-        },
-        {
-          "number": 25,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 26,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 27,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 28,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 29,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 30,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 31,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 32,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 33,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 34,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 35,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 36,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 37,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 38,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 39,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 40,
-          "latin": null,
-          "english": null
         }
       ]
     },
@@ -2089,6 +2009,81 @@
           "number": 1,
           "latin": "Sarai autem uxor Abram non genuerat ei liberos. Habens ancillam Aegyptiam nomine Agar.",
           "english": "Sarai, Abram's wife, had not borne him any children. Now, she had an Egyptian maidservant named Hagar."
+        },
+        {
+          "number": 2,
+          "latin": "dixit marito suo : Ecce, conclusit me Dominus, ne parerem. Ingredere ad ancillam meam, si forte saltem ex illa suscipiam filios. Cumque ille acquiesceret deprecanti,",
+          "english": "She said to her husband: Look, the Lord has restrained me from bearing: go in to my handmaid, it may be I may have children of her at least. And when he agreed to her request,"
+        },
+        {
+          "number": 3,
+          "latin": "tulit Agar aegyptiam ancillam suam post annos decem quam habitare coeperant in terra Chanaan : et dedit eam viro suo uxorem.",
+          "english": "She took Hagar the Egyptian her handmaid, ten years after they first dwelt in the land of Canaan, and gave her to her husband to wife."
+        },
+        {
+          "number": 4,
+          "latin": "Qui ingressus est ad eam. At illa concepisse se videns, despexit dominam suam.",
+          "english": "And he went in to her. But she, perceiving that she was with child, despised her mistress."
+        },
+        {
+          "number": 5,
+          "latin": "Dixitque Sarai ad Abram : Inique agis contra me : ego dedi ancillam meam in sinum tuum, quae videns quod conceperit, despectui me habet : judicet Dominus inter me et te.",
+          "english": "And Sarai said to Abram: You do unjustly with me: I gave my handmaid into your bosom, and she perceiving herself to be with child, despises me. The Lord judge between me and you."
+        },
+        {
+          "number": 6,
+          "latin": "Cui respondens Abram : Ecce, ait, ancilla tua in manu tua est, utere ea ut libet. Affligente igitur eam Sarai, fugam iniit.",
+          "english": "And Abram made answer, and said to her: Look your handmaid is in your own hand, use her as it pleases you. And when Sarai afflicted her, she ran away."
+        },
+        {
+          "number": 7,
+          "latin": "Cumque invenisset eam angelus Domini juxta fontem aquae in solitudine, qui est in via Sur in deserto,",
+          "english": "And the angel of the Lord having found her, by a fountain of water in the wilderness, which is in the way to Shur in the desert,"
+        },
+        {
+          "number": 8,
+          "latin": "dixit ad illam : Agar ancilla Sarai, unde venis? et quo vadis? Quae respondit : A facie Sarai dominae meae ego fugio.",
+          "english": "He said to her: Hagar, handmaid of Sarai, Where are you coming from? and Where are you going? And she answered: I flee from the face of Sarai, my mistress."
+        },
+        {
+          "number": 9,
+          "latin": "Dixitque ei angelus Domini : Revertere ad dominam tuam, et humiliare sub manu illius.",
+          "english": "And the angel of the Lord said to her: Return to your mistress, and humble yourself under her hand."
+        },
+        {
+          "number": 10,
+          "latin": "Et rursum : Multiplicans, inquit, multiplicabo semen tuum, et non numerabitur prae multitudine.",
+          "english": "And again he said: I will multiply your seed exceedingly, and it shall not be numbered for multitude."
+        },
+        {
+          "number": 11,
+          "latin": "Ac deinceps : Ecce, ait, concepisti, et paries filium : vocabisque nomen ejus Ismael, eo quod audierit Dominus afflictionem tuam.",
+          "english": "And again: he said, \"Look\", you are with child, and you shall bring forth a son: and you shall call his name Ishmael, because the Lord has heard your affliction."
+        },
+        {
+          "number": 12,
+          "latin": "Hic erit ferus homo : manus ejus contra omnes, et manus omnium contra eum : et e regione universorum fratrum suorum figet tabernacula.",
+          "english": "He shall be a wild man: his hand will be against all men, and all men's hands against him: and he shall pitch his tents over against all his brethren."
+        },
+        {
+          "number": 13,
+          "latin": "Vocavit autem nomen Domini qui loquebatur ad eam : Tu Deus qui vidisti me. Dixit enim : Profecto hic vidi posteriora videntis me.",
+          "english": "And she called the name of the Lord that spoke to her: You are the God who has seen me. For she said: Verily here have I seen the hinder parts of him that sees me."
+        },
+        {
+          "number": 14,
+          "latin": "Propterea appellavit puteum illum Puteum viventis et videntis me. Ipse est inter Cades et Barad.",
+          "english": "Therefore she called that well, The well of him that lives and sees me. The same is between Cades and Barad."
+        },
+        {
+          "number": 15,
+          "latin": "Peperitque Agar Abrae filium : qui vocavit nomen ejus Ismael.",
+          "english": "And Hagar brought forth a son to Abram: who called his name Ishmael."
+        },
+        {
+          "number": 16,
+          "latin": "Octoginta et sex annorum erat Abram quando peperit ei Agar Ismaelem.",
+          "english": "Abram was four score and six years old when Hagar brought him forth Ishmael."
         }
       ]
     },
@@ -2597,16 +2592,6 @@
           "number": 38,
           "latin": "Minor quoque peperit filium, et vocavit nomen ejus Ammon, id est, filium populi mei: hic est pater Ammonitarum usque hodie.",
           "english": "The younger daughter also gave birth to a son and named him Ben-Ammi, which means 'son of my people.' He is the ancestor of the Ammonites to this very day."
-        },
-        {
-          "number": 39,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 40,
-          "latin": null,
-          "english": null
         }
       ]
     },
@@ -3317,6 +3302,141 @@
           "number": 40,
           "latin": "Respondit: Dominus, in cujus conspectu ambulo, mittet angelum suum tecum, et diriget viam tuam: et accipies uxorem filio meo de cognatione mea, et de domo patris mei.",
           "english": "He replied, 'The Lord, in whose presence I live and walk, will send His angel with you and will make your journey successful. And you will find a wife for my son from my own relatives and from my father's household.'"
+        },
+        {
+          "number": 41,
+          "latin": "Innocens eris a maledictione mea, cum veneris ad propinquos meos, et non dederint tibi.",
+          "english": "But you shall be clear from my curse, when you shall come to my kindred, if they will not give you one."
+        },
+        {
+          "number": 42,
+          "latin": "Veni ergo hodie ad fontem aquae, et dixi : Domine Deus domini mei Abraham, si direxisti viam meam, in qua nunc ambulo,",
+          "english": "And I came today to the well of water, and said: O Lord God of my master Abraham, if you have prospered my way, wherein I now walk,"
+        },
+        {
+          "number": 43,
+          "latin": "ecce sto juxta fontem aquae, et virgo, quae egredietur ad hauriendam aquam, audierit a me : Da mihi pauxillum aquae ad bibendum ex hydria tua :",
+          "english": "Look I stand by the well of water, and the virgin, that shall come out to draw water, who shall hear me say: Give me a little water to drink of your pitcher:"
+        },
+        {
+          "number": 44,
+          "latin": "et dixerit mihi : Et tu bibe, et camelis tuis hauriam : ipsa est mulier, quam praeparavit Dominus filio domini mei.",
+          "english": "And shall say to me: Both drink you, and I will also draw for your camels: let the same be the woman, whom the Lord has prepared for my master's son."
+        },
+        {
+          "number": 45,
+          "latin": "Dumque haec tacitus mecum volverem, apparuit Rebecca veniens cum hydria, quam portabat in scapula : descenditque ad fontem, et hausit aquam. Et aio ad eam : Da mihi paululum bibere.",
+          "english": "And whilst I pondered these things secretly with myself, Rebecca appeared coming with a pitcher, which she carried on her shoulder: and she went down to the well and drew water. And I said to her: Give me a little to drink."
+        },
+        {
+          "number": 46,
+          "latin": "Quae festinans deposuit hydriam de humero, et dixit mihi : Et tu bibe, et camelis tuis tribuam potum. Bibi, et adaquavit camelos.",
+          "english": "And she speedily let down the pitcher from her shoulder, and said to me: Both drink you, and to your camels I will give drink. I drank, and she watered the camels."
+        },
+        {
+          "number": 47,
+          "latin": "Interrogavique eam, et dixi : Cujus es filia? Quae respondit : Filia Bathuelis sum, filii Nachor, quem peperit ei Melcha. Suspendi itaque inaures ad ornandam faciem ejus, et armillas posui in manibus ejus.",
+          "english": "And I asked her, and said: Whose daughter are you? And she answered: I am the daughter of Bathuel, the son of Nachor, whom Melcha bore to him. So I put earrings on her to adorn her face, and I put bracelets on her hands."
+        },
+        {
+          "number": 48,
+          "latin": "Pronusque adoravi Dominum, benedicens Domino Deo domini mei Abraham, qui perduxit me recto itinere, ut sumerem filiam fratris domini mei filio ejus.",
+          "english": "And falling down I adored the Lord, blessing the Lord God of my master Abraham, who has brought me the straight way to take the daughter of my master's brother for his son."
+        },
+        {
+          "number": 49,
+          "latin": "Quam ob rem si facitis misericordiam et veritatem cum domino meo, indicate mihi : sin autem aliud placet, et hoc dicite mihi, ut vadam ad dextram, sive ad sinistram.",
+          "english": "Wherefore if you do according to mercy and truth with my master, tell me: but if it please you otherwise, tell me that also, that I may go to the right hand, or to the left."
+        },
+        {
+          "number": 50,
+          "latin": "Responderuntque Laban et Bathuel : A Domino egressus est sermo : non possumus extra placitum ejus quidquam aliud loqui tecum.",
+          "english": "And Laban and Bathuel answered: The word has proceeded from the Lord, we cannot speak any other thing to you but his pleasure."
+        },
+        {
+          "number": 51,
+          "latin": "En Rebecca coram te est, tolle eam, et proficiscere, et sit uxor filii domini tui, sicut locutus est Dominus.",
+          "english": "Look Rebecca is before you, take her and go your way, and let her be the wife of your master's son, as the Lord has spoken."
+        },
+        {
+          "number": 52,
+          "latin": "Quod cum audisset puer Abraham, procidens adoravit in terram Dominum.",
+          "english": "Which when Abraham's servant heard, falling down to the ground he adored the Lord."
+        },
+        {
+          "number": 53,
+          "latin": "Prolatisque vasis argenteis, et aureis, ac vestibus, dedit ea Rebecca pro munere : fratribus quoque ejus et matri dona obtulit.",
+          "english": "And bringing forth vessels of silver and gold, and garments, he gave them to Rebecca for a present. He offered gifts also to her brothers, and to her mother."
+        },
+        {
+          "number": 54,
+          "latin": "Inito convivio, vescentes pariter et bibentes manserunt ibi. Surgens autem mane, locutus est puer : Dimitte me, ut vadam ad dominum meum.",
+          "english": "And a banquet was made, and they ate and drank together, and lodged there. And in the morning, the servant arose, and said: Let me depart, that I may go to my master."
+        },
+        {
+          "number": 55,
+          "latin": "Responderuntque fratres ejus et mater : Maneat puella saltem decem dies apud nos, et postea proficiscetur.",
+          "english": "And her brother and mother answered: Let the maid stay at least ten days with us, and afterwards she shall depart."
+        },
+        {
+          "number": 56,
+          "latin": "Nolite, ait, me retinere, quia Dominus direxit viam meam : dimittite me ut pergam ad dominum meum.",
+          "english": "Stay me not, said he, because the Lord has prospered my way: send me away, that I may go to my master."
+        },
+        {
+          "number": 57,
+          "latin": "Et dixerunt : Vocemus puellam, et quaeramus ipsius voluntatem.",
+          "english": "And they said: Let us call the maid, and ask her will."
+        },
+        {
+          "number": 58,
+          "latin": "Cumque vocata venisset, sciscitati sunt : Vis ire cum homine isto? Quae ait : Vadam.",
+          "english": "And they called her, and when she was come, they asked: Will you go with this man? She said: I will go."
+        },
+        {
+          "number": 59,
+          "latin": "Dimiserunt ergo eam, et nutricem illius, servumque Abraham, et comites ejus,",
+          "english": "So they sent her away, and her nurse, and Abraham's servant, and his company,"
+        },
+        {
+          "number": 60,
+          "latin": "imprecantes prospera sorori suae, atque dicentes : Soror nostra es, crescas in mille millia, et possideat semen tuum portas inimicorum suorum.",
+          "english": "Wishing prosperity to their sister, and saying: You are our sister, mayst you increase to thousands of thousands, and may your seed possess the gates of their enemies."
+        },
+        {
+          "number": 61,
+          "latin": "Igitur Rebecca et puellae illius, ascensis camelis, secutae sunt virum : qui festinus revertebatur ad dominum suum.",
+          "english": "So Rebecca and her maids, being set upon camels, followed the man: who with speed returned to his master."
+        },
+        {
+          "number": 62,
+          "latin": "Eo autem tempore deambulabat Isaac per viam quae ducit ad puteum, cujus nomen est Viventis et videntis : habitabat enim in terra australi :",
+          "english": "At the same time Isaac was walking along the way to the well which is called Of the living and the seeing: for he dwelt in the south country."
+        },
+        {
+          "number": 63,
+          "latin": "et egressus fuerat ad meditandum in agro, inclinata jam die : cumque elevasset oculos, vidit camelos venientes procul.",
+          "english": "And he was gone forth to meditate in the field, the day being now well spent: and when he had lifted up his eyes, he saw camels coming afar off."
+        },
+        {
+          "number": 64,
+          "latin": "Rebecca quoque, conspecto Isaac, descendit de camelo,",
+          "english": "Rebecca also, when she saw Isaac, lighted off the camel,"
+        },
+        {
+          "number": 65,
+          "latin": "et ait ad puerum : Quis est ille homo qui venit per agrum in occursum nobis? Dixitque ei : Ipse est dominus meus. At illa tollens cito pallium, operuit se.",
+          "english": "And said to the servant: Who is that man who cometh towards us along the field? And he said to her: That man is my master. But she quickly took her cloak, and covered herself."
+        },
+        {
+          "number": 66,
+          "latin": "Servus autem cuncta, quae gesserat, narravit Isaac.",
+          "english": "And the servant told Isaac all that he had done."
+        },
+        {
+          "number": 67,
+          "latin": "Qui introduxit eam in tabernaculum Sarae matris suae, et accepit eam uxorem : et in tantum dilexit eam, ut dolorem, qui ex morte matris ejus acciderat, temperaret.",
+          "english": "Who brought her into the tent of Sarah his mother, and took her to wife: and he loved her so much, that it moderated the sorrow which was occasioned by his mother's death."
         }
       ]
     },
@@ -3493,36 +3613,6 @@
           "number": 34,
           "latin": "Et sic panem et lentis cocturam dedit ei: qui comedit, et bibit, et surrexit, et abiit: parvipendens quod primogenita vendidisset.",
           "english": "And so, Jacob gave him bread and the lentil stew. Esau ate, and drank, and rose up, and went away, showing little regard for having sold his birthright."
-        },
-        {
-          "number": 35,
-          "latin": "Accidit autem fames in terra post eam sterilitatem quae acciderat in diebus Abrahae: et abiit Isaac ad Abimelech regem Palestinorum in Gerara.",
-          "english": "Now a famine occurred in the land, following the previous famine that had occurred in the days of Abraham. And Isaac went to Abimelech, the king of the Philistines, in Gerar."
-        },
-        {
-          "number": 36,
-          "latin": "Apparuitque ei Dominus, et ait: Noli descendere in Aegyptum, sed commorare in terra quam tibi dixero.",
-          "english": "And the Lord appeared to him and said, “Do not go down to Egypt, but remain in the land which I will tell you about."
-        },
-        {
-          "number": 37,
-          "latin": "Pergrinare in ea, et ero tecum, et benedicam tibi: tibi enim et semini tuo dabo universas regiones has, complens juramentum quod juravi Abraham patri tuo.",
-          "english": "Journey as a stranger in this land, and I will be with you, and I will bless you. For to you and to your offspring I will give all these regions, fulfilling the oath which I swore to Abraham your father."
-        },
-        {
-          "number": 38,
-          "latin": "Et multiplicabo semen tuum sicut stellas caeli: et dabo posteris tuis universas regiones istas: et benedicentur in semine tuo omnes gentes terrae,",
-          "english": "And I will multiply your offspring like the stars of the sky. And I will give all these regions to your descendants. And all the nations of the earth will be blessed through your offspring,"
-        },
-        {
-          "number": 39,
-          "latin": "eo quod obedierit Abraham voci meae, et custodierit praecepta et mandata mea, et caeremonias ritusque servaverit.",
-          "english": "because Abraham obeyed My voice, and kept My precepts and My commandments, and observed My ceremonies and rituals.”"
-        },
-        {
-          "number": 40,
-          "latin": "Mansit itaque Isaac in Gerara.",
-          "english": "So Isaac remained in Gerar."
         }
       ]
     },
@@ -3910,6 +4000,36 @@
           "number": 40,
           "latin": "commotus Isaac, ait illi: In pinguedine terræ, et in rore cæli desuper erit benedictio tua.",
           "english": "Isaac was moved and said to him: 'Behold, your blessing shall be from the richness of the earth and from the dew of the sky above.'"
+        },
+        {
+          "number": 41,
+          "latin": "Oderat ergo semper Esau Jacob pro benedictione qua benedixerat ei pater : dixitque in corde suo : Venient dies luctus patris mei, et occidam Jacob fratrem meum.",
+          "english": "Esau therefore always hated Jacob for the blessing wherewith his father had blessed him: and he said in his heart: The days will come of the mourning of my father, and I will kill my brother Jacob."
+        },
+        {
+          "number": 42,
+          "latin": "Nuntiata sunt haec Rebeccae : quae mittens et vocans Jacob filium suum, dixit ad eum : Ecce Esau frater tuus minatur ut occidat te.",
+          "english": "These things were told to Rebecca: and she sent and called Jacob her son, and said to him: Look Esau your brother threateneth to kill you."
+        },
+        {
+          "number": 43,
+          "latin": "Nunc ergo, fili mi, audi vocem meam, et consurgens fuge ad Laban fratrem meum in Haran :",
+          "english": "Now therefore, my son, hear my voice: arise and flee to Laban my brother to Haran:"
+        },
+        {
+          "number": 44,
+          "latin": "habitabisque cum eo dies paucos, donec requiescat furor fratris tui,",
+          "english": "And you shall dwell with him a few days, till the wrath of your brother be assuaged,"
+        },
+        {
+          "number": 45,
+          "latin": "et cesset indignatio ejus, obliviscaturque eorum quae fecisti in eum : postea mittam, et adducam te inde huc : cur utroque orbabor filio in uno die?",
+          "english": "And his indignation cease, and he forget the things you have done to him: afterwards I will send, and bring you from thence hither. Why shall I be deprived of both my sons in one day?"
+        },
+        {
+          "number": 46,
+          "latin": "Dixitque Rebecca ad Isaac : Taedet me vitae meae propter filias Heth : si acceperit Jacob uxorem de stirpe hujus terrae, nolo vivere.",
+          "english": "And Rebecca said to Isaac: I am weary of my life because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live."
         }
       ]
     },
@@ -4034,169 +4154,179 @@
       "status": "completed",
       "verses": [
         {
-          "number": "1",
+          "number": 1,
           "latin": "Profectus ergo Jacob venit in terram orientalium populorum: et vidit puteum in agro, tresque greges ovium accumbentes juxta illum; de quo pastores dabant bibere gregibus suis: et os ejus grande lapide claudebatur.",
           "english": "So Jacob continued on his journey and arrived in the land of the eastern peoples. There, he saw a well in a field with three flocks of sheep resting beside it. The shepherds used this well to water their flocks, and its opening was covered by a large stone."
         },
         {
-          "number": "2",
+          "number": 2,
           "latin": "Solebant enim de ipso adaquare pecora: et postquam cuncti greges fuerant congregati, devolvebant lapidem de ore putei, et adaquatis rursum reponendum erat.",
           "english": "For it was from this well that the shepherds usually watered their animals. But they would only roll the stone away from the well's opening once all the flocks were gathered together, and after watering them, they would put the stone back in its place."
         },
         {
-          "number": "3",
+          "number": 3,
           "latin": "Dixitque Jacob ad illos: Fratres, unde estis? Qui responderunt: De Haran sumus.",
           "english": "Jacob then asked them, \"Brothers, where are you from?\" They answered, \"We are from Haran.\""
         },
         {
-          "number": "4",
+          "number": 4,
           "latin": "Quos interrogavit: Nostis Laban filium Nachor? Responderunt: Novimus.",
           "english": "He then asked them, \"Do you know Laban, the son of Nahor?\" They replied, \"We know him.\""
         },
         {
-          "number": "5",
+          "number": 5,
           "latin": "Numquid, ait, prosper est? Bene, inquiunt, se habet: et ecce Rachel filia ejus, venit cum grege suo.",
           "english": "Jacob asked, \"Is he doing well?\" They answered, \"He is well, and look, his daughter Rachel is coming now with her flock.\""
         },
         {
-          "number": "6",
+          "number": 6,
           "latin": "Et ait: Adhuc multum diei est, nec est tempus ut reducantur pecora in stabula: date potum ovibus, et sic reducite ad pascua.",
           "english": "Jacob said to the shepherds, \"It is still bright daylight, and it's not yet time to bring the animals back to their pens for the night. You should water the sheep and then take them back to the pastures.\""
         },
         {
-          "number": "7",
+          "number": 7,
           "latin": "Qui responderunt: Non possumus, donec omnes greges congregentur, et amoveant lapidem de ore putei, ut adaquemus pecora.",
           "english": "But the shepherds replied, \"We cannot do that until all the flocks have gathered, and we all together roll the stone away from the opening of the well so we can water the animals.\""
         },
         {
-          "number": "8",
+          "number": 8,
           "latin": "Adhuc loquebatur, et ecce Rachel cum ovibus patris sui supervenit: ipsa enim pascebat gregem.",
           "english": "While Jacob was still speaking, Rachel arrived with her father's sheep, for she was a shepherdess and cared for the flock herself."
         },
         {
-          "number": "9",
+          "number": 9,
           "latin": "Cumque vidisset Jacob Rachel filiam Laban fratris matris suae, et oves Laban, accessit: et amoto lapide, adaquavit gregem Laban.",
           "english": "When Jacob saw Rachel, the daughter of Laban—his mother's brother—and Laban's sheep, he immediately went up to the well. He single-handedly rolled away the stone from the opening and watered Laban's entire flock."
         },
         {
-          "number": "10",
+          "number": 10,
           "latin": "Et osculatus Rachel, elevata voce flevit.",
           "english": "Then Jacob kissed Rachel and, overcome with emotion, he began to weep loudly."
         },
         {
-          "number": "11",
+          "number": 11,
           "latin": "Et indicavit ei, quod frater patris ejus esset, et filius Rebeccae: illa cucurrit, et nuntiavit patri suo.",
           "english": "He told her that he was a relative of her father, and that he was Rebekah's son. Rachel then ran quickly to tell her father this news."
         },
         {
-          "number": "12",
+          "number": 12,
           "latin": "Quo audito, Laban cucurrit in occursum ejus: et amplexatus, ac deosculatus eum, adduxit in domum suam. Auditis autem cunctis, quae gesta fuerant,",
           "english": "When Laban heard the news about Jacob, he immediately ran out to meet him. He embraced and kissed him, then brought him to his house. Jacob recounted everything that had happened during his journey."
         },
         {
-          "number": "13",
+          "number": 13,
           "latin": "dixit: Tu os meum et caro mea es. Et mansit apud eum mense uno.",
           "english": "After hearing everything, Laban said, \"You are truly my own flesh and blood.\" So Jacob stayed with Laban for a full month."
         },
         {
-          "number": "14",
+          "number": 14,
           "latin": "Post quem dixit ad eum Laban: Numquid eo quod frater meus es, gratis servies mihi? dic mihi quid mercedis accipies.",
           "english": "After that month, Laban said to him, \"Just because you are my relative, should you work for me for free? Tell me, what wages do you expect to receive?\""
         },
         {
-          "number": "15",
+          "number": 15,
           "latin": "Duae filiae erant Laban, nomen majoris Lia, et minoris Rachel.",
           "english": "Now, Laban had two daughters. The older one was named Leah, and the younger one was named Rachel."
         },
         {
-          "number": "16",
+          "number": 16,
           "latin": "Sed Lia lippis erat oculis, Rachel pulchra facie et decora aspectu.",
           "english": "Leah's eyes were weak, or perhaps not as striking, but Rachel was beautiful in form and had a lovely appearance."
         },
         {
-          "number": "17",
+          "number": 17,
           "latin": "Quam Jacob dilexit, et ait: Serviam tibi septem annis pro Rachel filia tua juniore.",
           "english": "Jacob loved Rachel deeply, so he said to Laban, \"I will serve you for seven years in exchange for your younger daughter, Rachel.\""
         },
         {
-          "number": "18",
+          "number": 18,
           "latin": "Respondit Laban: Melius est ut tibi eam dem quam alteri viro: mane apud me.",
           "english": "Laban answered, \"It is better that I give her to you than to another man. So stay here with me.\""
         },
         {
-          "number": "19",
+          "number": 19,
           "latin": "Servivit igitur Jacob pro Rachel septem annis: et videbantur illi quasi pauci dierum, prae amoris magnitudine.",
           "english": "So Jacob served Laban for seven years for Rachel. Because of the great love he had for her, those seven years seemed to him like only a few days."
         },
         {
-          "number": "20",
+          "number": 20,
           "latin": "Dixitque ad Laban: Da mihi uxorem meam, quia jam tempus impletur, ut ingrediar ad illam.",
           "english": "Then Jacob said to Laban, \"Give me my wife, for the time of my service is completed, and I wish to be with her as my wife.\""
         },
         {
-          "number": "21",
+          "number": 21,
           "latin": "Convocatisque cunctis viris loci, fecit convivium nuptiarum.",
           "english": "Laban then gathered all the men of that place and held a wedding feast."
         },
         {
-          "number": "22",
+          "number": 22,
           "latin": "Et vespere, assumens Liam filiam suam, introduxit ad eum: cui Jacob ingressus est.",
           "english": "But in the evening, Laban took his daughter Leah and brought her to Jacob, and Jacob went in to her, believing she was Rachel."
         },
         {
-          "number": "23",
+          "number": 23,
           "latin": "Factoque mane, vidit quod Lia esset: et dixit Laban: Quid mihi facere voluisti? nonne pro Rachel servivi tibi? quare supplantasti me?",
           "english": "When morning came, Jacob realized that it was Leah. He said to Laban, \"What have you done to me? Did I not serve you for Rachel? Why have you deceived me like this?\""
         },
         {
-          "number": "24",
+          "number": 24,
           "latin": "Respondit Laban: Non est consuetudinis in loco nostro, ut minorem ante majorem tradamus ad nuptias.",
           "english": "Laban answered, \"It is not the custom in our country to give the younger daughter in marriage before the older one.\""
         },
         {
-          "number": "25",
+          "number": 25,
           "latin": "Imple hebdomadam dierum hujus copulae: et hanc quoque dabo tibi pro alia septem annis, quibus apud me pariter servies.",
           "english": "Laban continued, \"Complete the week of celebration for this marriage, and then I will also give you Rachel, but in return, you must serve me for another seven years.\""
         },
         {
-          "number": "26",
+          "number": 26,
           "latin": "Acquievit Jacob: et expleta septimana, dedit ei Rachel filiam suam uxorem.",
           "english": "Jacob agreed to this arrangement. After he had completed the week for Leah's wedding, Laban gave him his daughter Rachel to be his wife."
         },
         {
-          "number": "27",
+          "number": 27,
           "latin": "Deditque Laban famulam suam Bala filiae suae Rachel.",
           "english": "And Laban also gave his servant girl Bilhah to his daughter Rachel as her maidservant."
         },
         {
-          "number": "28",
+          "number": 28,
           "latin": "Ingressus est itaque et ad Rachel: quam multo supra Liam dilexit: et servivit ei septem annis aliis.",
           "english": "So Jacob also went in to Rachel as his wife, and he loved Rachel much more deeply than Leah. He then served Laban for another seven years as agreed."
         },
         {
-          "number": "29",
+          "number": 29,
           "latin": "Videns autem Dominus quod despiceret Liam, aperuit vulvam ejus: Rachel sterilis permansit.",
           "english": "Now, the Lord saw that Leah was unloved, or at least less loved than Rachel. So God enabled her to conceive children, while Rachel remained unable to bear children."
         },
         {
-          "number": "30",
+          "number": 30,
           "latin": "Et concepit Lia, et peperit filium, vocavitque nomen ejus Ruben, dicens: Vidit Dominus humilitatem meam: nunc amabit me vir meus.",
           "english": "Leah conceived and bore a son, and she named him Reuben, saying, \"The Lord has seen my humiliation. Now, surely my husband will love me.\""
         },
         {
-          "number": "31",
+          "number": 31,
           "latin": "Concepit iterum, et peperit alterum filium, et appellavit nomen ejus Simeon, eo quod audierit Dominus me despectam esse.",
           "english": "She conceived again and bore a second son, and she named him Simeon, explaining, \"Because the Lord heard that I was unloved, He has given me this son.\""
         },
         {
-          "number": "32",
+          "number": 32,
           "latin": "Concepitque tertium, et peperit alium filium: et dixit: Nunc quoque hac vice conjungetur mihi vir meus, eo quod pepererim illi tres filios: et propter hoc appellavit nomen ejus Levi.",
           "english": "She conceived a third time and bore another son, and she said, \"Now this time, my husband will surely be joined to me in affection, because I have borne him three sons.\" Therefore, she named him Levi."
         },
         {
-          "number": "33",
+          "number": 33,
           "latin": "Rursumque concepit quartum filium, et peperit: dixitque: Modo confitebor Domino: et ob hoc appellavit nomen ejus Juda: cessavitque parere.",
           "english": "She conceived again and bore a fourth son, and she said, \"This time I will praise the Lord.\" Therefore, she named him Judah. After this, she stopped bearing children for a time."
+        },
+        {
+          "number": 34,
+          "latin": "Concepitque tertio, et genuit alium filium : dixitque : Nunc quoque copulabitur mihi maritus meus : eo quod pepererim ei tres filios : et idcirco appellavit nomen ejus Levi.",
+          "english": "And she conceived the third time, and bore another son: and said: Now also my husband will be joined to me, because I have borne him three sons: and therefore she called his name Levi."
+        },
+        {
+          "number": 35,
+          "latin": "Quarto concepit, et peperit filium, et ait : Modo confitebor Domino, et ob hoc vocavit eum Judam : cessavitque parere.",
+          "english": "The fourth time she conceived and bore a son, and said: now will I praise the Lord: and for this she called him Juda. And she left bearing."
         }
       ]
     },
@@ -4403,6 +4533,21 @@
           "number": 40,
           "latin": "Divisitque Jacob gregem, et posuit virgas in canalibus ovium, et omnia scilicet quæ fusca et maculosa erant. Et facta sunt omnia pecora Laban varia, et maculosa, et diversa.",
           "english": "Jacob then separated the flocks and made sure that all of Laban’s dark-colored and spotted animals faced the striped branches in the troughs. He thus caused all of Laban’s flocks to become striped, speckled, and spotted."
+        },
+        {
+          "number": 41,
+          "latin": "Igitur quando primo tempore ascendebantur oves, ponebat Jacob virgas in canalibus aquarum ante oculos arietum et ovium, ut in earum contemplatione conciperent :",
+          "english": "So when the ewes went first to ram, Jacob put the rods in the troughs of water before the eyes of the rams, and of the ewes, that they might conceive while they were looking upon them:"
+        },
+        {
+          "number": 42,
+          "latin": "quando vero serotina admissura erat, et conceptus extremus, non ponebat eas. Factaque sunt ea quae erant serotina, Laban : et quae primi temporis, Jacob.",
+          "english": "But when the latter coming was, and the last conceiving, he did not put them. And those that were lateward, became Laban's: and they of the first time, Jacob's."
+        },
+        {
+          "number": 43,
+          "latin": "Ditatusque est homo ultra modum, et habuit greges multos, ancillas et servos, camelos et asinos.",
+          "english": "And the man was enriched exceedingly, and he had many flocks, maid servants and men servants, camels and asses."
         }
       ]
     },
@@ -4609,6 +4754,81 @@
           "number": 40,
           "latin": "Die noctuque aestu torquebar, et gelu, et fugiebat somnus ab oculis meis.",
           "english": "\"By day, I was tormented by the scorching heat, and by night, by the bitter frost. Sleep often fled from my eyes.\""
+        },
+        {
+          "number": 41,
+          "latin": "Sicque per viginti annos in domo tua servivi tibi, quatuordecim pro filiabus, et sex pro gregibus tuis : immutasti quoque mercedem meam decem vicibus.",
+          "english": "And in this manner have I served you in your house twenty years, fourteen for your daughters, and six for your flocks: you have changed also my wages ten times."
+        },
+        {
+          "number": 42,
+          "latin": "Nisi Deus patris mei Abraham, et timor Isaac affuisset mihi, forsitan modo nudum me demisisses : afflictionem meam et laborem manuum mearum respexit Deus, et arguit te heri.",
+          "english": "Unless the God of my father Abraham, and the fear of Isaac had stood by me, peradventure now you hadst sent me away naked: God beheld my affliction and the labour of my hands, and rebuked you yesterday."
+        },
+        {
+          "number": 43,
+          "latin": "Respondit ei Laban : Filiae meae et filii, et greges tui, et omnia quae cernis, mea sunt : quid possum facere filiis et nepotibus meis?",
+          "english": "Laban answered him: The daughters are mine and the children, and your flocks, and all things that you seest are mine: what can I do to my children, and grandchildren?"
+        },
+        {
+          "number": 44,
+          "latin": "Veni ergo, et ineamus foedus, ut sit in testimonium inter me et te.",
+          "english": "Come therefore, let us enter into a league: that it may be for a testimony between me and you."
+        },
+        {
+          "number": 45,
+          "latin": "Tulit itaque Jacob lapidem, et erexit illum in titulum :",
+          "english": "And Jacob took a stone, and set it up for a title:"
+        },
+        {
+          "number": 46,
+          "latin": "dixitque fratribus suis : Afferte lapides. Qui congregantes fecerunt tumulum, comederuntque super eum :",
+          "english": "And he said to his brethren: Bring hither stones. And they gathering stones together, made a heap, and they ate upon it."
+        },
+        {
+          "number": 47,
+          "latin": "quem vocavit Laban Tumulum testis : et Jacob, Acervum testimonii, uterque juxta proprietatem linguae suae.",
+          "english": "And Laban called it The witness heap: and Jacob, The hillock of testimony: each of them according to the propriety of his language."
+        },
+        {
+          "number": 48,
+          "latin": "Dixitque Laban : Tumulus iste erit testis inter me et te hodie, et idcirco appellatum est nomen ejus Galaad, id est, Tumulus testis.",
+          "english": "And Laban said: This heap shall be a witness between me and you this day, and therefore the name of it was called Galaad, that is, The witness heap."
+        },
+        {
+          "number": 49,
+          "latin": "Intueatur et judicet Dominus inter nos quando recesserimus a nobis,",
+          "english": "The Lord look and judge between us when we shall be gone one from the other."
+        },
+        {
+          "number": 50,
+          "latin": "si afflixeris filias meas, et si introduxeris alias uxores super eas : nullus sermonis nostri testis est absque Deo, qui praesens respicit.",
+          "english": "If you afflict my daughters, and if you bring in other wives over them: none is witness of our speech but God, who is present and beholdeth."
+        },
+        {
+          "number": 51,
+          "latin": "Dixitque rursus ad Jacob : En tumulus hic, et lapis quem erexi inter me et te,",
+          "english": "And he said again to Jacob: Look, this heap, and the stone which I have set up between me and you,"
+        },
+        {
+          "number": 52,
+          "latin": "testis erit : tumulus, inquam, iste et lapis sint in testimonium, si aut ego transiero illum pergens ad te, aut tu praeterieris, malum mihi cogitans.",
+          "english": "Shall be a witness: this heap, I say, and the stone, be they for a testimony, if either I shall pass beyond it going towards you, or you shall pass beyond it, thinking harm to me."
+        },
+        {
+          "number": 53,
+          "latin": "Deus Abraham, et Deus Nachor, judicet inter nos, Deus patris eorum. Juravit ergo Jacob per timorem patris sui Isaac :",
+          "english": "The God of Abraham, and the God of Nachor, the God of their father, judge between us. And Jacob swore by the fear of his father Isaac."
+        },
+        {
+          "number": 54,
+          "latin": "immolatisque victimis in monte, vocavit fratres suos ut ederent panem. Qui cum comedissent, manserunt ibi :",
+          "english": "And after he had offered sacrifices in the mountain, he called his brethren to eat bread. And when they had eaten, they lodged there:"
+        },
+        {
+          "number": 55,
+          "latin": "Laban vero de nocte consurgens, osculatus est filios, et filias suas, et benedixit illis : reversusque est in locum suum.",
+          "english": "But Laban arose in the night, and kissed his sons, and daughters, and blessed them: and returned to his place."
         }
       ]
     },
@@ -4881,16 +5101,6 @@
           "number": 20,
           "latin": "Transivitque ad Salem urbem Sichem, quæ est in terra Chanaan, postquam reversus est de Mesopotamia Syriæ, et habitavit juxta oppidum:",
           "english": "Jacob then traveled safely to the city of Shechem, which is in the land of Canaan, after returning from Paddan-aram in Syria. He camped near the city."
-        },
-        {
-          "number": 21,
-          "latin": "Et emit partem agri, in qua fixerat tabernacula sua, a filiis Hemor patris Sichem, centum agnis.",
-          "english": "There, he bought a plot of land where he had pitched his tents from the sons of Hamor, Shechem's father, for one hundred pieces of money, or 'qesitas' in the ancient currency."
-        },
-        {
-          "number": 22,
-          "latin": "Et erexit ibi altare, et vocavit nomen ejus Fortissimus Deus Israel.",
-          "english": "He erected an altar there and called it El-Elohe-Israel, which means 'God, the God of Israel the Most Powerful'."
         }
       ]
     },
@@ -5409,6 +5619,21 @@
           "number": 40,
           "latin": "Haec sunt nomina ducum Esau in cognationibus suis, et locis, et vocabulis suis: dux Thamna, dux Alva, dux Jetheth,",
           "english": "These are the names of the chiefs of Esau, listed according to their families, their places of dwelling, and their specific names: Chief Timna, Chief Alvah, Chief Jetheth,"
+        },
+        {
+          "number": 41,
+          "latin": "dux Oolibama, dux Ela, dux Phinon,",
+          "english": "Duke Oolibama, duke Ela, duke Phinon,"
+        },
+        {
+          "number": 42,
+          "latin": "dux Cenez, dux Theman, dux Mabsar,",
+          "english": "Duke Cenez, duke Theman, duke Mabsar,"
+        },
+        {
+          "number": 43,
+          "latin": "dux Magdiel, dux Hiram : hi duces Edom habitantes in terra imperii sui, ipse est Esau pater Idumaeorum.",
+          "english": "Duke Magdiel, duke Hiram: these are the dukes of Edom dwelling in the land of their government; the same is Esau the father of the Edomites."
         }
       ]
     },
@@ -5595,26 +5820,6 @@
           "number": 36,
           "latin": "Interea Madianitae vendiderunt Joseph in Aegypto Putiphari eunucho pharaonis, magistro militum.",
           "english": "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an official of Pharaoh, who was the commander of the royal guard."
-        },
-        {
-          "number": 37,
-          "latin": "This verse is not present in the Clementine Vulgate for Genesis chapter 37.",
-          "english": "This verse is not present in the Clementine Vulgate for Genesis chapter 37."
-        },
-        {
-          "number": 38,
-          "latin": "This verse is not present in the Clementine Vulgate for Genesis chapter 37.",
-          "english": "This verse is not present in the Clementine Vulgate for Genesis chapter 37."
-        },
-        {
-          "number": 39,
-          "latin": "This verse is not present in the Clementine Vulgate for Genesis chapter 37.",
-          "english": "This verse is not present in the Clementine Vulgate for Genesis chapter 37."
-        },
-        {
-          "number": 40,
-          "latin": "This verse is not present in the Clementine Vulgate for Genesis chapter 37.",
-          "english": "This verse is not present in the Clementine Vulgate for Genesis chapter 37."
         }
       ]
     },
@@ -5771,56 +5976,6 @@
           "number": 30,
           "latin": "Post quem egressus est frater ejus, in cujus manu erat signum coccineum: et appellavit nomen ejus Zara.",
           "english": "After him, his brother came out, on whose hand was the scarlet thread. And his name was called Zerah."
-        },
-        {
-          "number": 31,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 32,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 33,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 34,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 35,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 36,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 37,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 38,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 39,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 40,
-          "latin": null,
-          "english": null
         }
       ]
     },
@@ -5942,91 +6097,6 @@
           "number": 23,
           "latin": "Nec quicquam diligentius inquirebat princeps carceris, eo quod totum ejus arbitrio cuncta commissa essent: et Dominus esset cum illo, et omnia opera ejus dirigeret.",
           "english": "The warden did not carefully oversee anything that was entrusted to Joseph, because the Lord was with Joseph, and the Lord directed all his work."
-        },
-        {
-          "number": 24,
-          "latin": "Post haec igitur accidit, ut peccarent duo eunuchi, pincerna regis Ægypti, et pistor, domino suo.",
-          "english": "After these events, it happened that two of Pharaoh’s officials, his chief cupbearer and his chief baker, offended their lord, the king of Egypt."
-        },
-        {
-          "number": 25,
-          "latin": "Iratusque Pharao contra eos, (etenim utrumque habebat sub pincerna et pistore),",
-          "english": "Pharaoh was angry with them both—the cupbearer and the baker—"
-        },
-        {
-          "number": 26,
-          "latin": "misit eos in carcerem principis militum, in quo erat vinctus Ioseph.",
-          "english": "and he put them in the prison of the captain of the royal guard, the very place where Joseph was imprisoned."
-        },
-        {
-          "number": 27,
-          "latin": "Praecepitque princeps militum Ioseph, ut serviret illis. Qui ministrabat eis.",
-          "english": "The captain of the royal guard assigned Joseph to serve them, and he did so."
-        },
-        {
-          "number": 28,
-          "latin": "Aderant itaque in custodia multo tempore.",
-          "english": "So they remained in custody for a considerable time."
-        },
-        {
-          "number": 29,
-          "latin": "Videruntque ambo somnium nocte una, juxta interpretationem congruam sibi: uterque somnium suum.",
-          "english": "One night, both of them—the cupbearer and the baker—had a dream, each with its own specific meaning. Each man dreamed his own dream."
-        },
-        {
-          "number": 30,
-          "latin": "Ad quos cum Ioseph mane intrasset, et vidisset tristes:",
-          "english": "When Joseph came to them in the morning and saw that they were distressed,"
-        },
-        {
-          "number": 31,
-          "latin": "interrogavit eos, dicens: Cur tristior est hodie solito vultus vester?",
-          "english": "he asked them, \"Why are your faces sadder than usual today?\""
-        },
-        {
-          "number": 32,
-          "latin": "Qui responderunt: Somnium vidimus, et non est qui interpretetur nobis.",
-          "english": "They answered, \"We had dreams, and there is no one here to interpret them for us.\""
-        },
-        {
-          "number": 33,
-          "latin": "Dixitque ad eos Ioseph: Numquid non Dei est interpretatio? referte mihi quidquid somniastis.",
-          "english": "Joseph said to them, \"Do not interpretations belong to God? Please, tell me what you dreamed.\""
-        },
-        {
-          "number": 34,
-          "latin": "Retulit igitur pincerna somnium suum: Dixi, inquit, somnio me videre vitem,",
-          "english": "So the chief cupbearer told Joseph his dream. He said, \"In my dream, I saw a vine.\""
-        },
-        {
-          "number": 35,
-          "latin": "in qua erant tres propagines, crescere paulatim in gemmas, et post flores, uvas maturescere.",
-          "english": "\"On the vine were three branches, which began to bud, then blossomed, and then ripened into clusters of grapes.\""
-        },
-        {
-          "number": 36,
-          "latin": "Tenui scyphum Pharaonis in manu mea: tulique uvas, et expressi in scyphum quem tenebam, et tradidi poculum Pharaoni.",
-          "english": "\"I held Pharaoh’s cup in my hand. I took the grapes, pressed them into the cup I was holding, and then handed the cup to Pharaoh.\""
-        },
-        {
-          "number": 37,
-          "latin": "Respondens Ioseph: Haec est, inquit, interpretatio somnii: Tres propagines, tres adhuc dies sunt.",
-          "english": "Joseph answered, saying, \"This is the interpretation of your dream: The three branches represent three days.\""
-        },
-        {
-          "number": 38,
-          "latin": "Post tres quippe dies elevabit Pharao caput tuum, et restituerit te ad pristinum gradum: dabisque ei scyphum juxta officium tuum, sicut prius facere consueveras.",
-          "english": "\"Within three days, Pharaoh will lift up your head—meaning, he will restore you to your former position. You will then hand him his cup, just as you used to do when you were his cupbearer.\""
-        },
-        {
-          "number": 39,
-          "latin": "Tantum memento mei, cum tibi bene fuerit, et facias mecum misericordiam: ut suggeras Pharaoni de me, et educas me de isto carcere:",
-          "english": "\"Only remember me when things go well for you, and show me kindness. Mention me to Pharaoh and get me out of this prison.\""
-        },
-        {
-          "number": 40,
-          "latin": "quia furto sublatus sum de terra Hebraeorum, et hic innocens in lacum missus sum.",
-          "english": "\"For I was stolen away from the land of the Hebrews, and here I am, innocent, thrown into this pit of a prison.\""
         }
       ]
     },
@@ -6354,6 +6424,91 @@
           "number": 40,
           "latin": "Tu eris super domum meam, et ad tui oris imperium cunctus populus meus obedit: uno tantum regni solio te præcedam.",
           "english": "'You shall be in charge of my household, and all my people will obey your every command. Only in the royal throne itself will I be greater than you.'"
+        },
+        {
+          "number": 41,
+          "latin": "Dixitque rursus Pharao ad Joseph : Ecce, constitui te super universam terram Aegypti.",
+          "english": "And again Pharao said to Joseph: Look, I have appointed you over the whole land of Egypt."
+        },
+        {
+          "number": 42,
+          "latin": "Tulitque annulum de manu sua, et dedit eum in manu ejus : vestivitque eum stola byssina, et collo torquem auream circumposuit.",
+          "english": "And he took his ring from his own hand, and gave it into his hand: and he put upon him a robe of silk, and put a chain of gold about his neck."
+        },
+        {
+          "number": 43,
+          "latin": "Fecitque eum ascendere super currum suum secundum, clamante praecone, ut omnes coram eo genu flecterent, et praepositum esse scirent universae terrae Aegypti.",
+          "english": "And he made him go up into his second chariot, the crier proclaiming that all should bow their knee before him, and that they should know he was made governor over the whole land of Egypt."
+        },
+        {
+          "number": 44,
+          "latin": "Dixit quoque rex ad Joseph : Ego sum Pharao : absque tuo imperio non movebit quisquam manum aut pedem in omni terra Aegypti.",
+          "english": "And the king said to Joseph: I am Pharao; without your commandment no man shall move hand or foot in all the land of Egypt."
+        },
+        {
+          "number": 45,
+          "latin": "Vertitque nomen ejus, et vocavit eum, lingua aegyptiaca, Salvatorem mundi. Deditque illi uxorem Aseneth filiam Putiphare sacerdotis Heliopoleos. Egressus est itaque Joseph ad terram Aegypti",
+          "english": "And he turned his name, and called him in the Egyptian tongue, The saviour of the world. And he gave him to wife Aseneth the daughter of Putiphare priest of Heliopolis. Then Joseph went out to the land of Egypt:"
+        },
+        {
+          "number": 46,
+          "latin": "( triginta autem annorum erat quando stetit in conspectu regis Pharaonis), et circuivit omnes regiones Aegypti.",
+          "english": "(Now he was thirty years old when he stood before king Pharao) and he went round all the countries of Egypt."
+        },
+        {
+          "number": 47,
+          "latin": "Venitque fertilitas septem annorum : et in manipulos redactae segetes congregatae sunt in horrea Aegypti.",
+          "english": "And the fruitfulness of the seven years came: and the corn being bound up into sheaves was gathered together into the barns of Egypt."
+        },
+        {
+          "number": 48,
+          "latin": "Omnis etiam frugum abundantia in singulis urbibus condita est.",
+          "english": "And all the abundance of grain was laid up in every city."
+        },
+        {
+          "number": 49,
+          "latin": "Tantaque fuit abundantia tritici, ut arenae maris coaequaretur, et copia mensuram excederet.",
+          "english": "And there was so great abundance of wheat, that it was equal to the sand of the sea, and the plenty exceeded measure."
+        },
+        {
+          "number": 50,
+          "latin": "Nati sunt autem Joseph filii duo antequam veniret fames : quos peperit ei Aseneth filia Putiphare sacerdotis Heliopoleos.",
+          "english": "And before the famine came, Joseph had two sons born: whom Aseneth the daughter of Putiphare priest of Heliopolis bore to him."
+        },
+        {
+          "number": 51,
+          "latin": "Vocavitque nomen primogeniti Manasses, dicens : Oblivisci me fecit Deus omnium laborum meorum, et domus patris mei.",
+          "english": "And he called the name of the firstborn Manasses, saying: God has made me to forget all my labours, and my father's house."
+        },
+        {
+          "number": 52,
+          "latin": "Nomen quoque secundi appellavit Ephraim, dicens : Crescere me fecit Deus in terra paupertatis meae.",
+          "english": "And he named the second Ephraim, saying: God has made me to grow in the land of my poverty."
+        },
+        {
+          "number": 53,
+          "latin": "Igitur transactis septem ubertatis annis, qui fuerant in Aegypto,",
+          "english": "Now when the seven years of the plenty that had been in Egypt were past:"
+        },
+        {
+          "number": 54,
+          "latin": "coeperunt venire septem anni inopiae, quos praedixerat Joseph : et in universo orbe fames praevaluit, in cuncta autem terra Aegypti panis erat.",
+          "english": "The seven years of scarcity, which Joseph had foretold, began to come: and the famine prevailed in the whole world, but there was bread in all the land of Egypt."
+        },
+        {
+          "number": 55,
+          "latin": "Qua esuriente, clamavit populus ad Pharaonem, alimenta petens. Quibus ille respondit : Ite ad Joseph : et quidquid ipse vobis dixerit, facite.",
+          "english": "And when there also they began to be famished, the people cried to Pharao for food. And he said to them: Go to Joseph: and do all that he shall say to you."
+        },
+        {
+          "number": 56,
+          "latin": "Crescebat autem quotidie fames in omni terra : aperuitque Joseph universa horrea, et vendebat Aegyptiis : nam et illos oppresserat fames.",
+          "english": "And the famine increased daily in all the land: and Joseph opened all the barns, and sold to the Egyptians: for the famine had oppressed them also."
+        },
+        {
+          "number": 57,
+          "latin": "Omnesque provinciae veniebant in Aegyptum, ut emerent escas, et malum inopiae temperarent.",
+          "english": "And all provinces came into Egypt, to buy food, and to seek some relief of their want."
         }
       ]
     },
@@ -6550,16 +6705,6 @@
           "number": 38,
           "latin": "At ille: Non, inquit, descendet filius meus vobiscum: quia frater ejus mortuus est, et ipse solus superest: si quid ei universi fuerit in via hac in qua pergitis, deducetis canos meos cum dolore ad inferos.",
           "english": "But Jacob insisted, \"My son will not go down to Egypt with you. His brother Joseph is dead, and he is the only son of Rachel left to me. If any harm were to befall him on this journey you are making, you would bring my gray hairs down to the grave in sorrow.\""
-        },
-        {
-          "number": 39,
-          "latin": null,
-          "english": null
-        },
-        {
-          "number": 40,
-          "latin": null,
-          "english": null
         }
       ]
     },
@@ -7058,66 +7203,6 @@
           "number": 28,
           "latin": "Et ait: Sufficit mihi si adhuc Ioseph filius meus vivit: vadam, et videbo illum antequam moriar.",
           "english": "And Jacob said, \"It is enough! My son Joseph is still alive! I will go and see him before I die.\""
-        },
-        {
-          "number": 29,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 30,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 31,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 32,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 33,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 34,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 35,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 36,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 37,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 38,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 39,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
-        },
-        {
-          "number": 40,
-          "latin": "Verse not found in Clementine Vulgate (Genesis 45).",
-          "english": "Verse not found in Clementine Vulgate (Genesis 45)."
         }
       ]
     },
@@ -7735,6 +7820,11 @@
         },
         {
           "number": 32,
+          "latin": "Emptusque est ager, et antrum quod in eo est, a filiis Heth.",
+          "english": "'The field and the cave within it were purchased from the sons of Heth.'"
+        },
+        {
+          "number": 33,
           "latin": "Et expleta narratione praeceptorum, quibus filios instruebat, collegit pedes suos super lectulum, et obiit: et appositus est ad populum suum.",
           "english": "When he had finished giving instructions to his sons, he drew his feet up onto the bed, and he died, and was gathered to his people (his ancestors who had passed on)."
         }
@@ -7871,8 +7961,8 @@
         },
         {
           "number": 26,
-          "latin": "Mortuusque est, expleto vitae suae termino, centum decem annorum. Et conditus aromatibus, positus est in sarcophago in Aegypto.",
-          "english": "Then Joseph died, having completed the span of his life at one hundred and ten years old. And after he was embalmed with spices, he was placed in a sarcophagus in Egypt."
+          "latin": "Mortuusque est Ioseph centum decem annorum: et embalzamaverunt eum, et conditus est in loculo in Aegypto.",
+          "english": "After Joseph died at one hundred and ten years old, he was embalmed and placed in a sarcophagus in Egypt."
         }
       ]
     }
