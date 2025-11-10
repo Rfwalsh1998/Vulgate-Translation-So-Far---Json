@@ -594,6 +594,11 @@
       "status": "completed",
       "verses": [
         {
+          "number": 1,
+          "latin": "Locutusque est Dominus ad Moysen et Aaron, dicens:",
+          "english": "The Lord also spoke to Moses and Aaron, saying:"
+        },
+        {
           "number": 2,
           "latin": "Tollite summam filiorum Caath de medio Levitarum, per familias et domos suas,",
           "english": "Take a census of the sons of Kohath from among the Levites, according to their families and their ancestral houses,"
@@ -2972,204 +2977,144 @@
       "status": "completed",
       "verses": [
         {
-          "number": "17:1",
+          "number": 1,
           "latin": "Et locutus est Dominus ad Moysen, dicens:",
           "english": "The Lord then spoke to Moses, saying:"
         },
         {
-          "number": "17:2",
+          "number": 2,
           "latin": "Praecipe Eleazaro filio Aaron sacerdotis, ut tollat turibula de incendio, et cinerem hinc spargat longius: quia sanctificata sunt",
           "english": "Command Eleazar, the son of Aaron the priest, to take the censers from the burning place, and scatter the ashes far away from this place, because they have become holy."
         },
         {
-          "number": "17:3",
+          "number": 3,
           "latin": "in periculis animarum eorum, qui peccaverant, et propitiatus est Dominus.",
           "english": "—for they put their lives in danger—those who had sinned. The Lord has shown His favor."
         },
         {
-          "number": "17:4",
+          "number": 4,
           "latin": "Fabricentque ex eis laminas, et affigant altari, eo quod oblatum sit in igne Domini, et sanctificatum, ac propterea sit in signum filiis Israel.",
           "english": "And from these censers, they are to make thin plates and fasten them to the altar, because they were offered in the Lord's fire and made holy. Therefore, they will serve as a sign for the children of Israel."
         },
         {
-          "number": "17:5",
+          "number": 5,
           "latin": "Ne quis assumat alienus incensum adolere coram Domino, nec sit sicut Chore, et omnis concio ejus, quemadmodum locutus est Dominus.",
           "english": "No unauthorized person may take up incense to burn before the Lord, nor may they become like Korah and all his company. The Lord had already spoken about this."
         },
         {
-          "number": "17:6",
+          "number": 6,
           "latin": "Praecepit ergo Eleazar sacerdos filio suo, ut tolleret turibula aenea, in quibus obtulerant hi quos ignis Domini combusserat: et extendens in laminas, affigeret altari,",
           "english": "So Eleazar the priest commanded his son to take the bronze censers in which those whom the Lord's fire had consumed had offered their sacrifice. He was to flatten them into plates and fasten them to the altar."
         },
         {
-          "number": "17:7",
+          "number": 7,
           "latin": "ut essent monumentum filiis Israel, ne quis accedaverit alienigena, qui non est de stirpe Aaron, ad offerendum incensum Domino, ne similem pateretur Core, sicut locutus est Dominus ad Moysen.",
           "english": "These were to be a memorial for the children of Israel, so that no outsider who is not from the lineage of Aaron would approach to offer incense to the Lord, lest he suffer a fate like Korah. This is what the Lord had said to Moses."
         },
         {
-          "number": "17:8",
+          "number": 8,
           "latin": "Murmuraverunt ergo omnis multitudo filiorum Israel postridie contra Moysen et Aaron, dicentes: Vos interfecistis populum Domini.",
           "english": "Nevertheless, the entire congregation of the children of Israel complained against Moses and Aaron the next day, saying: \"You have killed the Lord's people!\""
         },
         {
-          "number": "17:9",
+          "number": 9,
           "latin": "Cumque concitata esset turba, et vidisset Moyses et Aaron concionem scissis tentoriis, velabant eos nubes, et apparebat gloria Domini.",
           "english": "When the assembly had gathered against them, and Moses and Aaron saw the congregation's tents were being pulled down by the people, a cloud began to cover them, and the glory of the Lord appeared."
         },
         {
-          "number": "17:10",
+          "number": 10,
           "latin": "Et ingressi sunt Moyses et Aaron tabernaculum testimonii.",
           "english": "Moses and Aaron then entered the tabernacle of testimony."
         },
         {
-          "number": "17:11",
+          "number": 11,
           "latin": "Et locutus est Dominus ad Moysen, dicens:",
           "english": "And the Lord spoke to Moses, saying:"
         },
         {
-          "number": "17:12",
+          "number": 12,
           "latin": "Recedite de medio multitudinis istius, et statim delam ego eos. Cecideruntque in faciem suam.",
           "english": "\"Get away from the midst of this congregation, and I will destroy them immediately.\" Moses and Aaron fell on their faces in supplication."
         },
         {
-          "number": "17:13",
+          "number": 13,
           "latin": "Et dixit Moyses ad Aaron: Tolle turibulum, et hauri de igne altaris, projectum desuper, et injice incensum superpositum, et vade cito ad populum ut expies pro eis. Jam enim egressa est ira a Domino, et plaga desævit.",
           "english": "Moses then said to Aaron: \"Take a censer and put fire from the altar upon it. Place incense on it, and go quickly to the people to make atonement for them. For the Lord's wrath has already gone out, and a plague is raging.\""
         },
         {
-          "number": "17:14",
+          "number": 14,
           "latin": "Cumque fecisset Aaron sicut dixerat Moyses, et cucurrisset ad mediam multitudinem, vidit jam cœpisse plagam in populo. Et succedens obtulit incensum,",
           "english": "Aaron did as Moses had said, and he ran into the midst of the congregation. He saw that the plague had already begun among the people. He then offered the incense, performing atonement."
         },
         {
-          "number": "17:15",
+          "number": 15,
           "latin": "et stans inter mortuos et vivas, oravit pro eis. Et impedita est plaga.",
           "english": "And standing between the dead and the living, he prayed for them. And the plague was stopped."
         },
         {
-          "number": "17:16",
+          "number": 16,
           "latin": "Et quatuordecim millia hominum et septingenti perierunt foras præter eos, qui perierant in seditione Chore.",
           "english": "But fourteen thousand seven hundred people had already perished, in addition to those who had died in Korah's rebellion."
         },
         {
-          "number": "17:17",
+          "number": 17,
           "latin": "Reversusque est Aaron ad Moysen ad ostium tabernaculi testimonii, postquam retenta erat plaga.",
           "english": "Aaron then returned to Moses at the entrance of the tabernacle of testimony, after the plague had been stopped."
         },
         {
-          "number": "17:18",
+          "number": 18,
           "latin": "Locutus est Dominus ad Moysen, dicens:",
           "english": "The Lord spoke to Moses, saying:"
         },
         {
-          "number": "17:19",
+          "number": 19,
           "latin": "Loquere ad filios Israel, et accipe ab eis virgas singulas per cognationes suas, a cunctis principibus tribuum virgas duodecim, et nomen uniuscujusque scribes super virgam suam.",
           "english": "\"Speak to the children of Israel and take from them one rod for each of their ancestral tribes, from all the leaders of their tribes, twelve rods in total. You are to write each man's name on his rod."
         },
         {
-          "number": "17:20",
+          "number": 20,
           "latin": "Nomen autem Aaron super virgam Levi scribes: unusquisque princeps cognationum pro tribu sua virgam dabit.",
           "english": "But you are to write Aaron's name on the rod for the tribe of Levi. Each leader of the ancestral tribes will give one rod for his tribe."
         },
         {
-          "number": "17:21",
+          "number": 21,
           "latin": "Et pones eas in tabernaculo testimonii coram fœderis testimonio, ubi loquar ad te.",
           "english": "You are to place these rods in the tabernacle of testimony, before the ark of the covenant—where I speak with you."
         },
         {
-          "number": "17:22",
+          "number": 22,
           "latin": "Quamcumque virgam germinare videris, ipsam elegi mihi, ut quiescere faciam de me querelas filiorum Israel, quibus adversum vos murmurant.",
           "english": "The rod that I see sprout, that is the one I have chosen for myself, to put an end to the complaints of the children of Israel that they are grumbling against you."
         },
         {
-          "number": "17:23",
+          "number": 23,
           "latin": "Locutusque est Moyses ad filios Israel: et dederunt ei omnes principes virgas singulas per tribus et cognationes suas: et fuerunt duodecim virgae absque virga Aaron.",
           "english": "Moses then spoke to the children of Israel, and all the leaders gave him a single rod for each of their tribes and ancestral lines. There were twelve rods, not counting Aaron's rod."
         },
         {
-          "number": "17:24",
+          "number": 24,
           "latin": "Cumque posuisset Moyses virgas coram Domino in tabernaculo testimonii,",
           "english": "Moses then placed the rods before the Lord in the tabernacle of testimony."
         },
         {
-          "number": "17:25",
+          "number": 25,
           "latin": "sequenti die reversus invenit germinasse virgam Aaron in domo Levi: et pullulaverant folia, et de botris jam calices eruperant in flores, qui mitescent in amygdalas.",
           "english": "The next day, when Moses returned, he found that Aaron's rod, for the house of Levi, had sprouted. It had put forth leaves, and from its clusters, flowers had already burst forth, which would ripen into almonds."
         },
         {
-          "number": "17:26",
+          "number": 26,
           "latin": "Protulitque Moyses omnes virgas de conspectu Domini ad omnes filios Israel: et viderunt, et receperunt singuli virgas suas.",
           "english": "Moses then brought out all the rods from the presence of the Lord to all the children of Israel. They all saw them, and each man took back his own rod."
         },
         {
-          "number": "17:27",
+          "number": 27,
           "latin": "Dixitque Dominus ad Moysen: Refer virgam Aaron in tabernaculum testimonii, ut servetur ibi in signum rebellibus filiis Israel, et quiescant ultra querelae eorum a me, ne moriantur.",
           "english": "The Lord then said to Moses: \"Return Aaron's rod to the tabernacle of testimony, so that it may be kept there as a sign for the rebellious children of Israel. This way, their complaints against Me will cease, and they will not die.\""
         },
         {
-          "number": "17:28",
+          "number": 28,
           "latin": "Fecitque Moyses sicut præceperat Dominus.",
           "english": "And Moses did exactly as the Lord had commanded him."
-        },
-        {
-          "number": "18:1",
-          "latin": "Locutusque est Dominus ad Aaron: Tu et filii tui, et domus patris tui tecum, portabitis iniquitatem sanctuarii: et tu et filii tui simul sustinebitis peccata sacerdotii vestri.",
-          "english": "The Lord then spoke to Aaron: \"You and your sons, and your father's house with you, will bear the responsibility for any offense against the sanctuary. And you and your sons together will bear the responsibility for the sins of your priesthood.\""
-        },
-        {
-          "number": "18:2",
-          "latin": "Sed et fratres tuos de tribu Levi, et sceptro patris tui, sume tecum, et sint juncti, et ministrent tibi. Tu autem et filii tui ministrabitis in tabernaculo testimonii.",
-          "english": "\"Also, take your brethren from the tribe of Levi, from your ancestral line, with you. They are to be joined to you and serve you. But you and your sons are the ones who will serve in the tabernacle of testimony itself.\""
-        },
-        {
-          "number": "18:3",
-          "latin": "Excubabuntque ad præcepta tua, et quicquid ad cultum pertinet tabernaculi: ita dumtaxat ut ad vasa sanctuarii et altaris non accedant, ne et illi moriantur et vos.",
-          "english": "\"They will keep watch, according to your commands, over everything that pertains to the service of the tabernacle. However, they must not approach the vessels of the sanctuary or the altar, lest both they and you die.\""
-        },
-        {
-          "number": "18:4",
-          "latin": "Sintque tecum, et excubent in custodiis tabernaculi, et in omnibus cæremoniis ejus. Alienigena non miscebitur vobis.",
-          "english": "\"They are to be with you and keep watch over the duties of the tabernacle and all its ceremonies. No unauthorized person may join you.\""
-        },
-        {
-          "number": "18:5",
-          "latin": "Excubate in custodiis sanctuarii, et in officio altaris: ne oriatur indignatio super filios Israel.",
-          "english": "\"You yourselves are to keep watch over the duties of the sanctuary and the service of the altar, so that wrath may not again arise against the children of Israel.\""
-        },
-        {
-          "number": "18:6",
-          "latin": "Ecce ego dedi vobis fratres vestros Levitas de medio filiorum Israel, et tradidi donum Domino, ut serviant in ministeriis tabernaculi fœderis.",
-          "english": "\"Look, I have given you your brethren the Levites from among the children of Israel. I have given them as a gift to the Lord, so that they may serve in the ministries of the tabernacle of the covenant.\""
-        },
-        {
-          "number": "18:7",
-          "latin": "Tu autem et filii tui custodite sacerdotium vestrum, et omnia quæ ad ritum altaris et velaminis pertinent: et universa quæ intra sanctuarium fiunt, a solis sacerdotibus ministrabuntur. Alienigena non accedet ad vos.",
-          "english": "\"But you and your sons are to keep your priesthood, and all that pertains to the ritual of the altar and the veil. All things that are done within the sanctuary will be ministered by priests alone. No unauthorized person will approach you.\""
-        },
-        {
-          "number": "18:8",
-          "latin": "Locutusque est Dominus ad Aaron: Ecce ego dedi tibi custodiam primitiarum mearum. Omnia quæ sanctificantur a filiis Israel, tibi tradidi et filiis tuis pro officio vestro, jure perpetuo.",
-          "english": "The Lord then spoke to Aaron: \"Look, I have given you the responsibility for My sacred offerings. All that is set apart as holy by the children of Israel, I have given to you and your sons for your duty, by a perpetual right.\""
-        },
-        {
-          "number": "18:9",
-          "latin": "Hæc ergo accipies de his quæ sanctificantur et offeruntur mihi. Omnia quæ separantur a filiis Israel, tibi dedi et filiis tuis ac filiabus, jure perpetuo. Sanctissima comedetis,",
-          "english": "\"Therefore, these are what you will receive from those things that are consecrated and offered to Me. All that is set apart by the children of Israel, I have given to you and your sons and daughters, by a perpetual right. You are to eat the most holy portions.\""
-        },
-        {
-          "number": "18:10",
-          "latin": "in sanctuario comedes ea: masculus tantum comedet ex eis, quia sancta sunt tibi.",
-          "english": "\"You are to eat them in the sanctuary. Only males may eat from them, because they are holy to you.\""
-        },
-        {
-          "number": "18:11",
-          "latin": "Primitias autem separatas de cunctis muneribus filiorum Israel, atque oblationibus et donariis ad te et ad filios tuos et filias tuas jure perpetuo dedi. Omnis qui mundus est in domo tua, comedet ex eis.",
-          "english": "\"But the separated firstfruits of all the gifts of the children of Israel, and their offerings and donations, I have given to you and to your sons and your daughters by a perpetual right. Everyone in your household who is clean may eat from them.\""
-        },
-        {
-          "number": "18:12",
-          "latin": "Omne optimum olei, et vini, et frumenti, quidquid offerunt Domino, tibi dedi.",
-          "english": "\"All the best oil, and wine, and grain, whatever they offer to the Lord, I have given to you.\""
         }
       ]
     },
@@ -3452,96 +3397,6 @@
           "number": 22,
           "latin": "Omne quod tetigerit immundus, immundum faciet: et anima quæ tetigerit, immunda erit usque ad vesperum.",
           "english": "Whatever the ritually unclean person touches will become ritually unclean; and any person who touches that unclean person will also become ritually unclean until evening."
-        },
-        {
-          "number": 23,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 24,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 25,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 26,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 27,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 28,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 29,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 30,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 31,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 32,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 33,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 34,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 35,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 36,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 37,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 38,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 39,
-          "latin": "",
-          "english": ""
-        },
-        {
-          "number": 40,
-          "latin": "",
-          "english": ""
         }
       ]
     },
